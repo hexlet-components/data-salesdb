@@ -1,48 +1,34 @@
--- SalesDB.Customers definition
+CREATE TABLE Customers (
+	CustomerID BIGINT NOT NULL,
+	FirstName VARCHAR NOT NULL,
+	MiddleInitial VARCHAR NOT NULL,
+	LastName VARCHAR NOT NULL,
+	CONSTRAINT CUSTOMERS_PK PRIMARY KEY (CustomerID)
+);
 
-CREATE TABLE `Customers` (
-  `CustomerID` int(11) NOT NULL,
-  `FirstName` varchar(40) NOT NULL,
-  `MiddleInitial` varchar(40) DEFAULT NULL,
-  `LastName` varchar(40) NOT NULL,
-  PRIMARY KEY (`CustomerID`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_general_ci;
+CREATE TABLE Employees (
+	EmployeeID BIGINT NOT NULL,
+	FirstName VARCHAR NOT NULL,
+	MiddleInitial VARCHAR NOT NULL,
+	LastName VARCHAR NOT NULL,
+	CONSTRAINT EMPLOYEES_PK PRIMARY KEY (EmployeeID)
+);
 
+CREATE TABLE Products (
+	ProductID INTEGER NOT NULL,
+	Name VARCHAR NOT NULL,
+	Price DECIMAL(19,4) DEFAULT NULL,
+	CONSTRAINT PRODUCTS_PK PRIMARY KEY (ProductID)
+);
 
--- SalesDB.Employees definition
-
-CREATE TABLE `Employees` (
-  `EmployeeID` int(11) NOT NULL,
-  `FirstName` varchar(40) NOT NULL,
-  `MiddleInitial` varchar(40) DEFAULT NULL,
-  `LastName` varchar(40) NOT NULL,
-  PRIMARY KEY (`EmployeeID`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_general_ci;
-
-
--- SalesDB.Products definition
-
-CREATE TABLE `Products` (
-  `ProductID` int(11) NOT NULL,
-  `Name` varchar(50) NOT NULL,
-  `Price` decimal(19,4) DEFAULT NULL,
-  PRIMARY KEY (`ProductID`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_general_ci;
-
-
--- SalesDB.Sales definition
-
-CREATE TABLE `Sales` (
-  `SalesID` int(11) NOT NULL,
-  `SalesPersonID` int(11) NOT NULL,
-  `CustomerID` int(11) NOT NULL,
-  `ProductID` int(11) NOT NULL,
-  `Quantity` int(11) NOT NULL,
-  PRIMARY KEY (`SalesID`),
-  KEY `SalesPersonID` (`SalesPersonID`),
-  KEY `CustomerID` (`CustomerID`),
-  KEY `ProductID` (`ProductID`),
-  CONSTRAINT `Sales_ibfk_1` FOREIGN KEY (`SalesPersonID`) REFERENCES `Employees` (`EmployeeID`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `Sales_ibfk_2` FOREIGN KEY (`CustomerID`) REFERENCES `Customers` (`CustomerID`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `Sales_ibfk_3` FOREIGN KEY (`ProductID`) REFERENCES `Products` (`ProductID`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_general_ci;
+CREATE TABLE Sales (
+	SalesID BIGINT NOT NULL,
+	SalesPersonID BIGINT NOT NULL,
+	CustomerID BIGINT NOT NULL,
+	ProductID BIGINT,
+	Column1 INTEGER NOT NULL,
+	CONSTRAINT Sales_PK PRIMARY KEY (SalesID),
+	CONSTRAINT Sales_FK FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID) ON DELETE CASCADE,
+	CONSTRAINT Sales_FK_1 FOREIGN KEY (SalesPersonID) REFERENCES Employees(EmployeeID) ON DELETE CASCADE,
+	CONSTRAINT Sales_FK_2 FOREIGN KEY (ProductID) REFERENCES Products(ProductID) ON DELETE CASCADE
+);
