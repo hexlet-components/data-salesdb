@@ -1,2 +1,2 @@
 # data-salesdb
-SalesDB for Data Analytics project
+salesDB for Data Analytics project

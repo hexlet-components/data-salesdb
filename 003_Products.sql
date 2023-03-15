@@ -1,4 +1,4 @@
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (1,'Adjustable Race',1.6000),
 	 (2,'Bearing Ball',0.8000),
 	 (3,'BB Ball Bearing',2.4000),
@@ -9,7 +9,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (8,'HL Crankarm',319.0000),
 	 (9,'Chainring Bolts',0.0000),
 	 (10,'Chainring Nut',192.6000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (11,'Chainring',193.2000),
 	 (12,'Crown Race',516.8000),
 	 (13,'Chain Stays',64.8000),
@@ -20,7 +20,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (18,'Road End Caps',592.2000),
 	 (19,'Touring End Caps',0.0000),
 	 (20,'Fork End',397.2000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (21,'Freewheel',531.2000),
 	 (22,'Flat Washer 1',0.0000),
 	 (23,'Flat Washer 6',0.0000),
@@ -31,7 +31,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (28,'Flat Washer 8',0.0000),
 	 (29,'Flat Washer 5',417.6000),
 	 (30,'Flat Washer 7',418.8000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (31,'Fork Crown',350.0000),
 	 (32,'Front Derailleur Cage',561.6000),
 	 (33,'Front Derailleur Linkage',0.0000),
@@ -42,7 +42,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (38,'Thin-Jam Hex Nut 9',71.8000),
 	 (39,'Thin-Jam Hex Nut 10',144.0000),
 	 (40,'Thin-Jam Hex Nut 1',144.4000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (41,'Thin-Jam Hex Nut 2',144.8000),
 	 (42,'Thin-Jam Hex Nut 15',72.6000),
 	 (43,'Thin-Jam Hex Nut 16',72.8000),
@@ -53,7 +53,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (48,'Thin-Jam Hex Nut 13',73.8000),
 	 (49,'Thin-Jam Hex Nut 14',74.0000),
 	 (50,'Thin-Jam Hex Nut 7',445.2000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (51,'Thin-Jam Hex Nut 8',446.4000),
 	 (52,'Thin-Jam Hex Nut 12',596.8000),
 	 (53,'Thin-Jam Hex Nut 11',448.8000),
@@ -64,7 +64,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (58,'Hex Nut 7',151.6000),
 	 (59,'Hex Nut 8',152.0000),
 	 (60,'Hex Nut 9',152.4000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (61,'Hex Nut 22',76.4000),
 	 (62,'Hex Nut 23',76.6000),
 	 (63,'Hex Nut 12',76.8000),
@@ -75,7 +75,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (68,'Hex Nut 2',0.0000),
 	 (69,'Hex Nut 20',78.0000),
 	 (70,'Hex Nut 21',78.2000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (71,'Hex Nut 3',156.8000),
 	 (72,'Hex Nut 14',471.6000),
 	 (73,'Hex Nut 15',472.8000),
@@ -86,7 +86,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (78,'Head Tube',79.8000),
 	 (79,'LL Hub',640.0000),
 	 (80,'HL Hub',721.8000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (81,'Keyed Washer',723.6000),
 	 (82,'External Lock Washer 3',0.0000),
 	 (83,'External Lock Washer 4',0.0000),
@@ -97,7 +97,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (88,'External Lock Washer 1',0.0000),
 	 (89,'External Lock Washer 8',492.0000),
 	 (90,'External Lock Washer 2',0.0000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (91,'Internal Lock Washer 3',0.0000),
 	 (92,'Internal Lock Washer 4',0.0000),
 	 (93,'Internal Lock Washer 9',0.0000),
@@ -108,7 +108,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (98,'Internal Lock Washer 1',0.0000),
 	 (99,'Internal Lock Washer 8',504.0000),
 	 (100,'Internal Lock Washer 2',0.0000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (101,'Thin-Jam Lock Nut 9',84.4000),
 	 (102,'Thin-Jam Lock Nut 10',169.2000),
 	 (103,'Thin-Jam Lock Nut 1',169.6000),
@@ -119,7 +119,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (108,'Thin-Jam Lock Nut 6',171.6000),
 	 (109,'Thin-Jam Lock Nut 3',516.0000),
 	 (110,'Thin-Jam Lock Nut 4',517.2000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (111,'Thin-Jam Lock Nut 13',86.4000),
 	 (112,'Thin-Jam Lock Nut 14',86.6000),
 	 (113,'Thin-Jam Lock Nut 7',520.8000),
@@ -130,7 +130,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (118,'Lock Nut 6',263.4000),
 	 (119,'Lock Nut 16',88.0000),
 	 (120,'Lock Nut 17',176.4000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (121,'Lock Nut 7',176.8000),
 	 (122,'Lock Nut 8',177.2000),
 	 (123,'Lock Nut 9',177.6000),
@@ -141,7 +141,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (128,'Lock Nut 1',0.0000),
 	 (129,'Lock Nut 10',540.0000),
 	 (130,'Lock Nut 11',541.2000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (131,'Lock Nut 2',0.0000),
 	 (132,'Lock Nut 20',90.6000),
 	 (133,'Lock Nut 21',90.8000),
@@ -152,7 +152,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (138,'Lock Nut 19',734.4000),
 	 (139,'Lock Nut 18',552.0000),
 	 (140,'Lock Ring',829.8000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (141,'Lower Head Race',184.8000),
 	 (142,'Lock Washer 4',0.0000),
 	 (143,'Lock Washer 5',0.0000),
@@ -163,7 +163,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (148,'Lock Washer 1',0.0000),
 	 (149,'Lock Washer 7',564.0000),
 	 (150,'Lock Washer 12',0.0000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (151,'Lock Washer 2',0.0000),
 	 (152,'Lock Washer 9',567.6000),
 	 (153,'Lock Washer 3',0.0000),
@@ -174,7 +174,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (158,'Metal Plate 2',574.8000),
 	 (159,'Metal Plate 1',0.0000),
 	 (160,'Metal Plate 3',577.2000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (161,'Metal Sheet 2',482.0000),
 	 (162,'Metal Sheet 3',483.0000),
 	 (163,'Metal Sheet 7',774.4000),
@@ -185,7 +185,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (168,'Metal Tread Plate',0.0000),
 	 (169,'LL Nipple',196.0000),
 	 (170,'HL Nipple',196.4000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (171,'Paint - Black',688.8000),
 	 (172,'Paint - Red',98.6000),
 	 (173,'Paint - Silver',889.2000),
@@ -196,7 +196,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (178,'Cone-Shaped Race',909.0000),
 	 (179,'Reflector',910.8000),
 	 (180,'LL Mountain Rim',608.4000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (181,'ML Mountain Rim',914.4000),
 	 (182,'HL Mountain Rim',203.6000),
 	 (183,'LL Road Rim',306.0000),
@@ -207,7 +207,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (188,'ML Mountain Seat Assembly',147.1400),
 	 (189,'HL Mountain Seat Assembly',196.9200),
 	 (190,'LL Road Seat Assembly',133.3400);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (191,'ML Road Seat Assembly',147.1400),
 	 (192,'HL Road Seat Assembly',196.9200),
 	 (193,'LL Touring Seat Assembly',133.3400),
@@ -218,7 +218,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (198,'LL Shell',630.0000),
 	 (199,'HL Shell',105.2000),
 	 (200,'Spokes',843.2000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (201,'Seat Lug',316.8000),
 	 (202,'Stem',846.4000),
 	 (203,'Seat Post',848.0000),
@@ -229,7 +229,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (208,'Tension Pulley',214.0000),
 	 (209,'Rear Derailleur Cage',1222.2000),
 	 (210,'HL Road Frame - Black, 58',1431.5000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (211,'HL Road Frame - Red, 58',1431.5000),
 	 (212,'Sport-100 Helmet, Red',34.9900),
 	 (213,'Sport-100 Helmet, Black',34.9900),
@@ -240,7 +240,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (218,'Long-Sleeve Logo Jersey, S',49.9900),
 	 (219,'Long-Sleeve Logo Jersey, M',49.9900),
 	 (220,'Long-Sleeve Logo Jersey, L',49.9900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (221,'Long-Sleeve Logo Jersey, XL',49.9900),
 	 (222,'HL Road Frame - Red, 62',1431.5000),
 	 (223,'HL Road Frame - Red, 44',1431.5000),
@@ -251,7 +251,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (228,'LL Road Frame - Black, 60',337.2200),
 	 (229,'LL Road Frame - Black, 62',337.2200),
 	 (230,'LL Road Frame - Red, 44',337.2200);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (231,'LL Road Frame - Red, 48',337.2200),
 	 (232,'LL Road Frame - Red, 52',337.2200),
 	 (233,'LL Road Frame - Red, 58',337.2200),
@@ -262,7 +262,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (238,'ML Road Frame - Red, 52',594.8300),
 	 (239,'ML Road Frame - Red, 58',594.8300),
 	 (240,'ML Road Frame - Red, 60',594.8300);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (241,'LL Road Frame - Black, 44',337.2200),
 	 (242,'LL Road Frame - Black, 48',337.2200),
 	 (243,'LL Road Frame - Black, 52',337.2200),
@@ -273,7 +273,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (248,'HL Mountain Frame - Black, 42',1349.6000),
 	 (249,'HL Mountain Frame - Black, 44',1349.6000),
 	 (250,'HL Mountain Frame - Black, 48',1349.6000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (251,'HL Mountain Frame - Black, 46',1349.6000),
 	 (252,'HL Mountain Frame - Black, 38',1349.6000),
 	 (253,'HL Mountain Frame - Silver, 38',1364.5000),
@@ -284,7 +284,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (258,'Road-150 Red, 56',3578.2700),
 	 (259,'Road-450 Red, 58',1457.9900),
 	 (260,'Road-450 Red, 60',1457.9900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (261,'Road-450 Red, 44',1457.9900),
 	 (262,'Road-450 Red, 48',1457.9900),
 	 (263,'Road-450 Red, 52',1457.9900),
@@ -295,7 +295,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (268,'Road-650 Red, 48',782.9900),
 	 (269,'Road-650 Red, 52',782.9900),
 	 (270,'Road-650 Black, 58',782.9900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (271,'Road-650 Black, 60',782.9900),
 	 (272,'Road-650 Black, 62',782.9900),
 	 (273,'Road-650 Black, 44',782.9900),
@@ -306,7 +306,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (278,'Mountain-100 Silver, 44',3399.9900),
 	 (279,'Mountain-100 Silver, 48',3399.9900),
 	 (280,'Mountain-100 Black, 38',3374.9900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (281,'Mountain-100 Black, 42',3374.9900),
 	 (282,'Mountain-100 Black, 44',3374.9900),
 	 (283,'Mountain-100 Black, 48',3374.9900),
@@ -317,7 +317,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (288,'Mountain-200 Black, 42',2294.9900),
 	 (289,'Mountain-200 Black, 46',2294.9900),
 	 (290,'Mountain-300 Black, 38',1079.9900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (291,'Mountain-300 Black, 40',1079.9900),
 	 (292,'Mountain-300 Black, 44',1079.9900),
 	 (293,'Mountain-300 Black, 48',1079.9900),
@@ -328,7 +328,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (298,'Road-250 Black, 44',2443.3500),
 	 (299,'Road-250 Black, 48',2443.3500),
 	 (300,'Road-250 Black, 52',2443.3500);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (301,'Road-250 Black, 58',2443.3500),
 	 (302,'Road-550-W Yellow, 38',1120.4900),
 	 (303,'Road-550-W Yellow, 40',1120.4900),
@@ -339,7 +339,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (308,'ML Fork',175.4900),
 	 (309,'HL Fork',229.4900),
 	 (310,'LL Headset',34.2000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (311,'ML Headset',102.2900),
 	 (312,'HL Headset',124.7300),
 	 (313,'LL Mountain Handlebars',44.5400),
@@ -350,7 +350,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (318,'HL Road Handlebars',120.2700),
 	 (319,'ML Mountain Frame - Black, 38',348.7600),
 	 (320,'LL Mountain Front Wheel',60.7450);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (321,'ML Mountain Front Wheel',209.0250),
 	 (322,'HL Mountain Front Wheel',300.2150),
 	 (323,'LL Road Front Wheel',85.5650),
@@ -361,7 +361,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (328,'LL Mountain Rear Wheel',87.7450),
 	 (329,'ML Mountain Rear Wheel',236.0250),
 	 (330,'HL Mountain Rear Wheel',327.2150);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (331,'LL Road Rear Wheel',112.5650),
 	 (332,'ML Road Rear Wheel',275.3850),
 	 (333,'HL Road Rear Wheel',357.0600),
@@ -372,7 +372,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (338,'ML Road Frame-W - Yellow, 40',594.8300),
 	 (339,'ML Road Frame-W - Yellow, 42',594.8300),
 	 (340,'ML Road Frame-W - Yellow, 44',594.8300);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (341,'ML Road Frame-W - Yellow, 48',594.8300),
 	 (342,'HL Road Frame - Black, 62',1431.5000),
 	 (343,'HL Road Frame - Black, 44',1431.5000),
@@ -383,7 +383,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (348,'Cable Lock',25.0000),
 	 (349,'Minipump',19.9900),
 	 (350,'Mountain Pump',24.9900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (351,'Taillights - Battery-Powered',13.9900),
 	 (352,'Headlights - Dual-Beam',34.9900),
 	 (353,'Headlights - Weatherproof',44.9900),
@@ -394,7 +394,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (358,'Women''s Tights, M',74.9900),
 	 (359,'Women''s Tights, L',74.9900),
 	 (360,'Men''s Bib-Shorts, S',89.9900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (361,'Men''s Bib-Shorts, M',89.9900),
 	 (362,'Men''s Bib-Shorts, L',89.9900),
 	 (363,'Half-Finger Gloves, S',24.4900),
@@ -405,7 +405,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (368,'Full-Finger Gloves, L',37.9900),
 	 (369,'Classic Vest, S',63.5000),
 	 (370,'Classic Vest, M',63.5000);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (371,'Classic Vest, L',63.5000),
 	 (372,'Women''s Mountain Shorts, S',69.9900),
 	 (373,'Women''s Mountain Shorts, M',69.9900),
@@ -416,7 +416,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (378,'Patch Kit/8 Patches',2.2900),
 	 (379,'Racing Socks, M',8.9900),
 	 (380,'Racing Socks, L',8.9900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (381,'Hitch Rack - 4-Bike',120.0000),
 	 (382,'Bike Wash - Dissolver',7.9500),
 	 (383,'Fender Set - Mountain',21.9800),
@@ -427,7 +427,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (388,'Short-Sleeve Classic Jersey, L',53.9900),
 	 (389,'Short-Sleeve Classic Jersey, XL',53.9900),
 	 (390,'HL Touring Frame - Yellow, 60',1003.9100);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (391,'LL Touring Frame - Yellow, 62',333.4200),
 	 (392,'HL Touring Frame - Yellow, 46',1003.9100),
 	 (393,'HL Touring Frame - Yellow, 50',1003.9100),
@@ -438,7 +438,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (398,'HL Touring Frame - Blue, 60',1003.9100),
 	 (399,'Rear Derailleur',121.4600),
 	 (400,'LL Touring Frame - Blue, 50',333.4200);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (401,'LL Touring Frame - Blue, 54',333.4200),
 	 (402,'LL Touring Frame - Blue, 58',333.4200),
 	 (403,'LL Touring Frame - Blue, 62',333.4200),
@@ -449,7 +449,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (408,'LL Touring Frame - Blue, 44',333.4200),
 	 (409,'ML Mountain Frame-W - Silver, 40',364.0900),
 	 (410,'ML Mountain Frame-W - Silver, 42',364.0900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (411,'ML Mountain Frame-W - Silver, 46',364.0900),
 	 (412,'Rear Brakes',106.5000),
 	 (413,'LL Mountain Seat/Saddle',27.1200),
@@ -460,7 +460,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (418,'HL Road Seat/Saddle',52.6400),
 	 (419,'LL Touring Seat/Saddle',27.1200),
 	 (420,'ML Touring Seat/Saddle',39.1400);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (421,'HL Touring Seat/Saddle',52.6400),
 	 (422,'LL Mountain Frame - Silver, 42',264.0500),
 	 (423,'LL Mountain Frame - Silver, 44',264.0500),
@@ -471,7 +471,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (428,'Touring Tire Tube',4.9900),
 	 (429,'LL Mountain Frame - Black, 42',249.7900),
 	 (430,'LL Mountain Frame - Black, 44',249.7900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (431,'LL Mountain Frame - Black, 48',249.7900),
 	 (432,'LL Mountain Frame - Black, 52',249.7900),
 	 (433,'LL Mountain Tire',24.9900),
@@ -482,7 +482,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (438,'HL Road Tire',32.6000),
 	 (439,'Touring Tire',28.9900),
 	 (440,'LL Mountain Pedal',40.4900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (441,'ML Mountain Pedal',62.0900),
 	 (442,'HL Mountain Pedal',80.9900),
 	 (443,'LL Road Pedal',40.4900),
@@ -493,7 +493,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (448,'LL Mountain Frame - Black, 40',249.7900),
 	 (449,'LL Mountain Frame - Silver, 40',264.0500),
 	 (450,'Front Derailleur',91.4900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (451,'LL Touring Handlebars',46.0900),
 	 (452,'HL Touring Handlebars',91.5700),
 	 (453,'Front Brakes',106.5000),
@@ -504,7 +504,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (458,'Touring-2000 Blue, 60',1214.8500),
 	 (459,'Touring-1000 Yellow, 46',2384.0700),
 	 (460,'Touring-1000 Yellow, 50',2384.0700);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (461,'Touring-1000 Yellow, 54',2384.0700),
 	 (462,'Touring-1000 Yellow, 60',2384.0700),
 	 (463,'Touring-3000 Blue, 54',742.3500),
@@ -515,7 +515,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (468,'Touring-3000 Yellow, 54',742.3500),
 	 (469,'Touring-3000 Yellow, 58',742.3500),
 	 (470,'Touring-3000 Yellow, 62',742.3500);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (471,'Touring-1000 Blue, 46',2384.0700),
 	 (472,'Touring-1000 Blue, 50',2384.0700),
 	 (473,'Touring-1000 Blue, 54',2384.0700),
@@ -526,7 +526,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (478,'Road-350-W Yellow, 40',1700.9900),
 	 (479,'Road-350-W Yellow, 42',1700.9900),
 	 (480,'Road-350-W Yellow, 44',1700.9900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (481,'Road-350-W Yellow, 48',1700.9900),
 	 (482,'Road-750 Black, 58',539.9900),
 	 (483,'Touring-3000 Blue, 44',742.3500),
@@ -537,7 +537,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (488,'Mountain-400-W Silver, 46',769.4900),
 	 (489,'Mountain-500 Silver, 40',564.9900),
 	 (490,'Mountain-500 Silver, 42',564.9900);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (491,'Mountain-500 Silver, 44',564.9900),
 	 (492,'Mountain-500 Silver, 48',564.9900),
 	 (493,'Mountain-500 Silver, 52',564.9900),
@@ -548,7 +548,7 @@ INSERT INTO Products (product_id,name,price) VALUES
 	 (498,'Mountain-500 Black, 52',539.9900),
 	 (499,'LL Bottom Bracket',53.9900),
 	 (500,'ML Bottom Bracket',101.2400);
-INSERT INTO Products (product_id,name,price) VALUES
+INSERT INTO products (product_id,name,price) VALUES
 	 (501,'HL Bottom Bracket',121.4900),
 	 (502,'Road-750 Black, 44',539.9900),
 	 (503,'Road-750 Black, 48',539.9900),

@@ -1,4 +1,4 @@
-INSERT INTO Employees (employee_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO employees (employee_id,first_name,middle_initial,last_name) VALUES
 	 (1,'Abraham','e','Bennet'),
 	 (2,'Reginald','l','Blotchet-Halls'),
 	 (3,'Cheryl','a','Carson'),
@@ -9,7 +9,7 @@ INSERT INTO Employees (employee_id,first_name,middle_initial,last_name) VALUES
 	 (8,'Morningstar','r','Greene'),
 	 (9,'Burt','r','Gringlesby'),
 	 (10,'Sheryl','u','Hunter');
-INSERT INTO Employees (employee_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO employees (employee_id,first_name,middle_initial,last_name) VALUES
 	 (11,'Livia','a','Karsen'),
 	 (12,'Charlene','o','Locksley'),
 	 (13,'Stearns','a','MacFeather'),
@@ -20,7 +20,7 @@ INSERT INTO Employees (employee_id,first_name,middle_initial,last_name) VALUES
 	 (18,'Anne','i','Ringer'),
 	 (19,'Meander','m','Smith'),
 	 (20,'Dean','t','Straight');
-INSERT INTO Employees (employee_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO employees (employee_id,first_name,middle_initial,last_name) VALUES
 	 (21,'Dirk','t','Stringer'),
 	 (22,'Johnson','h','White'),
 	 (23,'Akiko','o','Yokomoto');

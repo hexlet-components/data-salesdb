@@ -1,4 +1,4 @@
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1,'Aaron','','Alexander'),
 	 (2,'Aaron','','Bryant'),
 	 (3,'Aaron','','Butler'),
@@ -9,7 +9,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8,'Aaron','','Flores'),
 	 (9,'Aaron','','Foster'),
 	 (10,'Aaron','','Gonzales');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11,'Aaron','','Griffin'),
 	 (12,'Aaron','','Henderson'),
 	 (13,'Aaron','','Hernandez'),
@@ -20,7 +20,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18,'Aaron','','Li'),
 	 (19,'Aaron','','Nicholls'),
 	 (20,'Aaron','','Perry');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (21,'Aaron','','Powell'),
 	 (22,'Aaron','','Roberts'),
 	 (23,'Aaron','','Russell'),
@@ -31,7 +31,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (28,'Aaron','A','Zhang'),
 	 (29,'Aaron','B','Adams'),
 	 (30,'Aaron','C','Campbell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (31,'Aaron','C','Diaz'),
 	 (32,'Aaron','C','Scott'),
 	 (33,'Aaron','C','Yang'),
@@ -42,7 +42,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (38,'Aaron','J','McDonald'),
 	 (39,'Aaron','J','Sharma'),
 	 (40,'Aaron','K','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (41,'Aaron','L','King'),
 	 (42,'Aaron','L','Perez'),
 	 (43,'Aaron','L','Washington'),
@@ -53,7 +53,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (48,'Aaron','N','Ross'),
 	 (49,'Aaron','P','Collins'),
 	 (50,'Aaron','R','Green');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (51,'Aaron','R','Nelson'),
 	 (52,'Aaron','R','Phillips'),
 	 (53,'Aaron','V','Wang'),
@@ -64,7 +64,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (58,'Abby','','Madan'),
 	 (59,'Abby','','Martinez'),
 	 (60,'Abby','','Patel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (61,'Abby','','Perez'),
 	 (62,'Abby','','Sandberg'),
 	 (63,'Abby','','Subram'),
@@ -75,7 +75,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (68,'Abby','J','Sanchez'),
 	 (69,'Abby','K','Kovár'),
 	 (70,'Abby','L','Sai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (71,'Abby','M','Lopez'),
 	 (72,'Abby','P','Gonzalez'),
 	 (73,'Abby','P','Rana'),
@@ -86,7 +86,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (78,'Abigail','','Barnes'),
 	 (79,'Abigail','','Bell'),
 	 (80,'Abigail','','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (81,'Abigail','','Cox'),
 	 (82,'Abigail','','Foster'),
 	 (83,'Abigail','','Garcia'),
@@ -97,7 +97,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (88,'Abigail','','James'),
 	 (89,'Abigail','','Jenkins'),
 	 (90,'Abigail','','Johnson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (91,'Abigail','','Martin'),
 	 (92,'Abigail','','Martinez'),
 	 (93,'Abigail','','Miller'),
@@ -108,7 +108,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (98,'Abigail','','Ross'),
 	 (99,'Abigail','','Sanchez'),
 	 (100,'Abigail','','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (101,'Abigail','','Smith'),
 	 (102,'Abigail','','Stewart'),
 	 (103,'Abigail','','Thompson'),
@@ -119,7 +119,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (108,'Abigail','A','Griffin'),
 	 (109,'Abigail','A','Kelly'),
 	 (110,'Abigail','B','Powell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (111,'Abigail','C','Brooks'),
 	 (112,'Abigail','C','Coleman'),
 	 (113,'Abigail','C','Morgan'),
@@ -130,7 +130,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (118,'Abigail','E','Coleman'),
 	 (119,'Abigail','E','Jones'),
 	 (120,'Abigail','F','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (121,'Abigail','G','Diaz'),
 	 (122,'Abigail','G','Hughes'),
 	 (123,'Abigail','H','Patterson'),
@@ -141,7 +141,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (128,'Abigail','J','Gonzalez'),
 	 (129,'Abigail','J','Lewis'),
 	 (130,'Abigail','J','Sanders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (131,'Abigail','J','Ward'),
 	 (132,'Abigail','K','Bryant'),
 	 (133,'Abigail','K','Butler'),
@@ -152,7 +152,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (138,'Abigail','L','Peterson'),
 	 (139,'Abigail','M','Long'),
 	 (140,'Abigail','M','Perry');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (141,'Abigail','M','price'),
 	 (142,'Abigail','M','Williams'),
 	 (143,'Abigail','R','Foster'),
@@ -163,7 +163,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (148,'Abigail','S','Richardson'),
 	 (149,'Abigail','T','Hughes'),
 	 (150,'Abigail','T','White');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (151,'Abigail','W','Simmons'),
 	 (152,'Abraham','L','Swearengin'),
 	 (153,'Adam','','Adams'),
@@ -174,7 +174,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (158,'Adam','','Chen'),
 	 (159,'Adam','','Edwards'),
 	 (160,'Adam','','Griffin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (161,'Adam','','Hayes'),
 	 (162,'Adam','','Henderson'),
 	 (163,'Adam','','Hill'),
@@ -185,7 +185,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (168,'Adam','','Long'),
 	 (169,'Adam','','Mitchell'),
 	 (170,'Adam','','Perry');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (171,'Adam','','Powell'),
 	 (172,'Adam','','Ross'),
 	 (173,'Adam','','Scott'),
@@ -196,7 +196,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (178,'Adam','A','Campbell'),
 	 (179,'Adam','A','Collins'),
 	 (180,'Adam','A','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (181,'Adam','A','Shan'),
 	 (182,'Adam','B','Nelson'),
 	 (183,'Adam','C','Allen'),
@@ -207,7 +207,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (188,'Adam','H','Evans'),
 	 (189,'Adam','J','Gonzalez'),
 	 (190,'Adam','J','Reynolds');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (191,'Adam','J','Russell'),
 	 (192,'Adam','K','Kumar'),
 	 (193,'Adam','K','Turner'),
@@ -218,7 +218,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (198,'Adam','M','Green'),
 	 (199,'Adam','M','Jenkins'),
 	 (200,'Adam','M','King');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (201,'Adam','M','Patterson'),
 	 (202,'Adam','R','Parker'),
 	 (203,'Adam','R','Phillips'),
@@ -229,7 +229,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (208,'Adrian','','Bell'),
 	 (209,'Adrian','','Cooper'),
 	 (210,'Adrian','','Dumitrascu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (211,'Adrian','','Morgan'),
 	 (212,'Adrian','','Rivera'),
 	 (213,'Adrian','','Sanders'),
@@ -240,7 +240,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (218,'Adrian','C','Stewart'),
 	 (219,'Adrian','E','Brooks'),
 	 (220,'Adrian','F','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (221,'Adrian','J','Cox'),
 	 (222,'Adrian','J','Peterson'),
 	 (223,'Adrian','K','Ramirez'),
@@ -251,7 +251,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (228,'Adrian','S','Cook'),
 	 (229,'Adriana','','Chandra'),
 	 (230,'Adriana','','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (231,'Adriana','','Kapoor'),
 	 (232,'Adriana','','Madan'),
 	 (233,'Adriana','','Malhotra'),
@@ -262,7 +262,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (238,'Adriana','','Smith'),
 	 (239,'Adriana','','Subram'),
 	 (240,'Adriana','','Suri');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (241,'Adriana','','Vance'),
 	 (242,'Adriana','A','Lopez'),
 	 (243,'Adriana','A','Sai'),
@@ -273,7 +273,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (248,'Adriana','L','Patel'),
 	 (249,'Adriana','M','Sara'),
 	 (250,'Adriana','S','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (251,'Adriana','W','Prasad'),
 	 (252,'Adrienne','','Gill'),
 	 (253,'Adrienne','','Gomez'),
@@ -284,7 +284,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (258,'Adrienne','','Sanz'),
 	 (259,'Adrienne','','Serrano'),
 	 (260,'Adrienne','','Suarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (261,'Adrienne','','Vazquez'),
 	 (262,'Adrienne','C','Torres'),
 	 (263,'Adrienne','L','Alvarez'),
@@ -295,7 +295,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (268,'Adrienne','Y','Hernandez'),
 	 (269,'Adrienne','Y','Ortega'),
 	 (270,'Aidan','','Alexander');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (271,'Aidan','','Barnes'),
 	 (272,'Aidan','','Bennett'),
 	 (273,'Aidan','','Delaney'),
@@ -306,7 +306,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (278,'Aidan','','Jenkins'),
 	 (279,'Aidan','','Powell'),
 	 (280,'Aidan','','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (281,'Aidan','','Simmons'),
 	 (282,'Aidan','','Washington'),
 	 (283,'Aidan','','Wood'),
@@ -317,7 +317,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (288,'Aidan','E','Hughes'),
 	 (289,'Aidan','G','Gonzales'),
 	 (290,'Aidan','J','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (291,'Aidan','L','Coleman'),
 	 (292,'Aidan','L','Diaz'),
 	 (293,'Aidan','O','Perry'),
@@ -328,7 +328,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (298,'Aimee','','Huang'),
 	 (299,'Aimee','','Li'),
 	 (300,'Aimee','','Liu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (301,'Aimee','','She'),
 	 (302,'Aimee','','Wang'),
 	 (303,'Aimee','','Wu'),
@@ -339,7 +339,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (308,'Aimee','J','Lu'),
 	 (309,'Aimee','M','Zhou'),
 	 (310,'Aimee','R','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (311,'Aimee','R','Ma'),
 	 (312,'Aimee','R','Sun'),
 	 (313,'Ajay','','Manchepalli'),
@@ -350,7 +350,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (318,'Alan','','Chen'),
 	 (319,'Alan','','Gao'),
 	 (320,'Alan','','Guo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (321,'Alan','','Hu'),
 	 (322,'Alan','','Lin'),
 	 (323,'Alan','','Lu'),
@@ -361,7 +361,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (328,'Alan','','Ye'),
 	 (329,'Alan','','Zhang'),
 	 (330,'Alan','','Zheng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (331,'Alan','','Zhou'),
 	 (332,'Alan','','Zhu'),
 	 (333,'Alan','A','He'),
@@ -372,7 +372,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (338,'Alan','L','Liang'),
 	 (339,'Alan','L','Monitor'),
 	 (340,'Alan','L','Yang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (341,'Alan','M','Li'),
 	 (342,'Alan','M','Zeng'),
 	 (343,'Alan','V','Liu'),
@@ -383,7 +383,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (348,'Albert','','Moreno'),
 	 (349,'Albert','','Mungin'),
 	 (350,'Albert','','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (351,'Albert','','Rubio'),
 	 (352,'Albert','','Vazquez'),
 	 (353,'Albert','A','Diaz'),
@@ -394,7 +394,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (358,'Albert','E','Serrano'),
 	 (359,'Albert','G','Sanz'),
 	 (360,'Albert','L','Navarro');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (361,'Albert','M','Alonso'),
 	 (362,'Albert','M','Gomez'),
 	 (363,'Albert','R','Alvarez'),
@@ -405,7 +405,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (368,'Alberto','','Alonso'),
 	 (369,'Alberto','','Alvarez'),
 	 (370,'Alberto','','Gomez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (371,'Alberto','','Ortega'),
 	 (372,'Alberto','','Ramos'),
 	 (373,'Alberto','','Romero'),
@@ -416,7 +416,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (378,'Alberto','F','Baltazar'),
 	 (379,'Alberto','G','Suarez'),
 	 (380,'Alberto','J','Muñoz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (381,'Alberto','L','Ruiz'),
 	 (382,'Alberto','L','Serrano'),
 	 (383,'Alberto','M','Sanz'),
@@ -427,7 +427,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (388,'Alberto','R','Martin'),
 	 (389,'Alberto','W','Rowe'),
 	 (390,'Aldeen','J','Gallagher');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (391,'Alejandro','','Beck'),
 	 (392,'Alejandro','','Chen'),
 	 (393,'Alejandro','','Deng'),
@@ -438,7 +438,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (398,'Alejandro','','Lal'),
 	 (399,'Alejandro','','Lu'),
 	 (400,'Alejandro','','McGuel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (401,'Alejandro','','Shan'),
 	 (402,'Alejandro','','Wang'),
 	 (403,'Alejandro','','Wu'),
@@ -449,7 +449,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (408,'Alejandro','B','Sun'),
 	 (409,'Alejandro','C','Zhao'),
 	 (410,'Alejandro','E','McGuel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (411,'Alejandro','E','Raji'),
 	 (412,'Alejandro','E','Zhu'),
 	 (413,'Alejandro','F','Chavez'),
@@ -460,7 +460,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (418,'Alejandro','J','Xu'),
 	 (419,'Alejandro','J','Yuan'),
 	 (420,'Alejandro','J','Zeng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (421,'Alejandro','K','Goel'),
 	 (422,'Alejandro','K','Luo'),
 	 (423,'Alejandro','K','Zheng'),
@@ -471,7 +471,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (428,'Alejandro','M','Yang'),
 	 (429,'Alejandro','P','Gao'),
 	 (430,'Alejandro','P','Zhang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (431,'Alejandro','R','Anand'),
 	 (432,'Alejandro','R','Liu'),
 	 (433,'Alejandro','R','Rai'),
@@ -482,7 +482,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (438,'Alejandro','W','Ye'),
 	 (439,'Alex','','Allen'),
 	 (440,'Alex','','Baker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (441,'Alex','','Brooks'),
 	 (442,'Alex','','Campbell'),
 	 (443,'Alex','','Cook'),
@@ -493,7 +493,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (448,'Alex','','Lopez'),
 	 (449,'Alex','','Morris'),
 	 (450,'Alex','','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (451,'Alex','','Nayberg'),
 	 (452,'Alex','','Nelson'),
 	 (453,'Alex','','Parker'),
@@ -504,7 +504,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (458,'Alex','B','King'),
 	 (459,'Alex','B','Watson'),
 	 (460,'Alex','C','Adams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (461,'Alex','C','Evans'),
 	 (462,'Alex','C','Hill'),
 	 (463,'Alex','D','Young'),
@@ -515,7 +515,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (468,'Alex','I','Ward'),
 	 (469,'Alex','J','Ramirez'),
 	 (470,'Alex','J','Turner');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (471,'Alex','K','Edwards'),
 	 (472,'Alex','K','Green'),
 	 (473,'Alex','K','Roberts'),
@@ -526,7 +526,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (478,'Alex','L','Torres'),
 	 (479,'Alex','M','Bell'),
 	 (480,'Alex','M','Carter');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (481,'Alex','M','Morgan'),
 	 (482,'Alex','M','Nayberg'),
 	 (483,'Alex','M','Peterson'),
@@ -537,7 +537,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (488,'Alex','T','Scott'),
 	 (489,'Alex','W','Howard'),
 	 (490,'Alexa','','Bailey');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (491,'Alexa','','Cook'),
 	 (492,'Alexa','','Cooper'),
 	 (493,'Alexa','','Cox'),
@@ -548,7 +548,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (498,'Alexa','','Morris'),
 	 (499,'Alexa','','Murphy'),
 	 (500,'Alexa','','Peterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (501,'Alexa','','Richardson'),
 	 (502,'Alexa','','Rivera'),
 	 (503,'Alexa','','Watson'),
@@ -559,7 +559,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (508,'Alexa','F','Brooks'),
 	 (509,'Alexa','H','Rogers'),
 	 (510,'Alexa','J','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (511,'Alexa','R','Bell'),
 	 (512,'Alexa','W','Ward'),
 	 (513,'Alexander','','Garcia'),
@@ -570,7 +570,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (518,'Alexander','D','White'),
 	 (519,'Alexander','E','Harris'),
 	 (520,'Alexander','E','Taylor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (521,'Alexander','G','Anderson'),
 	 (522,'Alexander','I','Jones'),
 	 (523,'Alexander','J','Berger'),
@@ -581,7 +581,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (528,'Alexander','L','Brown'),
 	 (529,'Alexander','L','Williams'),
 	 (530,'Alexander','M','Johnson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (531,'Alexander','M','Walker'),
 	 (532,'Alexander','R','Jackson'),
 	 (533,'Alexander','S','Davis'),
@@ -592,7 +592,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (538,'Alexandra','','Bryant'),
 	 (539,'Alexandra','','Collins'),
 	 (540,'Alexandra','','Cook');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (541,'Alexandra','','Cooper'),
 	 (542,'Alexandra','','Davis'),
 	 (543,'Alexandra','','Edwards'),
@@ -603,7 +603,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (548,'Alexandra','','Hall'),
 	 (549,'Alexandra','','Harris'),
 	 (550,'Alexandra','','Howard');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (551,'Alexandra','','Hughes'),
 	 (552,'Alexandra','','James'),
 	 (553,'Alexandra','','Lee'),
@@ -614,7 +614,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (558,'Alexandra','','Moore'),
 	 (559,'Alexandra','','Morris'),
 	 (560,'Alexandra','','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (561,'Alexandra','','Nelson'),
 	 (562,'Alexandra','','Powell'),
 	 (563,'Alexandra','','Richardson'),
@@ -625,7 +625,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (568,'Alexandra','','Scott'),
 	 (569,'Alexandra','','Smith'),
 	 (570,'Alexandra','','Taylor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (571,'Alexandra','','Turner'),
 	 (572,'Alexandra','','Walker'),
 	 (573,'Alexandra','','Wilson'),
@@ -636,7 +636,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (578,'Alexandra','A','Winston'),
 	 (579,'Alexandra','B','Allen'),
 	 (580,'Alexandra','B','Jones');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (581,'Alexandra','B','Ramirez'),
 	 (582,'Alexandra','B','White'),
 	 (583,'Alexandra','C','Flores'),
@@ -647,7 +647,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (588,'Alexandra','C','Reed'),
 	 (589,'Alexandra','C','Ross'),
 	 (590,'Alexandra','C','Thomas');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (591,'Alexandra','C','Wood'),
 	 (592,'Alexandra','D','Jenkins'),
 	 (593,'Alexandra','E','Carter'),
@@ -658,7 +658,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (598,'Alexandra','G','Parker'),
 	 (599,'Alexandra','H','Brooks'),
 	 (600,'Alexandra','H','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (601,'Alexandra','H','Watson'),
 	 (602,'Alexandra','I','Young'),
 	 (603,'Alexandra','J','Adams'),
@@ -669,7 +669,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (608,'Alexandra','J','Johnson'),
 	 (609,'Alexandra','J','Sanchez'),
 	 (610,'Alexandra','K','Campbell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (611,'Alexandra','K','Hill'),
 	 (612,'Alexandra','K','Wellington'),
 	 (613,'Alexandra','L','Anderson'),
@@ -680,7 +680,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (618,'Alexandra','M','Hall'),
 	 (619,'Alexandra','M','Morgan'),
 	 (620,'Alexandra','M','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (621,'Alexandra','M','Rogers'),
 	 (622,'Alexandra','P','Barnes'),
 	 (623,'Alexandra','R','Bell'),
@@ -691,7 +691,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (628,'Alexandra','W','Cox'),
 	 (629,'Alexandre','','Lobao'),
 	 (630,'Alexandre','','Silva');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (631,'Alexandria','','Alexander'),
 	 (632,'Alexandria','','Barnes'),
 	 (633,'Alexandria','','Bradley'),
@@ -702,7 +702,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (638,'Alexandria','','Diaz'),
 	 (639,'Alexandria','','Flores'),
 	 (640,'Alexandria','','Griffin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (641,'Alexandria','','Howard'),
 	 (642,'Alexandria','','Morris'),
 	 (643,'Alexandria','','Murphy'),
@@ -713,7 +713,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (648,'Alexandria','','Rogers'),
 	 (649,'Alexandria','','Ross'),
 	 (650,'Alexandria','','Sandberg');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (651,'Alexandria','','Simmons'),
 	 (652,'Alexandria','','Stewart'),
 	 (653,'Alexandria','A','Bell'),
@@ -724,7 +724,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (658,'Alexandria','C','Coleman'),
 	 (659,'Alexandria','C','Hayes'),
 	 (660,'Alexandria','C','Ward');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (661,'Alexandria','D','Russell'),
 	 (662,'Alexandria','E','Gray'),
 	 (663,'Alexandria','E','Long'),
@@ -735,7 +735,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (668,'Alexandria','L','Jenkins'),
 	 (669,'Alexandria','L','Morgan'),
 	 (670,'Alexandria','M','Washington');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (671,'Alexandria','M','Wood'),
 	 (672,'Alexandria','R','Henderson'),
 	 (673,'Alexandria','T','Watson'),
@@ -746,7 +746,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (678,'Alexia','','Diaz'),
 	 (679,'Alexia','','Foster'),
 	 (680,'Alexia','','Hayes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (681,'Alexia','','Powell'),
 	 (682,'Alexia','','Russell'),
 	 (683,'Alexia','','Washington'),
@@ -757,7 +757,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (688,'Alexia','F','Butler'),
 	 (689,'Alexia','J','Perry'),
 	 (690,'Alexia','L','Bryant');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (691,'Alexia','L','price'),
 	 (692,'Alexia','M','Henderson'),
 	 (693,'Alexia','M','Hughes'),
@@ -768,7 +768,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (698,'Alexis','','Clark'),
 	 (699,'Alexis','','Diaz'),
 	 (700,'Alexis','','Flores');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (701,'Alexis','','Foster'),
 	 (702,'Alexis','','Gonzales'),
 	 (703,'Alexis','','Harris'),
@@ -779,7 +779,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (708,'Alexis','','Moore'),
 	 (709,'Alexis','','Patterson'),
 	 (710,'Alexis','','Robinson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (711,'Alexis','','Simmons'),
 	 (712,'Alexis','','Taylor'),
 	 (713,'Alexis','','Thomas'),
@@ -790,7 +790,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (718,'Alexis','A','Miller'),
 	 (719,'Alexis','A','Wood'),
 	 (720,'Alexis','B','Hughes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (721,'Alexis','C','White'),
 	 (722,'Alexis','D','Williams'),
 	 (723,'Alexis','D','Wilson'),
@@ -801,7 +801,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (728,'Alexis','J','Johnson'),
 	 (729,'Alexis','L','Alexander'),
 	 (730,'Alexis','L','Lee');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (731,'Alexis','L','Rodriguez'),
 	 (732,'Alexis','L','Ross'),
 	 (733,'Alexis','L','Russell'),
@@ -812,7 +812,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (738,'Alexis','R','Thompson'),
 	 (739,'Alexis','S','Ashe'),
 	 (740,'Alexis','S','Griffin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (741,'Alexis','S','Martinez'),
 	 (742,'Alexis','S','Perry'),
 	 (743,'Alfredo','','Carlson'),
@@ -823,7 +823,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (748,'Alfredo','','Romero'),
 	 (749,'Alfredo','','Ruiz'),
 	 (750,'Alfredo','','Sandberg');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (751,'Alfredo','','Serrano'),
 	 (752,'Alfredo','','Suarez'),
 	 (753,'Alfredo','','Torres'),
@@ -834,7 +834,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (758,'Alfredo','F','Dominguez'),
 	 (759,'Alfredo','J','Gutierrez'),
 	 (760,'Alfredo','M','Gill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (761,'Alfredo','N','Navarro'),
 	 (762,'Alfredo','P','Martin'),
 	 (763,'Alfredo','T','Alonso'),
@@ -845,7 +845,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (768,'Alice','J','Serventi'),
 	 (769,'Alice','L','Kesterson'),
 	 (770,'Alice','M','Steiner');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (771,'Alice','O','Ciccu'),
 	 (772,'Alicia','','Jai'),
 	 (773,'Alicia','','Lal'),
@@ -856,7 +856,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (778,'Alicia','','Shan'),
 	 (779,'Alicia','','Xie'),
 	 (780,'Alicia','','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (781,'Alicia','','Yuan'),
 	 (782,'Alicia','A','Chapman'),
 	 (783,'Alicia','D','Shen'),
@@ -867,7 +867,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (788,'Alicia','S','Andersen'),
 	 (789,'Alicia','W','She'),
 	 (790,'Alícia','J','Anand');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (791,'Alisha','','Andersen'),
 	 (792,'Alisha','','Cai'),
 	 (793,'Alisha','','Chander'),
@@ -878,7 +878,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (798,'Alisha','','Luo'),
 	 (799,'Alisha','','Ma'),
 	 (800,'Alisha','','Nath');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (801,'Alisha','','Rai'),
 	 (802,'Alisha','','Raji'),
 	 (803,'Alisha','','Shan'),
@@ -889,7 +889,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (808,'Alisha','','Zheng'),
 	 (809,'Alisha','A','Tang'),
 	 (810,'Alisha','A','Zeng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (811,'Alisha','C','Goel'),
 	 (812,'Alisha','C','Lal'),
 	 (813,'Alisha','C','Xie'),
@@ -900,7 +900,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (818,'Alisha','E','Huang'),
 	 (819,'Alisha','G','She'),
 	 (820,'Alisha','G','Zhang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (821,'Alisha','G','Zhu'),
 	 (822,'Alisha','I','Kumar'),
 	 (823,'Alisha','J','Chen'),
@@ -911,7 +911,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (828,'Alisha','L','Liu'),
 	 (829,'Alisha','M','Alan'),
 	 (830,'Alisha','M','Chande');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (831,'Alisha','M','Yuan'),
 	 (832,'Alisha','M','Zhao'),
 	 (833,'Alisha','N','Oliver'),
@@ -922,7 +922,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (838,'Alison','','Andersen'),
 	 (839,'Alison','','Beck'),
 	 (840,'Alison','','Chande');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (841,'Alison','','Chander'),
 	 (842,'Alison','','Goel'),
 	 (843,'Alison','','Jai'),
@@ -933,7 +933,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (848,'Alison','','Raji'),
 	 (849,'Alison','','Shan'),
 	 (850,'Alison','','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (851,'Alison','','Tang'),
 	 (852,'Alison','','Xu'),
 	 (853,'Alison','A','Luo'),
@@ -944,7 +944,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (858,'Alison','J','Raje'),
 	 (859,'Alison','K','Yuan'),
 	 (860,'Alison','M','Rai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (861,'Alison','W','Deng'),
 	 (862,'Allen','','Chandra'),
 	 (863,'Allen','','Fernandez'),
@@ -955,7 +955,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (868,'Allen','','Smith'),
 	 (869,'Allen','','Subram'),
 	 (870,'Allen','','Suri');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (871,'Allen','A','Malhotra'),
 	 (872,'Allen','B','Perez'),
 	 (873,'Allen','D','Rana'),
@@ -966,7 +966,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (878,'Allen','L','Rodriguez'),
 	 (879,'Allen','M','Arthur'),
 	 (880,'Allen','O','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (881,'Allen','R','Raman'),
 	 (882,'Allison','','Bailey'),
 	 (883,'Allison','','Baker'),
@@ -977,7 +977,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (888,'Allison','','Edwards'),
 	 (889,'Allison','','Evans'),
 	 (890,'Allison','','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (891,'Allison','','Green'),
 	 (892,'Allison','','Howard'),
 	 (893,'Allison','','Kelly'),
@@ -988,7 +988,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (898,'Allison','','Ramirez'),
 	 (899,'Allison','','Reed'),
 	 (900,'Allison','','Richardson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (901,'Allison','','Rogers'),
 	 (902,'Allison','','Sanchez'),
 	 (903,'Allison','','Scott'),
@@ -999,7 +999,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (908,'Allison','B','Morris'),
 	 (909,'Allison','B','Sanders'),
 	 (910,'Allison','C','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (911,'Allison','D','Gray'),
 	 (912,'Allison','D','Lopez'),
 	 (913,'Allison','E','Torres'),
@@ -1010,7 +1010,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (918,'Allison','L','Bell'),
 	 (919,'Allison','L','Cox'),
 	 (920,'Allison','M','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (921,'Allison','M','James'),
 	 (922,'Allison','M','King'),
 	 (923,'Allison','M','Rivera'),
@@ -1021,7 +1021,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (928,'Alma','B','Poorbaugh'),
 	 (929,'Alma','L','Son'),
 	 (930,'Alvaro','','De Matos Miranda Filho');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (931,'Alvin','','Beck'),
 	 (932,'Alvin','','Chen'),
 	 (933,'Alvin','','Goldstein'),
@@ -1032,7 +1032,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (938,'Alvin','','Li'),
 	 (939,'Alvin','','Lin'),
 	 (940,'Alvin','','Lu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (941,'Alvin','','Luo'),
 	 (942,'Alvin','','Ma'),
 	 (943,'Alvin','','Rai'),
@@ -1043,7 +1043,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (948,'Alvin','','Yang'),
 	 (949,'Alvin','','Yuan'),
 	 (950,'Alvin','','Zhang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (951,'Alvin','','Zhu'),
 	 (952,'Alvin','A','Nara'),
 	 (953,'Alvin','A','Zhao'),
@@ -1054,7 +1054,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (958,'Alvin','D','Cai'),
 	 (959,'Alvin','E','Hu'),
 	 (960,'Alvin','E','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (961,'Alvin','G','Anand'),
 	 (962,'Alvin','J','Torre'),
 	 (963,'Alvin','J','Xu'),
@@ -1065,7 +1065,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (968,'Alvin','M','Zeng'),
 	 (969,'Alvin','R','Guo'),
 	 (970,'Alvin','R','Kumar');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (971,'Alvin','R','Nath'),
 	 (972,'Alvin','S','Raji'),
 	 (973,'Alvin','V','Zheng'),
@@ -1076,7 +1076,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (978,'Alyssa','','Hughes'),
 	 (979,'Alyssa','','Lee'),
 	 (980,'Alyssa','','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (981,'Alyssa','','Miller'),
 	 (982,'Alyssa','','Morris'),
 	 (983,'Alyssa','','Powell'),
@@ -1087,7 +1087,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (988,'Alyssa','','Rogers'),
 	 (989,'Alyssa','','Ross'),
 	 (990,'Alyssa','','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (991,'Alyssa','','Smith'),
 	 (992,'Alyssa','','West'),
 	 (993,'Alyssa','','Wilson'),
@@ -1098,7 +1098,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (998,'Alyssa','C','Bailey'),
 	 (999,'Alyssa','C','Bradley'),
 	 (1000,'Alyssa','C','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1001,'Alyssa','C','Davis'),
 	 (1002,'Alyssa','C','Gray'),
 	 (1003,'Alyssa','C','Patterson'),
@@ -1109,7 +1109,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1008,'Alyssa','E','Cooper'),
 	 (1009,'Alyssa','E','Harris'),
 	 (1010,'Alyssa','E','Moore');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1011,'Alyssa','F','Brooks'),
 	 (1012,'Alyssa','F','Cox'),
 	 (1013,'Alyssa','H','Henderson'),
@@ -1120,7 +1120,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1018,'Alyssa','K','Lewis'),
 	 (1019,'Alyssa','K','Thompson'),
 	 (1020,'Alyssa','L','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1021,'Alyssa','L','Garcia'),
 	 (1022,'Alyssa','L','Jackson'),
 	 (1023,'Alyssa','L','Jenkins'),
@@ -1131,7 +1131,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1028,'Alyssa','M','Hall'),
 	 (1029,'Alyssa','M','Jones'),
 	 (1030,'Alyssa','M','Taylor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1031,'Alyssa','M','Ward'),
 	 (1032,'Alyssa','N','Russell'),
 	 (1033,'Alyssa','O','Brown'),
@@ -1142,7 +1142,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1038,'Alyssa','S','Gonzales'),
 	 (1039,'Alyssa','S','Rivera'),
 	 (1040,'Alyssa','S','Wood');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1041,'Alyssa','W','Perry'),
 	 (1042,'Amanda','','Allen'),
 	 (1043,'Amanda','','Baker'),
@@ -1153,7 +1153,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1048,'Amanda','','Collins'),
 	 (1049,'Amanda','','Cox'),
 	 (1050,'Amanda','','Edwards');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1051,'Amanda','','Evans'),
 	 (1052,'Amanda','','Flores'),
 	 (1053,'Amanda','','Foster'),
@@ -1164,7 +1164,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1058,'Amanda','','Howard'),
 	 (1059,'Amanda','','Hughes'),
 	 (1060,'Amanda','','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1061,'Amanda','','Morris'),
 	 (1062,'Amanda','','Nelson'),
 	 (1063,'Amanda','','Parker'),
@@ -1175,7 +1175,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1068,'Amanda','','Richardson'),
 	 (1069,'Amanda','','Rivera'),
 	 (1070,'Amanda','','Roberts');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1071,'Amanda','','Russell'),
 	 (1072,'Amanda','','Sanders'),
 	 (1073,'Amanda','','Scott'),
@@ -1186,7 +1186,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1078,'Amanda','A','Bryant'),
 	 (1079,'Amanda','A','Gonzalez'),
 	 (1080,'Amanda','A','Griffin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1081,'Amanda','A','Henderson'),
 	 (1082,'Amanda','A','Long'),
 	 (1083,'Amanda','A','Mitchell'),
@@ -1197,7 +1197,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1088,'Amanda','E','Ramirez'),
 	 (1089,'Amanda','E','Ross'),
 	 (1090,'Amanda','F','Brooks');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1091,'Amanda','G','Phillips'),
 	 (1092,'Amanda','J','King'),
 	 (1093,'Amanda','J','Lopez'),
@@ -1208,7 +1208,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1098,'Amanda','M','Bennett'),
 	 (1099,'Amanda','M','Carter'),
 	 (1100,'Amanda','M','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1101,'Amanda','M','Stewart'),
 	 (1102,'Amanda','N','Barnes'),
 	 (1103,'Amanda','P','Adams'),
@@ -1219,7 +1219,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1108,'Amanda','S','price'),
 	 (1109,'Amanda','S','Wood'),
 	 (1110,'Amanda','T','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1111,'Amber','','Adams'),
 	 (1112,'Amber','','Baker'),
 	 (1113,'Amber','','Campbell'),
@@ -1230,7 +1230,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1118,'Amber','','Lopez'),
 	 (1119,'Amber','','Parker'),
 	 (1120,'Amber','','Phillips');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1121,'Amber','','Turner'),
 	 (1122,'Amber','A','Allen'),
 	 (1123,'Amber','A','Nelson'),
@@ -1241,7 +1241,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1128,'Amber','E','Mitchell'),
 	 (1129,'Amber','L','Gonzalez'),
 	 (1130,'Amber','L','Wright');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1131,'Amber','L','Young'),
 	 (1132,'Amber','M','Collins'),
 	 (1133,'Amber','S','King'),
@@ -1252,7 +1252,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1138,'Amy','','Cai'),
 	 (1139,'Amy','','Gao'),
 	 (1140,'Amy','','He');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1141,'Amy','','Hu'),
 	 (1142,'Amy','','Liang'),
 	 (1143,'Amy','','Lin'),
@@ -1263,7 +1263,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1148,'Amy','','Ye'),
 	 (1149,'Amy','','Zeng'),
 	 (1150,'Amy','','Zhang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1151,'Amy','A','Guo'),
 	 (1152,'Amy','A','Lu'),
 	 (1153,'Amy','C','Huang'),
@@ -1274,7 +1274,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1158,'Amy','E','Ma'),
 	 (1159,'Amy','J','Li'),
 	 (1160,'Amy','R','Consentino');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1161,'Amy','R','Zheng'),
 	 (1162,'Amy','W','Zhu'),
 	 (1163,'Ana','','Barnes'),
@@ -1285,7 +1285,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1168,'Ana','','Griffin'),
 	 (1169,'Ana','','Hayes'),
 	 (1170,'Ana','','Henderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1171,'Ana','','Long'),
 	 (1172,'Ana','','Perry'),
 	 (1173,'Ana','','Powell'),
@@ -1296,7 +1296,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1178,'Ana','E','price'),
 	 (1179,'Ana','L','Coleman'),
 	 (1180,'Ana','L','Patterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1181,'Ana','R','Alexander'),
 	 (1182,'Ana','R','Russell'),
 	 (1183,'Ana','S','Foster'),
@@ -1307,7 +1307,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1188,'Andre','','Lopez'),
 	 (1189,'Andre','','Martinez'),
 	 (1190,'Andre','','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1191,'Andre','','Prasad'),
 	 (1192,'Andre','','Rana'),
 	 (1193,'Andre','','Sai'),
@@ -1318,7 +1318,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1198,'Andre','D','Raman'),
 	 (1199,'Andre','D','Suri'),
 	 (1200,'Andre','E','Arun');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1201,'Andre','F','Mehta'),
 	 (1202,'Andre','H','Garcia'),
 	 (1203,'Andre','L','Chandra'),
@@ -1329,7 +1329,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1208,'Andrea','','Bell'),
 	 (1209,'Andrea','','Campbell'),
 	 (1210,'Andrea','','Collins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1211,'Andrea','','Cook'),
 	 (1212,'Andrea','','Cooper'),
 	 (1213,'Andrea','','Cox'),
@@ -1340,7 +1340,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1218,'Andrea','','Howard'),
 	 (1219,'Andrea','','Kelly'),
 	 (1220,'Andrea','','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1221,'Andrea','','Morris'),
 	 (1222,'Andrea','','Perez'),
 	 (1223,'Andrea','','Peterson'),
@@ -1351,7 +1351,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1228,'Andrea','','Ward'),
 	 (1229,'Andrea','','Wright'),
 	 (1230,'Andrea','','Young');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1231,'Andrea','A','Roberts'),
 	 (1232,'Andrea','A','Thomsen'),
 	 (1233,'Andrea','A','Turner'),
@@ -1362,7 +1362,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1238,'Andrea','G','Watson'),
 	 (1239,'Andrea','K','Allen'),
 	 (1240,'Andrea','K','Gray');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1241,'Andrea','K','King'),
 	 (1242,'Andrea','L','Baker'),
 	 (1243,'Andrea','L','Brooks'),
@@ -1373,7 +1373,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1248,'Andrea','L','Torres'),
 	 (1249,'Andrea','M','Adams'),
 	 (1250,'Andrea','M','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1251,'Andrea','M','Morgan'),
 	 (1252,'Andrea','M','Stewart'),
 	 (1253,'Andrea','R','Murphy'),
@@ -1384,7 +1384,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1258,'Andres','','Nath'),
 	 (1259,'Andres','','Raje'),
 	 (1260,'Andres','','Shen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1261,'Andres','','Xie'),
 	 (1262,'Andres','A','Nara'),
 	 (1263,'Andres','B','Goel'),
@@ -1395,7 +1395,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1268,'Andres','G','Chavez'),
 	 (1269,'Andres','L','Kumar'),
 	 (1270,'Andres','L','Lal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1271,'Andres','L','Luo'),
 	 (1272,'Andres','S','Pal'),
 	 (1273,'Andres','T','Shan'),
@@ -1406,7 +1406,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1278,'Andrew','','Dixon'),
 	 (1279,'Andrew','','Hill'),
 	 (1280,'Andrew','','Jackson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1281,'Andrew','','Lewis'),
 	 (1282,'Andrew','','Smith'),
 	 (1283,'Andrew','A','Moore'),
@@ -1417,7 +1417,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1288,'Andrew','C','Miller'),
 	 (1289,'Andrew','C','Thomas'),
 	 (1290,'Andrew','F','Johnson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1291,'Andrew','G','Lee'),
 	 (1292,'Andrew','J','Garcia'),
 	 (1293,'Andrew','J','Robinson'),
@@ -1428,7 +1428,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1298,'Andrew','N','Rodriguez'),
 	 (1299,'Andrew','P','Kobylinski'),
 	 (1300,'Andrew','R','Hill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1301,'Andrew','R','Wilson'),
 	 (1302,'Andrew','T','Wedge'),
 	 (1303,'Andrew','W','Williams'),
@@ -1439,7 +1439,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1308,'Andy','','Carothers'),
 	 (1309,'Andy','','Diaz'),
 	 (1310,'Andy','','Gill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1311,'Andy','','Gomez'),
 	 (1312,'Andy','','Gutierrez'),
 	 (1313,'Andy','','Hernandez'),
@@ -1450,7 +1450,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1318,'Andy','','Teal'),
 	 (1319,'Andy','','Vazquez'),
 	 (1320,'Andy','A','Ortega');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1321,'Andy','C','Munoz'),
 	 (1322,'Andy','F','Martin'),
 	 (1323,'Andy','H','Navarro'),
@@ -1461,7 +1461,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1328,'Andy','R','Torres'),
 	 (1329,'Angel','','Adams'),
 	 (1330,'Angel','','Baker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1331,'Angel','','Carter'),
 	 (1332,'Angel','','Cooper'),
 	 (1333,'Angel','','Evans'),
@@ -1472,7 +1472,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1338,'Angel','','Phillips'),
 	 (1339,'Angel','','Ramirez'),
 	 (1340,'Angel','','Richardson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1341,'Angel','','Rivera'),
 	 (1342,'Angel','','Rogers'),
 	 (1343,'Angel','','Sanders'),
@@ -1483,7 +1483,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1348,'Angel','A','Ward'),
 	 (1349,'Angel','B','Young'),
 	 (1350,'Angel','C','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1351,'Angel','D','Brooks'),
 	 (1352,'Angel','D','Campbell'),
 	 (1353,'Angel','D','Gonzalez'),
@@ -1494,7 +1494,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1358,'Angel','G','Morgan'),
 	 (1359,'Angel','H','Hall'),
 	 (1360,'Angel','H','Roberts');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1361,'Angel','J','Edwards'),
 	 (1362,'Angel','J','Stewart'),
 	 (1363,'Angel','L','Turner'),
@@ -1505,7 +1505,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1368,'Angel','M','Murphy'),
 	 (1369,'Angel','N','Mitchell'),
 	 (1370,'Angel','S','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1371,'Angel','T','Bailey'),
 	 (1372,'Angel','W','Reed'),
 	 (1373,'Angela','','Alexander'),
@@ -1516,7 +1516,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1378,'Angela','','Cooper'),
 	 (1379,'Angela','','Cox'),
 	 (1380,'Angela','','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1381,'Angela','','Griffin'),
 	 (1382,'Angela','','Hayes'),
 	 (1383,'Angela','','Hughes'),
@@ -1527,7 +1527,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1388,'Angela','','Patterson'),
 	 (1389,'Angela','','Perry'),
 	 (1390,'Angela','','Peterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1391,'Angela','','Ramirez'),
 	 (1392,'Angela','','Rogers'),
 	 (1393,'Angela','','Russell'),
@@ -1538,7 +1538,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1398,'Angela','C','Sánchez'),
 	 (1399,'Angela','D','price'),
 	 (1400,'Angela','D','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1401,'Angela','D','Washington'),
 	 (1402,'Angela','E','Bell'),
 	 (1403,'Angela','E','Bennett'),
@@ -1549,7 +1549,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1408,'Angela','K','Diaz'),
 	 (1409,'Angela','K','Reed'),
 	 (1410,'Angela','L','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1411,'Angela','M','Barnes'),
 	 (1412,'Angela','M','Coleman'),
 	 (1413,'Angela','M','Ward'),
@@ -1560,7 +1560,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1418,'Angela','S','Gonzales'),
 	 (1419,'Angela','T','Gray'),
 	 (1420,'Angela','T','Henderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1421,'Angela','W','Barbariol'),
 	 (1422,'Angela','W','Simmons'),
 	 (1423,'Angelica','','Alexander'),
@@ -1571,7 +1571,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1428,'Angelica','','Diaz'),
 	 (1429,'Angelica','','Foster'),
 	 (1430,'Angelica','','Griffin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1431,'Angelica','','Hayes'),
 	 (1432,'Angelica','','Patterson'),
 	 (1433,'Angelica','','Perry'),
@@ -1582,7 +1582,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1438,'Angelica','E','Powell'),
 	 (1439,'Angelica','G','Hughes'),
 	 (1440,'Angelica','J','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1441,'Angelica','K','Gonzales'),
 	 (1442,'Angelica','L','Bennett'),
 	 (1443,'Angelica','M','Flores'),
@@ -1593,7 +1593,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1448,'Anita','R','Lucerne'),
 	 (1449,'Ann','','Arun'),
 	 (1450,'Ann','','Beebe');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1451,'Ann','','Chandra'),
 	 (1452,'Ann','','Gonzalez'),
 	 (1453,'Ann','','Kapoor'),
@@ -1604,7 +1604,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1458,'Ann','','Suri'),
 	 (1459,'Ann','A','Sara'),
 	 (1460,'Ann','A','Van');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1461,'Ann','B','Malhotra'),
 	 (1462,'Ann','B','Wilson'),
 	 (1463,'Ann','C','Rana'),
@@ -1615,7 +1615,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1468,'Ann','M','Mehta'),
 	 (1469,'Ann','M','Subram'),
 	 (1470,'Ann','R','Evans');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1471,'Ann','S','Rodriguez'),
 	 (1472,'Ann','T','Hass'),
 	 (1473,'Ann','T','Lopez'),
@@ -1626,7 +1626,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1478,'Anna','','Coleman'),
 	 (1479,'Anna','','Cooper'),
 	 (1480,'Anna','','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1481,'Anna','','Griffin'),
 	 (1482,'Anna','','Henderson'),
 	 (1483,'Anna','','Hughes'),
@@ -1637,7 +1637,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1488,'Anna','','Lewis'),
 	 (1489,'Anna','','Long'),
 	 (1490,'Anna','','Patterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1491,'Anna','','Perry'),
 	 (1492,'Anna','','price'),
 	 (1493,'Anna','','Ramirez'),
@@ -1648,7 +1648,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1498,'Anna','','Stewart'),
 	 (1499,'Anna','','Thompson'),
 	 (1500,'Anna','','Ward');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1501,'Anna','','Washington'),
 	 (1502,'Anna','','Watson'),
 	 (1503,'Anna','','White'),
@@ -1659,7 +1659,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1508,'Anna','A','Jones'),
 	 (1509,'Anna','A','Moore'),
 	 (1510,'Anna','A','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1511,'Anna','B','Garcia'),
 	 (1512,'Anna','D','Ross'),
 	 (1513,'Anna','D','Taylor'),
@@ -1670,7 +1670,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1518,'Anna','H','Flores'),
 	 (1519,'Anna','J','Hall'),
 	 (1520,'Anna','J','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1521,'Anna','J','Powell'),
 	 (1522,'Anna','J','Wood'),
 	 (1523,'Anna','K','Bell'),
@@ -1681,7 +1681,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1528,'Anna','L','Martin'),
 	 (1529,'Anna','L','Murphy'),
 	 (1530,'Anna','M','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1531,'Anna','M','Cook'),
 	 (1532,'Anna','M','Jenkins'),
 	 (1533,'Anna','O','Russell'),
@@ -1692,7 +1692,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1538,'Anna','R','Richardson'),
 	 (1539,'Anna','R','Thomas'),
 	 (1540,'Anna','R','Williams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1541,'Anna','S','Brooks'),
 	 (1542,'Anna','S','Bryant'),
 	 (1543,'Anna','S','Miller'),
@@ -1703,7 +1703,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1548,'Anne','','Gill'),
 	 (1549,'Anne','','Gomez'),
 	 (1550,'Anne','','Gutierrez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1551,'Anne','','Jiménez'),
 	 (1552,'Anne','','Munoz'),
 	 (1553,'Anne','','Navarro'),
@@ -1714,7 +1714,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1558,'Anne','A','Alvarez'),
 	 (1559,'Anne','A','Moreno'),
 	 (1560,'Anne','B','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1561,'Anne','H','Carlson'),
 	 (1562,'Anne','J','Ruiz'),
 	 (1563,'Anne','R','Ramos'),
@@ -1725,7 +1725,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1568,'Annette','','Hill'),
 	 (1569,'Annette','L','Hill'),
 	 (1570,'Annik','','Stahl');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1571,'Annik','O','Stahl'),
 	 (1572,'Anthony','','Chor'),
 	 (1573,'Anthony','','Clark'),
@@ -1736,7 +1736,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1578,'Anthony','','White'),
 	 (1579,'Anthony','','Wilson'),
 	 (1580,'Anthony','A','Anderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1581,'Anthony','A','Miller'),
 	 (1582,'Anthony','D','Johnson'),
 	 (1583,'Anthony','E','Robinson'),
@@ -1747,7 +1747,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1588,'Anthony','L','Jones'),
 	 (1589,'Anthony','M','Lee'),
 	 (1590,'Anthony','M','Moore');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1591,'Anthony','S','Davis'),
 	 (1592,'Anthony','T','Walker'),
 	 (1593,'Anthony','V','Williams'),
@@ -1758,7 +1758,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1598,'Antonio','','Diaz'),
 	 (1599,'Antonio','','Foster'),
 	 (1600,'Antonio','','Gonzales');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1601,'Antonio','','Hayes'),
 	 (1602,'Antonio','','Henderson'),
 	 (1603,'Antonio','','Ross'),
@@ -1769,7 +1769,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1608,'Antonio','E','Long'),
 	 (1609,'Antonio','E','Powell'),
 	 (1610,'Antonio','E','price');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1611,'Antonio','G','Patterson'),
 	 (1612,'Antonio','J','Griffin'),
 	 (1613,'Antonio','K','Washington'),
@@ -1780,7 +1780,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1618,'Antonio','R','Bryant'),
 	 (1619,'April','','Anand'),
 	 (1620,'April','','Beck');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1621,'April','','Deng'),
 	 (1622,'April','','Jai'),
 	 (1623,'April','','Luo'),
@@ -1791,7 +1791,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1628,'April','C','Goel'),
 	 (1629,'April','C','Pal'),
 	 (1630,'April','E','Nara');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1631,'April','G','Kumar'),
 	 (1632,'April','J','Sharma'),
 	 (1633,'April','J','Shen'),
@@ -1802,7 +1802,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1638,'Ariana','','Bell'),
 	 (1639,'Ariana','','Cook'),
 	 (1640,'Ariana','','Cooper');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1641,'Ariana','','James'),
 	 (1642,'Ariana','','Morgan'),
 	 (1643,'Ariana','','Peterson'),
@@ -1813,7 +1813,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1648,'Ariana','B','Cox'),
 	 (1649,'Ariana','B','Richardson'),
 	 (1650,'Ariana','C','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1651,'Ariana','D','Gray'),
 	 (1652,'Ariana','E','Murphy'),
 	 (1653,'Ariana','F','Rogers'),
@@ -1824,7 +1824,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1658,'Ariana','R','Kelly'),
 	 (1659,'Ariana','V','Ramirez'),
 	 (1660,'Ariana','V','Ward');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1661,'Arianna','','Alexander'),
 	 (1662,'Arianna','','Brooks'),
 	 (1663,'Arianna','','Bryant'),
@@ -1835,7 +1835,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1668,'Arianna','','Gray'),
 	 (1669,'Arianna','','Hayes'),
 	 (1670,'Arianna','','Henderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1671,'Arianna','','Kelly'),
 	 (1672,'Arianna','','Morgan'),
 	 (1673,'Arianna','','Powell'),
@@ -1846,7 +1846,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1678,'Arianna','','Wood'),
 	 (1679,'Arianna','A','Barnes'),
 	 (1680,'Arianna','A','Hughes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1681,'Arianna','A','James'),
 	 (1682,'Arianna','A','Torres'),
 	 (1683,'Arianna','A','Watson'),
@@ -1857,7 +1857,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1688,'Arianna','C','Washington'),
 	 (1689,'Arianna','D','Cox'),
 	 (1690,'Arianna','E','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1691,'Arianna','E','Ross'),
 	 (1692,'Arianna','E','Sanders'),
 	 (1693,'Arianna','G','Bailey'),
@@ -1868,7 +1868,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1698,'Arianna','L','Foster'),
 	 (1699,'Arianna','M','Bell'),
 	 (1700,'Arianna','N','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1701,'Arianna','R','Rivera'),
 	 (1702,'Arianna','S','Gonzales'),
 	 (1703,'Arianna','W','Howard'),
@@ -1879,7 +1879,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1708,'Armando','','Carlson'),
 	 (1709,'Armando','','Gutierrez'),
 	 (1710,'Armando','','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1711,'Armando','','Martin'),
 	 (1712,'Armando','','Moreno'),
 	 (1713,'Armando','','Navarro'),
@@ -1890,7 +1890,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1718,'Armando','A','Romero'),
 	 (1719,'Armando','E','Muñoz'),
 	 (1720,'Armando','F','Blanco');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1721,'Armando','F','Ramos'),
 	 (1722,'Armando','J','Gill'),
 	 (1723,'Armando','K','Ortega'),
@@ -1901,7 +1901,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1728,'Armando','S','Gomez'),
 	 (1729,'Armando','T','Rubio'),
 	 (1730,'Armando','W','Ruiz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1731,'Arno','','Harteveld'),
 	 (1732,'Arthur','','Alvarez'),
 	 (1733,'Arthur','','Blanco'),
@@ -1912,7 +1912,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1738,'Arthur','','Kapoor'),
 	 (1739,'Arthur','','Moreno'),
 	 (1740,'Arthur','','Navarro');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1741,'Arthur','','Perry'),
 	 (1742,'Arthur','','Prasad'),
 	 (1743,'Arthur','','Raman'),
@@ -1923,7 +1923,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1748,'Arthur','','Sanz'),
 	 (1749,'Arthur','','Smith'),
 	 (1750,'Arthur','','Suri');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1751,'Arthur','','Torres'),
 	 (1752,'Arthur','','Vazquez'),
 	 (1753,'Arthur','','Washington'),
@@ -1934,7 +1934,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1758,'Arthur','A','Van'),
 	 (1759,'Arthur','B','Patel'),
 	 (1760,'Arthur','D','Madan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1761,'Arthur','D','Rana'),
 	 (1762,'Arthur','D','Sara'),
 	 (1763,'Arthur','E','Malhotra'),
@@ -1945,7 +1945,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1768,'Arthur','K','Jiménez'),
 	 (1769,'Arthur','L','Chandra'),
 	 (1770,'Arthur','L','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1771,'Arthur','L','Munoz'),
 	 (1772,'Arthur','L','Perez'),
 	 (1773,'Arthur','M','Alonso'),
@@ -1956,7 +1956,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1778,'Arturo','','Anand'),
 	 (1779,'Arturo','','Andersen'),
 	 (1780,'Arturo','','Carson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1781,'Arturo','','Gao'),
 	 (1782,'Arturo','','He'),
 	 (1783,'Arturo','','Huang'),
@@ -1967,7 +1967,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1788,'Arturo','','Luo'),
 	 (1789,'Arturo','','Nara'),
 	 (1790,'Arturo','','Raji');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1791,'Arturo','','Shan'),
 	 (1792,'Arturo','','Sharma'),
 	 (1793,'Arturo','','Shen'),
@@ -1978,7 +1978,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1798,'Arturo','','Zhao'),
 	 (1799,'Arturo','A','Deng'),
 	 (1800,'Arturo','A','Wang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1801,'Arturo','A','Wu'),
 	 (1802,'Arturo','C','Ma'),
 	 (1803,'Arturo','C','Raje'),
@@ -1989,7 +1989,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1808,'Arturo','H','Chande'),
 	 (1809,'Arturo','J','Goel'),
 	 (1810,'Arturo','J','Xie');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1811,'Arturo','K','Guo'),
 	 (1812,'Arturo','M','Cai'),
 	 (1813,'Arturo','M','Zhu'),
@@ -2000,7 +2000,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1818,'Arturo','S','Zeng'),
 	 (1819,'Arturo','T','Jai'),
 	 (1820,'Arturo','T','Rai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1821,'Arturo','V','Chen'),
 	 (1822,'Arturo','V','Zhang'),
 	 (1823,'Arturo','W','Kumar'),
@@ -2011,7 +2011,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1828,'Ashlee','','Deng'),
 	 (1829,'Ashlee','','Goel'),
 	 (1830,'Ashlee','','Jai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1831,'Ashlee','','Luo'),
 	 (1832,'Ashlee','','She'),
 	 (1833,'Ashlee','','Xu'),
@@ -2022,7 +2022,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1838,'Ashlee','D','Tang'),
 	 (1839,'Ashlee','E','Raje'),
 	 (1840,'Ashlee','J','Andersen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1841,'Ashlee','L','Beck'),
 	 (1842,'Ashlee','L','Raji'),
 	 (1843,'Ashlee','M','Kumar'),
@@ -2033,7 +2033,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1848,'Ashley','','Anderson'),
 	 (1849,'Ashley','','Bennett'),
 	 (1850,'Ashley','','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1851,'Ashley','','Davis'),
 	 (1852,'Ashley','','Garcia'),
 	 (1853,'Ashley','','Griffin'),
@@ -2044,7 +2044,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1858,'Ashley','','Martin'),
 	 (1859,'Ashley','','Martinez'),
 	 (1860,'Ashley','','Powell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1861,'Ashley','','Ross'),
 	 (1862,'Ashley','','Russell'),
 	 (1863,'Ashley','','Thompson'),
@@ -2055,7 +2055,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1868,'Ashley','C','Diaz'),
 	 (1869,'Ashley','C','Foster'),
 	 (1870,'Ashley','C','Gonzales');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1871,'Ashley','C','Smith'),
 	 (1872,'Ashley','D','Brown'),
 	 (1873,'Ashley','D','Lee'),
@@ -2066,7 +2066,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1878,'Ashley','F','Moore'),
 	 (1879,'Ashley','G','Williams'),
 	 (1880,'Ashley','H','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1881,'Ashley','H','price'),
 	 (1882,'Ashley','H','Robinson'),
 	 (1883,'Ashley','J','Alexander'),
@@ -2077,7 +2077,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1888,'Ashley','L','Lewis'),
 	 (1889,'Ashley','M','Harris'),
 	 (1890,'Ashley','M','Hughes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1891,'Ashley','P','Hayes'),
 	 (1892,'Ashley','R','Jones'),
 	 (1893,'Ashley','R','Patterson'),
@@ -2088,7 +2088,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1898,'Ashley','V','Miller'),
 	 (1899,'Ashvini','R','Sharma'),
 	 (1900,'Audrey','','Blanco');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1901,'Audrey','','Gomez'),
 	 (1902,'Audrey','','Gutierrez'),
 	 (1903,'Audrey','','Hernandez'),
@@ -2099,7 +2099,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1908,'Audrey','','Sanz'),
 	 (1909,'Audrey','','Serrano'),
 	 (1910,'Audrey','','Suarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1911,'Audrey','','Torres'),
 	 (1912,'Audrey','','Vazquez'),
 	 (1913,'Audrey','A','Carlson'),
@@ -2110,7 +2110,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1918,'Audrey','H','Gill'),
 	 (1919,'Audrey','J','Alonso'),
 	 (1920,'Audrey','L','Alvarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1921,'Audrey','L','Rubio'),
 	 (1922,'Audrey','S','Navarro'),
 	 (1923,'Audrey','S','Romero'),
@@ -2121,7 +2121,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1928,'Austin','','Henderson'),
 	 (1929,'Austin','','Johnson'),
 	 (1930,'Austin','','Jones');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1931,'Austin','','Kumar'),
 	 (1932,'Austin','','Lee'),
 	 (1933,'Austin','','Martinez'),
@@ -2132,7 +2132,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1938,'Austin','','Thompson'),
 	 (1939,'Austin','','Washington'),
 	 (1940,'Austin','','Williams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1941,'Austin','','Zhang'),
 	 (1942,'Austin','A','Wang'),
 	 (1943,'Austin','B','Li'),
@@ -2143,7 +2143,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1948,'Austin','D','Gonzales'),
 	 (1949,'Austin','D','Jenkins'),
 	 (1950,'Austin','E','Anderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1951,'Austin','E','Davis'),
 	 (1952,'Austin','F','Walker'),
 	 (1953,'Austin','H','Long'),
@@ -2154,7 +2154,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1958,'Austin','L','Bryant'),
 	 (1959,'Austin','L','Robinson'),
 	 (1960,'Austin','L','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1961,'Austin','L','Taylor'),
 	 (1962,'Austin','L','White'),
 	 (1963,'Austin','M','Diaz'),
@@ -2165,7 +2165,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1968,'Austin','P','Hughes'),
 	 (1969,'Austin','R','Powell'),
 	 (1970,'Austin','T','Brown');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1971,'Austin','T','Martin'),
 	 (1972,'Austin','V','Chen'),
 	 (1973,'Austin','V','Coleman'),
@@ -2176,7 +2176,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1978,'Autumn','','Lu'),
 	 (1979,'Autumn','','Ma'),
 	 (1980,'Autumn','','Wang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1981,'Autumn','','Wu'),
 	 (1982,'Autumn','','Zeng'),
 	 (1983,'Autumn','','Zhu'),
@@ -2187,7 +2187,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1988,'Autumn','E','Lin'),
 	 (1989,'Autumn','I','Chen'),
 	 (1990,'Autumn','I','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1991,'Autumn','J','Liu'),
 	 (1992,'Autumn','J','Zhao'),
 	 (1993,'Autumn','L','Zhou'),
@@ -2198,7 +2198,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (1998,'Bailey','','Baker'),
 	 (1999,'Bailey','','Carter'),
 	 (2000,'Bailey','','Collins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2001,'Bailey','','Cook'),
 	 (2002,'Bailey','','Cooper'),
 	 (2003,'Bailey','','Evans'),
@@ -2209,7 +2209,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2008,'Bailey','','Phillips'),
 	 (2009,'Bailey','','Rivera'),
 	 (2010,'Bailey','','Rogers');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2011,'Bailey','','Sanchez'),
 	 (2012,'Bailey','','Torres'),
 	 (2013,'Bailey','','Turner'),
@@ -2220,7 +2220,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2018,'Bailey','A','Parker'),
 	 (2019,'Bailey','A','Sanders'),
 	 (2020,'Bailey','A','Scott');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2021,'Bailey','B','Mitchell'),
 	 (2022,'Bailey','C','Hall'),
 	 (2023,'Bailey','D','Cox'),
@@ -2231,7 +2231,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2028,'Bailey','G','Richardson'),
 	 (2029,'Bailey','J','Hernandez'),
 	 (2030,'Bailey','J','Stewart');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2031,'Bailey','L','Hill'),
 	 (2032,'Bailey','L','Ramirez'),
 	 (2033,'Bailey','L','Reed'),
@@ -2242,7 +2242,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2038,'Bailey','R','Kelly'),
 	 (2039,'Bailey','R','Lopez'),
 	 (2040,'Bailey','R','Young');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2041,'Balaganesan','','Swaminathan'),
 	 (2042,'Barbara','','Ashe'),
 	 (2043,'Barbara','','Beck'),
@@ -2253,7 +2253,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2048,'Barbara','','Goel'),
 	 (2049,'Barbara','','Hoffman'),
 	 (2050,'Barbara','','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2051,'Barbara','','Huang'),
 	 (2052,'Barbara','','Li'),
 	 (2053,'Barbara','','Lin'),
@@ -2264,7 +2264,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2058,'Barbara','','Nara'),
 	 (2059,'Barbara','','Raji'),
 	 (2060,'Barbara','','Shen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2061,'Barbara','','Tang'),
 	 (2062,'Barbara','','Xie'),
 	 (2063,'Barbara','','Xu'),
@@ -2275,7 +2275,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2068,'Barbara','','Zheng'),
 	 (2069,'Barbara','','Zhou'),
 	 (2070,'Barbara','A','Cai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2071,'Barbara','A','Liu'),
 	 (2072,'Barbara','A','Ye'),
 	 (2073,'Barbara','C','Moreland'),
@@ -2286,7 +2286,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2078,'Barbara','J','German'),
 	 (2079,'Barbara','J','Rai'),
 	 (2080,'Barbara','K','Jai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2081,'Barbara','K','Wisnewski'),
 	 (2082,'Barbara','M','Chen'),
 	 (2083,'Barbara','M','Wang'),
@@ -2297,7 +2297,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2088,'Barbara','S','Decker'),
 	 (2089,'Barbara','T','Liang'),
 	 (2090,'Barbara','W','Lal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2091,'Baris','','Cetinok'),
 	 (2092,'Baris','F','Cetinok'),
 	 (2093,'Barry','','Arun'),
@@ -2308,7 +2308,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2098,'Barry','','Rana'),
 	 (2099,'Barry','','Sai'),
 	 (2100,'Barry','','Srini');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2101,'Barry','','Suri'),
 	 (2102,'Barry','A','Kovár'),
 	 (2103,'Barry','A','Prasad'),
@@ -2319,7 +2319,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2108,'Barry','J','Patel'),
 	 (2109,'Barry','K','Johnson'),
 	 (2110,'Barry','M','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2111,'Barry','O','Rodriguez'),
 	 (2112,'Barry','R','Lopez'),
 	 (2113,'Barry','R','Sara'),
@@ -2330,7 +2330,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2118,'Ben','','Adams'),
 	 (2119,'Ben','','Hurt'),
 	 (2120,'Ben','','Miller');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2121,'Ben','','Smith'),
 	 (2122,'Ben','T','Miller'),
 	 (2123,'Benjamin','','Anderson'),
@@ -2341,7 +2341,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2128,'Benjamin','','Harris'),
 	 (2129,'Benjamin','','Jai'),
 	 (2130,'Benjamin','','Kumar');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2131,'Benjamin','','Lee'),
 	 (2132,'Benjamin','','Lewis'),
 	 (2133,'Benjamin','','Martin'),
@@ -2352,7 +2352,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2138,'Benjamin','','Ross'),
 	 (2139,'Benjamin','','Shan'),
 	 (2140,'Benjamin','','Taylor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2141,'Benjamin','','Thompson'),
 	 (2142,'Benjamin','','Walker'),
 	 (2143,'Benjamin','','Wilson'),
@@ -2363,7 +2363,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2148,'Benjamin','C','Butler'),
 	 (2149,'Benjamin','C','Davis'),
 	 (2150,'Benjamin','C','Hayes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2151,'Benjamin','C','Jones'),
 	 (2152,'Benjamin','C','Long'),
 	 (2153,'Benjamin','C','Willett'),
@@ -2374,7 +2374,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2158,'Benjamin','D','Washington'),
 	 (2159,'Benjamin','E','Bryant'),
 	 (2160,'Benjamin','E','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2161,'Benjamin','F','Coleman'),
 	 (2162,'Benjamin','F','Powell'),
 	 (2163,'Benjamin','F','Zhang'),
@@ -2385,7 +2385,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2168,'Benjamin','J','Becker'),
 	 (2169,'Benjamin','J','Chen'),
 	 (2170,'Benjamin','J','Jackson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2171,'Benjamin','J','Thomas'),
 	 (2172,'Benjamin','L','Garcia'),
 	 (2173,'Benjamin','L','Robinson'),
@@ -2396,7 +2396,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2178,'Benjamin','R','Martin'),
 	 (2179,'Benjamin','R','Wang'),
 	 (2180,'Bernard','','Duerr');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2181,'Bernard','','Thames'),
 	 (2182,'Beth','','Blanco'),
 	 (2183,'Beth','','Dominguez'),
@@ -2407,7 +2407,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2188,'Beth','','Romero'),
 	 (2189,'Beth','','Rubio'),
 	 (2190,'Beth','','Sanz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2191,'Beth','','Serrano'),
 	 (2192,'Beth','','Torres'),
 	 (2193,'Beth','A','Ortega'),
@@ -2418,7 +2418,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2198,'Beth','H','Jiménez'),
 	 (2199,'Beth','J','Carlson'),
 	 (2200,'Beth','K','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2201,'Beth','K','Stanley'),
 	 (2202,'Beth','K','Suarez'),
 	 (2203,'Beth','L','Hernandez'),
@@ -2429,7 +2429,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2208,'Bethany','','Andersen'),
 	 (2209,'Bethany','','Ashe'),
 	 (2210,'Bethany','','Chande');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2211,'Bethany','','Goel'),
 	 (2212,'Bethany','','Kumar'),
 	 (2213,'Bethany','','Luo'),
@@ -2440,7 +2440,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2218,'Bethany','A','Deng'),
 	 (2219,'Bethany','A','Lal'),
 	 (2220,'Bethany','B','Jai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2221,'Bethany','B','Raje'),
 	 (2222,'Bethany','C','Shen'),
 	 (2223,'Bethany','F','Xu'),
@@ -2451,7 +2451,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2228,'Bethany','L','Raheem'),
 	 (2229,'Bethany','L','Shan'),
 	 (2230,'Bethany','W','Pal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2231,'Betsy','A','Stadick'),
 	 (2232,'Betty','J','Potts'),
 	 (2233,'Betty','M','Haines'),
@@ -2462,7 +2462,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2238,'Bianca','','Hu'),
 	 (2239,'Bianca','','Lin'),
 	 (2240,'Bianca','','Lu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2241,'Bianca','','Ma'),
 	 (2242,'Bianca','','Wang'),
 	 (2243,'Bianca','','Zhao'),
@@ -2473,7 +2473,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2248,'Bianca','D','Zhu'),
 	 (2249,'Bianca','E','Yang'),
 	 (2250,'Bianca','F','Wu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2251,'Bianca','G','Zheng'),
 	 (2252,'Bianca','J','Harrison'),
 	 (2253,'Bianca','J','Huang'),
@@ -2484,7 +2484,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2258,'Billy','','Diaz'),
 	 (2259,'Billy','','Gutierrez'),
 	 (2260,'Billy','','Moreno');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2261,'Billy','','Ortega'),
 	 (2262,'Billy','','Romero'),
 	 (2263,'Billy','','Schmidt'),
@@ -2495,7 +2495,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2268,'Billy','F','Torres'),
 	 (2269,'Billy','J','Munoz'),
 	 (2270,'Billy','J','Trent');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2271,'Billy','L','Gill'),
 	 (2272,'Billy','L','Jiménez'),
 	 (2273,'Billy','L','Rubio'),
@@ -2506,7 +2506,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2278,'Billy','P','Serrano'),
 	 (2279,'Billy','R','Gomez'),
 	 (2280,'Birgit','','Seidel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2281,'Bjorn','M','Rettig'),
 	 (2282,'Blaine','','Dockter'),
 	 (2283,'Blake','','Allen'),
@@ -2517,7 +2517,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2288,'Blake','','Butler'),
 	 (2289,'Blake','','Campbell'),
 	 (2290,'Blake','','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2291,'Blake','','Coleman'),
 	 (2292,'Blake','','Collins'),
 	 (2293,'Blake','','Edwards'),
@@ -2528,7 +2528,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2298,'Blake','','Jenkins'),
 	 (2299,'Blake','','Johnson'),
 	 (2300,'Blake','','Jones');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2301,'Blake','','Lewis'),
 	 (2302,'Blake','','Long'),
 	 (2303,'Blake','','Martin'),
@@ -2539,7 +2539,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2308,'Blake','','Phillips'),
 	 (2309,'Blake','','price'),
 	 (2310,'Blake','','Roberts');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2311,'Blake','','Rodriguez'),
 	 (2312,'Blake','','Simmons'),
 	 (2313,'Blake','','Thompson'),
@@ -2550,7 +2550,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2318,'Blake','A','Barnes'),
 	 (2319,'Blake','A','Russell'),
 	 (2320,'Blake','C','Bryant');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2321,'Blake','C','Gonzales'),
 	 (2322,'Blake','C','Henderson'),
 	 (2323,'Blake','D','Hughes'),
@@ -2561,7 +2561,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2328,'Blake','E','Carter'),
 	 (2329,'Blake','E','Diaz'),
 	 (2330,'Blake','E','Evans');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2331,'Blake','E','Robinson'),
 	 (2332,'Blake','F','Hall'),
 	 (2333,'Blake','G','Hayes'),
@@ -2572,7 +2572,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2338,'Blake','L','Adams'),
 	 (2339,'Blake','M','Gonzalez'),
 	 (2340,'Blake','M','Harris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2341,'Blake','M','Martinez'),
 	 (2342,'Blake','M','Perez'),
 	 (2343,'Blake','M','Ross'),
@@ -2583,7 +2583,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2348,'Blake','R','Walker'),
 	 (2349,'Blake','S','Griffin'),
 	 (2350,'Blake','S','Moore');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2351,'Blake','S','Taylor'),
 	 (2352,'Blake','S','Young'),
 	 (2353,'Blake','T','Washington'),
@@ -2594,7 +2594,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2358,'Bob','','Lopez'),
 	 (2359,'Bob','A','Alan'),
 	 (2360,'Bob','J','Fernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2361,'Bob','M','Kapoor'),
 	 (2362,'Bob','N','Hohman'),
 	 (2363,'Bob','S','Gonzalez'),
@@ -2605,7 +2605,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2368,'Bobby','','Sai'),
 	 (2369,'Bobby','','Van'),
 	 (2370,'Bobby','D','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2371,'Bobby','D','Raman'),
 	 (2372,'Bobby','D','Saunders'),
 	 (2373,'Bobby','J','Sanchez'),
@@ -2616,7 +2616,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2378,'Bonnie','','Goel'),
 	 (2379,'Bonnie','','Jai'),
 	 (2380,'Bonnie','','Kearney');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2381,'Bonnie','','Luo'),
 	 (2382,'Bonnie','','Pal'),
 	 (2383,'Bonnie','','Rai'),
@@ -2627,7 +2627,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2388,'Bonnie','','She'),
 	 (2389,'Bonnie','','Shen'),
 	 (2390,'Bonnie','','Xie');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2391,'Bonnie','A','Beck'),
 	 (2392,'Bonnie','A','Deng'),
 	 (2393,'Bonnie','A','Lal'),
@@ -2638,7 +2638,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2398,'Bonnie','F','Nath'),
 	 (2399,'Bonnie','H','Yuan'),
 	 (2400,'Bonnie','L','Chande');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2401,'Bonnie','L','Skelly'),
 	 (2402,'Bonnie','N','Kearney'),
 	 (2403,'Bonnie','P','Nara'),
@@ -2649,7 +2649,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2408,'Brad','','Kumar'),
 	 (2409,'Brad','','Lal'),
 	 (2410,'Brad','','Nath');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2411,'Brad','','She'),
 	 (2412,'Brad','','Sutton'),
 	 (2413,'Brad','','Tang'),
@@ -2660,7 +2660,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2418,'Brad','D','Xie'),
 	 (2419,'Brad','E','Raje'),
 	 (2420,'Brad','G','Nara');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2421,'Brad','H','Shan'),
 	 (2422,'Brad','J','Sharma'),
 	 (2423,'Brad','K','Chander'),
@@ -2671,7 +2671,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2428,'Brad','S','Pritchett'),
 	 (2429,'Brad','S','Rai'),
 	 (2430,'Brad','S','Yuan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2431,'Bradley','','Anand'),
 	 (2432,'Bradley','','Beck'),
 	 (2433,'Bradley','','Carson'),
@@ -2682,7 +2682,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2438,'Bradley','','Nara'),
 	 (2439,'Bradley','','Rai'),
 	 (2440,'Bradley','','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2441,'Bradley','','Shen'),
 	 (2442,'Bradley','','Tang'),
 	 (2443,'Bradley','','Yuan'),
@@ -2693,7 +2693,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2448,'Bradley','L','Raje'),
 	 (2449,'Bradley','L','She'),
 	 (2450,'Bradley','M','Luo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2451,'Bradley','M','Pal'),
 	 (2452,'Bradley','R','Chande'),
 	 (2453,'Bradley','T','Xu'),
@@ -2704,7 +2704,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2458,'Brandi','','Jiménez'),
 	 (2459,'Brandi','','Navarro'),
 	 (2460,'Brandi','','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2461,'Brandi','','Ruiz'),
 	 (2462,'Brandi','','Serrano'),
 	 (2463,'Brandi','','Suarez'),
@@ -2715,7 +2715,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2468,'Brandi','J','Sanz'),
 	 (2469,'Brandi','L','Blanco'),
 	 (2470,'Brandi','M','Gomez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2471,'Brandi','M','Munoz'),
 	 (2472,'Brandi','M','Ortega'),
 	 (2473,'Brandi','M','Rubio'),
@@ -2726,7 +2726,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2478,'Brandon','','Butler'),
 	 (2479,'Brandon','','Coleman'),
 	 (2480,'Brandon','','Davis');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2481,'Brandon','','Diaz'),
 	 (2482,'Brandon','','Harris'),
 	 (2483,'Brandon','','Hayes'),
@@ -2737,7 +2737,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2488,'Brandon','','Perry'),
 	 (2489,'Brandon','','Powell'),
 	 (2490,'Brandon','','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2491,'Brandon','','Russell'),
 	 (2492,'Brandon','','Sharma'),
 	 (2493,'Brandon','','Simmons'),
@@ -2748,7 +2748,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2498,'Brandon','A','Lewis'),
 	 (2499,'Brandon','A','Smith'),
 	 (2500,'Brandon','C','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2501,'Brandon','C','Jackson'),
 	 (2502,'Brandon','C','Jones'),
 	 (2503,'Brandon','C','Taylor'),
@@ -2759,7 +2759,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2508,'Brandon','E','Washington'),
 	 (2509,'Brandon','G','Heidepriem'),
 	 (2510,'Brandon','J','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2511,'Brandon','J','Johnson'),
 	 (2512,'Brandon','J','Robinson'),
 	 (2513,'Brandon','J','Thompson'),
@@ -2770,7 +2770,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2518,'Brandon','L','Henderson'),
 	 (2519,'Brandon','L','Miller'),
 	 (2520,'Brandon','L','Patterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2521,'Brandon','L','Thomas'),
 	 (2522,'Brandon','M','Long'),
 	 (2523,'Brandon','R','Foster'),
@@ -2781,7 +2781,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2528,'Brandon','T','Moore'),
 	 (2529,'Brandon','V','Garcia'),
 	 (2530,'Brandy','','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2531,'Brandy','','Gonzalez'),
 	 (2532,'Brandy','','Malhotra'),
 	 (2533,'Brandy','','Mehta'),
@@ -2792,7 +2792,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2538,'Brandy','','Subram'),
 	 (2539,'Brandy','','Suri'),
 	 (2540,'Brandy','A','Madan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2541,'Brandy','A','Rana'),
 	 (2542,'Brandy','B','Fernandez'),
 	 (2543,'Brandy','C','Perez'),
@@ -2803,7 +2803,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2548,'Brandy','P','Prasad'),
 	 (2549,'Brandy','S','Lopez'),
 	 (2550,'Brandy','S','Sai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2551,'Brandy','W','Srini'),
 	 (2552,'Brannon','','Jones'),
 	 (2553,'Brenda','','Arun'),
@@ -2814,7 +2814,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2558,'Brenda','','Lopez'),
 	 (2559,'Brenda','','Madan'),
 	 (2560,'Brenda','','Malhotra');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2561,'Brenda','','Perez'),
 	 (2562,'Brenda','','Sanchez'),
 	 (2563,'Brenda','C','Kapoor'),
@@ -2825,7 +2825,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2568,'Brenda','F','Rana'),
 	 (2569,'Brenda','J','Stone'),
 	 (2570,'Brenda','J','Van');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2571,'Brenda','L','Barlow'),
 	 (2572,'Brenda','L','Fernandez'),
 	 (2573,'Brenda','L','Subram'),
@@ -2836,7 +2836,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2578,'Brenda','V','Sai'),
 	 (2579,'Brendan','','Andersen'),
 	 (2580,'Brendan','','Beck');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2581,'Brendan','','Deng'),
 	 (2582,'Brendan','','Goldstein'),
 	 (2583,'Brendan','','Jai'),
@@ -2847,7 +2847,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2588,'Brendan','','Xie'),
 	 (2589,'Brendan','A','Nara'),
 	 (2590,'Brendan','A','Rai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2591,'Brendan','C','Nath'),
 	 (2592,'Brendan','L','Anand'),
 	 (2593,'Brendan','L','Lal'),
@@ -2858,7 +2858,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2598,'Brendan','S','Yuan'),
 	 (2599,'Brendan','V','Shan'),
 	 (2600,'Brent','','Huang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2601,'Brent','','Ma'),
 	 (2602,'Brent','','McDonald'),
 	 (2603,'Brent','','Stone'),
@@ -2869,7 +2869,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2608,'Brent','','Ye'),
 	 (2609,'Brent','','Zhao'),
 	 (2610,'Brent','','Zheng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2611,'Brent','','Zhou'),
 	 (2612,'Brent','','Zhu'),
 	 (2613,'Brent','A','Chen'),
@@ -2880,7 +2880,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2618,'Brent','P','Li'),
 	 (2619,'Brent','R','He'),
 	 (2620,'Brent','R','Lu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2621,'Brent','S','Zeng'),
 	 (2622,'Brett','','Garcia'),
 	 (2623,'Brett','','Lopez'),
@@ -2891,7 +2891,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2628,'Brett','','Sanchez'),
 	 (2629,'Brett','','Van'),
 	 (2630,'Brett','A','Patel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2631,'Brett','A','Prasad'),
 	 (2632,'Brett','B','Subram'),
 	 (2633,'Brett','D','Srini'),
@@ -2902,7 +2902,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2638,'Brett','L','Madan'),
 	 (2639,'Brett','L','Raman'),
 	 (2640,'Brett','L','Rana');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2641,'Brett','M','Perez'),
 	 (2642,'Brett','S','Chandra'),
 	 (2643,'Brett','V','Arun'),
@@ -2913,7 +2913,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2648,'Brian','','Johnson'),
 	 (2649,'Brian','','Lauer'),
 	 (2650,'Brian','','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2651,'Brian','','Peterson'),
 	 (2652,'Brian','','Richardson'),
 	 (2653,'Brian','','Rogers'),
@@ -2924,7 +2924,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2658,'Brian','B','James'),
 	 (2659,'Brian','E','Cox'),
 	 (2660,'Brian','E','Reed');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2661,'Brian','F','Sanchez'),
 	 (2662,'Brian','J','Sanders'),
 	 (2663,'Brian','J','Torres'),
@@ -2935,7 +2935,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2668,'Brian','O','Cook'),
 	 (2669,'Brian','P','LaMee'),
 	 (2670,'Brian','R','Bailey');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2671,'Brian','R','Bell'),
 	 (2672,'Brian','R','Goldstein'),
 	 (2673,'Brian','S','Howard'),
@@ -2946,7 +2946,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2678,'Briana','','Alonso'),
 	 (2679,'Briana','','Ashe'),
 	 (2680,'Briana','','Carlson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2681,'Briana','','Diaz'),
 	 (2682,'Briana','','Dominguez'),
 	 (2683,'Briana','','Munoz'),
@@ -2957,7 +2957,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2688,'Briana','A','Suarez'),
 	 (2689,'Briana','D','Gill'),
 	 (2690,'Briana','J','Gutierrez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2691,'Briana','J','Ramos'),
 	 (2692,'Briana','L','Martin'),
 	 (2693,'Briana','L','Moreno'),
@@ -2968,7 +2968,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2698,'Brianna','','Bailey'),
 	 (2699,'Brianna','','Cooper'),
 	 (2700,'Brianna','','Cox');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2701,'Brianna','','Flores'),
 	 (2702,'Brianna','','Foster'),
 	 (2703,'Brianna','','Gray'),
@@ -2979,7 +2979,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2708,'Brianna','','Jones'),
 	 (2709,'Brianna','','McDonald'),
 	 (2710,'Brianna','','Miller');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2711,'Brianna','','Moore'),
 	 (2712,'Brianna','','Reed'),
 	 (2713,'Brianna','','Robinson'),
@@ -2990,7 +2990,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2718,'Brianna','','Wood'),
 	 (2719,'Brianna','A','Hughes'),
 	 (2720,'Brianna','A','Rivera');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2721,'Brianna','B','Butler'),
 	 (2722,'Brianna','B','Patterson'),
 	 (2723,'Brianna','C','Henderson'),
@@ -3001,7 +3001,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2728,'Brianna','E','Cook'),
 	 (2729,'Brianna','E','Garcia'),
 	 (2730,'Brianna','E','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2731,'Brianna','G','Richardson'),
 	 (2732,'Brianna','H','Lewis'),
 	 (2733,'Brianna','H','Martinez'),
@@ -3012,7 +3012,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2738,'Brianna','J','White'),
 	 (2739,'Brianna','K','Griffin'),
 	 (2740,'Brianna','K','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2741,'Brianna','L','Gonzales'),
 	 (2742,'Brianna','L','Powell'),
 	 (2743,'Brianna','L','Ross'),
@@ -3023,7 +3023,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2748,'Brianna','M','Russell'),
 	 (2749,'Brianna','M','Torres'),
 	 (2750,'Brianna','M','Walker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2751,'Brianna','M','Williams'),
 	 (2752,'Brianna','P','Jenkins'),
 	 (2753,'Brianna','P','Morris'),
@@ -3034,7 +3034,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2758,'Brianna','R','Clark'),
 	 (2759,'Brianna','R','Lee'),
 	 (2760,'Brianna','S','Ward');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2761,'Brianna','T','Sandberg'),
 	 (2762,'Brianna','W','Perry'),
 	 (2763,'Brianna','W','Peterson'),
@@ -3045,7 +3045,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2768,'Bridget','','Kumar'),
 	 (2769,'Bridget','','Pal'),
 	 (2770,'Bridget','','Shan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2771,'Bridget','','Shen'),
 	 (2772,'Bridget','','Tang'),
 	 (2773,'Bridget','','Xu'),
@@ -3056,7 +3056,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2778,'Bridget','E','Browqett'),
 	 (2779,'Bridget','E','Chande'),
 	 (2780,'Bridget','H','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2781,'Bridget','K','Andersen'),
 	 (2782,'Bridget','L','Deng'),
 	 (2783,'Bridget','L','Nara'),
@@ -3067,7 +3067,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2788,'Bridgette','','Lloyd'),
 	 (2789,'Brigid','F','Cavendish'),
 	 (2790,'Britta','','Simon');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2791,'Britta','L','Simon'),
 	 (2792,'Brittany','','Alexander'),
 	 (2793,'Brittany','','Bryant'),
@@ -3078,7 +3078,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2798,'Brittany','','Gonzales'),
 	 (2799,'Brittany','','Hayes'),
 	 (2800,'Brittany','','Hughes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2801,'Brittany','','Perry'),
 	 (2802,'Brittany','','price'),
 	 (2803,'Brittany','','Russell'),
@@ -3089,7 +3089,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2808,'Brittany','J','Bennett'),
 	 (2809,'Brittany','M','Patterson'),
 	 (2810,'Brittany','R','Barnes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2811,'Brittany','R','Foster'),
 	 (2812,'Brittany','W','Griffin'),
 	 (2813,'Brittany','W','Henderson'),
@@ -3100,7 +3100,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2818,'Brittney','','Sun'),
 	 (2819,'Brittney','','Wu'),
 	 (2820,'Brittney','A','Lu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2821,'Brittney','A','Ye'),
 	 (2822,'Brittney','B','Guo'),
 	 (2823,'Brittney','B','Zheng'),
@@ -3111,7 +3111,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2828,'Brittney','E','Zhu'),
 	 (2829,'Brittney','K','Zeng'),
 	 (2830,'Brittney','K','Zhou');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2831,'Brittney','L','Cai'),
 	 (2832,'Brittney','M','Liu'),
 	 (2833,'Brittney','M','She'),
@@ -3122,7 +3122,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2838,'Brooke','','Cooper'),
 	 (2839,'Brooke','','James'),
 	 (2840,'Brooke','','Kelly');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2841,'Brooke','','Morris'),
 	 (2842,'Brooke','','Murphy'),
 	 (2843,'Brooke','','Reed'),
@@ -3133,7 +3133,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2848,'Brooke','','Travers'),
 	 (2849,'Brooke','','Ward'),
 	 (2850,'Brooke','A','Peterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2851,'Brooke','C','Ramirez'),
 	 (2852,'Brooke','D','Howard'),
 	 (2853,'Brooke','H','Bell'),
@@ -3144,7 +3144,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2858,'Brooke','P','Gray'),
 	 (2859,'Brooke','R','Stewart'),
 	 (2860,'Brooke','V','Cook');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2861,'Bruce','','Ashe'),
 	 (2862,'Bruce','','Dominguez'),
 	 (2863,'Bruce','','Gomez'),
@@ -3155,7 +3155,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2868,'Bruce','','Patel'),
 	 (2869,'Bruce','','Prasad'),
 	 (2870,'Bruce','','Raman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2871,'Bruce','','Ramos'),
 	 (2872,'Bruce','','Rodriguez'),
 	 (2873,'Bruce','','Sai'),
@@ -3166,7 +3166,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2878,'Bruce','','Suarez'),
 	 (2879,'Bruce','','Subram'),
 	 (2880,'Bruce','','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2881,'Bruce','B','Garcia'),
 	 (2882,'Bruce','C','Blanco'),
 	 (2883,'Bruce','D','Martin'),
@@ -3177,7 +3177,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2888,'Bruce','E','Jordan'),
 	 (2889,'Bruce','E','Rana'),
 	 (2890,'Bruce','E','Rubio');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2891,'Bruce','F','Moreno'),
 	 (2892,'Bruce','G','Madan'),
 	 (2893,'Bruce','G','Suri'),
@@ -3188,7 +3188,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2898,'Bruce','P','Vazquez'),
 	 (2899,'Bruce','R','Perez'),
 	 (2900,'Bruce','R','Ward');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2901,'Bruce','S','Carlson'),
 	 (2902,'Bruce','S','Gutierrez'),
 	 (2903,'Bruce','T','Arun'),
@@ -3199,7 +3199,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2908,'Bryan','','Cooper'),
 	 (2909,'Bryan','','Cox'),
 	 (2910,'Bryan','','Hamilton');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2911,'Bryan','','Howard'),
 	 (2912,'Bryan','','Kelly'),
 	 (2913,'Bryan','','Morgan'),
@@ -3210,7 +3210,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2918,'Bryan','','Sanchez'),
 	 (2919,'Bryan','','Townsend'),
 	 (2920,'Bryan','','Walton');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2921,'Bryan','A','Walton'),
 	 (2922,'Bryan','C','Bell'),
 	 (2923,'Bryan','D','Morris'),
@@ -3221,7 +3221,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2928,'Bryan','M','Stewart'),
 	 (2929,'Bryan','T','Sanders'),
 	 (2930,'Bryant','','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2931,'Bryant','','Kapoor'),
 	 (2932,'Bryant','','Lopez'),
 	 (2933,'Bryant','','Martinez'),
@@ -3232,7 +3232,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2938,'Bryant','C','Malhotra'),
 	 (2939,'Bryant','C','Mehta'),
 	 (2940,'Bryant','C','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2941,'Bryant','E','Suri'),
 	 (2942,'Bryant','G','Chapman'),
 	 (2943,'Bryant','K','Sara'),
@@ -3243,7 +3243,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2948,'Bryant','R','Rodriguez'),
 	 (2949,'Bryant','S','Raman'),
 	 (2950,'Bryant','S','Sai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2951,'Bryce','','Brooks'),
 	 (2952,'Bryce','','Cook'),
 	 (2953,'Bryce','','Cox'),
@@ -3254,7 +3254,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2958,'Bryce','','Richardson'),
 	 (2959,'Bryce','','Rivera'),
 	 (2960,'Bryce','','Rogers');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2961,'Bryce','','Watson'),
 	 (2962,'Bryce','A','Sanders'),
 	 (2963,'Bryce','B','Stewart'),
@@ -3265,7 +3265,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2968,'Bryce','I','Torres'),
 	 (2969,'Bryce','J','Morgan'),
 	 (2970,'Bryce','L','Bailey');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2971,'Bryce','O','Bell'),
 	 (2972,'Bryce','R','Murphy'),
 	 (2973,'Byron','','Carlson'),
@@ -3276,7 +3276,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2978,'Byron','','Ortega'),
 	 (2979,'Byron','','Ramos'),
 	 (2980,'Byron','','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2981,'Byron','','Rubio'),
 	 (2982,'Byron','','Sanz'),
 	 (2983,'Byron','','Vazquez'),
@@ -3287,7 +3287,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2988,'Byron','K','Gutierrez'),
 	 (2989,'Byron','R','Suarez'),
 	 (2990,'Caitlin','','Bailey');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2991,'Caitlin','','Brooks'),
 	 (2992,'Caitlin','','Cooper'),
 	 (2993,'Caitlin','','Cox'),
@@ -3298,7 +3298,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (2998,'Caitlin','','Stewart'),
 	 (2999,'Caitlin','','Ward'),
 	 (3000,'Caitlin','A','Howard');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3001,'Caitlin','A','Reed'),
 	 (3002,'Caitlin','C','Bell'),
 	 (3003,'Caitlin','C','Morgan'),
@@ -3309,7 +3309,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3008,'Caitlin','L','Rivera'),
 	 (3009,'Caitlin','M','Sanchez'),
 	 (3010,'Caitlin','T','Richardson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3011,'Caitlin','V','James'),
 	 (3012,'Caleb','','Alexander'),
 	 (3013,'Caleb','','Butler'),
@@ -3320,7 +3320,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3018,'Caleb','','Gonzalez'),
 	 (3019,'Caleb','','Griffin'),
 	 (3020,'Caleb','','Hayes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3021,'Caleb','','Henderson'),
 	 (3022,'Caleb','','Jenkins'),
 	 (3023,'Caleb','','Li'),
@@ -3331,7 +3331,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3028,'Caleb','','Perry'),
 	 (3029,'Caleb','','Roberts'),
 	 (3030,'Caleb','','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3031,'Caleb','','Russell'),
 	 (3032,'Caleb','','Scott'),
 	 (3033,'Caleb','','Turner'),
@@ -3342,7 +3342,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3038,'Caleb','A','Gonzales'),
 	 (3039,'Caleb','A','Hernandez'),
 	 (3040,'Caleb','A','Parker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3041,'Caleb','A','Shan'),
 	 (3042,'Caleb','C','Young'),
 	 (3043,'Caleb','D','Coleman'),
@@ -3353,7 +3353,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3048,'Caleb','J','King'),
 	 (3049,'Caleb','J','Kumar'),
 	 (3050,'Caleb','K','Mitchell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3051,'Caleb','M','Allen'),
 	 (3052,'Caleb','M','Hall'),
 	 (3053,'Caleb','M','Hughes'),
@@ -3364,7 +3364,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3058,'Caleb','R','Sharma'),
 	 (3059,'Caleb','S','Diaz'),
 	 (3060,'Caleb','S','Evans');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3061,'Caleb','S','Flores'),
 	 (3062,'Caleb','S','Phillips'),
 	 (3063,'Caleb','W','Hill'),
@@ -3375,7 +3375,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3068,'Calvin','','Nath'),
 	 (3069,'Calvin','','Rai'),
 	 (3070,'Calvin','','Shan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3071,'Calvin','','Yuan'),
 	 (3072,'Calvin','A','Raji'),
 	 (3073,'Calvin','A','Sharma'),
@@ -3386,7 +3386,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3078,'Calvin','E','Xu'),
 	 (3079,'Calvin','G','Sutton'),
 	 (3080,'Calvin','J','Goel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3081,'Calvin','J','Nara'),
 	 (3082,'Calvin','L','Kumar'),
 	 (3083,'Calvin','S','Jai'),
@@ -3397,7 +3397,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3088,'Cameron','','Coleman'),
 	 (3089,'Cameron','','Diaz'),
 	 (3090,'Cameron','','Flores');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3091,'Cameron','','Garcia'),
 	 (3092,'Cameron','','Griffin'),
 	 (3093,'Cameron','','Harris'),
@@ -3408,7 +3408,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3098,'Cameron','','Perry'),
 	 (3099,'Cameron','','Powell'),
 	 (3100,'Cameron','','White');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3101,'Cameron','','Wilson'),
 	 (3102,'Cameron','','Yang'),
 	 (3103,'Cameron','A','Hughes'),
@@ -3419,7 +3419,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3108,'Cameron','D','Russell'),
 	 (3109,'Cameron','E','Thomas'),
 	 (3110,'Cameron','F','Jai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3111,'Cameron','F','Zhang'),
 	 (3112,'Cameron','H','Jackson'),
 	 (3113,'Cameron','J','Chen'),
@@ -3430,7 +3430,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3118,'Cameron','L','Gonzales'),
 	 (3119,'Cameron','L','Lee'),
 	 (3120,'Cameron','L','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3121,'Cameron','L','Sharma'),
 	 (3122,'Cameron','M','Jones'),
 	 (3123,'Cameron','M','Lal'),
@@ -3441,7 +3441,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3128,'Cameron','M','Smith'),
 	 (3129,'Cameron','M','Thompson'),
 	 (3130,'Cameron','M','Walker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3131,'Cameron','R','Johnson'),
 	 (3132,'Cameron','S','Kumar'),
 	 (3133,'Cameron','T','Taylor'),
@@ -3452,7 +3452,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3138,'Candace','','Fernandez'),
 	 (3139,'Candace','','Gonzalez'),
 	 (3140,'Candace','','Kapoor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3141,'Candace','','Madan'),
 	 (3142,'Candace','','Mehta'),
 	 (3143,'Candace','','Perez'),
@@ -3463,7 +3463,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3148,'Candace','D','Patel'),
 	 (3149,'Candace','G','Martinez'),
 	 (3150,'Candace','J','Arun');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3151,'Candace','J','Malhotra'),
 	 (3152,'Candace','L','Rana'),
 	 (3153,'Candace','L','Sanchez'),
@@ -3474,7 +3474,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3158,'Candice','','Chow'),
 	 (3159,'Candice','','Guo'),
 	 (3160,'Candice','','He');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3161,'Candice','','Hu'),
 	 (3162,'Candice','','Liang'),
 	 (3163,'Candice','','Liu'),
@@ -3485,7 +3485,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3168,'Candice','A','Sun'),
 	 (3169,'Candice','E','Zeng'),
 	 (3170,'Candice','I','Lu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3171,'Candice','J','Huang'),
 	 (3172,'Candice','J','Zhang'),
 	 (3173,'Candice','J','Zimmerman'),
@@ -3496,7 +3496,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3178,'Candice','S','Zhu'),
 	 (3179,'Candice','W','Xu'),
 	 (3180,'Candy','L','Spoon');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3181,'Cara','','Hu'),
 	 (3182,'Cara','','Li'),
 	 (3183,'Cara','','Lin'),
@@ -3507,7 +3507,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3188,'Cara','','Xu'),
 	 (3189,'Cara','','Zeng'),
 	 (3190,'Cara','','Zhang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3191,'Cara','','Zhou'),
 	 (3192,'Cara','B','Gao'),
 	 (3193,'Cara','E','Sun'),
@@ -3518,7 +3518,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3198,'Cara','L','Zheng'),
 	 (3199,'Cara','M','Liang'),
 	 (3200,'Cara','R','Guo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3201,'Carina','','Stanev'),
 	 (3202,'Carl','','Anand'),
 	 (3203,'Carl','','Chande'),
@@ -3529,7 +3529,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3208,'Carl','','Luo'),
 	 (3209,'Carl','','Raji'),
 	 (3210,'Carl','','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3211,'Carl','','Tang'),
 	 (3212,'Carl','A','She'),
 	 (3213,'Carl','C','Lal'),
@@ -3540,7 +3540,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3218,'Carl','K','Nara'),
 	 (3219,'Carl','L','Shen'),
 	 (3220,'Carl','M','Beck');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3221,'Carl','P','Yuan'),
 	 (3222,'Carl','R','Xie'),
 	 (3223,'Carl','S','Goel'),
@@ -3551,7 +3551,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3228,'Carla','','Martinez'),
 	 (3229,'Carla','','Patel'),
 	 (3230,'Carla','','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3231,'Carla','','Prasad'),
 	 (3232,'Carla','','Sanchez'),
 	 (3233,'Carla','','Srini'),
@@ -3562,7 +3562,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3238,'Carla','D','Madan'),
 	 (3239,'Carla','G','Lopez'),
 	 (3240,'Carla','J','Adams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3241,'Carla','J','Gonzalez'),
 	 (3242,'Carla','J','Zubaty'),
 	 (3243,'Carla','K','Rana'),
@@ -3573,7 +3573,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3248,'Carla','W','Malhotra'),
 	 (3249,'Carlos','','Adams'),
 	 (3250,'Carlos','','Bailey');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3251,'Carlos','','Baker'),
 	 (3252,'Carlos','','Bell'),
 	 (3253,'Carlos','','Brooks'),
@@ -3584,7 +3584,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3258,'Carlos','','Hall'),
 	 (3259,'Carlos','','Hernandez'),
 	 (3260,'Carlos','','Hill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3261,'Carlos','','Howard'),
 	 (3262,'Carlos','','James'),
 	 (3263,'Carlos','','Lopez'),
@@ -3595,7 +3595,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3268,'Carlos','','Roberts'),
 	 (3269,'Carlos','','Rogers'),
 	 (3270,'Carlos','','Sanders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3271,'Carlos','','Scott'),
 	 (3272,'Carlos','','Ward'),
 	 (3273,'Carlos','','Watson'),
@@ -3606,7 +3606,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3278,'Carlos','C','Kelly'),
 	 (3279,'Carlos','C','Parker'),
 	 (3280,'Carlos','C','Rivera');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3281,'Carlos','D','Phillips'),
 	 (3282,'Carlos','E','Campbell'),
 	 (3283,'Carlos','E','Reed'),
@@ -3617,7 +3617,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3288,'Carlos','J','Morris'),
 	 (3289,'Carlos','K','Wright'),
 	 (3290,'Carlos','L','Cox');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3291,'Carlos','M','Allen'),
 	 (3292,'Carlos','M','King'),
 	 (3293,'Carlos','M','Perez'),
@@ -3628,7 +3628,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3298,'Carlos','S','Cooper'),
 	 (3299,'Carlos','W','Sanchez'),
 	 (3300,'Carlton','M','Carlisle');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3301,'Carly','','Anand'),
 	 (3302,'Carly','','Beck'),
 	 (3303,'Carly','','Jai'),
@@ -3639,7 +3639,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3308,'Carly','','Yuan'),
 	 (3309,'Carly','A','Andersen'),
 	 (3310,'Carly','A','Tang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3311,'Carly','C','Chander'),
 	 (3312,'Carly','C','Goel'),
 	 (3313,'Carly','E','Deng'),
@@ -3650,7 +3650,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3318,'Carly','L','Lal'),
 	 (3319,'Carly','L','Raji'),
 	 (3320,'Carly','R','Kumar');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3321,'Carly','R','Xie'),
 	 (3322,'Carmen','','Kim'),
 	 (3323,'Carmen','','Malhotra'),
@@ -3661,7 +3661,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3328,'Carmen','E','Suri'),
 	 (3329,'Carmen','F','Stone'),
 	 (3330,'Carmen','G','Raman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3331,'Carmen','J','Garcia'),
 	 (3332,'Carmen','J','Subram'),
 	 (3333,'Carmen','L','Prasad'),
@@ -3672,7 +3672,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3338,'Carmen','V','Madan'),
 	 (3339,'Carmen','W','Sara'),
 	 (3340,'Carol','','Nelson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3341,'Carol','','Perry'),
 	 (3342,'Carol','','Philips'),
 	 (3343,'Carol','','Robinson'),
@@ -3683,7 +3683,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3348,'Carol','A','Torres'),
 	 (3349,'Carol','B','Elliott'),
 	 (3350,'Carol','C','Rai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3351,'Carol','C','Wright'),
 	 (3352,'Carol','D','Cooper'),
 	 (3353,'Carol','D','Martinez'),
@@ -3694,7 +3694,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3358,'Carol','K','Washington'),
 	 (3359,'Carol','L','Cox'),
 	 (3360,'Carol','L','Patterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3361,'Carol','L','Simmons'),
 	 (3362,'Carol','L','Zhou'),
 	 (3363,'Carol','M','Philips'),
@@ -3705,7 +3705,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3368,'Carole','','Poland'),
 	 (3369,'Carole','M','Poland'),
 	 (3370,'Carolee','J','Brown');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3371,'Caroline','','Alexander'),
 	 (3372,'Caroline','','Barnes'),
 	 (3373,'Caroline','','Bennett'),
@@ -3716,7 +3716,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3378,'Caroline','','Foster'),
 	 (3379,'Caroline','','Gonzales'),
 	 (3380,'Caroline','','Griffin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3381,'Caroline','','Henderson'),
 	 (3382,'Caroline','','Long'),
 	 (3383,'Caroline','','Perry'),
@@ -3727,7 +3727,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3388,'Caroline','A','Patterson'),
 	 (3389,'Caroline','A','Vicknair'),
 	 (3390,'Caroline','C','Hughes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3391,'Caroline','D','Washington'),
 	 (3392,'Caroline','L','Bryant'),
 	 (3393,'Caroline','L','Russell'),
@@ -3738,7 +3738,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3398,'Carolyn','','Garcia'),
 	 (3399,'Carolyn','','Gill'),
 	 (3400,'Carolyn','','Madan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3401,'Carolyn','','Mehta'),
 	 (3402,'Carolyn','','Moreno'),
 	 (3403,'Carolyn','','Navarro'),
@@ -3749,7 +3749,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3408,'Carolyn','','Sanchez'),
 	 (3409,'Carolyn','','Sanz'),
 	 (3410,'Carolyn','','Subram');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3411,'Carolyn','','Torres'),
 	 (3412,'Carolyn','','Van'),
 	 (3413,'Carolyn','','Vazquez'),
@@ -3760,7 +3760,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3418,'Carolyn','A','Serrano'),
 	 (3419,'Carolyn','B','Perez'),
 	 (3420,'Carolyn','B','Suarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3421,'Carolyn','C','Alvarez'),
 	 (3422,'Carolyn','C','Diaz'),
 	 (3423,'Carolyn','F','Dominguez'),
@@ -3771,7 +3771,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3428,'Carolyn','M','Kapoor'),
 	 (3429,'Carolyn','M','Malhotra'),
 	 (3430,'Carolyn','M','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3431,'Carolyn','M','Ruiz'),
 	 (3432,'Carolyn','S','Carlson'),
 	 (3433,'Carolyn','S','Chandra'),
@@ -3782,7 +3782,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3438,'Carrie','','Alonso'),
 	 (3439,'Carrie','','Carlson'),
 	 (3440,'Carrie','','Gill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3441,'Carrie','','Gomez'),
 	 (3442,'Carrie','','Jiménez'),
 	 (3443,'Carrie','','Romero'),
@@ -3793,7 +3793,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3448,'Carrie','D','Ruiz'),
 	 (3449,'Carrie','E','Diaz'),
 	 (3450,'Carrie','E','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3451,'Carrie','G','Browning'),
 	 (3452,'Carrie','L','Ortega'),
 	 (3453,'Carrie','L','Serrano'),
@@ -3804,7 +3804,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3458,'Carson','','Barnes'),
 	 (3459,'Carson','','Bryant'),
 	 (3460,'Carson','','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3461,'Carson','','Diaz'),
 	 (3462,'Carson','','Henderson'),
 	 (3463,'Carson','','Hughes'),
@@ -3815,7 +3815,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3468,'Carson','','Washington'),
 	 (3469,'Carson','A','Hayes'),
 	 (3470,'Carson','A','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3471,'Carson','C','Perry'),
 	 (3472,'Carson','G','Alexander'),
 	 (3473,'Carson','J','Flores'),
@@ -3826,7 +3826,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3478,'Carson','L','Patterson'),
 	 (3479,'Carson','S','Jenkins'),
 	 (3480,'Carson','T','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3481,'Casey','','Andersen'),
 	 (3482,'Casey','','Browning'),
 	 (3483,'Casey','','Chande'),
@@ -3837,7 +3837,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3488,'Casey','','Jiménez'),
 	 (3489,'Casey','','Luo'),
 	 (3490,'Casey','','Moreno');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3491,'Casey','','Nath'),
 	 (3492,'Casey','','Navarro'),
 	 (3493,'Casey','','Pal'),
@@ -3848,7 +3848,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3498,'Casey','','Xie'),
 	 (3499,'Casey','A','Alvarez'),
 	 (3500,'Casey','A','Raje');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3501,'Casey','A','Rubio'),
 	 (3502,'Casey','A','Sharma'),
 	 (3503,'Casey','C','Chander'),
@@ -3859,7 +3859,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3508,'Casey','C','Ramos'),
 	 (3509,'Casey','C','Shan'),
 	 (3510,'Casey','C','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3511,'Casey','D','Ortega'),
 	 (3512,'Casey','D','Shen'),
 	 (3513,'Casey','E','Alonso'),
@@ -3870,7 +3870,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3518,'Casey','I','Hernandez'),
 	 (3519,'Casey','J','Martin'),
 	 (3520,'Casey','J','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3521,'Casey','K','Yuan'),
 	 (3522,'Casey','M','Rai'),
 	 (3523,'Casey','O','Serrano'),
@@ -3881,7 +3881,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3528,'Cassandra','','Chandra'),
 	 (3529,'Cassandra','','Garcia'),
 	 (3530,'Cassandra','','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3531,'Cassandra','','Kapoor'),
 	 (3532,'Cassandra','','Lopez'),
 	 (3533,'Cassandra','','Mehta'),
@@ -3892,7 +3892,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3538,'Cassandra','A','Martinez'),
 	 (3539,'Cassandra','B','Suri'),
 	 (3540,'Cassandra','C','Fernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3541,'Cassandra','D','Madan'),
 	 (3542,'Cassandra','D','Prasad'),
 	 (3543,'Cassandra','D','Sara'),
@@ -3903,7 +3903,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3548,'Cassandra','R','Sai'),
 	 (3549,'Cassandra','S','Srini'),
 	 (3550,'Cassandra','T','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3551,'Cassidy','','Alexander'),
 	 (3552,'Cassidy','','Barnes'),
 	 (3553,'Cassidy','','Bryant'),
@@ -3914,7 +3914,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3558,'Cassidy','','Hayes'),
 	 (3559,'Cassidy','','Henderson'),
 	 (3560,'Cassidy','','Hughes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3561,'Cassidy','','Long'),
 	 (3562,'Cassidy','','Perry'),
 	 (3563,'Cassidy','','Powell'),
@@ -3925,7 +3925,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3568,'Cassidy','A','price'),
 	 (3569,'Cassidy','C','Gonzales'),
 	 (3570,'Cassidy','G','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3571,'Cassidy','L','Butler'),
 	 (3572,'Cassidy','L','Flores'),
 	 (3573,'Cassidy','L','Jenkins'),
@@ -3936,7 +3936,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3578,'Cassie','','Goel'),
 	 (3579,'Cassie','','Lal'),
 	 (3580,'Cassie','','Luo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3581,'Cassie','','Nara'),
 	 (3582,'Cassie','','Nath'),
 	 (3583,'Cassie','','Raje'),
@@ -3947,7 +3947,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3588,'Cassie','A','Sharma'),
 	 (3589,'Cassie','E','Jai'),
 	 (3590,'Cassie','J','Yuan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3591,'Cassie','L','Deng'),
 	 (3592,'Cassie','M','Anand'),
 	 (3593,'Cassie','M','Chander'),
@@ -3958,7 +3958,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3598,'Catherine','','Kelly'),
 	 (3599,'Catherine','','Morris'),
 	 (3600,'Catherine','','Peterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3601,'Catherine','','Richardson'),
 	 (3602,'Catherine','','Rivera'),
 	 (3603,'Catherine','','Sanchez'),
@@ -3969,7 +3969,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3608,'Catherine','A','Morgan'),
 	 (3609,'Catherine','A','Rogers'),
 	 (3610,'Catherine','C','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3611,'Catherine','E','Ramirez'),
 	 (3612,'Catherine','J','Brooks'),
 	 (3613,'Catherine','K','Cox'),
@@ -3980,7 +3980,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3618,'Catherine','R','Abel'),
 	 (3619,'Catherine','S','Howard'),
 	 (3620,'Cathy','J','Sloan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3621,'Cecelia','L','Marshall'),
 	 (3622,'Cecil','J','Allison'),
 	 (3623,'Cecilia','M','Laursen'),
@@ -3991,7 +3991,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3628,'Cedric','','Liu'),
 	 (3629,'Cedric','','Pal'),
 	 (3630,'Cedric','','Rai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3631,'Cedric','','Raji'),
 	 (3632,'Cedric','','Shen'),
 	 (3633,'Cedric','','Sun'),
@@ -4002,7 +4002,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3638,'Cedric','','Zeng'),
 	 (3639,'Cedric','','Zhou'),
 	 (3640,'Cedric','A','Gao');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3641,'Cedric','A','Sharma'),
 	 (3642,'Cedric','B','Kumar'),
 	 (3643,'Cedric','C','Lin'),
@@ -4013,7 +4013,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3648,'Cedric','H','Shan'),
 	 (3649,'Cedric','J','Chande'),
 	 (3650,'Cedric','K','Ye');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3651,'Cedric','L','Beck'),
 	 (3652,'Cedric','L','Xie'),
 	 (3653,'Cedric','M','Nara'),
@@ -4024,7 +4024,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3658,'Cedric','R','Guo'),
 	 (3659,'Cedric','R','Liang'),
 	 (3660,'Cedric','R','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3661,'Cedric','T','Zhu'),
 	 (3662,'Cedric','V','Zheng'),
 	 (3663,'Cedric','W','He'),
@@ -4035,7 +4035,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3668,'Cesar','','Martinez'),
 	 (3669,'Cesar','','Prasad'),
 	 (3670,'Cesar','','Sai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3671,'Cesar','','Srini'),
 	 (3672,'Cesar','','Suri'),
 	 (3673,'Cesar','C','McDonald'),
@@ -4046,7 +4046,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3678,'Cesar','J','Mehta'),
 	 (3679,'Cesar','L','Garcia'),
 	 (3680,'Cesar','L','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3681,'Cesar','L','Rana'),
 	 (3682,'Cesar','L','Rodriguez'),
 	 (3683,'Cesar','L','Subram'),
@@ -4057,7 +4057,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3688,'Chad','','Anand'),
 	 (3689,'Chad','','Deng'),
 	 (3690,'Chad','','Goel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3691,'Chad','','Kumar'),
 	 (3692,'Chad','','Nath'),
 	 (3693,'Chad','','Raji'),
@@ -4068,7 +4068,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3698,'Chad','A','Xie'),
 	 (3699,'Chad','C','Jai'),
 	 (3700,'Chad','C','Yuan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3701,'Chad','J','Andersen'),
 	 (3702,'Chad','J','Sharma'),
 	 (3703,'Chad','J','Tedford'),
@@ -4079,7 +4079,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3708,'Chad','R','Luo'),
 	 (3709,'Chad','S','Lal'),
 	 (3710,'Chad','W','Niswonger');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3711,'Charlene','J','Wojcik'),
 	 (3712,'Charles','','Allen'),
 	 (3713,'Charles','','Baker'),
@@ -4090,7 +4090,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3718,'Charles','','Green'),
 	 (3719,'Charles','','Hall'),
 	 (3720,'Charles','','Howard');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3721,'Charles','','James'),
 	 (3722,'Charles','','Johnston'),
 	 (3723,'Charles','','Jones'),
@@ -4101,7 +4101,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3728,'Charles','','Perez'),
 	 (3729,'Charles','','Peterson'),
 	 (3730,'Charles','','Phillips');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3731,'Charles','','Reed'),
 	 (3732,'Charles','','Rivera'),
 	 (3733,'Charles','','Rogers'),
@@ -4112,7 +4112,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3738,'Charles','','Ward'),
 	 (3739,'Charles','','Weisman'),
 	 (3740,'Charles','','Williams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3741,'Charles','A','Wilson'),
 	 (3742,'Charles','B','Brooks'),
 	 (3743,'Charles','B','Collins'),
@@ -4123,7 +4123,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3748,'Charles','D','Martinez'),
 	 (3749,'Charles','D','Robinson'),
 	 (3750,'Charles','E','Harris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3751,'Charles','E','Rodriguez'),
 	 (3752,'Charles','E','Sanders'),
 	 (3753,'Charles','F','Stewart'),
@@ -4134,7 +4134,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3758,'Charles','J','Gonzalez'),
 	 (3759,'Charles','J','Ramirez'),
 	 (3760,'Charles','J','Strange');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3761,'Charles','J','Thompson'),
 	 (3762,'Charles','K','Clark'),
 	 (3763,'Charles','K','Cox'),
@@ -4145,7 +4145,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3768,'Charles','M','Christensen'),
 	 (3769,'Charles','M','Garcia'),
 	 (3770,'Charles','M','Gray');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3771,'Charles','M','Lewis'),
 	 (3772,'Charles','M','Murphy'),
 	 (3773,'Charles','M','Scott'),
@@ -4156,7 +4156,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3778,'Charles','R','Carter'),
 	 (3779,'Charles','S','Torres'),
 	 (3780,'Charles','T','Anderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3781,'Charles','W','Sanchez'),
 	 (3782,'Charles','W','Watson'),
 	 (3783,'Chase','','Bell'),
@@ -4167,7 +4167,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3788,'Chase','','Rivera'),
 	 (3789,'Chase','','Rogers'),
 	 (3790,'Chase','','Sandberg');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3791,'Chase','','Stewart'),
 	 (3792,'Chase','','Watson'),
 	 (3793,'Chase','A','Brooks'),
@@ -4178,7 +4178,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3798,'Chase','E','Bailey'),
 	 (3799,'Chase','E','Kelly'),
 	 (3800,'Chase','F','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3801,'Chase','J','Gray'),
 	 (3802,'Chase','J','James'),
 	 (3803,'Chase','J','Murphy'),
@@ -4189,7 +4189,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3808,'Chelsea','','Jordan'),
 	 (3809,'Chelsea','','Lopez'),
 	 (3810,'Chelsea','','Mehta');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3811,'Chelsea','','Rodriguez'),
 	 (3812,'Chelsea','','Sai'),
 	 (3813,'Chelsea','','Sanchez'),
@@ -4200,7 +4200,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3818,'Chelsea','E','Gonzalez'),
 	 (3819,'Chelsea','J','Fernandez'),
 	 (3820,'Chelsea','K','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3821,'Chelsea','L','Suri'),
 	 (3822,'Chelsea','M','Arun'),
 	 (3823,'Chelsea','M','Prasad'),
@@ -4211,7 +4211,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3828,'Chelsea','S','Martinez'),
 	 (3829,'Chelsea','S','Sara'),
 	 (3830,'Chelsea','S','Srini');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3831,'Cheryl','','Blanco'),
 	 (3832,'Cheryl','','Hernandez'),
 	 (3833,'Cheryl','','Jiménez'),
@@ -4222,7 +4222,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3838,'Cheryl','A','Diaz'),
 	 (3839,'Cheryl','A','Moreno'),
 	 (3840,'Cheryl','A','Ramos');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3841,'Cheryl','A','Romero'),
 	 (3842,'Cheryl','A','Vazquez'),
 	 (3843,'Cheryl','C','Martin'),
@@ -4233,7 +4233,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3848,'Cheryl','J','Serrano'),
 	 (3849,'Cheryl','L','Alan'),
 	 (3850,'Cheryl','M','Carlson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3851,'Cheryl','M','Dominguez'),
 	 (3852,'Cheryl','M','Herring'),
 	 (3853,'Cheryl','O','Gutierrez'),
@@ -4244,7 +4244,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3858,'Chloe','','Baker'),
 	 (3859,'Chloe','','Bell'),
 	 (3860,'Chloe','','Campbell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3861,'Chloe','','Carter'),
 	 (3862,'Chloe','','Cox'),
 	 (3863,'Chloe','','Diaz'),
@@ -4255,7 +4255,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3868,'Chloe','','Harris'),
 	 (3869,'Chloe','','Henderson'),
 	 (3870,'Chloe','','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3871,'Chloe','','Jones'),
 	 (3872,'Chloe','','Long'),
 	 (3873,'Chloe','','Patterson'),
@@ -4266,7 +4266,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3878,'Chloe','','Roberts'),
 	 (3879,'Chloe','','Sanchez'),
 	 (3880,'Chloe','','Smith');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3881,'Chloe','','Turner'),
 	 (3882,'Chloe','','Wright'),
 	 (3883,'Chloe','','Young'),
@@ -4277,7 +4277,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3888,'Chloe','A','Williams'),
 	 (3889,'Chloe','A','Wilson'),
 	 (3890,'Chloe','C','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3891,'Chloe','C','Peterson'),
 	 (3892,'Chloe','C','Rodriguez'),
 	 (3893,'Chloe','C','Sanders'),
@@ -4288,7 +4288,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3898,'Chloe','E','Butler'),
 	 (3899,'Chloe','E','Hall'),
 	 (3900,'Chloe','E','Nelson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3901,'Chloe','E','Perez'),
 	 (3902,'Chloe','F','Flores'),
 	 (3903,'Chloe','F','Robinson'),
@@ -4299,7 +4299,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3908,'Chloe','J','Jackson'),
 	 (3909,'Chloe','J','Lee'),
 	 (3910,'Chloe','J','Parker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3911,'Chloe','J','Powell'),
 	 (3912,'Chloe','K','Clark'),
 	 (3913,'Chloe','K','Mitchell'),
@@ -4310,7 +4310,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3918,'Chloe','L','Hall'),
 	 (3919,'Chloe','L','Johnson'),
 	 (3920,'Chloe','L','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3921,'Chloe','L','Moore'),
 	 (3922,'Chloe','L','Morgan'),
 	 (3923,'Chloe','L','Ross'),
@@ -4321,7 +4321,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3928,'Chloe','M','Kelly'),
 	 (3929,'Chloe','M','Rogers'),
 	 (3930,'Chloe','M','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3931,'Chloe','M','Thompson'),
 	 (3932,'Chloe','M','Walker'),
 	 (3933,'Chloe','O','Watson'),
@@ -4332,7 +4332,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3938,'Chloe','R','Taylor'),
 	 (3939,'Chloe','S','Howard'),
 	 (3940,'Chloe','V','Miller');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3941,'Chloe','W','Jenkins'),
 	 (3942,'Chloe','W','King'),
 	 (3943,'Chloe','W','Washington'),
@@ -4343,7 +4343,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3948,'Chris','','McGurk'),
 	 (3949,'Chris','','Nicholls'),
 	 (3950,'Chris','K','Norred');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3951,'Chris','N','Bidelman'),
 	 (3952,'Chris','O','Okelberry'),
 	 (3953,'Chris','T','Preston'),
@@ -4354,7 +4354,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3958,'Christian','','Gonzales'),
 	 (3959,'Christian','','Griffin'),
 	 (3960,'Christian','','Henderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3961,'Christian','','Kleinerman'),
 	 (3962,'Christian','','Long'),
 	 (3963,'Christian','','Perry'),
@@ -4365,7 +4365,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3968,'Christian','','Taylor'),
 	 (3969,'Christian','','Walker'),
 	 (3970,'Christian','','Wang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3971,'Christian','','Williams'),
 	 (3972,'Christian','','Wilson'),
 	 (3973,'Christian','','Yang'),
@@ -4376,7 +4376,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3978,'Christian','C','Alexander'),
 	 (3979,'Christian','C','Davis'),
 	 (3980,'Christian','C','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3981,'Christian','D','Chen'),
 	 (3982,'Christian','D','Zhang'),
 	 (3983,'Christian','E','Flores'),
@@ -4387,7 +4387,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3988,'Christian','J','Harris'),
 	 (3989,'Christian','J','Hughes'),
 	 (3990,'Christian','L','Jackson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3991,'Christian','L','Kumar'),
 	 (3992,'Christian','L','Shan'),
 	 (3993,'Christian','L','Smith'),
@@ -4398,7 +4398,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (3998,'Christian','P','Martinez'),
 	 (3999,'Christian','R','Hayes'),
 	 (4000,'Christian','R','Lee');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4001,'Christian','R','Rodriguez'),
 	 (4002,'Christian','R','Washington'),
 	 (4003,'Christian','S','Johnson'),
@@ -4409,7 +4409,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4008,'Christie','','Moon'),
 	 (4009,'Christie','J','Trujillo'),
 	 (4010,'Christina','','Bell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4011,'Christina','','Cook'),
 	 (4012,'Christina','','Cox'),
 	 (4013,'Christina','','Howard'),
@@ -4420,7 +4420,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4018,'Christina','','Reed'),
 	 (4019,'Christina','','Richardson'),
 	 (4020,'Christina','','Sanders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4021,'Christina','','Watson'),
 	 (4022,'Christina','A','Bailey'),
 	 (4023,'Christina','C','Cooper'),
@@ -4431,7 +4431,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4028,'Christina','M','Ramirez'),
 	 (4029,'Christina','M','Torres'),
 	 (4030,'Christina','R','Stewart');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4031,'Christina','S','Sanchez'),
 	 (4032,'Christina','W','Brooks'),
 	 (4033,'Christine','','Beck'),
@@ -4442,7 +4442,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4038,'Christine','','Yuan'),
 	 (4039,'Christine','A','Andersen'),
 	 (4040,'Christine','A','Goel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4041,'Christine','D','Stone'),
 	 (4042,'Christine','I','Pal'),
 	 (4043,'Christine','J','Jai'),
@@ -4453,7 +4453,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4048,'Christine','R','Shan'),
 	 (4049,'Christine','W','Raje'),
 	 (4050,'Christinia','A','McDonald');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4051,'Christopher','','Anderson'),
 	 (4052,'Christopher','','Garcia'),
 	 (4053,'Christopher','','Johnson'),
@@ -4464,7 +4464,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4058,'Christopher','A','Harris'),
 	 (4059,'Christopher','A','Robinson'),
 	 (4060,'Christopher','B','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4061,'Christopher','C','Brown'),
 	 (4062,'Christopher','C','Jackson'),
 	 (4063,'Christopher','E','Hill'),
@@ -4475,7 +4475,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4068,'Christopher','F','Martinez'),
 	 (4069,'Christopher','J','Jones'),
 	 (4070,'Christopher','J','Moore');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4071,'Christopher','L','Walker'),
 	 (4072,'Christopher','M','Bright'),
 	 (4073,'Christopher','M','Davis'),
@@ -4486,7 +4486,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4078,'Christopher','R','White'),
 	 (4079,'Christy','','Chande'),
 	 (4080,'Christy','','Goel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4081,'Christy','','Huang'),
 	 (4082,'Christy','','Li'),
 	 (4083,'Christy','','Liu'),
@@ -4497,7 +4497,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4088,'Christy','','Rai'),
 	 (4089,'Christy','','Raje'),
 	 (4090,'Christy','','Raji');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4091,'Christy','','Sun'),
 	 (4092,'Christy','','Wang'),
 	 (4093,'Christy','','Ye'),
@@ -4508,7 +4508,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4098,'Christy','A','Beck'),
 	 (4099,'Christy','A','Zimmerman'),
 	 (4100,'Christy','C','Cai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4101,'Christy','C','Lal'),
 	 (4102,'Christy','C','Xie'),
 	 (4103,'Christy','D','Gao'),
@@ -4519,7 +4519,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4108,'Christy','I','Liang'),
 	 (4109,'Christy','J','Deng'),
 	 (4110,'Christy','J','Kumar');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4111,'Christy','L','Zeng'),
 	 (4112,'Christy','M','Chow'),
 	 (4113,'Christy','M','McDonald'),
@@ -4530,7 +4530,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4118,'Christy','U','Nath'),
 	 (4119,'Ciam','','Sawyer'),
 	 (4120,'Cindy','','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4121,'Cindy','','Gonzalez'),
 	 (4122,'Cindy','','James'),
 	 (4123,'Cindy','','Jordan'),
@@ -4541,7 +4541,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4128,'Cindy','','Suri'),
 	 (4129,'Cindy','','Weber'),
 	 (4130,'Cindy','A','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4131,'Cindy','A','Gray'),
 	 (4132,'Cindy','A','Mehta'),
 	 (4133,'Cindy','A','Patel'),
@@ -4552,7 +4552,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4138,'Cindy','E','Srini'),
 	 (4139,'Cindy','G','Ramos'),
 	 (4140,'Cindy','K','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4141,'Cindy','L','Lopez'),
 	 (4142,'Cindy','L','Subram'),
 	 (4143,'Cindy','M','Dodd'),
@@ -4563,7 +4563,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4148,'Ciro','J','Bauer'),
 	 (4149,'Clair','','Hector'),
 	 (4150,'Claire','','O''Donnell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4151,'Clarence','','Andersen'),
 	 (4152,'Clarence','','Goel'),
 	 (4153,'Clarence','','Guo'),
@@ -4574,7 +4574,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4158,'Clarence','','Liu'),
 	 (4159,'Clarence','','Nath'),
 	 (4160,'Clarence','','Pal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4161,'Clarence','','Shan'),
 	 (4162,'Clarence','','Xie'),
 	 (4163,'Clarence','','Xu'),
@@ -4585,7 +4585,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4168,'Clarence','A','Sharma'),
 	 (4169,'Clarence','A','Zhu'),
 	 (4170,'Clarence','C','Huang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4171,'Clarence','D','Rai'),
 	 (4172,'Clarence','D','Yang'),
 	 (4173,'Clarence','D','Yuan'),
@@ -4596,7 +4596,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4178,'Clarence','L','Cai'),
 	 (4179,'Clarence','L','Lal'),
 	 (4180,'Clarence','L','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4181,'Clarence','L','Wu'),
 	 (4182,'Clarence','L','Zeng'),
 	 (4183,'Clarence','M','Anand'),
@@ -4607,7 +4607,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4188,'Clarence','R','Chen'),
 	 (4189,'Clarence','R','Tatman'),
 	 (4190,'Clarence','R','Zhao');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4191,'Clarence','S','Jai'),
 	 (4192,'Clarence','W','Deng'),
 	 (4193,'Claudia','','Gao'),
@@ -4618,7 +4618,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4198,'Claudia','','Zheng'),
 	 (4199,'Claudia','A','Lin'),
 	 (4200,'Claudia','C','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4201,'Claudia','E','Ma'),
 	 (4202,'Claudia','E','McDonald'),
 	 (4203,'Claudia','E','Zhao'),
@@ -4629,7 +4629,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4208,'Claudia','J','Ye'),
 	 (4209,'Claudia','M','Huang'),
 	 (4210,'Claudia','M','Zeng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4211,'Claudia','M','Zhou'),
 	 (4212,'Claudia','R','Chen'),
 	 (4213,'Claudia','R','Guo'),
@@ -4640,7 +4640,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4218,'Clayton','','Chavez'),
 	 (4219,'Clayton','','Goel'),
 	 (4220,'Clayton','','He');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4221,'Clayton','','Jai'),
 	 (4222,'Clayton','','Kumar'),
 	 (4223,'Clayton','','Nara'),
@@ -4651,7 +4651,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4228,'Clayton','','She'),
 	 (4229,'Clayton','','Stone'),
 	 (4230,'Clayton','','Sun');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4231,'Clayton','','Tang'),
 	 (4232,'Clayton','','Xie'),
 	 (4233,'Clayton','','Xu'),
@@ -4662,7 +4662,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4238,'Clayton','A','Chen'),
 	 (4239,'Clayton','A','Ye'),
 	 (4240,'Clayton','C','Gao');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4241,'Clayton','C','Yang'),
 	 (4242,'Clayton','D','Sharma'),
 	 (4243,'Clayton','E','Liang'),
@@ -4673,7 +4673,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4248,'Clayton','K','Rai'),
 	 (4249,'Clayton','L','Liu'),
 	 (4250,'Clayton','L','Lu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4251,'Clayton','L','Wagner'),
 	 (4252,'Clayton','M','Lin'),
 	 (4253,'Clayton','M','Zhu'),
@@ -4684,7 +4684,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4258,'Clifford','','Gonzalez'),
 	 (4259,'Clifford','','Martinez'),
 	 (4260,'Clifford','','Mehta');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4261,'Clifford','','Prasad'),
 	 (4262,'Clifford','','Rodriguez'),
 	 (4263,'Clifford','','Sai'),
@@ -4695,7 +4695,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4268,'Clifford','A','Weber'),
 	 (4269,'Clifford','C','Chapman'),
 	 (4270,'Clifford','E','Fernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4271,'Clifford','E','Lopez'),
 	 (4272,'Clifford','F','Subram'),
 	 (4273,'Clifford','G','Malhotra'),
@@ -4706,7 +4706,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4278,'Clinton','','Alvarez'),
 	 (4279,'Clinton','','Dominguez'),
 	 (4280,'Clinton','','Gill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4281,'Clinton','','Gutierrez'),
 	 (4282,'Clinton','','Hernandez'),
 	 (4283,'Clinton','','Navarro'),
@@ -4717,7 +4717,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4288,'Clinton','D','Jiménez'),
 	 (4289,'Clinton','E','Carlson'),
 	 (4290,'Clinton','F','Munoz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4291,'Clinton','F','Romero'),
 	 (4292,'Clinton','H','Moreno'),
 	 (4293,'Clinton','J','Blanco'),
@@ -4728,7 +4728,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4298,'Cody','','Morgan'),
 	 (4299,'Cody','','Murphy'),
 	 (4300,'Cody','','Reed');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4301,'Cody','','Richardson'),
 	 (4302,'Cody','','Sanchez'),
 	 (4303,'Cody','','Torres'),
@@ -4739,7 +4739,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4308,'Cody','A','James'),
 	 (4309,'Cody','A','Morris'),
 	 (4310,'Cody','A','Stewart');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4311,'Cody','C','Gray'),
 	 (4312,'Cody','F','Rogers'),
 	 (4313,'Cody','G','Bailey'),
@@ -4750,7 +4750,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4318,'Cole','','Bell'),
 	 (4319,'Cole','','Brooks'),
 	 (4320,'Cole','','Gray');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4321,'Cole','','Murphy'),
 	 (4322,'Cole','','Reed'),
 	 (4323,'Cole','','Richardson'),
@@ -4761,7 +4761,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4328,'Cole','A','Watson'),
 	 (4329,'Cole','C','Cooper'),
 	 (4330,'Cole','D','Morgan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4331,'Cole','D','Morris'),
 	 (4332,'Cole','E','Ramirez'),
 	 (4333,'Cole','J','Kelly'),
@@ -4772,7 +4772,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4338,'Cole','Q','Bailey'),
 	 (4339,'Cole','R','Rivera'),
 	 (4340,'Cole','S','James');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4341,'Cole','W','Cook'),
 	 (4342,'Colin','','Andersen'),
 	 (4343,'Colin','','Cai'),
@@ -4783,7 +4783,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4348,'Colin','','Kumar'),
 	 (4349,'Colin','','Liang'),
 	 (4350,'Colin','','Lin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4351,'Colin','','Liu'),
 	 (4352,'Colin','','Ma'),
 	 (4353,'Colin','','Pal'),
@@ -4794,7 +4794,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4358,'Colin','','Xie'),
 	 (4359,'Colin','','Xu'),
 	 (4360,'Colin','','Ye');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4361,'Colin','','Yuan'),
 	 (4362,'Colin','','Zeng'),
 	 (4363,'Colin','','Zhou'),
@@ -4805,7 +4805,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4368,'Colin','C','Xu'),
 	 (4369,'Colin','D','Zhao'),
 	 (4370,'Colin','F','Chen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4371,'Colin','G','Anand'),
 	 (4372,'Colin','G','Goel'),
 	 (4373,'Colin','H','Lu'),
@@ -4816,7 +4816,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4378,'Colin','L','Luo'),
 	 (4379,'Colin','M','Lal'),
 	 (4380,'Colin','M','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4381,'Colin','M','Zheng'),
 	 (4382,'Colin','N','Nath'),
 	 (4383,'Colin','P','Chander'),
@@ -4827,7 +4827,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4388,'Colleen','','Gao'),
 	 (4389,'Colleen','','Goel'),
 	 (4390,'Colleen','','Jai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4391,'Colleen','','Lu'),
 	 (4392,'Colleen','','Nath'),
 	 (4393,'Colleen','','Rai'),
@@ -4838,7 +4838,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4398,'Colleen','','Xu'),
 	 (4399,'Colleen','','Yang'),
 	 (4400,'Colleen','','Zheng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4401,'Colleen','','Zhou'),
 	 (4402,'Colleen','','Zhu'),
 	 (4403,'Colleen','A','Guo'),
@@ -4849,7 +4849,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4408,'Colleen','C','Sun'),
 	 (4409,'Colleen','C','West'),
 	 (4410,'Colleen','C','Xie');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4411,'Colleen','C','Xu'),
 	 (4412,'Colleen','D','Shan'),
 	 (4413,'Colleen','E','Lin'),
@@ -4860,7 +4860,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4418,'Colleen','J','Beck'),
 	 (4419,'Colleen','J','Cai'),
 	 (4420,'Colleen','J','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4421,'Colleen','L','Andersen'),
 	 (4422,'Colleen','L','Harrison'),
 	 (4423,'Colleen','L','Nara'),
@@ -4871,7 +4871,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4428,'Colleen','M','Yuan'),
 	 (4429,'Colleen','N','Anand'),
 	 (4430,'Colleen','Q','Liang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4431,'Colleen','R','Kumar'),
 	 (4432,'Colleen','S','Deng'),
 	 (4433,'Colleen','S','Huang'),
@@ -4882,7 +4882,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4438,'Connie','R','Liang'),
 	 (4439,'Connor','','Adams'),
 	 (4440,'Connor','','Allen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4441,'Connor','','Baker'),
 	 (4442,'Connor','','Bryant'),
 	 (4443,'Connor','','Butler'),
@@ -4893,7 +4893,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4448,'Connor','','Hayes'),
 	 (4449,'Connor','','Henderson'),
 	 (4450,'Connor','','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4451,'Connor','','Jenkins'),
 	 (4452,'Connor','','King'),
 	 (4453,'Connor','','Li'),
@@ -4904,7 +4904,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4458,'Connor','','Russell'),
 	 (4459,'Connor','','Simmons'),
 	 (4460,'Connor','','Turner');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4461,'Connor','','Washington'),
 	 (4462,'Connor','','Wright'),
 	 (4463,'Connor','','Yang'),
@@ -4915,7 +4915,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4468,'Connor','D','Jai'),
 	 (4469,'Connor','E','Hall'),
 	 (4470,'Connor','E','Phillips');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4471,'Connor','G','Alexander'),
 	 (4472,'Connor','G','Kumar'),
 	 (4473,'Connor','J','Collins'),
@@ -4926,7 +4926,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4478,'Connor','K','Campbell'),
 	 (4479,'Connor','L','Hill'),
 	 (4480,'Connor','L','Mitchell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4481,'Connor','M','Chen'),
 	 (4482,'Connor','M','Gonzales'),
 	 (4483,'Connor','M','Powell'),
@@ -4937,7 +4937,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4488,'Connor','S','Hughes'),
 	 (4489,'Connor','W','Roberts'),
 	 (4490,'Conor','','Cunningham');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4491,'Constance','J','Posner'),
 	 (4492,'Constance','J','Remmington'),
 	 (4493,'Corey','','Deng'),
@@ -4948,7 +4948,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4498,'Corey','','Pal'),
 	 (4499,'Corey','','Raje'),
 	 (4500,'Corey','','Raji');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4501,'Corey','','Shen'),
 	 (4502,'Corey','','Tang'),
 	 (4503,'Corey','','Yuan'),
@@ -4959,7 +4959,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4508,'Corey','J','Xie'),
 	 (4509,'Corey','M','Sharma'),
 	 (4510,'Corey','R','Chavez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4511,'Corey','T','Andersen'),
 	 (4512,'Corey','T','She'),
 	 (4513,'Corinna','','Bolender'),
@@ -4970,7 +4970,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4518,'Cory','','Prasad'),
 	 (4519,'Cory','','Raman'),
 	 (4520,'Cory','','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4521,'Cory','','Weber'),
 	 (4522,'Cory','A','Martinez'),
 	 (4523,'Cory','A','Mehta'),
@@ -4981,7 +4981,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4528,'Cory','E','Rana'),
 	 (4529,'Cory','E','Sai'),
 	 (4530,'Cory','J','Chandra');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4531,'Cory','J','Patel'),
 	 (4532,'Cory','J','Suri'),
 	 (4533,'Cory','K','Booth'),
@@ -4992,7 +4992,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4538,'Courtney','','Carter'),
 	 (4539,'Courtney','','Gonzalez'),
 	 (4540,'Courtney','','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4541,'Courtney','','Hill'),
 	 (4542,'Courtney','','Lopez'),
 	 (4543,'Courtney','','Mitchell'),
@@ -5003,7 +5003,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4548,'Courtney','A','Edwards'),
 	 (4549,'Courtney','A','Turner'),
 	 (4550,'Courtney','B','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4551,'Courtney','C','Adams'),
 	 (4552,'Courtney','D','Wright'),
 	 (4553,'Courtney','L','Evans'),
@@ -5014,7 +5014,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4558,'Craig','','Blanco'),
 	 (4559,'Craig','','Dewer'),
 	 (4560,'Craig','','Gutierrez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4561,'Craig','','Jiménez'),
 	 (4562,'Craig','','Navarro'),
 	 (4563,'Craig','','Ortega'),
@@ -5025,7 +5025,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4568,'Craig','','Suarez'),
 	 (4569,'Craig','','Vazquez'),
 	 (4570,'Craig','A','Alonso');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4571,'Craig','C','Ruiz'),
 	 (4572,'Craig','D','Gomez'),
 	 (4573,'Craig','G','Carlson'),
@@ -5036,7 +5036,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4578,'Craig','R','Gill'),
 	 (4579,'Craig','V','Munoz'),
 	 (4580,'Cristian','','Petculescu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4581,'Cristian','B','Osorio'),
 	 (4582,'Cristian','K','Petculescu'),
 	 (4583,'Cristina','','Chande'),
@@ -5047,7 +5047,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4588,'Cristina','','Xu'),
 	 (4589,'Cristina','A','Anand'),
 	 (4590,'Cristina','C','Xie');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4591,'Cristina','D','Tang'),
 	 (4592,'Cristina','E','Raji'),
 	 (4593,'Cristina','J','Beck'),
@@ -5058,7 +5058,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4598,'Cristina','M','She'),
 	 (4599,'Cristina','N','Kumar'),
 	 (4600,'Cristina','R','Jai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4601,'Cristina','R','Nara'),
 	 (4602,'Cristina','S','Raje'),
 	 (4603,'Crystal','','Guo'),
@@ -5069,7 +5069,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4608,'Crystal','','Zhao'),
 	 (4609,'Crystal','','Zheng'),
 	 (4610,'Crystal','A','Lu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4611,'Crystal','A','Yang'),
 	 (4612,'Crystal','A','Zhang'),
 	 (4613,'Crystal','C','Wang'),
@@ -5080,7 +5080,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4618,'Crystal','J','Liang'),
 	 (4619,'Crystal','L','Cai'),
 	 (4620,'Crystal','L','Huang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4621,'Crystal','L','Li'),
 	 (4622,'Crystal','M','Chen'),
 	 (4623,'Crystal','S','He'),
@@ -5091,7 +5091,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4628,'Curtis','','She'),
 	 (4629,'Curtis','','Yang'),
 	 (4630,'Curtis','','Zhou');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4631,'Curtis','A','Wang'),
 	 (4632,'Curtis','D','Gao'),
 	 (4633,'Curtis','D','He'),
@@ -5102,7 +5102,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4638,'Curtis','L','Liu'),
 	 (4639,'Curtis','M','Xu'),
 	 (4640,'Curtis','N','Lin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4641,'Curtis','O','Guo'),
 	 (4642,'Curtis','O','Wu'),
 	 (4643,'Curtis','P','Howard'),
@@ -5113,7 +5113,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4648,'Cynthia','','Gonzalez'),
 	 (4649,'Cynthia','','Kapoor'),
 	 (4650,'Cynthia','','Madan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4651,'Cynthia','','Malhotra'),
 	 (4652,'Cynthia','','Martinez'),
 	 (4653,'Cynthia','','Mehta'),
@@ -5124,7 +5124,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4658,'Cynthia','','Suri'),
 	 (4659,'Cynthia','','Weber'),
 	 (4660,'Cynthia','A','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4661,'Cynthia','A','Subram'),
 	 (4662,'Cynthia','D','Lopez'),
 	 (4663,'Cynthia','E','Rodriguez'),
@@ -5135,7 +5135,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4668,'Cynthia','L','Rana'),
 	 (4669,'Cynthia','M','Patel'),
 	 (4670,'Cynthia','P','Raman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4671,'Cynthia','S','Randall'),
 	 (4672,'Cynthia','S','Sanchez'),
 	 (4673,'Daisuke','','Yanagishima'),
@@ -5146,7 +5146,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4678,'Daisy','','Munoz'),
 	 (4679,'Daisy','','Navarro'),
 	 (4680,'Daisy','','Ortega');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4681,'Daisy','','Ramos'),
 	 (4682,'Daisy','','Sanz'),
 	 (4683,'Daisy','A','Rubio'),
@@ -5157,7 +5157,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4688,'Daisy','L','Vazquez'),
 	 (4689,'Daisy','M','Romero'),
 	 (4690,'Daisy','P','Alvarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4691,'Daisy','P','Serrano'),
 	 (4692,'Dakota','','Alexander'),
 	 (4693,'Dakota','','Barnes'),
@@ -5168,7 +5168,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4698,'Dakota','','Perry'),
 	 (4699,'Dakota','','Ross'),
 	 (4700,'Dakota','A','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4701,'Dakota','D','Bradley'),
 	 (4702,'Dakota','D','Jenkins'),
 	 (4703,'Dakota','L','Bryant'),
@@ -5179,7 +5179,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4708,'Dakota','N','Wood'),
 	 (4709,'Dakota','T','Gonzales'),
 	 (4710,'Dakota','T','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4711,'Dale','','Chander'),
 	 (4712,'Dale','','Deng'),
 	 (4713,'Dale','','Lal'),
@@ -5190,7 +5190,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4718,'Dale','','Yuan'),
 	 (4719,'Dale','A','Anand'),
 	 (4720,'Dale','A','Tang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4721,'Dale','B','Andersen'),
 	 (4722,'Dale','B','Nath'),
 	 (4723,'Dale','C','Holt'),
@@ -5201,7 +5201,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4728,'Dale','L','She'),
 	 (4729,'Dale','M','Goel'),
 	 (4730,'Dale','M','Luo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4731,'Dale','R','Beck'),
 	 (4732,'Dalton','','Adams'),
 	 (4733,'Dalton','','Alexander'),
@@ -5212,7 +5212,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4738,'Dalton','','Flores'),
 	 (4739,'Dalton','','Gonzales'),
 	 (4740,'Dalton','','Gray');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4741,'Dalton','','Green'),
 	 (4742,'Dalton','','Hall'),
 	 (4743,'Dalton','','Henderson'),
@@ -5223,7 +5223,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4748,'Dalton','','Johnson'),
 	 (4749,'Dalton','','Lewis'),
 	 (4750,'Dalton','','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4751,'Dalton','','Morris'),
 	 (4752,'Dalton','','Nicholls'),
 	 (4753,'Dalton','','Parker'),
@@ -5234,7 +5234,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4758,'Dalton','','Russell'),
 	 (4759,'Dalton','','Sanders'),
 	 (4760,'Dalton','','Scott');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4761,'Dalton','','Simmons'),
 	 (4762,'Dalton','','Taylor'),
 	 (4763,'Dalton','','Thomas'),
@@ -5245,7 +5245,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4768,'Dalton','A','Butler'),
 	 (4769,'Dalton','A','Hernandez'),
 	 (4770,'Dalton','A','Patterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4771,'Dalton','A','Perry'),
 	 (4772,'Dalton','A','Rogers'),
 	 (4773,'Dalton','A','Williams'),
@@ -5256,7 +5256,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4778,'Dalton','C','Campbell'),
 	 (4779,'Dalton','C','Hayes'),
 	 (4780,'Dalton','C','Powell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4781,'Dalton','C','Sanchez'),
 	 (4782,'Dalton','D','Miller'),
 	 (4783,'Dalton','E','Cook'),
@@ -5267,7 +5267,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4788,'Dalton','E','Hughes'),
 	 (4789,'Dalton','E','Rivera'),
 	 (4790,'Dalton','I','Carter');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4791,'Dalton','J','Lee'),
 	 (4792,'Dalton','J','Martin'),
 	 (4793,'Dalton','J','Rodriguez'),
@@ -5278,7 +5278,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4798,'Dalton','L','Morgan'),
 	 (4799,'Dalton','L','Stewart'),
 	 (4800,'Dalton','M','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4801,'Dalton','M','Collins'),
 	 (4802,'Dalton','M','Garcia'),
 	 (4803,'Dalton','M','Martinez'),
@@ -5289,7 +5289,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4808,'Dalton','N','Murphy'),
 	 (4809,'Dalton','N','Wright'),
 	 (4810,'Dalton','P','Bailey');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4811,'Dalton','P','Clark'),
 	 (4812,'Dalton','P','Watson'),
 	 (4813,'Dalton','R','Mitchell'),
@@ -5300,7 +5300,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4818,'Dalton','R','Young'),
 	 (4819,'Dalton','S','Walker'),
 	 (4820,'Dalton','S','Wood');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4821,'Dalton','T','Jones'),
 	 (4822,'Dalton','W','Lopez'),
 	 (4823,'Dalton','W','Richardson'),
@@ -5311,7 +5311,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4828,'Damien','','Huang'),
 	 (4829,'Damien','','Jai'),
 	 (4830,'Damien','','Lal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4831,'Damien','','Ma'),
 	 (4832,'Damien','','Stone'),
 	 (4833,'Damien','','Tang'),
@@ -5322,7 +5322,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4838,'Damien','A','Chen'),
 	 (4839,'Damien','A','Deng'),
 	 (4840,'Damien','A','Sun');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4841,'Damien','A','Zheng'),
 	 (4842,'Damien','C','Shen'),
 	 (4843,'Damien','C','Zhang'),
@@ -5333,7 +5333,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4848,'Damien','L','Li'),
 	 (4849,'Damien','L','Lin'),
 	 (4850,'Damien','L','Luo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4851,'Damien','M','Liang'),
 	 (4852,'Damien','M','Liu'),
 	 (4853,'Damien','M','Lu'),
@@ -5344,7 +5344,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4858,'Damien','M','Zhu'),
 	 (4859,'Damien','S','Raje'),
 	 (4860,'Damien','S','Zhao');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4861,'Damien','W','Nara'),
 	 (4862,'Damien','W','Rai'),
 	 (4863,'Damon','A','Taylor'),
@@ -5355,7 +5355,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4868,'Dan','B','Wilson'),
 	 (4869,'Dan','K','Bacon'),
 	 (4870,'Dana','','Alvarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4871,'Dana','','Gomez'),
 	 (4872,'Dana','','Gutierrez'),
 	 (4873,'Dana','','Jiménez'),
@@ -5366,7 +5366,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4878,'Dana','A','Torres'),
 	 (4879,'Dana','B','Dominguez'),
 	 (4880,'Dana','C','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4881,'Dana','D','Moreno'),
 	 (4882,'Dana','D','Ramos'),
 	 (4883,'Dana','H','Burnell'),
@@ -5377,7 +5377,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4888,'Dana','L','Blanco'),
 	 (4889,'Dana','M','Gill'),
 	 (4890,'Dana','M','Ruiz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4891,'Dana','M','Suarez'),
 	 (4892,'Dana','M','Vazquez'),
 	 (4893,'Dana','S','Schmidt'),
@@ -5388,7 +5388,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4898,'Daniel','','Jackson'),
 	 (4899,'Daniel','','Johnson'),
 	 (4900,'Daniel','','Lee');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4901,'Daniel','','Martin'),
 	 (4902,'Daniel','','Shimshoni'),
 	 (4903,'Daniel','','Thomas'),
@@ -5399,7 +5399,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4908,'Daniel','J','Weisman'),
 	 (4909,'Daniel','K','Wilson'),
 	 (4910,'Daniel','L','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4911,'Daniel','L','Moore'),
 	 (4912,'Daniel','P','Martinez'),
 	 (4913,'Daniel','P','Taylor'),
@@ -5410,7 +5410,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4918,'Daniel','V','Miller'),
 	 (4919,'Daniel','W','Lewis'),
 	 (4920,'Danielle','','Bell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4921,'Danielle','','Brooks'),
 	 (4922,'Danielle','','Cox'),
 	 (4923,'Danielle','','Howard'),
@@ -5421,7 +5421,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4928,'Danielle','','Ramirez'),
 	 (4929,'Danielle','','Richardson'),
 	 (4930,'Danielle','','Rivera');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4931,'Danielle','','Rogers'),
 	 (4932,'Danielle','','Sanchez'),
 	 (4933,'Danielle','','Tiedt'),
@@ -5432,7 +5432,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4938,'Danielle','C','Reed'),
 	 (4939,'Danielle','C','Tiedt'),
 	 (4940,'Danielle','G','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4941,'Danielle','J','Cooper'),
 	 (4942,'Danielle','J','Sanders'),
 	 (4943,'Danielle','L','Peterson'),
@@ -5443,7 +5443,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4948,'Danny','','Alvarez'),
 	 (4949,'Danny','','Blanco'),
 	 (4950,'Danny','','Carlson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4951,'Danny','','Hernandez'),
 	 (4952,'Danny','','Jiménez'),
 	 (4953,'Danny','','Martin'),
@@ -5454,7 +5454,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4958,'Danny','','Ruiz'),
 	 (4959,'Danny','','Serrano'),
 	 (4960,'Danny','','Suarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4961,'Danny','','Travers'),
 	 (4962,'Danny','C','Diaz'),
 	 (4963,'Danny','J','Navarro'),
@@ -5465,7 +5465,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4968,'Danny','M','Moreno'),
 	 (4969,'Danny','M','Schmidt'),
 	 (4970,'Danny','S','Alonso');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4971,'Danny','V','Gomez'),
 	 (4972,'Darin','','Lockert'),
 	 (4973,'Darrell','','Andersen'),
@@ -5476,7 +5476,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4978,'Darrell','','Raje'),
 	 (4979,'Darrell','','Yuan'),
 	 (4980,'Darrell','A','Deng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4981,'Darrell','C','Chander'),
 	 (4982,'Darrell','C','Rai'),
 	 (4983,'Darrell','J','Beck'),
@@ -5487,7 +5487,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4988,'Darrell','L','Kumar'),
 	 (4989,'Darrell','M','Anand'),
 	 (4990,'Darrell','M','Banks');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4991,'Darrell','M','Pal'),
 	 (4992,'Darrell','T','Jai'),
 	 (4993,'Darrell','T','Raji'),
@@ -5498,7 +5498,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (4998,'Darren','','Chandra'),
 	 (4999,'Darren','','Diaz'),
 	 (5000,'Darren','','Fernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5001,'Darren','','Garcia'),
 	 (5002,'Darren','','Gehring'),
 	 (5003,'Darren','','Gonzalez'),
@@ -5509,7 +5509,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5008,'Darren','','Munoz'),
 	 (5009,'Darren','','Prasad'),
 	 (5010,'Darren','','Ramos');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5011,'Darren','','Rubio'),
 	 (5012,'Darren','','Sanchez'),
 	 (5013,'Darren','','Schmidt'),
@@ -5520,7 +5520,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5018,'Darren','A','Gutierrez'),
 	 (5019,'Darren','A','Hernandez'),
 	 (5020,'Darren','A','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5021,'Darren','A','Ruiz'),
 	 (5022,'Darren','A','Saunders'),
 	 (5023,'Darren','A','Weber'),
@@ -5531,7 +5531,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5028,'Darren','E','Navarro'),
 	 (5029,'Darren','E','Sai'),
 	 (5030,'Darren','I','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5031,'Darren','K','Raman'),
 	 (5032,'Darren','L','Malhotra'),
 	 (5033,'Darren','M','Dominguez'),
@@ -5542,7 +5542,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5038,'Darren','W','Jiménez'),
 	 (5039,'Darryl','','Gao'),
 	 (5040,'Darryl','','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5041,'Darryl','','Liang'),
 	 (5042,'Darryl','','Liu'),
 	 (5043,'Darryl','','Lu'),
@@ -5553,7 +5553,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5048,'Darryl','C','Zeng'),
 	 (5049,'Darryl','J','Lin'),
 	 (5050,'Darryl','J','Zhang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5051,'Darryl','K','Yang'),
 	 (5052,'Darryl','L','Sun'),
 	 (5053,'Darryl','L','Wu'),
@@ -5564,7 +5564,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5058,'Darryl','T','Li'),
 	 (5059,'Darryl','T','Zhou'),
 	 (5060,'Darryl','Y','West');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5061,'Dave','','Richards'),
 	 (5062,'Dave','E','Natsuhara'),
 	 (5063,'Dave','P','Browning'),
@@ -5575,7 +5575,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5068,'David','','Daniels'),
 	 (5069,'David','','Davis'),
 	 (5070,'David','','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5071,'David','','Garcia'),
 	 (5072,'David','','Griffin'),
 	 (5073,'David','','Hamilton'),
@@ -5586,7 +5586,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5078,'David','','Jaffe'),
 	 (5079,'David','','Jai'),
 	 (5080,'David','','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5081,'David','','Johnson'),
 	 (5082,'David','','Kumar'),
 	 (5083,'David','','Lewis'),
@@ -5597,7 +5597,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5088,'David','','So'),
 	 (5089,'David','','Taylor'),
 	 (5090,'David','','Thomas');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5091,'David','','Walker'),
 	 (5092,'David','','Washington'),
 	 (5093,'David','','Williams'),
@@ -5608,7 +5608,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5098,'David','A','Bryant'),
 	 (5099,'David','A','Foster'),
 	 (5100,'David','A','Li');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5101,'David','A','Miller'),
 	 (5102,'David','A','Moore'),
 	 (5103,'David','A','Yalovsky'),
@@ -5619,7 +5619,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5108,'David','C','Robinson'),
 	 (5109,'David','D','Coleman'),
 	 (5110,'David','D','Jones');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5111,'David','E','Lal'),
 	 (5112,'David','E','Ryan'),
 	 (5113,'David','E','Simmons'),
@@ -5630,7 +5630,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5118,'David','J','Brink'),
 	 (5119,'David','J','Brown'),
 	 (5120,'David','J','Byrnes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5121,'David','J','Flores'),
 	 (5122,'David','J','Lee'),
 	 (5123,'David','J','Liu'),
@@ -5641,7 +5641,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5128,'David','M','Bradley'),
 	 (5129,'David','M','Henderson'),
 	 (5130,'David','M','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5131,'David','M','Wilson'),
 	 (5132,'David','N','Johnson'),
 	 (5133,'David','O','Lawrence'),
@@ -5652,7 +5652,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5138,'David','R','Robinett'),
 	 (5139,'David','S','Patterson'),
 	 (5140,'David','V','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5141,'David','W','Perry'),
 	 (5142,'David','W','Powell'),
 	 (5143,'Dawn','','Andersen'),
@@ -5663,7 +5663,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5148,'Dawn','','Lal'),
 	 (5149,'Dawn','','Lockert'),
 	 (5150,'Dawn','','Pal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5151,'Dawn','','Sharma'),
 	 (5152,'Dawn','','Xie'),
 	 (5153,'Dawn','','Xu'),
@@ -5674,7 +5674,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5158,'Dawn','A','Chande'),
 	 (5159,'Dawn','A','Luo'),
 	 (5160,'Dawn','A','Ma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5161,'Dawn','A','Yang'),
 	 (5162,'Dawn','A','Yuan'),
 	 (5163,'Dawn','A','Zhang'),
@@ -5685,7 +5685,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5168,'Dawn','C','Raji'),
 	 (5169,'Dawn','D','Raje'),
 	 (5170,'Dawn','D','Zeng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5171,'Dawn','E','Huang'),
 	 (5172,'Dawn','F','Zheng'),
 	 (5173,'Dawn','G','Hu'),
@@ -5696,7 +5696,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5178,'Dawn','L','Nath'),
 	 (5179,'Dawn','L','Shen'),
 	 (5180,'Dawn','L','Sun');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5181,'Dawn','L','Wang'),
 	 (5182,'Dawn','M','Nara'),
 	 (5183,'Dawn','N','Lin'),
@@ -5707,7 +5707,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5188,'Dawn','W','Kumar'),
 	 (5189,'Deanna','','Ashe'),
 	 (5190,'Deanna','','Blanco');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5191,'Deanna','','Chandra'),
 	 (5192,'Deanna','','Dominguez'),
 	 (5193,'Deanna','','Fernandez'),
@@ -5718,7 +5718,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5198,'Deanna','','Martinez'),
 	 (5199,'Deanna','','Meyer'),
 	 (5200,'Deanna','','Moreno');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5201,'Deanna','','Munoz'),
 	 (5202,'Deanna','','Perez'),
 	 (5203,'Deanna','','Prasad'),
@@ -5729,7 +5729,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5208,'Deanna','','Suri'),
 	 (5209,'Deanna','A','Alonso'),
 	 (5210,'Deanna','A','Navarro');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5211,'Deanna','C','Madan'),
 	 (5212,'Deanna','D','Diaz'),
 	 (5213,'Deanna','D','Kapoor'),
@@ -5740,7 +5740,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5218,'Deanna','H','Patel'),
 	 (5219,'Deanna','H','Raman'),
 	 (5220,'Deanna','H','Schmidt');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5221,'Deanna','K','Alvarez'),
 	 (5222,'Deanna','K','Romero'),
 	 (5223,'Deanna','L','Lopez'),
@@ -5751,7 +5751,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5228,'Deanna','P','Mehta'),
 	 (5229,'Deanna','R','Buskirk'),
 	 (5230,'Deanna','R','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5231,'Deanna','R','Vazquez'),
 	 (5232,'Deanna','S','Garcia'),
 	 (5233,'Deanna','S','Gonzalez'),
@@ -5762,7 +5762,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5238,'Deb','','Hughes'),
 	 (5239,'Deb','','price'),
 	 (5240,'Deb','','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5241,'Deb','','Waldal'),
 	 (5242,'Deb','A','Dominguez'),
 	 (5243,'Deb','A','Moreno'),
@@ -5773,7 +5773,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5248,'Deborah','','Shan'),
 	 (5249,'Deborah','','She'),
 	 (5250,'Deborah','','Shen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5251,'Deborah','','Tang'),
 	 (5252,'Deborah','','Xu'),
 	 (5253,'Deborah','','Yuan'),
@@ -5784,7 +5784,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5258,'Deborah','K','Kumar'),
 	 (5259,'Deborah','L','Chande'),
 	 (5260,'Deborah','M','Lee');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5261,'Deborah','M','Pal'),
 	 (5262,'Deborah','R','McDonald'),
 	 (5263,'Deborah','R','Sharma'),
@@ -5795,7 +5795,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5268,'Debra','','Keiser'),
 	 (5269,'DeeDee','J','Cameron'),
 	 (5270,'Deena','J','Herman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5271,'Deepak','','Kumar'),
 	 (5272,'Delia','B','Toone'),
 	 (5273,'Della','F','Demott Jr'),
@@ -5806,7 +5806,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5278,'Denise','','Mehta'),
 	 (5279,'Denise','','Patel'),
 	 (5280,'Denise','','Prasad');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5281,'Denise','','Rodriguez'),
 	 (5282,'Denise','','Sanchez'),
 	 (5283,'Denise','','Smith'),
@@ -5817,7 +5817,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5288,'Denise','F','Raman'),
 	 (5289,'Denise','H','Smith'),
 	 (5290,'Denise','K','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5291,'Denise','L','Martinez'),
 	 (5292,'Denise','L','Vance'),
 	 (5293,'Denise','M','Kapoor'),
@@ -5828,7 +5828,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5298,'Denise','W','Perez'),
 	 (5299,'Dennis','','Cai'),
 	 (5300,'Dennis','','Gao');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5301,'Dennis','','Guo'),
 	 (5302,'Dennis','','Huang'),
 	 (5303,'Dennis','','Li'),
@@ -5839,7 +5839,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5308,'Dennis','','Zhang'),
 	 (5309,'Dennis','','Zhao'),
 	 (5310,'Dennis','C','Wang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5311,'Dennis','E','Ma'),
 	 (5312,'Dennis','E','Zheng'),
 	 (5313,'Dennis','E','Zhu'),
@@ -5850,7 +5850,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5318,'Dennis','L','Ware'),
 	 (5319,'Dennis','M','Chen'),
 	 (5320,'Dennis','M','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5321,'Dennis','M','Ye'),
 	 (5322,'Dennis','P','Yang'),
 	 (5323,'Dennis','R','Zhou'),
@@ -5861,7 +5861,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5328,'Derek','','Chander'),
 	 (5329,'Derek','','Goel'),
 	 (5330,'Derek','','Graham');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5331,'Derek','','Nath'),
 	 (5332,'Derek','','Pal'),
 	 (5333,'Derek','','Raje'),
@@ -5872,7 +5872,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5338,'Derek','E','Jai'),
 	 (5339,'Derek','I','Sharma'),
 	 (5340,'Derek','L','Tang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5341,'Derek','L','Yuan'),
 	 (5342,'Derek','M','Kumar'),
 	 (5343,'Derek','M','Xu'),
@@ -5883,7 +5883,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5348,'Derrick','','Gomez'),
 	 (5349,'Derrick','','Hernandez'),
 	 (5350,'Derrick','','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5351,'Derrick','','Munoz'),
 	 (5352,'Derrick','','Navarro'),
 	 (5353,'Derrick','','Ramos'),
@@ -5894,7 +5894,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5358,'Derrick','A','Dominguez'),
 	 (5359,'Derrick','B','Jiménez'),
 	 (5360,'Derrick','C','Moreno');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5361,'Derrick','C','Ruiz'),
 	 (5362,'Derrick','P','Rubio'),
 	 (5363,'Derrick','R','Carlson'),
@@ -5905,7 +5905,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5368,'Desiree','','Gill'),
 	 (5369,'Desiree','','Gutierrez'),
 	 (5370,'Desiree','','Munoz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5371,'Desiree','','Navarro'),
 	 (5372,'Desiree','','Sanz'),
 	 (5373,'Desiree','','Serrano'),
@@ -5916,7 +5916,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5378,'Desiree','J','Alonso'),
 	 (5379,'Desiree','J','Bradley'),
 	 (5380,'Desiree','J','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5381,'Desiree','L','Jimenez'),
 	 (5382,'Desiree','M','Torres'),
 	 (5383,'Desiree','S','Dominguez'),
@@ -5927,7 +5927,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5388,'Destiny','','Bennett'),
 	 (5389,'Destiny','','Brown'),
 	 (5390,'Destiny','','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5391,'Destiny','','Davis'),
 	 (5392,'Destiny','','Diaz'),
 	 (5393,'Destiny','','Johnson'),
@@ -5938,7 +5938,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5398,'Destiny','','Miller'),
 	 (5399,'Destiny','','Morgan'),
 	 (5400,'Destiny','','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5401,'Destiny','','Perry'),
 	 (5402,'Destiny','','Peterson'),
 	 (5403,'Destiny','','Powell'),
@@ -5949,7 +5949,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5408,'Destiny','','Smith'),
 	 (5409,'Destiny','','Stewart'),
 	 (5410,'Destiny','','Ward');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5411,'Destiny','','Washington'),
 	 (5412,'Destiny','','Wilson'),
 	 (5413,'Destiny','A','Barnes'),
@@ -5960,7 +5960,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5418,'Destiny','B','Garcia'),
 	 (5419,'Destiny','B','Gray'),
 	 (5420,'Destiny','C','Bailey');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5421,'Destiny','C','Bryant'),
 	 (5422,'Destiny','C','Griffin'),
 	 (5423,'Destiny','C','Howard'),
@@ -5971,7 +5971,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5428,'Destiny','C','Wood'),
 	 (5429,'Destiny','D','White'),
 	 (5430,'Destiny','E','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5431,'Destiny','G','Cook'),
 	 (5432,'Destiny','G','Hall'),
 	 (5433,'Destiny','G','Jenkins'),
@@ -5982,7 +5982,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5438,'Destiny','K','Torres'),
 	 (5439,'Destiny','L','Clark'),
 	 (5440,'Destiny','L','Flores');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5441,'Destiny','L','Richardson'),
 	 (5442,'Destiny','M','Cox'),
 	 (5443,'Destiny','M','Harris'),
@@ -5993,7 +5993,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5448,'Destiny','P','Thompson'),
 	 (5449,'Destiny','S','Brooks'),
 	 (5450,'Destiny','S','Williams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5451,'Destiny','T','Cooper'),
 	 (5452,'Destiny','V','Simmons'),
 	 (5453,'Destiny','W','Coleman'),
@@ -6004,7 +6004,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5458,'Devin','','Bell'),
 	 (5459,'Devin','','Bennett'),
 	 (5460,'Devin','','Brooks');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5461,'Devin','','Brown'),
 	 (5462,'Devin','','Bryant'),
 	 (5463,'Devin','','Campbell'),
@@ -6015,7 +6015,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5468,'Devin','','Gray'),
 	 (5469,'Devin','','Griffin'),
 	 (5470,'Devin','','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5471,'Devin','','Harris'),
 	 (5472,'Devin','','Hayes'),
 	 (5473,'Devin','','Hill'),
@@ -6026,7 +6026,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5478,'Devin','','Lopez'),
 	 (5479,'Devin','','Mitchell'),
 	 (5480,'Devin','','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5481,'Devin','','Murphy'),
 	 (5482,'Devin','','Nelson'),
 	 (5483,'Devin','','Parker'),
@@ -6037,7 +6037,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5488,'Devin','','Ramirez'),
 	 (5489,'Devin','','Robinson'),
 	 (5490,'Devin','','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5491,'Devin','','Thomas'),
 	 (5492,'Devin','','Thompson'),
 	 (5493,'Devin','','Young'),
@@ -6048,7 +6048,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5498,'Devin','A','Ross'),
 	 (5499,'Devin','A','Russell'),
 	 (5500,'Devin','A','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5501,'Devin','A','Watson'),
 	 (5502,'Devin','A','Wood'),
 	 (5503,'Devin','B','Roberts'),
@@ -6059,7 +6059,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5508,'Devin','E','Patterson'),
 	 (5509,'Devin','E','Stewart'),
 	 (5510,'Devin','G','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5511,'Devin','G','Richardson'),
 	 (5512,'Devin','H','Jones'),
 	 (5513,'Devin','I','White'),
@@ -6070,7 +6070,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5518,'Devin','J','Moore'),
 	 (5519,'Devin','J','Reed'),
 	 (5520,'Devin','J','Rivera');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5521,'Devin','J','Sanchez'),
 	 (5522,'Devin','J','Sanders'),
 	 (5523,'Devin','J','Turner'),
@@ -6081,7 +6081,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5528,'Devin','L','Taylor'),
 	 (5529,'Devin','L','Wilson'),
 	 (5530,'Devin','M','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5531,'Devin','M','Peterson'),
 	 (5532,'Devin','M','price'),
 	 (5533,'Devin','P','Hughes'),
@@ -6092,7 +6092,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5538,'Devin','S','Hernandez'),
 	 (5539,'Devin','S','Howard'),
 	 (5540,'Devin','T','Smith');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5541,'Devin','T','Williams'),
 	 (5542,'Devon','','Beck'),
 	 (5543,'Devon','','Chander'),
@@ -6103,7 +6103,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5548,'Devon','C','Nara'),
 	 (5549,'Devon','C','Sharma'),
 	 (5550,'Devon','D','Luo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5551,'Devon','D','Raji'),
 	 (5552,'Devon','G','Shen'),
 	 (5553,'Devon','H','Deng'),
@@ -6114,7 +6114,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5558,'Devon','L','Xie'),
 	 (5559,'Devon','M','Pal'),
 	 (5560,'Devon','T','Shan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5561,'Diana','','Alvarez'),
 	 (5562,'Diana','','Carlson'),
 	 (5563,'Diana','','Gill'),
@@ -6125,7 +6125,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5568,'Diana','','Romero'),
 	 (5569,'Diana','','Rubio'),
 	 (5570,'Diana','','Sanz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5571,'Diana','','Vazquez'),
 	 (5572,'Diana','A','Navarro'),
 	 (5573,'Diana','C','Ruiz'),
@@ -6136,7 +6136,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5578,'Diana','K','Serrano'),
 	 (5579,'Diana','L','Alonso'),
 	 (5580,'Diana','L','Dominguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5581,'Diana','M','Jimenez'),
 	 (5582,'Diana','M','Torres'),
 	 (5583,'Diane','','Alvarez'),
@@ -6147,7 +6147,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5588,'Diane','','Rubio'),
 	 (5589,'Diane','','Tibbott'),
 	 (5590,'Diane','A','Bradley');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5591,'Diane','A','Dominguez'),
 	 (5592,'Diane','D','Vazquez'),
 	 (5593,'Diane','E','Serrano'),
@@ -6158,7 +6158,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5598,'Diane','L','Margheim'),
 	 (5599,'Diane','L','Ramos'),
 	 (5600,'Diane','L','Suarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5601,'Diane','M','Alonso'),
 	 (5602,'Diane','M','Sanz'),
 	 (5603,'Diane','M','Torres'),
@@ -6169,7 +6169,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5608,'Diane','W','Carlson'),
 	 (5609,'Dianne','K','Slattengren'),
 	 (5610,'Dick','','Dievendorff');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5611,'Dick','R','Brummer'),
 	 (5612,'Dirk','J','Bruno'),
 	 (5613,'Dominic','','Chandra'),
@@ -6180,7 +6180,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5618,'Dominic','','Raman'),
 	 (5619,'Dominic','','Sanchez'),
 	 (5620,'Dominic','','Suri');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5621,'Dominic','','Vance'),
 	 (5622,'Dominic','A','Garcia'),
 	 (5623,'Dominic','A','Perez'),
@@ -6191,7 +6191,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5628,'Dominic','D','Prasad'),
 	 (5629,'Dominic','E','Rodriguez'),
 	 (5630,'Dominic','F','Madan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5631,'Dominic','J','Kapoor'),
 	 (5632,'Dominic','L','Gonzalez'),
 	 (5633,'Dominic','M','Srini'),
@@ -6202,7 +6202,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5638,'Dominique','','Malhotra'),
 	 (5639,'Dominique','','Martinez'),
 	 (5640,'Dominique','','Patel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5641,'Dominique','','Perez'),
 	 (5642,'Dominique','','Sai'),
 	 (5643,'Dominique','','Suri'),
@@ -6213,7 +6213,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5648,'Dominique','J','Gonzalez'),
 	 (5649,'Dominique','L','Prasad'),
 	 (5650,'Dominique','M','Jordan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5651,'Dominique','M','Saunders'),
 	 (5652,'Dominique','S','Arun'),
 	 (5653,'Dominique','S','Lopez'),
@@ -6224,7 +6224,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5658,'Don','','Lee'),
 	 (5659,'Don','A','Lal'),
 	 (5660,'Don','A','Roessler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5661,'Don','L','Hall'),
 	 (5662,'Don','S','Malhotra'),
 	 (5663,'Donald','','Chandra'),
@@ -6235,7 +6235,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5668,'Donald','','Raman'),
 	 (5669,'Donald','','Sanchez'),
 	 (5670,'Donald','','Srini');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5671,'Donald','','Suri'),
 	 (5672,'Donald','A','Lopez'),
 	 (5673,'Donald','B','Arun'),
@@ -6246,7 +6246,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5678,'Donald','L','Blanton'),
 	 (5679,'Donald','L','Rodriguez'),
 	 (5680,'Donald','M','Kovár');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5681,'Donald','M','Patel'),
 	 (5682,'Donald','M','Sara'),
 	 (5683,'Donald','M','Thompson'),
@@ -6257,7 +6257,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5688,'Donna','','Chande'),
 	 (5689,'Donna','','Kumar'),
 	 (5690,'Donna','','Lal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5691,'Donna','','Nath'),
 	 (5692,'Donna','','Rai'),
 	 (5693,'Donna','','Raji'),
@@ -6268,7 +6268,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5698,'Donna','D','Chander'),
 	 (5699,'Donna','D','She'),
 	 (5700,'Donna','D','Yuan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5701,'Donna','E','Luo'),
 	 (5702,'Donna','F','Carreras'),
 	 (5703,'Donna','H','Goel'),
@@ -6279,7 +6279,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5708,'Donna','S','Tang'),
 	 (5709,'Dora','P','Verdad'),
 	 (5710,'Doris','','Hartwig');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5711,'Doris','J','Traube'),
 	 (5712,'Doris','M','Hartwig'),
 	 (5713,'Dorothy','B','Robinson'),
@@ -6290,7 +6290,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5718,'Dorothy','M','Wollesen'),
 	 (5719,'Douglas','','Fernandez'),
 	 (5720,'Douglas','','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5721,'Douglas','','Groncki'),
 	 (5722,'Douglas','','Hite'),
 	 (5723,'Douglas','','Madan'),
@@ -6301,7 +6301,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5728,'Douglas','','Rana'),
 	 (5729,'Douglas','','Subram'),
 	 (5730,'Douglas','','Suri');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5731,'Douglas','','Vance'),
 	 (5732,'Douglas','A','Baldwin'),
 	 (5733,'Douglas','A','Sai'),
@@ -6312,7 +6312,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5738,'Douglas','J','Prasad'),
 	 (5739,'Douglas','L','Malhotra'),
 	 (5740,'Douglas','M','Arun');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5741,'Douglas','M','Sanchez'),
 	 (5742,'Douglas','M','Srini'),
 	 (5743,'Douglas','S','Sara'),
@@ -6323,7 +6323,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5748,'Drew','','Bhat'),
 	 (5749,'Drew','','Goel'),
 	 (5750,'Drew','','Luo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5751,'Drew','','Pal'),
 	 (5752,'Drew','','Raji'),
 	 (5753,'Drew','','Shan'),
@@ -6334,7 +6334,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5758,'Drew','A','Nara'),
 	 (5759,'Drew','A','Xie'),
 	 (5760,'Drew','D','Rai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5761,'Drew','D','Raje'),
 	 (5762,'Drew','E','Deng'),
 	 (5763,'Drew','J','Chander'),
@@ -6345,7 +6345,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5768,'Drew','R','Yuan'),
 	 (5769,'Drew','W','Kumar'),
 	 (5770,'Drew','W','Tang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5771,'Duane','R','Fitzgerald'),
 	 (5772,'Dustin','','Anand'),
 	 (5773,'Dustin','','Chande'),
@@ -6356,7 +6356,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5778,'Dustin','','Nath'),
 	 (5779,'Dustin','','Pal'),
 	 (5780,'Dustin','','Raje');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5781,'Dustin','','Raji'),
 	 (5782,'Dustin','','Shan'),
 	 (5783,'Dustin','','Shen'),
@@ -6367,7 +6367,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5788,'Dustin','E','She'),
 	 (5789,'Dustin','F','Deng'),
 	 (5790,'Dustin','J','Rai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5791,'Dustin','L','Andersen'),
 	 (5792,'Dustin','M','Nara'),
 	 (5793,'Dustin','M','Sharma'),
@@ -6378,7 +6378,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5798,'Dwayne','','Romero'),
 	 (5799,'Dwayne','','Serrano'),
 	 (5800,'Dwayne','A','Gill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5801,'Dwayne','A','Ruiz'),
 	 (5802,'Dwayne','C','Ortega'),
 	 (5803,'Dwayne','C','Vazquez'),
@@ -6389,7 +6389,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5808,'Dwayne','G','Alvarez'),
 	 (5809,'Dwayne','H','Navarro'),
 	 (5810,'Dwayne','J','Suarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5811,'Dwayne','L','Dominguez'),
 	 (5812,'Dwayne','M','Alonso'),
 	 (5813,'Dwayne','R','Ramos'),
@@ -6400,7 +6400,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5818,'Dylan','','Butler'),
 	 (5819,'Dylan','','Chen'),
 	 (5820,'Dylan','','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5821,'Dylan','','Davis'),
 	 (5822,'Dylan','','Diaz'),
 	 (5823,'Dylan','','Griffin'),
@@ -6411,7 +6411,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5828,'Dylan','','Patterson'),
 	 (5829,'Dylan','','Shan'),
 	 (5830,'Dylan','','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5831,'Dylan','','Simmons'),
 	 (5832,'Dylan','','Thomas'),
 	 (5833,'Dylan','','Wang'),
@@ -6422,7 +6422,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5838,'Dylan','C','Hughes'),
 	 (5839,'Dylan','C','Jackson'),
 	 (5840,'Dylan','C','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5841,'Dylan','C','Wilson'),
 	 (5842,'Dylan','D','Clark'),
 	 (5843,'Dylan','D','Foster'),
@@ -6433,7 +6433,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5848,'Dylan','E','Rodriguez'),
 	 (5849,'Dylan','H','Li'),
 	 (5850,'Dylan','H','Moore');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5851,'Dylan','J','Brown'),
 	 (5852,'Dylan','J','Bryant'),
 	 (5853,'Dylan','J','Gonzales'),
@@ -6444,7 +6444,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5858,'Dylan','L','Robinson'),
 	 (5859,'Dylan','L','Zhang'),
 	 (5860,'Dylan','M','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5861,'Dylan','M','Perry'),
 	 (5862,'Dylan','M','Powell'),
 	 (5863,'Dylan','O','Hayes'),
@@ -6455,7 +6455,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5868,'Ebony','','Arun'),
 	 (5869,'Ebony','','Carlson'),
 	 (5870,'Ebony','','Chandra');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5871,'Ebony','','Diaz'),
 	 (5872,'Ebony','','Fernandez'),
 	 (5873,'Ebony','','Gonzalez'),
@@ -6466,7 +6466,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5878,'Ebony','','Martinez'),
 	 (5879,'Ebony','','Munoz'),
 	 (5880,'Ebony','','Patel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5881,'Ebony','','Prasad'),
 	 (5882,'Ebony','','Raman'),
 	 (5883,'Ebony','','Ramos'),
@@ -6477,7 +6477,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5888,'Ebony','','Vance'),
 	 (5889,'Ebony','A','Romero'),
 	 (5890,'Ebony','A','Srini');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5891,'Ebony','A','Suri'),
 	 (5892,'Ebony','B','Vazquez'),
 	 (5893,'Ebony','C','Gomez'),
@@ -6488,7 +6488,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5898,'Ebony','I','Sanz'),
 	 (5899,'Ebony','J','Blanco'),
 	 (5900,'Ebony','J','Mehta');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5901,'Ebony','J','Moreno'),
 	 (5902,'Ebony','J','Rana'),
 	 (5903,'Ebony','K','Subram'),
@@ -6499,7 +6499,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5908,'Ebony','S','Garcia'),
 	 (5909,'Ebony','S','Hernandez'),
 	 (5910,'Ebru','N','Ersan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5911,'Ed','','Dudenhoefer'),
 	 (5912,'Ed','','Meadows'),
 	 (5913,'Ed','R','Dudenhoefer'),
@@ -6510,7 +6510,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5918,'Eddie','','Ortega'),
 	 (5919,'Eddie','','Romero'),
 	 (5920,'Eddie','','Serrano');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5921,'Eddie','A','Alvarez'),
 	 (5922,'Eddie','A','Sanz'),
 	 (5923,'Eddie','A','Suarez'),
@@ -6521,7 +6521,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5928,'Eddie','J','Gill'),
 	 (5929,'Eddie','L','Alonso'),
 	 (5930,'Eddie','L','Rubio');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5931,'Eddie','L','Torres'),
 	 (5932,'Eddie','M','Holmes'),
 	 (5933,'Eddie','O','Dominguez'),
@@ -6532,7 +6532,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5938,'Edgar','','Kapoor'),
 	 (5939,'Edgar','','Mehta'),
 	 (5940,'Edgar','','Sai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5941,'Edgar','','Sanchez'),
 	 (5942,'Edgar','','Srini'),
 	 (5943,'Edgar','','Subram'),
@@ -6543,7 +6543,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5948,'Edgar','A','Raman'),
 	 (5949,'Edgar','A','Sara'),
 	 (5950,'Edgar','B','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5951,'Edgar','B','Perez'),
 	 (5952,'Edgar','B','Rodriguez'),
 	 (5953,'Edgar','C','Chapman'),
@@ -6554,7 +6554,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5958,'Edgar','M','Rana'),
 	 (5959,'Edgar','O','Lopez'),
 	 (5960,'Edna','J','Benson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5961,'Eduardo','','Allen'),
 	 (5962,'Eduardo','','Anderson'),
 	 (5963,'Eduardo','','Baker'),
@@ -6565,7 +6565,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5968,'Eduardo','','Clark'),
 	 (5969,'Eduardo','','Coleman'),
 	 (5970,'Eduardo','','Collins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5971,'Eduardo','','Cook'),
 	 (5972,'Eduardo','','Evans'),
 	 (5973,'Eduardo','','Foster'),
@@ -6576,7 +6576,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5978,'Eduardo','','Lee'),
 	 (5979,'Eduardo','','Lewis'),
 	 (5980,'Eduardo','','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5981,'Eduardo','','Miller'),
 	 (5982,'Eduardo','','Morris'),
 	 (5983,'Eduardo','','Patterson'),
@@ -6587,7 +6587,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5988,'Eduardo','','Rodriguez'),
 	 (5989,'Eduardo','','Ross'),
 	 (5990,'Eduardo','','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5991,'Eduardo','','Sanchez'),
 	 (5992,'Eduardo','','Sanders'),
 	 (5993,'Eduardo','','Scott'),
@@ -6598,7 +6598,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (5998,'Eduardo','','Torres'),
 	 (5999,'Eduardo','','Turner'),
 	 (6000,'Eduardo','','Walker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6001,'Eduardo','','Williams'),
 	 (6002,'Eduardo','','Wilson'),
 	 (6003,'Eduardo','A','Adams'),
@@ -6609,7 +6609,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6008,'Eduardo','B','Roberts'),
 	 (6009,'Eduardo','C','Gonzales'),
 	 (6010,'Eduardo','C','Jackson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6011,'Eduardo','C','James'),
 	 (6012,'Eduardo','C','Kelly'),
 	 (6013,'Eduardo','C','Young'),
@@ -6620,7 +6620,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6018,'Eduardo','E','Wood'),
 	 (6019,'Eduardo','F','Brooks'),
 	 (6020,'Eduardo','F','Davis');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6021,'Eduardo','F','Long'),
 	 (6022,'Eduardo','F','White'),
 	 (6023,'Eduardo','G','Butler'),
@@ -6631,7 +6631,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6028,'Eduardo','J','Lopez'),
 	 (6029,'Eduardo','J','Thomas'),
 	 (6030,'Eduardo','L','Bailey');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6031,'Eduardo','L','Diaz'),
 	 (6032,'Eduardo','L','Gray'),
 	 (6033,'Eduardo','L','Taylor'),
@@ -6642,7 +6642,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6038,'Eduardo','M','Watson'),
 	 (6039,'Eduardo','O','Jenkins'),
 	 (6040,'Eduardo','P','Cox');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6041,'Eduardo','Q','Johnson'),
 	 (6042,'Eduardo','R','Barnes'),
 	 (6043,'Eduardo','R','Henderson'),
@@ -6653,7 +6653,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6048,'Eduardo','S','Rogers'),
 	 (6049,'Eduardo','W','Martinez'),
 	 (6050,'Eduardo','W','price');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6051,'Edward','','Adams'),
 	 (6052,'Edward','','Baker'),
 	 (6053,'Edward','','Brown'),
@@ -6664,7 +6664,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6058,'Edward','','Edwards'),
 	 (6059,'Edward','','Flores'),
 	 (6060,'Edward','','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6061,'Edward','','Gonzalez'),
 	 (6062,'Edward','','Griffin'),
 	 (6063,'Edward','','Hall'),
@@ -6675,7 +6675,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6068,'Edward','','Hughes'),
 	 (6069,'Edward','','Jackson'),
 	 (6070,'Edward','','Jones');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6071,'Edward','','King'),
 	 (6072,'Edward','','Lewis'),
 	 (6073,'Edward','','Miller'),
@@ -6686,7 +6686,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6078,'Edward','','price'),
 	 (6079,'Edward','','Rodriguez'),
 	 (6080,'Edward','','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6081,'Edward','','Russell'),
 	 (6082,'Edward','','Smith'),
 	 (6083,'Edward','','Thompson'),
@@ -6697,7 +6697,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6088,'Edward','A','Hill'),
 	 (6089,'Edward','A','Martinez'),
 	 (6090,'Edward','A','Moore');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6091,'Edward','A','Perry'),
 	 (6092,'Edward','A','Young'),
 	 (6093,'Edward','C','Green'),
@@ -6708,7 +6708,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6098,'Edward','E','Alexander'),
 	 (6099,'Edward','E','Thomas'),
 	 (6100,'Edward','H','Johnson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6101,'Edward','H','Long'),
 	 (6102,'Edward','J','Kozlowski'),
 	 (6103,'Edward','J','Perez'),
@@ -6719,7 +6719,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6108,'Edward','L','Bryant'),
 	 (6109,'Edward','L','Butler'),
 	 (6110,'Edward','L','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6111,'Edward','L','Wilson'),
 	 (6112,'Edward','M','Collins'),
 	 (6113,'Edward','M','Gonzales'),
@@ -6730,7 +6730,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6118,'Edward','S','Powell'),
 	 (6119,'Edward','S','Roberts'),
 	 (6120,'Edward','S','Turner');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6121,'Edward','T','Buensalido'),
 	 (6122,'Edward','W','Martin'),
 	 (6123,'Edwin','','Bhat'),
@@ -6741,7 +6741,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6128,'Edwin','','Hu'),
 	 (6129,'Edwin','','Huang'),
 	 (6130,'Edwin','','Jai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6131,'Edwin','','Kumar'),
 	 (6132,'Edwin','','Lal'),
 	 (6133,'Edwin','','Li'),
@@ -6752,7 +6752,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6138,'Edwin','','Raji'),
 	 (6139,'Edwin','','Shan'),
 	 (6140,'Edwin','','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6141,'Edwin','','Tang'),
 	 (6142,'Edwin','','West'),
 	 (6143,'Edwin','','Xu'),
@@ -6763,7 +6763,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6148,'Edwin','','Zhou'),
 	 (6149,'Edwin','','Zhu'),
 	 (6150,'Edwin','A','Deng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6151,'Edwin','C','Shen'),
 	 (6152,'Edwin','D','Raje'),
 	 (6153,'Edwin','E','Xie'),
@@ -6774,7 +6774,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6158,'Edwin','K','Sharma'),
 	 (6159,'Edwin','M','Chande'),
 	 (6160,'Edwin','M','Guo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6161,'Edwin','M','Pal'),
 	 (6162,'Edwin','M','Rai'),
 	 (6163,'Edwin','O','Sun'),
@@ -6785,7 +6785,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6168,'Edwin','W','Liang'),
 	 (6169,'Elena','','Velez Amezaga'),
 	 (6170,'Eli','','Bowen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6171,'Elijah','','Alexander'),
 	 (6172,'Elijah','','Baker'),
 	 (6173,'Elijah','','Carter'),
@@ -6796,7 +6796,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6178,'Elijah','','Hughes'),
 	 (6179,'Elijah','','Jai'),
 	 (6180,'Elijah','','Kumar');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6181,'Elijah','','Lal'),
 	 (6182,'Elijah','','Li'),
 	 (6183,'Elijah','','Long'),
@@ -6807,7 +6807,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6188,'Elijah','','Perry'),
 	 (6189,'Elijah','','Phillips'),
 	 (6190,'Elijah','','Roberts');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6191,'Elijah','','Scott'),
 	 (6192,'Elijah','','Young'),
 	 (6193,'Elijah','','Zhang'),
@@ -6818,7 +6818,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6198,'Elijah','D','Butler'),
 	 (6199,'Elijah','D','Edwards'),
 	 (6200,'Elijah','E','Hill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6201,'Elijah','E','Powell'),
 	 (6202,'Elijah','E','Ross'),
 	 (6203,'Elijah','H','Allen'),
@@ -6829,7 +6829,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6208,'Elijah','L','Washington'),
 	 (6209,'Elijah','L','Yang'),
 	 (6210,'Elijah','M','Henderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6211,'Elijah','M','King'),
 	 (6212,'Elijah','M','Russell'),
 	 (6213,'Elijah','M','Sharma'),
@@ -6840,7 +6840,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6218,'Elijah','S','Evans'),
 	 (6219,'Elijah','S','Jenkins'),
 	 (6220,'Elijah','S','Wang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6221,'Elizabeth','','Alexander'),
 	 (6222,'Elizabeth','','Bradley'),
 	 (6223,'Elizabeth','','Bryant'),
@@ -6851,7 +6851,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6228,'Elizabeth','','Keyser'),
 	 (6229,'Elizabeth','','Lee'),
 	 (6230,'Elizabeth','','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6231,'Elizabeth','','Miller'),
 	 (6232,'Elizabeth','','Perry'),
 	 (6233,'Elizabeth','','Robinson'),
@@ -6862,7 +6862,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6238,'Elizabeth','A','Simmons'),
 	 (6239,'Elizabeth','A','Thomas'),
 	 (6240,'Elizabeth','A','White');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6241,'Elizabeth','B','Garcia'),
 	 (6242,'Elizabeth','D','Wood'),
 	 (6243,'Elizabeth','E','Catalano'),
@@ -6873,7 +6873,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6248,'Elizabeth','H','Brown'),
 	 (6249,'Elizabeth','I','Jenkins'),
 	 (6250,'Elizabeth','I','Keyser');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6251,'Elizabeth','J','Barnes'),
 	 (6252,'Elizabeth','J','Clark'),
 	 (6253,'Elizabeth','J','Moore'),
@@ -6884,7 +6884,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6258,'Elizabeth','K','Jackson'),
 	 (6259,'Elizabeth','K','Powell'),
 	 (6260,'Elizabeth','L','Griffin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6261,'Elizabeth','L','Hall'),
 	 (6262,'Elizabeth','L','Harris'),
 	 (6263,'Elizabeth','L','Hayes'),
@@ -6895,7 +6895,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6268,'Elizabeth','P','Taylor'),
 	 (6269,'Elizabeth','R','Wilson'),
 	 (6270,'Elizabeth','S','Lewis');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6271,'Elizabeth','T','Diaz'),
 	 (6272,'Elizabeth','W','Thompson'),
 	 (6273,'Elsa','','Leavitt'),
@@ -6906,7 +6906,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6278,'Emily','','Bryant'),
 	 (6279,'Emily','','Coleman'),
 	 (6280,'Emily','','Davis');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6281,'Emily','','Flores'),
 	 (6282,'Emily','','Foster'),
 	 (6283,'Emily','','Griffin'),
@@ -6917,7 +6917,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6288,'Emily','','Jenkins'),
 	 (6289,'Emily','','Johnson'),
 	 (6290,'Emily','','Jones');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6291,'Emily','','Lee'),
 	 (6292,'Emily','','Patterson'),
 	 (6293,'Emily','','Robinson'),
@@ -6928,7 +6928,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6298,'Emily','','Thompson'),
 	 (6299,'Emily','','Washington'),
 	 (6300,'Emily','','Williams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6301,'Emily','','Wilson'),
 	 (6302,'Emily','','Wood'),
 	 (6303,'Emily','A','Bennett'),
@@ -6939,7 +6939,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6308,'Emily','E','Garcia'),
 	 (6309,'Emily','F','Martinez'),
 	 (6310,'Emily','F','Perry');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6311,'Emily','G','Barnes'),
 	 (6312,'Emily','L','Alexander'),
 	 (6313,'Emily','L','Long'),
@@ -6950,7 +6950,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6318,'Emily','P','Gonzales'),
 	 (6319,'Emily','P','Harris'),
 	 (6320,'Emily','R','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6321,'Emily','R','Miller'),
 	 (6322,'Emily','R','Rodriguez'),
 	 (6323,'Emily','S','Diaz'),
@@ -6961,7 +6961,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6328,'Emma','','Davis'),
 	 (6329,'Emma','','Foster'),
 	 (6330,'Emma','','Howard');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6331,'Emma','','James'),
 	 (6332,'Emma','','Lee'),
 	 (6333,'Emma','','Lewis'),
@@ -6972,7 +6972,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6338,'Emma','','Perry'),
 	 (6339,'Emma','','Ramirez'),
 	 (6340,'Emma','','Richardson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6341,'Emma','','Ross'),
 	 (6342,'Emma','','Sanchez'),
 	 (6343,'Emma','','Torres'),
@@ -6983,7 +6983,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6348,'Emma','A','Hughes'),
 	 (6349,'Emma','A','Kelly'),
 	 (6350,'Emma','C','Gray');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6351,'Emma','C','Robinson'),
 	 (6352,'Emma','C','Thompson'),
 	 (6353,'Emma','D','Clark'),
@@ -6994,7 +6994,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6358,'Emma','E','Jones'),
 	 (6359,'Emma','F','Jackson'),
 	 (6360,'Emma','F','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6361,'Emma','G','Cook'),
 	 (6362,'Emma','H','Bailey'),
 	 (6363,'Emma','H','Harris'),
@@ -7005,7 +7005,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6368,'Emma','J','Patterson'),
 	 (6369,'Emma','J','Rivera'),
 	 (6370,'Emma','J','Rogers');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6371,'Emma','J','Sandberg'),
 	 (6372,'Emma','J','Stewart'),
 	 (6373,'Emma','J','Thomas'),
@@ -7016,7 +7016,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6378,'Emma','L','Jenkins'),
 	 (6379,'Emma','L','Morris'),
 	 (6380,'Emma','L','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6381,'Emma','M','Johnson'),
 	 (6382,'Emma','M','Taylor'),
 	 (6383,'Emma','M','Walker'),
@@ -7027,7 +7027,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6388,'Emma','R','Cox'),
 	 (6389,'Emma','R','Griffin'),
 	 (6390,'Emma','R','Miller');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6391,'Emma','S','Butler'),
 	 (6392,'Emma','W','Brown'),
 	 (6393,'Emma','W','Ward'),
@@ -7038,7 +7038,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6398,'Emmanuel','','Sai'),
 	 (6399,'Emmanuel','','Smith'),
 	 (6400,'Emmanuel','','Suri');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6401,'Emmanuel','A','Kapoor'),
 	 (6402,'Emmanuel','A','Rodriguez'),
 	 (6403,'Emmanuel','C','Subram'),
@@ -7049,7 +7049,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6408,'Emmanuel','O','Perez'),
 	 (6409,'Emmanuel','R','Arun'),
 	 (6410,'Emmanuel','R','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6411,'Emmanuel','T','Garcia'),
 	 (6412,'Emmanuel','V','Martinez'),
 	 (6413,'Emmanuel','W','Raman'),
@@ -7060,7 +7060,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6418,'Eric','','Carter'),
 	 (6419,'Eric','','Edwards'),
 	 (6420,'Eric','','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6421,'Eric','','Green'),
 	 (6422,'Eric','','Griffin'),
 	 (6423,'Eric','','Gubbels'),
@@ -7071,7 +7071,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6428,'Eric','','Kumar'),
 	 (6429,'Eric','','Lal'),
 	 (6430,'Eric','','Lang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6431,'Eric','','Lopez'),
 	 (6432,'Eric','','Parkinson'),
 	 (6433,'Eric','','Perry'),
@@ -7082,7 +7082,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6438,'Eric','','Russell'),
 	 (6439,'Eric','','Scott'),
 	 (6440,'Eric','','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6441,'Eric','','Wang'),
 	 (6442,'Eric','','Washington'),
 	 (6443,'Eric','','Wright'),
@@ -7093,7 +7093,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6448,'Eric','A','Jacobsen'),
 	 (6449,'Eric','A','Patterson'),
 	 (6450,'Eric','A','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6451,'Eric','B','Meyer'),
 	 (6452,'Eric','B','Turner'),
 	 (6453,'Eric','C','Gonzalez'),
@@ -7104,7 +7104,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6458,'Eric','G','Hill'),
 	 (6459,'Eric','H','Parker'),
 	 (6460,'Eric','J','Brumfield');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6461,'Eric','L','Brown'),
 	 (6462,'Eric','L','Collins'),
 	 (6463,'Eric','L','Jenkins'),
@@ -7115,7 +7115,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6468,'Eric','M','Vincenzi'),
 	 (6469,'Eric','N','Baker'),
 	 (6470,'Eric','N','Chen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6471,'Eric','O','Allen'),
 	 (6472,'Eric','R','Diaz'),
 	 (6473,'Eric','S','Alexander'),
@@ -7126,7 +7126,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6478,'Erica','','Cai'),
 	 (6479,'Erica','','Hu'),
 	 (6480,'Erica','','Lu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6481,'Erica','','Wu'),
 	 (6482,'Erica','','Yang'),
 	 (6483,'Erica','','Zeng'),
@@ -7137,7 +7137,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6488,'Erica','C','Liang'),
 	 (6489,'Erica','E','Lin'),
 	 (6490,'Erica','E','Ye');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6491,'Erica','F','He'),
 	 (6492,'Erica','J','Wang'),
 	 (6493,'Erica','J','Zhang'),
@@ -7148,7 +7148,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6498,'Erica','P','Sun'),
 	 (6499,'Erica','R','Gao'),
 	 (6500,'Erick','','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6501,'Erick','','Martinez'),
 	 (6502,'Erick','','Perez'),
 	 (6503,'Erick','','Sanchez'),
@@ -7159,7 +7159,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6508,'Erick','C','Arun'),
 	 (6509,'Erick','C','Patel'),
 	 (6510,'Erick','C','Rana');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6511,'Erick','D','Rodriguez'),
 	 (6512,'Erick','E','Fernandez'),
 	 (6513,'Erick','E','Gonzalez'),
@@ -7170,7 +7170,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6518,'Erick','L','Sai'),
 	 (6519,'Erick','M','Sara'),
 	 (6520,'Erick','S','Subram');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6521,'Erick','W','Madan'),
 	 (6522,'Erik','','Gill'),
 	 (6523,'Erik','','Ismert'),
@@ -7181,7 +7181,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6528,'Erik','C','Hernandez'),
 	 (6529,'Erik','C','Rubio'),
 	 (6530,'Erik','E','Munoz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6531,'Erik','E','Navarro'),
 	 (6532,'Erik','H','Jimenez'),
 	 (6533,'Erik','I','Sanz'),
@@ -7192,7 +7192,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6538,'Erik','M','Ramos'),
 	 (6539,'Erik','R','Romero'),
 	 (6540,'Erik','S','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6541,'Erik','S','Gutierrez'),
 	 (6542,'Erik','S','Ruiz'),
 	 (6543,'Erik','T','Gomez'),
@@ -7203,7 +7203,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6548,'Erika','','Gutierrez'),
 	 (6549,'Erika','','Hernandez'),
 	 (6550,'Erika','','Munoz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6551,'Erika','','Romero'),
 	 (6552,'Erika','','Serrano'),
 	 (6553,'Erika','','Suarez'),
@@ -7214,7 +7214,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6558,'Erika','J','Ruiz'),
 	 (6559,'Erika','J','Sanz'),
 	 (6560,'Erika','K','Navarro');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6561,'Erika','L','Blanco'),
 	 (6562,'Erika','P','Ortega'),
 	 (6563,'Erika','S','Torres'),
@@ -7225,7 +7225,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6568,'Erin','','Hagens'),
 	 (6569,'Erin','','James'),
 	 (6570,'Erin','','Morgan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6571,'Erin','','Morris'),
 	 (6572,'Erin','','Murphy'),
 	 (6573,'Erin','','Rivera'),
@@ -7236,7 +7236,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6578,'Erin','B','Watson'),
 	 (6579,'Erin','D','Kelly'),
 	 (6580,'Erin','I','Reed');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6581,'Erin','J','Ramirez'),
 	 (6582,'Erin','L','Brooks'),
 	 (6583,'Erin','L','Howard'),
@@ -7247,7 +7247,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6588,'Erin','R','Stewart'),
 	 (6589,'Erin','S','Bailey'),
 	 (6590,'Erin','S','Bradley');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6591,'Ernest','','Gao'),
 	 (6592,'Ernest','','Guo'),
 	 (6593,'Ernest','','Harrison'),
@@ -7258,7 +7258,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6598,'Ernest','','Wang'),
 	 (6599,'Ernest','','Zhu'),
 	 (6600,'Ernest','A','Ye');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6601,'Ernest','C','Zhao'),
 	 (6602,'Ernest','H','Lu'),
 	 (6603,'Ernest','L','Huang'),
@@ -7269,7 +7269,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6608,'Ernest','N','Liang'),
 	 (6609,'Ernest','P','Zhou'),
 	 (6610,'Ernest','R','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6611,'Ernest','V','Sun'),
 	 (6612,'Ernest','W','Chen'),
 	 (6613,'Esther','K','Valle'),
@@ -7280,7 +7280,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6618,'Ethan','','Diaz'),
 	 (6619,'Ethan','','Foster'),
 	 (6620,'Ethan','','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6621,'Ethan','','Griffin'),
 	 (6622,'Ethan','','Hayes'),
 	 (6623,'Ethan','','Henderson'),
@@ -7291,7 +7291,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6628,'Ethan','','Lewis'),
 	 (6629,'Ethan','','Perry'),
 	 (6630,'Ethan','','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6631,'Ethan','','Shan'),
 	 (6632,'Ethan','','Simmons'),
 	 (6633,'Ethan','','Smith'),
@@ -7302,7 +7302,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6638,'Ethan','','Williams'),
 	 (6639,'Ethan','A','Alexander'),
 	 (6640,'Ethan','A','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6641,'Ethan','A','Lal'),
 	 (6642,'Ethan','B','Flores'),
 	 (6643,'Ethan','C','Jackson'),
@@ -7313,7 +7313,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6648,'Ethan','E','Rodriguez'),
 	 (6649,'Ethan','F','Jenkins'),
 	 (6650,'Ethan','G','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6651,'Ethan','G','Zhang'),
 	 (6652,'Ethan','H','Long'),
 	 (6653,'Ethan','I','Russell'),
@@ -7324,7 +7324,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6658,'Ethan','L','Harris'),
 	 (6659,'Ethan','L','Johnson'),
 	 (6660,'Ethan','L','Powell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6661,'Ethan','L','Yang'),
 	 (6662,'Ethan','M','Martin'),
 	 (6663,'Ethan','M','Moore'),
@@ -7335,7 +7335,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6668,'Euan','','Garden'),
 	 (6669,'Eugene','','Gao'),
 	 (6670,'Eugene','','Kogan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6671,'Eugene','','Liang'),
 	 (6672,'Eugene','','Lin'),
 	 (6673,'Eugene','','Liu'),
@@ -7346,7 +7346,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6678,'Eugene','','Zhao'),
 	 (6679,'Eugene','','Zheng'),
 	 (6680,'Eugene','A','Li');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6681,'Eugene','A','Ma'),
 	 (6682,'Eugene','A','Xu'),
 	 (6683,'Eugene','C','Zhang'),
@@ -7357,7 +7357,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6688,'Eugene','L','He'),
 	 (6689,'Eugene','L','Huang'),
 	 (6690,'Eugene','L','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6691,'Eugene','N','Lu'),
 	 (6692,'Eugene','O','Kogan'),
 	 (6693,'Eugene','P','Wu'),
@@ -7368,7 +7368,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6698,'Evan','','Adams'),
 	 (6699,'Evan','','Allen'),
 	 (6700,'Evan','','Bradley');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6701,'Evan','','Brooks'),
 	 (6702,'Evan','','Collins'),
 	 (6703,'Evan','','Evans'),
@@ -7379,7 +7379,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6708,'Evan','','Kelly'),
 	 (6709,'Evan','','King'),
 	 (6710,'Evan','','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6711,'Evan','','Nelson'),
 	 (6712,'Evan','','Peterson'),
 	 (6713,'Evan','','Rogers'),
@@ -7390,7 +7390,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6718,'Evan','A','Watson'),
 	 (6719,'Evan','C','Bailey'),
 	 (6720,'Evan','C','Sanders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6721,'Evan','C','Scott'),
 	 (6722,'Evan','E','Baker'),
 	 (6723,'Evan','G','Cox'),
@@ -7401,7 +7401,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6728,'Evan','J','Phillips'),
 	 (6729,'Evan','J','Richardson'),
 	 (6730,'Evan','K','Carter');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6731,'Evan','K','Ramirez'),
 	 (6732,'Evan','L','Edwards'),
 	 (6733,'Evan','L','Murphy'),
@@ -7412,7 +7412,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6738,'Evan','R','Perez'),
 	 (6739,'Evan','R','Sanchez'),
 	 (6740,'Evan','S','Howard');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6741,'Evan','S','Ward'),
 	 (6742,'Evan','V','James'),
 	 (6743,'Evan','V','Reed'),
@@ -7423,7 +7423,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6748,'Evelyn','','Perez'),
 	 (6749,'Evelyn','','Prasad'),
 	 (6750,'Evelyn','','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6751,'Evelyn','','Sai'),
 	 (6752,'Evelyn','','Sara'),
 	 (6753,'Evelyn','','Srini'),
@@ -7434,7 +7434,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6758,'Evelyn','E','Kapoor'),
 	 (6759,'Evelyn','E','Lopez'),
 	 (6760,'Evelyn','J','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6761,'Evelyn','L','Gonzalez'),
 	 (6762,'Evelyn','P','Chandra'),
 	 (6763,'Evelyn','R','Fernandez'),
@@ -7445,7 +7445,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6768,'Fadi','','Fakhouri'),
 	 (6769,'Fadi','K','Fakhouri'),
 	 (6770,'Faith','','Brooks');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6771,'Faith','','Butler'),
 	 (6772,'Faith','','Cook'),
 	 (6773,'Faith','','Flores'),
@@ -7456,7 +7456,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6778,'Faith','','Howard'),
 	 (6779,'Faith','','Jenkins'),
 	 (6780,'Faith','','Kelly');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6781,'Faith','','Murphy'),
 	 (6782,'Faith','','Perry'),
 	 (6783,'Faith','','Peterson'),
@@ -7467,7 +7467,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6788,'Faith','','Washington'),
 	 (6789,'Faith','A','Alexander'),
 	 (6790,'Faith','A','James');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6791,'Faith','A','Russell'),
 	 (6792,'Faith','A','Torres'),
 	 (6793,'Faith','A','Ward'),
@@ -7478,7 +7478,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6798,'Faith','L','Bryant'),
 	 (6799,'Faith','L','Griffin'),
 	 (6800,'Faith','L','Patterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6801,'Faith','L','price'),
 	 (6802,'Faith','M','Diaz'),
 	 (6803,'Faith','M','Gustafson'),
@@ -7489,7 +7489,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6808,'Faith','V','Wood'),
 	 (6809,'Felicia','','Blanco'),
 	 (6810,'Felicia','','Carlson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6811,'Felicia','','Gill'),
 	 (6812,'Felicia','','Ramos'),
 	 (6813,'Felicia','','Romero'),
@@ -7500,7 +7500,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6818,'Felicia','D','Munoz'),
 	 (6819,'Felicia','E','Gutierrez'),
 	 (6820,'Felicia','J','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6821,'Felicia','J','Gomez'),
 	 (6822,'Felicia','J','Ortega'),
 	 (6823,'Felicia','L','Jimenez'),
@@ -7511,7 +7511,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6828,'Felicia','S','Rubio'),
 	 (6829,'Felicia','W','Suarez'),
 	 (6830,'Fernando','','Alexander');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6831,'Fernando','','Barnes'),
 	 (6832,'Fernando','','Brown'),
 	 (6833,'Fernando','','Butler'),
@@ -7522,7 +7522,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6838,'Fernando','','Edwards'),
 	 (6839,'Fernando','','Green'),
 	 (6840,'Fernando','','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6841,'Fernando','','Hill'),
 	 (6842,'Fernando','','Hughes'),
 	 (6843,'Fernando','','Jackson'),
@@ -7533,7 +7533,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6848,'Fernando','','Martinez'),
 	 (6849,'Fernando','','Miller'),
 	 (6850,'Fernando','','Mitchell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6851,'Fernando','','Moore'),
 	 (6852,'Fernando','','Perez'),
 	 (6853,'Fernando','','Perry'),
@@ -7544,7 +7544,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6858,'Fernando','','Russell'),
 	 (6859,'Fernando','','Smith'),
 	 (6860,'Fernando','','Thompson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6861,'Fernando','','Turner'),
 	 (6862,'Fernando','','Wilson'),
 	 (6863,'Fernando','A','Gonzalez'),
@@ -7555,7 +7555,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6868,'Fernando','E','Coleman'),
 	 (6869,'Fernando','E','Patterson'),
 	 (6870,'Fernando','E','Washington');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6871,'Fernando','G','Hayes'),
 	 (6872,'Fernando','G','Nelson'),
 	 (6873,'Fernando','H','Allen'),
@@ -7566,7 +7566,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6878,'Fernando','K','Wood'),
 	 (6879,'Fernando','L','Thomas'),
 	 (6880,'Fernando','L','Williams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6881,'Fernando','L','Wright'),
 	 (6882,'Fernando','M','Bennett'),
 	 (6883,'Fernando','M','Bryant'),
@@ -7577,7 +7577,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6888,'Fernando','R','Baker'),
 	 (6889,'Fernando','R','Harris'),
 	 (6890,'Fernando','R','Walker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6891,'Fernando','S','Adams'),
 	 (6892,'Fernando','W','Diaz'),
 	 (6893,'Fernando','W','Evans'),
@@ -7588,7 +7588,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6898,'Florian','L','Stiller'),
 	 (6899,'Forrest','J','Chandler'),
 	 (6900,'Fran','P','Highfill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6901,'Frances','B','Adams'),
 	 (6902,'Frances','J','Giglio'),
 	 (6903,'Francis','','Alvarez'),
@@ -7599,7 +7599,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6908,'Francis','','Hernandez'),
 	 (6909,'Francis','','Jimenez'),
 	 (6910,'Francis','','Ramos');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6911,'Francis','','Romero'),
 	 (6912,'Francis','','Sanz'),
 	 (6913,'Francis','','Suarez'),
@@ -7610,7 +7610,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6918,'Francis','F','Ortega'),
 	 (6919,'Francis','F','Weber'),
 	 (6920,'Francis','J','Alonso');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6921,'Francis','J','Blanco'),
 	 (6922,'Francis','J','Navarro'),
 	 (6923,'Francis','R','Serrano'),
@@ -7621,7 +7621,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6928,'Francisco','','Martinez'),
 	 (6929,'Francisco','','Patel'),
 	 (6930,'Francisco','','Prasad');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6931,'Francisco','','Rana'),
 	 (6932,'Francisco','','Rodriguez'),
 	 (6933,'Francisco','','Suri'),
@@ -7632,7 +7632,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6938,'Francisco','D','Sanchez'),
 	 (6939,'Francisco','H','Srini'),
 	 (6940,'Francisco','K','Mehta');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6941,'Francisco','L','Gonzalez'),
 	 (6942,'Francisco','L','Lopez'),
 	 (6943,'Francisco','M','Kapoor'),
@@ -7643,7 +7643,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6948,'Francisco','W','Sai'),
 	 (6949,'François','','Ferrier'),
 	 (6950,'François','P','Ajenstat');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6951,'Frank','','Blanco'),
 	 (6952,'Frank','','Campbell'),
 	 (6953,'Frank','','Carlson'),
@@ -7654,7 +7654,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6958,'Frank','','Martin'),
 	 (6959,'Frank','','Miller'),
 	 (6960,'Frank','','Munoz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6961,'Frank','','Pellow'),
 	 (6962,'Frank','','Ramos'),
 	 (6963,'Frank','','Rubio'),
@@ -7665,7 +7665,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6968,'Frank','','Zhang'),
 	 (6969,'Frank','C','Gill'),
 	 (6970,'Frank','E','Moreno');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6971,'Frank','F','Diaz'),
 	 (6972,'Frank','F','Navarro'),
 	 (6973,'Frank','G','Alvarez'),
@@ -7676,7 +7676,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6978,'Frank','M','Ruiz'),
 	 (6979,'Frank','M','Torres'),
 	 (6980,'Frank','R','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6981,'Frank','S','Pellow'),
 	 (6982,'Frank','T','Lee'),
 	 (6983,'Frank','T','Miller'),
@@ -7687,7 +7687,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6988,'Franklin','','Nath'),
 	 (6989,'Franklin','','Pal'),
 	 (6990,'Franklin','','Raji');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6991,'Franklin','','She'),
 	 (6992,'Franklin','','Shen'),
 	 (6993,'Franklin','','Sun'),
@@ -7698,7 +7698,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (6998,'Franklin','','Zhou'),
 	 (6999,'Franklin','','Zhu'),
 	 (7000,'Franklin','A','Chen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7001,'Franklin','A','Lal'),
 	 (7002,'Franklin','A','Xie'),
 	 (7003,'Franklin','B','Li'),
@@ -7709,7 +7709,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7008,'Franklin','E','Chander'),
 	 (7009,'Franklin','E','Goel'),
 	 (7010,'Franklin','H','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7011,'Franklin','J','Luo'),
 	 (7012,'Franklin','K','He'),
 	 (7013,'Franklin','L','Chande'),
@@ -7720,7 +7720,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7018,'Franklin','M','Huang'),
 	 (7019,'Franklin','M','Lin'),
 	 (7020,'Franklin','M','Rai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7021,'Franklin','N','Tang'),
 	 (7022,'Franklin','R','Gao'),
 	 (7023,'Franklin','S','Jai'),
@@ -7731,7 +7731,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7028,'Fred','T','Northup'),
 	 (7029,'Frederick','','Chandra'),
 	 (7030,'Frederick','','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7031,'Frederick','','Madan'),
 	 (7032,'Frederick','','Malhotra'),
 	 (7033,'Frederick','','Martinez'),
@@ -7742,7 +7742,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7038,'Frederick','','Sanchez'),
 	 (7039,'Frederick','','Sara'),
 	 (7040,'Frederick','','Srini');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7041,'Frederick','','Suri'),
 	 (7042,'Frederick','','Vance'),
 	 (7043,'Frederick','F','Raman'),
@@ -7753,7 +7753,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7048,'Fukiko','J','Ogisu'),
 	 (7049,'Gabe','','Mares'),
 	 (7050,'Gabe','B','Mares');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7051,'Gabriel','','Allen'),
 	 (7052,'Gabriel','','Baker'),
 	 (7053,'Gabriel','','Bryant'),
@@ -7764,7 +7764,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7058,'Gabriel','','Flores'),
 	 (7059,'Gabriel','','Griffin'),
 	 (7060,'Gabriel','','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7061,'Gabriel','','Jai'),
 	 (7062,'Gabriel','','Lal'),
 	 (7063,'Gabriel','','Long'),
@@ -7775,7 +7775,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7068,'Gabriel','','Sharma'),
 	 (7069,'Gabriel','','Simmons'),
 	 (7070,'Gabriel','','Wang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7071,'Gabriel','','Washington'),
 	 (7072,'Gabriel','','Wright'),
 	 (7073,'Gabriel','','Zhang'),
@@ -7786,7 +7786,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7078,'Gabriel','C','Alexander'),
 	 (7079,'Gabriel','C','Patterson'),
 	 (7080,'Gabriel','C','Young');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7081,'Gabriel','E','Perez'),
 	 (7082,'Gabriel','E','Turner'),
 	 (7083,'Gabriel','G','Foster'),
@@ -7797,7 +7797,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7088,'Gabriel','L','Bockenkamp'),
 	 (7089,'Gabriel','L','Collins'),
 	 (7090,'Gabriel','L','Green');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7091,'Gabriel','L','Hill'),
 	 (7092,'Gabriel','L','Hughes'),
 	 (7093,'Gabriel','M','Gonzales'),
@@ -7808,7 +7808,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7098,'Gabriel','R','Phillips'),
 	 (7099,'Gabriel','R','Roberts'),
 	 (7100,'Gabriel','S','Adams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7101,'Gabriel','S','Carter'),
 	 (7102,'Gabriel','T','Shan'),
 	 (7103,'Gabriel','V','King'),
@@ -7819,7 +7819,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7108,'Gabriella','','Bell'),
 	 (7109,'Gabriella','','Campbell'),
 	 (7110,'Gabriella','','Carter');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7111,'Gabriella','','Cook'),
 	 (7112,'Gabriella','','Cox'),
 	 (7113,'Gabriella','','Hall'),
@@ -7830,7 +7830,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7118,'Gabriella','','Lopez'),
 	 (7119,'Gabriella','','Morgan'),
 	 (7120,'Gabriella','','Parker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7121,'Gabriella','','Phillips'),
 	 (7122,'Gabriella','','Richardson'),
 	 (7123,'Gabriella','','Rivera'),
@@ -7841,7 +7841,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7128,'Gabriella','A','Bailey'),
 	 (7129,'Gabriella','A','Perez'),
 	 (7130,'Gabriella','A','Reed');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7131,'Gabriella','A','Scott'),
 	 (7132,'Gabriella','C','Green'),
 	 (7133,'Gabriella','D','Murphy'),
@@ -7852,7 +7852,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7138,'Gabriella','J','Roberts'),
 	 (7139,'Gabriella','K','Adams'),
 	 (7140,'Gabriella','K','Evans');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7141,'Gabriella','L','Cooper'),
 	 (7142,'Gabriella','L','Edwards'),
 	 (7143,'Gabriella','L','Kelly'),
@@ -7863,7 +7863,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7148,'Gabriella','M','Turner'),
 	 (7149,'Gabriella','M','Young'),
 	 (7150,'Gabriella','O','Nelson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7151,'Gabriella','S','James'),
 	 (7152,'Gabriella','Z','Gonzalez'),
 	 (7153,'Gabrielle','','Alexander'),
@@ -7874,7 +7874,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7158,'Gabrielle','','Butler'),
 	 (7159,'Gabrielle','','Coleman'),
 	 (7160,'Gabrielle','','Collins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7161,'Gabrielle','','Cook'),
 	 (7162,'Gabrielle','','Cox'),
 	 (7163,'Gabrielle','','Diaz'),
@@ -7885,7 +7885,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7168,'Gabrielle','','Griffin'),
 	 (7169,'Gabrielle','','Howard'),
 	 (7170,'Gabrielle','','Hughes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7171,'Gabrielle','','James'),
 	 (7172,'Gabrielle','','Kelly'),
 	 (7173,'Gabrielle','','King'),
@@ -7896,7 +7896,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7178,'Gabrielle','','Parker'),
 	 (7179,'Gabrielle','','Patterson'),
 	 (7180,'Gabrielle','','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7181,'Gabrielle','','Perry'),
 	 (7182,'Gabrielle','','price'),
 	 (7183,'Gabrielle','','Reed'),
@@ -7907,7 +7907,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7188,'Gabrielle','','Washington'),
 	 (7189,'Gabrielle','','Wright'),
 	 (7190,'Gabrielle','A','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7191,'Gabrielle','A','Morris'),
 	 (7192,'Gabrielle','A','Turner'),
 	 (7193,'Gabrielle','A','Watson'),
@@ -7918,7 +7918,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7198,'Gabrielle','D','Baker'),
 	 (7199,'Gabrielle','D','Lopez'),
 	 (7200,'Gabrielle','D','Peterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7201,'Gabrielle','E','Gray'),
 	 (7202,'Gabrielle','E','Roberts'),
 	 (7203,'Gabrielle','F','Powell'),
@@ -7929,7 +7929,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7208,'Gabrielle','J','Ross'),
 	 (7209,'Gabrielle','J','Russell'),
 	 (7210,'Gabrielle','L','Young');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7211,'Gabrielle','M','Brooks'),
 	 (7212,'Gabrielle','M','Green'),
 	 (7213,'Gabrielle','M','Sanders'),
@@ -7940,7 +7940,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7218,'Gabrielle','T','Torres'),
 	 (7219,'Gail','','Butler'),
 	 (7220,'Gail','','Erickson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7221,'Gail','','Griffin'),
 	 (7222,'Gail','','Moore'),
 	 (7223,'Gail','A','Erickson'),
@@ -7951,7 +7951,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7228,'Garrett','','Howard'),
 	 (7229,'Garrett','','James'),
 	 (7230,'Garrett','','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7231,'Garrett','','Peterson'),
 	 (7232,'Garrett','','Richardson'),
 	 (7233,'Garrett','','Rivera'),
@@ -7962,7 +7962,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7238,'Garrett','','Young'),
 	 (7239,'Garrett','C','Cooper'),
 	 (7240,'Garrett','C','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7241,'Garrett','C','Reed'),
 	 (7242,'Garrett','D','Cook'),
 	 (7243,'Garrett','E','Sanchez'),
@@ -7973,7 +7973,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7248,'Garrett','N','Gray'),
 	 (7249,'Garrett','O','Stewart'),
 	 (7250,'Garrett','R','Cox');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7251,'Garrett','R','Vargas'),
 	 (7252,'Garrett','R','Watson'),
 	 (7253,'Garrett','R','Young'),
@@ -7984,7 +7984,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7258,'Gary','','Diaz'),
 	 (7259,'Gary','','Dominguez'),
 	 (7260,'Gary','','Gomez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7261,'Gary','','Hernandez'),
 	 (7262,'Gary','','Ortega'),
 	 (7263,'Gary','','Romero'),
@@ -7995,7 +7995,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7268,'Gary','B','Gill'),
 	 (7269,'Gary','C','Alonso'),
 	 (7270,'Gary','C','Gutierrez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7271,'Gary','D','Munoz'),
 	 (7272,'Gary','E','Altman'),
 	 (7273,'Gary','E','Jimenez'),
@@ -8006,7 +8006,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7278,'Gary','L','Martin'),
 	 (7279,'Gary','M','Rubio'),
 	 (7280,'Gary','P','Meyerhoff');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7281,'Gary','R','Carlson'),
 	 (7282,'Gary','S','Ramos'),
 	 (7283,'Gary','T','Drury'),
@@ -8017,7 +8017,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7288,'Gavin','','Gonzales'),
 	 (7289,'Gavin','','Griffin'),
 	 (7290,'Gavin','','Hughes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7291,'Gavin','','Jenkins'),
 	 (7292,'Gavin','','Long'),
 	 (7293,'Gavin','','Patterson'),
@@ -8028,7 +8028,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7298,'Gavin','C','Washington'),
 	 (7299,'Gavin','D','Butler'),
 	 (7300,'Gavin','E','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7301,'Gavin','I','Henderson'),
 	 (7302,'Gavin','J','price'),
 	 (7303,'Gavin','K','Alexander'),
@@ -8039,7 +8039,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7308,'Geneva','T','Hill'),
 	 (7309,'Geoff','','Grisso'),
 	 (7310,'Geoffrey','','Fernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7311,'Geoffrey','','Garcia'),
 	 (7312,'Geoffrey','','Gonzalez'),
 	 (7313,'Geoffrey','','Kapoor'),
@@ -8050,7 +8050,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7318,'Geoffrey','','Sara'),
 	 (7319,'Geoffrey','','Suri'),
 	 (7320,'Geoffrey','A','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7321,'Geoffrey','E','Ashe'),
 	 (7322,'Geoffrey','L','Martinez'),
 	 (7323,'Geoffrey','L','Subram'),
@@ -8061,7 +8061,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7328,'Geoffrey','P','Raman'),
 	 (7329,'Geoffrey','W','Malhotra'),
 	 (7330,'George','','Fernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7331,'George','','Garcia'),
 	 (7332,'George','','Jiang'),
 	 (7333,'George','','Lopez'),
@@ -8072,7 +8072,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7338,'George','','Sara'),
 	 (7339,'George','','Srini'),
 	 (7340,'George','','Suri');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7341,'George','A','Rodriguez'),
 	 (7342,'George','C','Perez'),
 	 (7343,'George','C','Prasad'),
@@ -8083,7 +8083,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7348,'George','L','Kapoor'),
 	 (7349,'George','L','Martinez'),
 	 (7350,'George','L','Mehta');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7351,'George','M','Huckaby'),
 	 (7352,'George','M','Raman'),
 	 (7353,'George','M','Sanchez'),
@@ -8094,7 +8094,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7358,'Gerald','','Arun'),
 	 (7359,'Gerald','','Chandra'),
 	 (7360,'Gerald','','Gomez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7361,'Gerald','','Gonzalez'),
 	 (7362,'Gerald','','Gutierrez'),
 	 (7363,'Gerald','','Martinez'),
@@ -8105,7 +8105,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7368,'Gerald','','Rodriguez'),
 	 (7369,'Gerald','','Sanchez'),
 	 (7370,'Gerald','','Srini');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7371,'Gerald','','Subram'),
 	 (7372,'Gerald','','Suri'),
 	 (7373,'Gerald','','Vazquez'),
@@ -8116,7 +8116,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7378,'Gerald','A','Rubio'),
 	 (7379,'Gerald','B','Prasad'),
 	 (7380,'Gerald','C','Rana');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7381,'Gerald','C','Ruiz'),
 	 (7382,'Gerald','C','Sara'),
 	 (7383,'Gerald','E','Dominguez'),
@@ -8127,7 +8127,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7388,'Gerald','K','Romero'),
 	 (7389,'Gerald','L','Hernandez'),
 	 (7390,'Gerald','L','Jordan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7391,'Gerald','L','Sai'),
 	 (7392,'Gerald','M','Diaz'),
 	 (7393,'Gerald','M','Drury'),
@@ -8138,7 +8138,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7398,'Gerald','N','Perez'),
 	 (7399,'Gerald','R','Munoz'),
 	 (7400,'Gerald','V','Raman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7401,'Geraldine','T','Spicer'),
 	 (7402,'Geri','P','Farrell'),
 	 (7403,'Gerrit','J','Straatsma'),
@@ -8149,7 +8149,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7408,'Gilbert','','He'),
 	 (7409,'Gilbert','','Lal'),
 	 (7410,'Gilbert','','Li');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7411,'Gilbert','','Liang'),
 	 (7412,'Gilbert','','Luo'),
 	 (7413,'Gilbert','','Ma'),
@@ -8160,7 +8160,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7418,'Gilbert','','She'),
 	 (7419,'Gilbert','','Xie'),
 	 (7420,'Gilbert','','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7421,'Gilbert','','Ye'),
 	 (7422,'Gilbert','','Zhao'),
 	 (7423,'Gilbert','','Zhou'),
@@ -8171,7 +8171,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7428,'Gilbert','C','Deng'),
 	 (7429,'Gilbert','C','Shen'),
 	 (7430,'Gilbert','C','Zeng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7431,'Gilbert','D','Tang'),
 	 (7432,'Gilbert','E','Chen'),
 	 (7433,'Gilbert','E','Zhang'),
@@ -8182,7 +8182,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7438,'Gilbert','J','Jai'),
 	 (7439,'Gilbert','K','Nath'),
 	 (7440,'Gilbert','L','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7441,'Gilbert','L','Kumar'),
 	 (7442,'Gilbert','L','Sun'),
 	 (7443,'Gilbert','M','Yang'),
@@ -8193,7 +8193,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7448,'Gina','','Blanco'),
 	 (7449,'Gina','','Diaz'),
 	 (7450,'Gina','','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7451,'Gina','','Jiménez'),
 	 (7452,'Gina','','Romero'),
 	 (7453,'Gina','','Ruiz'),
@@ -8204,7 +8204,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7458,'Gina','','Vazquez'),
 	 (7459,'Gina','A','Gutierrez'),
 	 (7460,'Gina','C','Alonso');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7461,'Gina','E','Martin'),
 	 (7462,'Gina','F','Gill'),
 	 (7463,'Gina','J','Moreno'),
@@ -8215,7 +8215,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7468,'Giorgio','','Veronesi'),
 	 (7469,'Giraldo','H','Sandoval'),
 	 (7470,'Gladys','F','Mendiola');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7471,'Glenn','','Cai'),
 	 (7472,'Glenn','','Gao'),
 	 (7473,'Glenn','','Huang'),
@@ -8226,7 +8226,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7478,'Glenn','','Xu'),
 	 (7479,'Glenn','','Zheng'),
 	 (7480,'Glenn','','Zhu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7481,'Glenn','A','Li'),
 	 (7482,'Glenn','A','Zeng'),
 	 (7483,'Glenn','A','Zhang'),
@@ -8237,7 +8237,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7488,'Glenn','J','Track'),
 	 (7489,'Glenn','K','Chen'),
 	 (7490,'Glenn','L','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7491,'Glenn','L','Ye'),
 	 (7492,'Glenn','M','Ma'),
 	 (7493,'Glenn','R','Hu'),
@@ -8248,7 +8248,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7498,'Gloria','','Diaz'),
 	 (7499,'Gloria','','Gill'),
 	 (7500,'Gloria','','Reed');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7501,'Gloria','','Ruiz'),
 	 (7502,'Gloria','A','Dominguez'),
 	 (7503,'Gloria','A','Gonzales'),
@@ -8259,7 +8259,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7508,'Gloria','B','Wilson'),
 	 (7509,'Gloria','G','Serrano'),
 	 (7510,'Gloria','G','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7511,'Gloria','J','Lesko'),
 	 (7512,'Gloria','L','Bradley'),
 	 (7513,'Gloria','L','Gutierrez'),
@@ -8270,7 +8270,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7518,'Gloria','R','Ortega'),
 	 (7519,'Gloria','R','Romero'),
 	 (7520,'Gloria','S','Alonso');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7521,'Gloria','T','Rubio'),
 	 (7522,'Gloria','V','Sanz'),
 	 (7523,'Gordon','L','Hee'),
@@ -8281,7 +8281,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7528,'Grace','','Garcia'),
 	 (7529,'Grace','','Griffin'),
 	 (7530,'Grace','','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7531,'Grace','','Jones'),
 	 (7532,'Grace','','Kelly'),
 	 (7533,'Grace','','Miller'),
@@ -8292,7 +8292,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7538,'Grace','','Taylor'),
 	 (7539,'Grace','','White'),
 	 (7540,'Grace','','Williams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7541,'Grace','','Wilson'),
 	 (7542,'Grace','','Wood'),
 	 (7543,'Grace','A','Bennett'),
@@ -8303,7 +8303,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7548,'Grace','A','Richardson'),
 	 (7549,'Grace','A','Russell'),
 	 (7550,'Grace','A','Thompson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7551,'Grace','A','Washington'),
 	 (7552,'Grace','B','Powell'),
 	 (7553,'Grace','C','Bailey'),
@@ -8314,7 +8314,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7558,'Grace','C','Rodriguez'),
 	 (7559,'Grace','D','Anderson'),
 	 (7560,'Grace','D','Watson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7561,'Grace','E','Morgan'),
 	 (7562,'Grace','E','Perry'),
 	 (7563,'Grace','E','price'),
@@ -8325,7 +8325,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7568,'Grace','J','Coleman'),
 	 (7569,'Grace','J','Howard'),
 	 (7570,'Grace','J','Lee');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7571,'Grace','J','Long'),
 	 (7572,'Grace','J','Murphy'),
 	 (7573,'Grace','J','Torres'),
@@ -8336,7 +8336,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7578,'Grace','M','Henderson'),
 	 (7579,'Grace','M','Johnson'),
 	 (7580,'Grace','M','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7581,'Grace','M','Martinez'),
 	 (7582,'Grace','M','Moore'),
 	 (7583,'Grace','M','Patterson'),
@@ -8347,7 +8347,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7588,'Grace','R','Lewis'),
 	 (7589,'Grace','R','Walker'),
 	 (7590,'Grace','S','Ward');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7591,'Grace','T','Butler'),
 	 (7592,'Grace','Y','Peterson'),
 	 (7593,'Gracia','B','Tuell'),
@@ -8358,7 +8358,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7598,'Grant','','Jai'),
 	 (7599,'Grant','','Nara'),
 	 (7600,'Grant','','Pal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7601,'Grant','','Shan'),
 	 (7602,'Grant','A','Andersen'),
 	 (7603,'Grant','A','Kumar'),
@@ -8369,7 +8369,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7608,'Grant','D','Xie'),
 	 (7609,'Grant','E','She'),
 	 (7610,'Grant','H','Tang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7611,'Grant','L','Lal'),
 	 (7612,'Grant','M','Xu'),
 	 (7613,'Grant','N','Culbertson'),
@@ -8380,7 +8380,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7618,'Grant','S','Raje'),
 	 (7619,'Greg','','Chapman'),
 	 (7620,'Greg','','Guzik');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7621,'Greg','','Harrison'),
 	 (7622,'Greg','','Russell'),
 	 (7623,'Greg','','Yvkoff'),
@@ -8391,7 +8391,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7628,'Greg','M','Johnson'),
 	 (7629,'Greg','M','Taylor'),
 	 (7630,'Gregory','','Andersen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7631,'Gregory','','Goel'),
 	 (7632,'Gregory','','Jai'),
 	 (7633,'Gregory','','Kumar'),
@@ -8402,7 +8402,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7638,'Gregory','','Raji'),
 	 (7639,'Gregory','','Shan'),
 	 (7640,'Gregory','','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7641,'Gregory','','Shen'),
 	 (7642,'Gregory','','Tang'),
 	 (7643,'Gregory','','Weber'),
@@ -8413,7 +8413,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7648,'Gregory','F','Alderson'),
 	 (7649,'Gregory','J','Chander'),
 	 (7650,'Gregory','J','Erickson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7651,'Gregory','J','Ferrier'),
 	 (7652,'Gregory','J','Rai'),
 	 (7653,'Gregory','M','Becker'),
@@ -8424,7 +8424,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7658,'Gretchen','','Rivas'),
 	 (7659,'Grigory','','Pogulsky'),
 	 (7660,'Gustavo','','Achong');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7661,'Gustavo','','Camargo'),
 	 (7662,'Guy','','Gilbert'),
 	 (7663,'Guy','R','Gilbert'),
@@ -8435,7 +8435,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7668,'Hailey','','Campbell'),
 	 (7669,'Hailey','','Collins'),
 	 (7670,'Hailey','','Cooper');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7671,'Hailey','','Cox'),
 	 (7672,'Hailey','','Edwards'),
 	 (7673,'Hailey','','Hill'),
@@ -8446,7 +8446,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7678,'Hailey','','Ramirez'),
 	 (7679,'Hailey','','Reed'),
 	 (7680,'Hailey','','Sanders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7681,'Hailey','','Stewart'),
 	 (7682,'Hailey','','Torres'),
 	 (7683,'Hailey','','Turner'),
@@ -8457,7 +8457,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7688,'Hailey','C','Evans'),
 	 (7689,'Hailey','C','Henderson'),
 	 (7690,'Hailey','C','James');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7691,'Hailey','C','Jenkins'),
 	 (7692,'Hailey','C','Ross'),
 	 (7693,'Hailey','D','Butler'),
@@ -8468,7 +8468,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7698,'Hailey','I','Patterson'),
 	 (7699,'Hailey','I','Watson'),
 	 (7700,'Hailey','J','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7701,'Hailey','J','Foster'),
 	 (7702,'Hailey','J','Gray'),
 	 (7703,'Hailey','J','Parker'),
@@ -8479,7 +8479,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7708,'Hailey','L','Roberts'),
 	 (7709,'Hailey','L','Rogers'),
 	 (7710,'Hailey','L','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7711,'Hailey','M','Adams'),
 	 (7712,'Hailey','M','Lopez'),
 	 (7713,'Hailey','M','Perez'),
@@ -8490,7 +8490,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7718,'Hailey','R','Bennett'),
 	 (7719,'Hailey','R','Bryant'),
 	 (7720,'Hailey','R','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7721,'Hailey','R','Hughes'),
 	 (7722,'Hailey','R','Peterson'),
 	 (7723,'Hailey','R','Rivera'),
@@ -8501,7 +8501,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7728,'Hailey','W','Richardson'),
 	 (7729,'Haley','','Alexander'),
 	 (7730,'Haley','','Bryant');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7731,'Haley','','Cooper'),
 	 (7732,'Haley','','Cox'),
 	 (7733,'Haley','','Diaz'),
@@ -8512,7 +8512,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7738,'Haley','','Hall'),
 	 (7739,'Haley','','Howard'),
 	 (7740,'Haley','','Kelly');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7741,'Haley','','Long'),
 	 (7742,'Haley','','Murphy'),
 	 (7743,'Haley','','Nelson'),
@@ -8523,7 +8523,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7748,'Haley','','Russell'),
 	 (7749,'Haley','','Sanders'),
 	 (7750,'Haley','','Scott');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7751,'Haley','','Stewart'),
 	 (7752,'Haley','','Wright'),
 	 (7753,'Haley','','Young'),
@@ -8534,7 +8534,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7758,'Haley','A','price'),
 	 (7759,'Haley','A','Ramirez'),
 	 (7760,'Haley','B','Phillips');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7761,'Haley','C','Mitchell'),
 	 (7762,'Haley','C','Rivera'),
 	 (7763,'Haley','D','Edwards'),
@@ -8545,7 +8545,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7768,'Haley','J','Gonzalez'),
 	 (7769,'Haley','J','Hill'),
 	 (7770,'Haley','J','Ward');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7771,'Haley','L','Butler'),
 	 (7772,'Haley','L','Campbell'),
 	 (7773,'Haley','L','Griffin'),
@@ -8556,7 +8556,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7778,'Haley','M','Hughes'),
 	 (7779,'Haley','M','Lopez'),
 	 (7780,'Haley','M','Rogers');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7781,'Haley','M','Turner'),
 	 (7782,'Haley','R','Sanchez'),
 	 (7783,'Haley','S','Bailey'),
@@ -8567,7 +8567,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7788,'Haley','W','Torres'),
 	 (7789,'Hannah','','Flores'),
 	 (7790,'Hannah','','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7791,'Hannah','','Gonzales'),
 	 (7792,'Hannah','','Griffin'),
 	 (7793,'Hannah','','Hall'),
@@ -8578,7 +8578,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7798,'Hannah','','Moore'),
 	 (7799,'Hannah','','Powell'),
 	 (7800,'Hannah','','Robinson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7801,'Hannah','','Rodriguez'),
 	 (7802,'Hannah','','Thomas'),
 	 (7803,'Hannah','','Wood'),
@@ -8589,7 +8589,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7808,'Hannah','C','Anderson'),
 	 (7809,'Hannah','C','Diaz'),
 	 (7810,'Hannah','C','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7811,'Hannah','C','Thompson'),
 	 (7812,'Hannah','C','Wilson'),
 	 (7813,'Hannah','D','Bryant'),
@@ -8600,7 +8600,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7818,'Hannah','F','Walker'),
 	 (7819,'Hannah','G','Jackson'),
 	 (7820,'Hannah','G','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7821,'Hannah','H','Clark'),
 	 (7822,'Hannah','J','Hayes'),
 	 (7823,'Hannah','J','Patterson'),
@@ -8611,7 +8611,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7828,'Hannah','R','Arakawa'),
 	 (7829,'Hannah','R','Brown'),
 	 (7830,'Hannah','R','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7831,'Hannah','R','Williams'),
 	 (7832,'Hannah','S','Harris'),
 	 (7833,'Hannah','W','Barnes'),
@@ -8622,7 +8622,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7838,'Hao','O','Chen'),
 	 (7839,'Harold','','Arun'),
 	 (7840,'Harold','','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7841,'Harold','','Malhotra'),
 	 (7842,'Harold','','Patel'),
 	 (7843,'Harold','','Prasad'),
@@ -8633,7 +8633,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7848,'Harold','C','Perez'),
 	 (7849,'Harold','D','Subram'),
 	 (7850,'Harold','F','Raman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7851,'Harold','J','Martinez'),
 	 (7852,'Harold','J','McDonald'),
 	 (7853,'Harold','K','Chandra'),
@@ -8644,7 +8644,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7858,'Harold','T','Sanchez'),
 	 (7859,'Hattie','J','Haemon'),
 	 (7860,'Hazel','R','Walker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7861,'Hazem','E','Abolrous'),
 	 (7862,'Heather','','Cai'),
 	 (7863,'Heather','','Gao'),
@@ -8655,7 +8655,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7868,'Heather','','Sun'),
 	 (7869,'Heather','','Xu'),
 	 (7870,'Heather','','Yang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7871,'Heather','','Zhang'),
 	 (7872,'Heather','','Zhao'),
 	 (7873,'Heather','','Zheng'),
@@ -8666,7 +8666,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7878,'Heather','G','He'),
 	 (7879,'Heather','L','Lin'),
 	 (7880,'Heather','M','Chen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7881,'Heather','M','Wu'),
 	 (7882,'Heather','M','Zhou'),
 	 (7883,'Heather','R','Wang'),
@@ -8677,7 +8677,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7888,'Hector','','Moreno'),
 	 (7889,'Hector','','Muñoz'),
 	 (7890,'Hector','','Navarro');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7891,'Hector','','Ramos'),
 	 (7892,'Hector','','Ruiz'),
 	 (7893,'Hector','','Sanz'),
@@ -8688,7 +8688,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7898,'Hector','E','Romero'),
 	 (7899,'Hector','E','Torres'),
 	 (7900,'Hector','E','Vazquez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7901,'Hector','J','Blanco'),
 	 (7902,'Hector','K','Serrano'),
 	 (7903,'Hector','L','Alonso'),
@@ -8699,7 +8699,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7908,'Heidi','','Perez'),
 	 (7909,'Heidi','','Sanchez'),
 	 (7910,'Heidi','','Srini');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7911,'Heidi','','Steen'),
 	 (7912,'Heidi','','Suri'),
 	 (7913,'Heidi','','Vance'),
@@ -8710,7 +8710,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7918,'Heidi','L','Martinez'),
 	 (7919,'Heidi','L','Raman'),
 	 (7920,'Heidi','L','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7921,'Heidi','L','Subram'),
 	 (7922,'Heidi','M','Prasad'),
 	 (7923,'Heidi','M','Rana'),
@@ -8721,7 +8721,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7928,'Heidi','Z','Arun'),
 	 (7929,'Heidi','Z','Gonzalez'),
 	 (7930,'Helen','J','Dennis');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7931,'Helen','J','Vlass'),
 	 (7932,'Helen','M','Meyer'),
 	 (7933,'Helen','R','Lutes'),
@@ -8732,7 +8732,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7938,'Henry','','Perez'),
 	 (7939,'Henry','','Rana'),
 	 (7940,'Henry','','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7941,'Henry','','Suri'),
 	 (7942,'Henry','','Vance'),
 	 (7943,'Henry','','Young'),
@@ -8743,7 +8743,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7948,'Henry','E','Madan'),
 	 (7949,'Henry','J','Stone'),
 	 (7950,'Henry','L','Arun');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7951,'Henry','L','Campen'),
 	 (7952,'Henry','L','Chapman'),
 	 (7953,'Henry','L','Sara'),
@@ -8754,7 +8754,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7958,'Henry','S','Raman'),
 	 (7959,'Henry','W','Gonzalez'),
 	 (7960,'Hillaine','N','Montera');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7961,'Holly','','Arun'),
 	 (7962,'Holly','','Chandra'),
 	 (7963,'Holly','','Dickson'),
@@ -8765,7 +8765,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7968,'Holly','','Sanchez'),
 	 (7969,'Holly','','Srini'),
 	 (7970,'Holly','B','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7971,'Holly','E','Perez'),
 	 (7972,'Holly','J','Holt'),
 	 (7973,'Holly','J','Subram'),
@@ -8776,7 +8776,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7978,'Holly','S','Vance'),
 	 (7979,'Holly','V','Sai'),
 	 (7980,'Homer','J','Villa');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7981,'Houman','','Pournasseh'),
 	 (7982,'Houman','N','Pournasseh'),
 	 (7983,'Humberto','','Acevedo'),
@@ -8787,7 +8787,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7988,'Hunter','','Bryant'),
 	 (7989,'Hunter','','Campbell'),
 	 (7990,'Hunter','','Collins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7991,'Hunter','','Davis'),
 	 (7992,'Hunter','','Edwards'),
 	 (7993,'Hunter','','Evans'),
@@ -8798,7 +8798,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (7998,'Hunter','','Hernandez'),
 	 (7999,'Hunter','','Hill'),
 	 (8000,'Hunter','','Hughes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8001,'Hunter','','Jackson'),
 	 (8002,'Hunter','','Jenkins'),
 	 (8003,'Hunter','','Jones'),
@@ -8809,7 +8809,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8008,'Hunter','','Miller'),
 	 (8009,'Hunter','','Moore'),
 	 (8010,'Hunter','','Parker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8011,'Hunter','','Perry'),
 	 (8012,'Hunter','','Powell'),
 	 (8013,'Hunter','','Roberts'),
@@ -8820,7 +8820,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8018,'Hunter','','Thompson'),
 	 (8019,'Hunter','','Turner'),
 	 (8020,'Hunter','','Walker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8021,'Hunter','','Wang'),
 	 (8022,'Hunter','','Washington'),
 	 (8023,'Hunter','A','Butler'),
@@ -8831,7 +8831,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8028,'Hunter','B','Chen'),
 	 (8029,'Hunter','B','Patterson'),
 	 (8030,'Hunter','C','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8031,'Hunter','C','Henderson'),
 	 (8032,'Hunter','D','Griffin'),
 	 (8033,'Hunter','E','Lee'),
@@ -8842,7 +8842,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8038,'Hunter','G','Phillips'),
 	 (8039,'Hunter','H','Baker'),
 	 (8040,'Hunter','J','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8041,'Hunter','J','Lewis'),
 	 (8042,'Hunter','J','Robinson'),
 	 (8043,'Hunter','J','Williams'),
@@ -8853,7 +8853,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8048,'Hunter','M','Johnson'),
 	 (8049,'Hunter','M','Scott'),
 	 (8050,'Hunter','P','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8051,'Hunter','R','Wilson'),
 	 (8052,'Hunter','R','Wright'),
 	 (8053,'Hunter','S','Clark'),
@@ -8864,7 +8864,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8058,'Ian','','Campbell'),
 	 (8059,'Ian','','Coleman'),
 	 (8060,'Ian','','Collins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8061,'Ian','','Cooper'),
 	 (8062,'Ian','','Flores'),
 	 (8063,'Ian','','Gonzalez'),
@@ -8875,7 +8875,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8068,'Ian','','King'),
 	 (8069,'Ian','','Lee'),
 	 (8070,'Ian','','Lewis');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8071,'Ian','','Martinez'),
 	 (8072,'Ian','','Mitchell'),
 	 (8073,'Ian','','Morgan'),
@@ -8886,7 +8886,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8078,'Ian','','Rivera'),
 	 (8079,'Ian','','Scott'),
 	 (8080,'Ian','','Stewart');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8081,'Ian','','Thomas'),
 	 (8082,'Ian','','Walker'),
 	 (8083,'Ian','','Ward'),
@@ -8897,7 +8897,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8088,'Ian','A','Gray'),
 	 (8089,'Ian','A','Hall'),
 	 (8090,'Ian','A','James');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8091,'Ian','A','Morris'),
 	 (8092,'Ian','A','Perry'),
 	 (8093,'Ian','A','Yuhasz'),
@@ -8908,7 +8908,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8098,'Ian','D','Alexander'),
 	 (8099,'Ian','D','Cox'),
 	 (8100,'Ian','D','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8101,'Ian','D','Reed'),
 	 (8102,'Ian','D','Robinson'),
 	 (8103,'Ian','D','Rogers'),
@@ -8919,7 +8919,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8108,'Ian','G','Murphy'),
 	 (8109,'Ian','G','Watson'),
 	 (8110,'Ian','J','price');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8111,'Ian','K','Bennett'),
 	 (8112,'Ian','K','Cook'),
 	 (8113,'Ian','K','Martin'),
@@ -8930,7 +8930,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8118,'Ian','L','Perez'),
 	 (8119,'Ian','L','Peterson'),
 	 (8120,'Ian','L','Smith');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8121,'Ian','M','Anderson'),
 	 (8122,'Ian','M','Barnes'),
 	 (8123,'Ian','M','Jenkins'),
@@ -8941,7 +8941,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8128,'Ian','M','Williams'),
 	 (8129,'Ian','N','Sanders'),
 	 (8130,'Ian','P','Wright');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8131,'Ian','R','Bailey'),
 	 (8132,'Ian','R','Patterson'),
 	 (8133,'Ian','R','Ross'),
@@ -8952,7 +8952,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8138,'Ian','T','Russell'),
 	 (8139,'Ian','V','Baker'),
 	 (8140,'Ian','V','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8141,'Ian','W','Brooks'),
 	 (8142,'Ian','W','Harris'),
 	 (8143,'Ian','W','Rodriguez'),
@@ -8963,7 +8963,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8148,'Irene','J','Hernandez'),
 	 (8149,'Irene','J','Watada'),
 	 (8150,'Irma','J','Sherwood');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8151,'Irving','W','Schmidt'),
 	 (8152,'Isaac','','Adams'),
 	 (8153,'Isaac','','Bailey'),
@@ -8974,7 +8974,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8158,'Isaac','','Hernandez'),
 	 (8159,'Isaac','','Hill'),
 	 (8160,'Isaac','','James');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8161,'Isaac','','Lopez'),
 	 (8162,'Isaac','','Mitchell'),
 	 (8163,'Isaac','','Morgan'),
@@ -8985,7 +8985,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8168,'Isaac','','Sandberg'),
 	 (8169,'Isaac','','Turner'),
 	 (8170,'Isaac','','Young');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8171,'Isaac','A','Evans'),
 	 (8172,'Isaac','A','Phillips'),
 	 (8173,'Isaac','A','Wright'),
@@ -8996,7 +8996,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8178,'Isaac','D','Reed'),
 	 (8179,'Isaac','D','Rivera'),
 	 (8180,'Isaac','E','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8181,'Isaac','G','Gray'),
 	 (8182,'Isaac','G','Morris'),
 	 (8183,'Isaac','I','Cooper'),
@@ -9007,7 +9007,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8188,'Isaac','M','Brooks'),
 	 (8189,'Isaac','M','Cook'),
 	 (8190,'Isaac','M','Howard');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8191,'Isaac','M','Ward'),
 	 (8192,'Isaac','P','Kelly'),
 	 (8193,'Isaac','R','Edwards'),
@@ -9018,7 +9018,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8198,'Isabel','','Bradley'),
 	 (8199,'Isabel','','Butler'),
 	 (8200,'Isabel','','Flores');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8201,'Isabel','','Gonzales'),
 	 (8202,'Isabel','','Hayes'),
 	 (8203,'Isabel','','Long'),
@@ -9029,7 +9029,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8208,'Isabel','C','Jenkins'),
 	 (8209,'Isabel','C','Russell'),
 	 (8210,'Isabel','H','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8211,'Isabel','J','Diaz'),
 	 (8212,'Isabel','L','Bryant'),
 	 (8213,'Isabel','L','Henderson'),
@@ -9040,7 +9040,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8218,'Isabella','','Adams'),
 	 (8219,'Isabella','','Alexander'),
 	 (8220,'Isabella','','Allen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8221,'Isabella','','Anderson'),
 	 (8222,'Isabella','','Bailey'),
 	 (8223,'Isabella','','Bell'),
@@ -9051,7 +9051,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8228,'Isabella','','Foster'),
 	 (8229,'Isabella','','Garcia'),
 	 (8230,'Isabella','','Gray');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8231,'Isabella','','Green'),
 	 (8232,'Isabella','','Hall'),
 	 (8233,'Isabella','','Harris'),
@@ -9062,7 +9062,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8238,'Isabella','','Lee'),
 	 (8239,'Isabella','','Lewis'),
 	 (8240,'Isabella','','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8241,'Isabella','','Mitchell'),
 	 (8242,'Isabella','','Murphy'),
 	 (8243,'Isabella','','Nelson'),
@@ -9073,7 +9073,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8248,'Isabella','','Rodriguez'),
 	 (8249,'Isabella','','Rogers'),
 	 (8250,'Isabella','','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8251,'Isabella','','Simmons'),
 	 (8252,'Isabella','','Thompson'),
 	 (8253,'Isabella','','Torres'),
@@ -9084,7 +9084,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8258,'Isabella','','Williams'),
 	 (8259,'Isabella','','Young'),
 	 (8260,'Isabella','A','Baker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8261,'Isabella','A','Butler'),
 	 (8262,'Isabella','A','Davis'),
 	 (8263,'Isabella','A','Edwards'),
@@ -9095,7 +9095,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8268,'Isabella','B','Moore'),
 	 (8269,'Isabella','C','Campbell'),
 	 (8270,'Isabella','C','Carter');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8271,'Isabella','C','Long'),
 	 (8272,'Isabella','C','Wood'),
 	 (8273,'Isabella','D','Coleman'),
@@ -9106,7 +9106,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8278,'Isabella','D','Sandberg'),
 	 (8279,'Isabella','D','Wright'),
 	 (8280,'Isabella','E','King');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8281,'Isabella','F','Richardson'),
 	 (8282,'Isabella','F','Smith'),
 	 (8283,'Isabella','H','Diaz'),
@@ -9117,7 +9117,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8288,'Isabella','J','Martinez'),
 	 (8289,'Isabella','K','Bennett'),
 	 (8290,'Isabella','L','Brown');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8291,'Isabella','L','Bryant'),
 	 (8292,'Isabella','L','Gonzalez'),
 	 (8293,'Isabella','L','Henderson'),
@@ -9128,7 +9128,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8298,'Isabella','L','price'),
 	 (8299,'Isabella','L','Taylor'),
 	 (8300,'Isabella','M','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8301,'Isabella','M','Stewart'),
 	 (8302,'Isabella','M','Thomas'),
 	 (8303,'Isabella','P','Hill'),
@@ -9139,7 +9139,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8308,'Isabella','R','Scott'),
 	 (8309,'Isabella','W','Hall'),
 	 (8310,'Isabelle','','Bryant');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8311,'Isabelle','','Butler'),
 	 (8312,'Isabelle','','Diaz'),
 	 (8313,'Isabelle','','Foster'),
@@ -9150,7 +9150,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8318,'Isabelle','A','Flores'),
 	 (8319,'Isabelle','A','Perry'),
 	 (8320,'Isabelle','C','Barnes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8321,'Isabelle','C','Bennett'),
 	 (8322,'Isabelle','C','Patterson'),
 	 (8323,'Isabelle','C','Winston'),
@@ -9161,7 +9161,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8328,'Isabelle','L','Alexander'),
 	 (8329,'Isabelle','S','Russell'),
 	 (8330,'Isabelle','W','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8331,'Isaiah','','Baker'),
 	 (8332,'Isaiah','','Campbell'),
 	 (8333,'Isaiah','','Carter'),
@@ -9172,7 +9172,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8338,'Isaiah','','Lopez'),
 	 (8339,'Isaiah','','Morgan'),
 	 (8340,'Isaiah','','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8341,'Isaiah','','Murphy'),
 	 (8342,'Isaiah','','Nelson'),
 	 (8343,'Isaiah','','Peterson'),
@@ -9183,7 +9183,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8348,'Isaiah','','Sanders'),
 	 (8349,'Isaiah','','Ward'),
 	 (8350,'Isaiah','','Watson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8351,'Isaiah','A','Allen'),
 	 (8352,'Isaiah','A','Collins'),
 	 (8353,'Isaiah','A','Gray'),
@@ -9194,7 +9194,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8358,'Isaiah','D','Hill'),
 	 (8359,'Isaiah','D','Wright'),
 	 (8360,'Isaiah','E','Cox');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8361,'Isaiah','E','Scott'),
 	 (8362,'Isaiah','E','Torres'),
 	 (8363,'Isaiah','G','Hernandez'),
@@ -9205,7 +9205,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8368,'Isaiah','J','Parker'),
 	 (8369,'Isaiah','K','Rivera'),
 	 (8370,'Isaiah','L','Adams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8371,'Isaiah','M','Roberts'),
 	 (8372,'Isaiah','M','Turner'),
 	 (8373,'Isaiah','O','Reed'),
@@ -9216,7 +9216,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8378,'Ivan','','Fernandez'),
 	 (8379,'Ivan','','Lopez'),
 	 (8380,'Ivan','','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8381,'Ivan','','Suri'),
 	 (8382,'Ivan','','Weber'),
 	 (8383,'Ivan','A','Subram'),
@@ -9227,7 +9227,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8388,'Ivan','K','Rana'),
 	 (8389,'Ivan','L','Garcia'),
 	 (8390,'Ivan','L','Sara');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8391,'Ivan','M','Prasad'),
 	 (8392,'Ivan','S','Mehta'),
 	 (8393,'Ivan','S','Perez'),
@@ -9238,7 +9238,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8398,'Jack','','Butler'),
 	 (8399,'Jack','','Campbell'),
 	 (8400,'Jack','','Carter');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8401,'Jack','','Coleman'),
 	 (8402,'Jack','','Creasey'),
 	 (8403,'Jack','','Evans'),
@@ -9249,7 +9249,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8408,'Jack','','Long'),
 	 (8409,'Jack','','Parker'),
 	 (8410,'Jack','','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8411,'Jack','','Perry'),
 	 (8412,'Jack','','Ross'),
 	 (8413,'Jack','','Russell'),
@@ -9260,7 +9260,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8418,'Jack','A','Yang'),
 	 (8419,'Jack','D','Bryant'),
 	 (8420,'Jack','E','Chen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8421,'Jack','E','Kumar'),
 	 (8422,'Jack','E','Roberts'),
 	 (8423,'Jack','H','Diaz'),
@@ -9271,7 +9271,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8428,'Jack','J','Collins'),
 	 (8429,'Jack','J','Li'),
 	 (8430,'Jack','J','Powell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8431,'Jack','K','Simmons'),
 	 (8432,'Jack','L','Flores'),
 	 (8433,'Jack','L','Gonzales'),
@@ -9282,7 +9282,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8438,'Jack','L','Wang'),
 	 (8439,'Jack','L','Young'),
 	 (8440,'Jack','M','Allen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8441,'Jack','M','Henderson'),
 	 (8442,'Jack','M','Hernandez'),
 	 (8443,'Jack','M','Washington'),
@@ -9293,7 +9293,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8448,'Jack','R','Wright'),
 	 (8449,'Jack','S','Hughes'),
 	 (8450,'Jack','S','Richins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8451,'Jack','T','Creasey'),
 	 (8452,'Jack','T','Shan'),
 	 (8453,'Jack','W','Baker'),
@@ -9304,7 +9304,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8458,'Jackson','','Collins'),
 	 (8459,'Jackson','','Diaz'),
 	 (8460,'Jackson','','Edwards');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8461,'Jackson','','Evans'),
 	 (8462,'Jackson','','Gonzales'),
 	 (8463,'Jackson','','Hall'),
@@ -9315,7 +9315,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8468,'Jackson','','Kumar'),
 	 (8469,'Jackson','','Long'),
 	 (8470,'Jackson','','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8471,'Jackson','','Mitchell'),
 	 (8472,'Jackson','','Nelson'),
 	 (8473,'Jackson','','Roberts'),
@@ -9326,7 +9326,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8478,'Jackson','','Washington'),
 	 (8479,'Jackson','','Wright'),
 	 (8480,'Jackson','','Yang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8481,'Jackson','','Zhang'),
 	 (8482,'Jackson','A','Foster'),
 	 (8483,'Jackson','A','Henderson'),
@@ -9337,7 +9337,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8488,'Jackson','D','Phillips'),
 	 (8489,'Jackson','E','King'),
 	 (8490,'Jackson','E','Lal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8491,'Jackson','G','Perez'),
 	 (8492,'Jackson','H','Adams'),
 	 (8493,'Jackson','H','Patterson'),
@@ -9348,7 +9348,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8498,'Jackson','L','Li'),
 	 (8499,'Jackson','L','Russell'),
 	 (8500,'Jackson','M','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8501,'Jackson','M','Parker'),
 	 (8502,'Jackson','S','Carter'),
 	 (8503,'Jackson','S','Chen'),
@@ -9359,7 +9359,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8508,'Jackson','W','Young'),
 	 (8509,'Jaclyn','','Andersen'),
 	 (8510,'Jaclyn','','Becker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8511,'Jaclyn','','Cai'),
 	 (8512,'Jaclyn','','Gao'),
 	 (8513,'Jaclyn','','Guo'),
@@ -9370,7 +9370,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8518,'Jaclyn','','Li'),
 	 (8519,'Jaclyn','','Liang'),
 	 (8520,'Jaclyn','','Lin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8521,'Jaclyn','','Liu'),
 	 (8522,'Jaclyn','','Luo'),
 	 (8523,'Jaclyn','','Ma'),
@@ -9381,7 +9381,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8528,'Jaclyn','','Wu'),
 	 (8529,'Jaclyn','','Xie'),
 	 (8530,'Jaclyn','','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8531,'Jaclyn','','Yang'),
 	 (8532,'Jaclyn','','Ye'),
 	 (8533,'Jaclyn','','Yuan'),
@@ -9392,7 +9392,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8538,'Jaclyn','C','Chen'),
 	 (8539,'Jaclyn','C','Sharma'),
 	 (8540,'Jaclyn','C','Zhou');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8541,'Jaclyn','D','Ferrier'),
 	 (8542,'Jaclyn','D','Lu'),
 	 (8543,'Jaclyn','D','Zhao'),
@@ -9403,7 +9403,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8548,'Jaclyn','L','Xu'),
 	 (8549,'Jaclyn','M','Lal'),
 	 (8550,'Jaclyn','M','Nara');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8551,'Jaclyn','M','Wang'),
 	 (8552,'Jaclyn','R','Zeng'),
 	 (8553,'Jaclyn','S','Chande'),
@@ -9414,7 +9414,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8558,'Jacob','','Miller'),
 	 (8559,'Jacob','','Robinson'),
 	 (8560,'Jacob','','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8561,'Jacob','','Williams'),
 	 (8562,'Jacob','A','Smith'),
 	 (8563,'Jacob','C','Thomas'),
@@ -9425,7 +9425,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8568,'Jacob','K','Lewis'),
 	 (8569,'Jacob','K','White'),
 	 (8570,'Jacob','M','Taylor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8571,'Jacob','N','Dean'),
 	 (8572,'Jacob','N','Walker'),
 	 (8573,'Jacob','V','Anderson'),
@@ -9436,7 +9436,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8578,'Jacqueline','','Gonzales'),
 	 (8579,'Jacqueline','','Gray'),
 	 (8580,'Jacqueline','','Griffin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8581,'Jacqueline','','Hughes'),
 	 (8582,'Jacqueline','','Jenkins'),
 	 (8583,'Jacqueline','','Kelly'),
@@ -9447,7 +9447,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8588,'Jacqueline','','Rivera'),
 	 (8589,'Jacqueline','','Ross'),
 	 (8590,'Jacqueline','','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8591,'Jacqueline','','Torres'),
 	 (8592,'Jacqueline','','Ward'),
 	 (8593,'Jacqueline','','Wood'),
@@ -9458,7 +9458,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8598,'Jacqueline','C','Washington'),
 	 (8599,'Jacqueline','D','Peterson'),
 	 (8600,'Jacqueline','E','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8601,'Jacqueline','E','Sanchez'),
 	 (8602,'Jacqueline','F','Watson'),
 	 (8603,'Jacqueline','G','Cox'),
@@ -9469,7 +9469,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8608,'Jacqueline','K','Foster'),
 	 (8609,'Jacqueline','L','Bell'),
 	 (8610,'Jacqueline','L','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8611,'Jacqueline','L','James'),
 	 (8612,'Jacqueline','L','Sanders'),
 	 (8613,'Jacqueline','R','Henderson'),
@@ -9480,7 +9480,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8618,'Jacqueline','S','Rogers'),
 	 (8619,'Jacqueline','W','Brooks'),
 	 (8620,'Jacqueline','W','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8621,'Jacquelyn','','Blanco'),
 	 (8622,'Jacquelyn','','Castro'),
 	 (8623,'Jacquelyn','','Dominguez'),
@@ -9491,7 +9491,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8628,'Jacquelyn','','Navarro'),
 	 (8629,'Jacquelyn','','Romero'),
 	 (8630,'Jacquelyn','','Saunders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8631,'Jacquelyn','','Serrano'),
 	 (8632,'Jacquelyn','','Vazquez'),
 	 (8633,'Jacquelyn','A','Alonso'),
@@ -9502,7 +9502,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8638,'Jacquelyn','J','Hernandez'),
 	 (8639,'Jacquelyn','K','Diaz'),
 	 (8640,'Jacquelyn','L','Ruiz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8641,'Jacquelyn','M','Martin'),
 	 (8642,'Jacquelyn','P','Torres'),
 	 (8643,'Jacquelyn','R','Gomez'),
@@ -9513,7 +9513,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8648,'Jada','','Cook'),
 	 (8649,'Jada','','Cooper'),
 	 (8650,'Jada','','Mitchell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8651,'Jada','','Murphy'),
 	 (8652,'Jada','','Nelson'),
 	 (8653,'Jada','','Perez'),
@@ -9524,7 +9524,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8658,'Jada','','Rivera'),
 	 (8659,'Jada','','Rogers'),
 	 (8660,'Jada','','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8661,'Jada','A','Brooks'),
 	 (8662,'Jada','A','Morgan'),
 	 (8663,'Jada','C','Collins'),
@@ -9535,7 +9535,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8668,'Jada','J','Sanders'),
 	 (8669,'Jada','L','Parker'),
 	 (8670,'Jada','S','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8671,'Jada','S','Phillips'),
 	 (8672,'Jada','W','Bailey'),
 	 (8673,'Jade','','Kelly'),
@@ -9546,7 +9546,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8678,'Jade','C','Cook'),
 	 (8679,'Jade','D','Stewart'),
 	 (8680,'Jade','D','Ward');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8681,'Jade','E','Bailey'),
 	 (8682,'Jade','I','Rogers'),
 	 (8683,'Jade','J','Peterson'),
@@ -9557,7 +9557,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8688,'Jade','P','Morgan'),
 	 (8689,'Jade','P','Sanders'),
 	 (8690,'Jade','R','Howard');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8691,'Jade','R','Richardson'),
 	 (8692,'Jade','T','Bell'),
 	 (8693,'Jae','B','Pak'),
@@ -9568,7 +9568,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8698,'Jaime','','Gomez'),
 	 (8699,'Jaime','','Hernandez'),
 	 (8700,'Jaime','','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8701,'Jaime','','Moreno'),
 	 (8702,'Jaime','','Nath'),
 	 (8703,'Jaime','','Pal'),
@@ -9579,7 +9579,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8708,'Jaime','','Xie'),
 	 (8709,'Jaime','A','Diaz'),
 	 (8710,'Jaime','A','Gutierrez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8711,'Jaime','B','Raje'),
 	 (8712,'Jaime','B','Romero'),
 	 (8713,'Jaime','C','Alvarez'),
@@ -9590,7 +9590,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8718,'Jaime','D','Nara'),
 	 (8719,'Jaime','D','She'),
 	 (8720,'Jaime','E','Jimenez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8721,'Jaime','E','Luo'),
 	 (8722,'Jaime','G','Yuan'),
 	 (8723,'Jaime','J','Becker'),
@@ -9601,7 +9601,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8728,'Jaime','L','Raji'),
 	 (8729,'Jaime','L','Suarez'),
 	 (8730,'Jaime','L','Sutton');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8731,'Jaime','M','Gill'),
 	 (8732,'Jaime','M','Jai'),
 	 (8733,'Jaime','M','Rai'),
@@ -9612,7 +9612,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8738,'Jaime','R','Deng'),
 	 (8739,'Jaime','R','Dominguez'),
 	 (8740,'Jaime','R','Rubio');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8741,'Jaime','T','Navarro'),
 	 (8742,'Jaime','W','Goel'),
 	 (8743,'Jake','','Chen'),
@@ -9623,7 +9623,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8748,'Jake','','Zeng'),
 	 (8749,'Jake','','Zhang'),
 	 (8750,'Jake','','Zhao');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8751,'Jake','','Zheng'),
 	 (8752,'Jake','','Zukowski'),
 	 (8753,'Jake','A','Gao'),
@@ -9634,7 +9634,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8758,'Jake','G','Zhu'),
 	 (8759,'Jake','J','Wang'),
 	 (8760,'Jake','L','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8761,'Jake','L','Li'),
 	 (8762,'Jake','L','Yang'),
 	 (8763,'Jake','M','He'),
@@ -9645,7 +9645,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8768,'James','','Anderson'),
 	 (8769,'James','','Bryant'),
 	 (8770,'James','','Carter');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8771,'James','','Coleman'),
 	 (8772,'James','','Davis'),
 	 (8773,'James','','Fine'),
@@ -9656,7 +9656,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8778,'James','','Hernandez'),
 	 (8779,'James','','Hughes'),
 	 (8780,'James','','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8781,'James','','Johnson'),
 	 (8782,'James','','Kumar'),
 	 (8783,'James','','Martinez'),
@@ -9667,7 +9667,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8788,'James','','Roberts'),
 	 (8789,'James','','Robinson'),
 	 (8790,'James','','Shan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8791,'James','','Simmons'),
 	 (8792,'James','','Smith'),
 	 (8793,'James','','Van Eaton'),
@@ -9678,7 +9678,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8798,'James','A','Li'),
 	 (8799,'James','A','Wright'),
 	 (8800,'James','B','Bailey');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8801,'James','B','Haugh'),
 	 (8802,'James','C','Brown'),
 	 (8803,'James','C','Butler'),
@@ -9689,7 +9689,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8808,'James','D','Campbell'),
 	 (8809,'James','D','Chen'),
 	 (8810,'James','D','Kramer');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8811,'James','D','Russell'),
 	 (8812,'James','E','Clark'),
 	 (8813,'James','E','Collins'),
@@ -9700,7 +9700,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8818,'James','G','Phillips'),
 	 (8819,'James','G','Ptaszynski'),
 	 (8820,'James','J','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8821,'James','J','Jai'),
 	 (8822,'James','J','Krow'),
 	 (8823,'James','J','Lee'),
@@ -9711,7 +9711,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8828,'James','K','Thomas'),
 	 (8829,'James','L','Gonzales'),
 	 (8830,'James','L','Jackson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8831,'James','L','McCoy'),
 	 (8832,'James','L','Nelson'),
 	 (8833,'James','L','Perez'),
@@ -9722,7 +9722,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8838,'James','M','Lal'),
 	 (8839,'James','M','Martin'),
 	 (8840,'James','M','West');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8841,'James','M','Wilson'),
 	 (8842,'James','M','Young'),
 	 (8843,'James','P','Patterson'),
@@ -9733,7 +9733,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8848,'James','R','Thompson'),
 	 (8849,'James','R','Tran'),
 	 (8850,'James','R','Washington');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8851,'James','S','Hill'),
 	 (8852,'James','T','Aguilar'),
 	 (8853,'James','V','Allen'),
@@ -9744,7 +9744,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8858,'James','Y','Long'),
 	 (8859,'James','Y','Moore'),
 	 (8860,'Jamie','','Carlson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8861,'Jamie','','Chow'),
 	 (8862,'Jamie','','Dominguez'),
 	 (8863,'Jamie','','Gao'),
@@ -9755,7 +9755,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8868,'Jamie','','Jimenez'),
 	 (8869,'Jamie','','Li'),
 	 (8870,'Jamie','','Lin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8871,'Jamie','','Moreno'),
 	 (8872,'Jamie','','Ortega'),
 	 (8873,'Jamie','','Reding'),
@@ -9766,7 +9766,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8878,'Jamie','','Vazquez'),
 	 (8879,'Jamie','','Wagner'),
 	 (8880,'Jamie','','Zhao');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8881,'Jamie','','Zhou'),
 	 (8882,'Jamie','A','Gutierrez'),
 	 (8883,'Jamie','C','Hu'),
@@ -9777,7 +9777,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8888,'Jamie','J','Liu'),
 	 (8889,'Jamie','J','Zhu'),
 	 (8890,'Jamie','L','Ramos');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8891,'Jamie','L','Zeng'),
 	 (8892,'Jamie','L','Zheng'),
 	 (8893,'Jamie','M','Lu'),
@@ -9788,7 +9788,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8898,'Jamie','R','Blanco'),
 	 (8899,'Jamie','S','Alan'),
 	 (8900,'Jamie','S','Cai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8901,'Jamie','S','Wu'),
 	 (8902,'Jamie','S','Yang'),
 	 (8903,'Jamie','W','Rubio'),
@@ -9799,7 +9799,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8908,'Jan','','Lopez'),
 	 (8909,'Jan','','Miksovsky'),
 	 (8910,'Jan','A','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8911,'Jan','D','Cox'),
 	 (8912,'Jan','J','Green'),
 	 (8913,'Jan','K','Watson'),
@@ -9810,7 +9810,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8918,'Jan','R','Cox'),
 	 (8919,'Jan','R','James'),
 	 (8920,'Jan','R','Nelsen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8921,'Jan','S','Miksovsky'),
 	 (8922,'Jan','T','Archer'),
 	 (8923,'Janaina','B','Bueno'),
@@ -9821,7 +9821,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8928,'Jane','N','Carmichael'),
 	 (8929,'Jane','P','Greer'),
 	 (8930,'Janelle','','Fernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8931,'Janelle','','Garcia'),
 	 (8932,'Janelle','','Malhotra'),
 	 (8933,'Janelle','','Martinez'),
@@ -9832,7 +9832,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8938,'Janelle','','Subram'),
 	 (8939,'Janelle','','Suri'),
 	 (8940,'Janelle','A','Kapoor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8941,'Janelle','C','Chandra'),
 	 (8942,'Janelle','C','Raman'),
 	 (8943,'Janelle','E','Madan'),
@@ -9843,7 +9843,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8948,'Janelle','T','Patel'),
 	 (8949,'Janet','','Browning'),
 	 (8950,'Janet','','Dominguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8951,'Janet','','Gomez'),
 	 (8952,'Janet','','Munoz'),
 	 (8953,'Janet','','Serrano'),
@@ -9854,7 +9854,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8958,'Janet','A','Torres'),
 	 (8959,'Janet','B','Gill'),
 	 (8960,'Janet','B','Ramos');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8961,'Janet','D','Romero'),
 	 (8962,'Janet','E','Wright'),
 	 (8963,'Janet','G','Alvarez'),
@@ -9865,7 +9865,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8968,'Janet','K','Alonso'),
 	 (8969,'Janet','L','Martin'),
 	 (8970,'Janet','L','Moreno');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8971,'Janet','L','Ortega'),
 	 (8972,'Janet','L','Scott'),
 	 (8973,'Janet','L','Sheperdigian'),
@@ -9876,7 +9876,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8978,'Janet','P','Jimenez'),
 	 (8979,'Janet','R','Diaz'),
 	 (8980,'Janet','R','Stewart');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8981,'Janet','R','Vazquez'),
 	 (8982,'Janet','S','Watson'),
 	 (8983,'Janet','V','Suarez'),
@@ -9887,7 +9887,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8988,'Janice','A','Vrins'),
 	 (8989,'Janice','K','Hows'),
 	 (8990,'Janice','M','Galvin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8991,'Jared','','Bailey'),
 	 (8992,'Jared','','Bell'),
 	 (8993,'Jared','','Brooks'),
@@ -9898,7 +9898,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (8998,'Jared','','Rivera'),
 	 (8999,'Jared','','Torres'),
 	 (9000,'Jared','A','Gray');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9001,'Jared','A','Morgan'),
 	 (9002,'Jared','A','Ward'),
 	 (9003,'Jared','A','Watson'),
@@ -9909,7 +9909,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9008,'Jared','J','Kelly'),
 	 (9009,'Jared','J','Rogers'),
 	 (9010,'Jared','J','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9011,'Jared','L','Bustamante'),
 	 (9012,'Jared','L','Stewart'),
 	 (9013,'Jared','M','James'),
@@ -9920,7 +9920,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9018,'Jarrod','','Chandra'),
 	 (9019,'Jarrod','','Gonzalez'),
 	 (9020,'Jarrod','','Kapoor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9021,'Jarrod','','Prasad'),
 	 (9022,'Jarrod','','Raman'),
 	 (9023,'Jarrod','','Rana'),
@@ -9931,7 +9931,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9028,'Jarrod','A','Subram'),
 	 (9029,'Jarrod','B','Fernandez'),
 	 (9030,'Jarrod','C','Madan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9031,'Jarrod','C','Perez'),
 	 (9032,'Jarrod','E','Malhotra'),
 	 (9033,'Jarrod','E','Patel'),
@@ -9942,7 +9942,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9038,'Jarrod','S','Mehta'),
 	 (9039,'Jasmine','','Brown'),
 	 (9040,'Jasmine','','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9041,'Jasmine','','Cox'),
 	 (9042,'Jasmine','','Flores'),
 	 (9043,'Jasmine','','Foster'),
@@ -9953,7 +9953,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9048,'Jasmine','','Jackson'),
 	 (9049,'Jasmine','','James'),
 	 (9050,'Jasmine','','Lewis');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9051,'Jasmine','','Ramirez'),
 	 (9052,'Jasmine','','Reed'),
 	 (9053,'Jasmine','','Richardson'),
@@ -9964,7 +9964,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9058,'Jasmine','','Washington'),
 	 (9059,'Jasmine','','White'),
 	 (9060,'Jasmine','','Wilson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9061,'Jasmine','A','Alexander'),
 	 (9062,'Jasmine','A','Anderson'),
 	 (9063,'Jasmine','A','Diaz'),
@@ -9975,7 +9975,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9068,'Jasmine','A','Russell'),
 	 (9069,'Jasmine','A','Taylor'),
 	 (9070,'Jasmine','A','Thompson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9071,'Jasmine','A','Torres'),
 	 (9072,'Jasmine','B','Bell'),
 	 (9073,'Jasmine','C','Cook'),
@@ -9986,7 +9986,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9078,'Jasmine','D','Simmons'),
 	 (9079,'Jasmine','E','Bailey'),
 	 (9080,'Jasmine','E','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9081,'Jasmine','E','Sanders'),
 	 (9082,'Jasmine','J','Barnes'),
 	 (9083,'Jasmine','J','Bryant'),
@@ -9997,7 +9997,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9088,'Jasmine','L','West'),
 	 (9089,'Jasmine','M','Davis'),
 	 (9090,'Jasmine','M','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9091,'Jasmine','M','Rodriguez'),
 	 (9092,'Jasmine','M','Thomas'),
 	 (9093,'Jasmine','R','Peterson'),
@@ -10008,7 +10008,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9098,'Jasmine','T','Williams'),
 	 (9099,'Jasmine','T','Wood'),
 	 (9100,'Jasmine','W','Lee');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9101,'Jason','','Adams'),
 	 (9102,'Jason','','Alexander'),
 	 (9103,'Jason','','Allen'),
@@ -10019,7 +10019,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9108,'Jason','','Diaz'),
 	 (9109,'Jason','','Edwards'),
 	 (9110,'Jason','','Gonzales');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9111,'Jason','','Gonzalez'),
 	 (9112,'Jason','','Hayes'),
 	 (9113,'Jason','','King'),
@@ -10030,7 +10030,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9118,'Jason','','Perez'),
 	 (9119,'Jason','','Phillips'),
 	 (9120,'Jason','','Scott');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9121,'Jason','','Shan'),
 	 (9122,'Jason','','Washington'),
 	 (9123,'Jason','','Young'),
@@ -10041,7 +10041,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9128,'Jason','C','Hill'),
 	 (9129,'Jason','D','Green'),
 	 (9130,'Jason','E','Collins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9131,'Jason','F','Parker'),
 	 (9132,'Jason','F','Sharma'),
 	 (9133,'Jason','G','Roberts'),
@@ -10052,7 +10052,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9138,'Jason','L','Griffin'),
 	 (9139,'Jason','L','Jenkins'),
 	 (9140,'Jason','L','Powell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9141,'Jason','L','Ross'),
 	 (9142,'Jason','L','Zhang'),
 	 (9143,'Jason','M','Perry'),
@@ -10063,7 +10063,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9148,'Jason','R','Lopez'),
 	 (9149,'Jason','R','Nelson'),
 	 (9150,'Jason','R','Wang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9151,'Jauna','E','Elson'),
 	 (9152,'Javier','','Browning'),
 	 (9153,'Javier','','Dominguez'),
@@ -10074,7 +10074,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9158,'Javier','','Vazquez'),
 	 (9159,'Javier','A','Hernandez'),
 	 (9160,'Javier','E','Rubio');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9161,'Javier','E','Sanz'),
 	 (9162,'Javier','L','Alvarez'),
 	 (9163,'Javier','M','Jiménez'),
@@ -10085,7 +10085,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9168,'Jay','','Adams'),
 	 (9169,'Jay','','Carlson'),
 	 (9170,'Jay','','Chandra');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9171,'Jay','','Diaz'),
 	 (9172,'Jay','','Fernandez'),
 	 (9173,'Jay','','Fluegel'),
@@ -10096,7 +10096,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9178,'Jay','','Hernandez'),
 	 (9179,'Jay','','Jamison'),
 	 (9180,'Jay','','Malhotra');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9181,'Jay','','Martin'),
 	 (9182,'Jay','','Martinez'),
 	 (9183,'Jay','','Moyer'),
@@ -10107,7 +10107,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9188,'Jay','','Sanz'),
 	 (9189,'Jay','','Serrano'),
 	 (9190,'Jay','','Suri');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9191,'Jay','','Vazquez'),
 	 (9192,'Jay','A','Alonso'),
 	 (9193,'Jay','A','Dominguez'),
@@ -10118,7 +10118,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9198,'Jay','C','Gutierrez'),
 	 (9199,'Jay','C','Suarez'),
 	 (9200,'Jay','D','Alvarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9201,'Jay','D','Ramos'),
 	 (9202,'Jay','F','Kapoor'),
 	 (9203,'Jay','G','Adams'),
@@ -10129,7 +10129,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9208,'Jay','L','Ruiz'),
 	 (9209,'Jay','M','Browning'),
 	 (9210,'Jay','M','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9211,'Jay','M','Raman'),
 	 (9212,'Jay','M','Rodriguez'),
 	 (9213,'Jay','M','Sara'),
@@ -10140,7 +10140,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9218,'Jay','S','Mehta'),
 	 (9219,'Jay','W','Sanchez'),
 	 (9220,'Jean','','Campbell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9221,'Jean','','Jordan'),
 	 (9222,'Jean','','Trenary'),
 	 (9223,'Jean','E','Trenary'),
@@ -10151,7 +10151,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9228,'Jeff','','Dulong'),
 	 (9229,'Jeff','','Hay'),
 	 (9230,'Jeff','','Pike');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9231,'Jeff','','price'),
 	 (9232,'Jeff','','Smith'),
 	 (9233,'Jeff','','Stammler'),
@@ -10162,7 +10162,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9238,'Jeffery','','Huang'),
 	 (9239,'Jeffery','','Li'),
 	 (9240,'Jeffery','','Liang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9241,'Jeffery','','Ma'),
 	 (9242,'Jeffery','','Yang'),
 	 (9243,'Jeffery','','Zhao'),
@@ -10173,7 +10173,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9248,'Jeffery','C','Zeng'),
 	 (9249,'Jeffery','C','Zhang'),
 	 (9250,'Jeffery','D','Wu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9251,'Jeffery','E','Hu'),
 	 (9252,'Jeffery','E','Wang'),
 	 (9253,'Jeffery','E','Zhu'),
@@ -10184,7 +10184,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9258,'Jeffery','M','Zhou'),
 	 (9259,'Jeffery','W','Zheng'),
 	 (9260,'Jeffery','Y','Ye');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9261,'Jeffrey','','Kurtz'),
 	 (9262,'Jeffrey','B','Kung'),
 	 (9263,'Jeffrey','L','Ford'),
@@ -10195,7 +10195,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9268,'Jenna','','Turner'),
 	 (9269,'Jenna','','Wright'),
 	 (9270,'Jenna','A','Campbell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9271,'Jenna','A','Parker'),
 	 (9272,'Jenna','C','Gonzalez'),
 	 (9273,'Jenna','D','Nelson'),
@@ -10206,7 +10206,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9278,'Jenna','L','Adams'),
 	 (9279,'Jenna','M','Hill'),
 	 (9280,'Jenna','M','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9281,'Jenna','M','Scott'),
 	 (9282,'Jenna','R','King'),
 	 (9283,'Jenna','T','Allen'),
@@ -10217,7 +10217,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9288,'Jennifer','','Adams'),
 	 (9289,'Jennifer','','Allen'),
 	 (9290,'Jennifer','','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9291,'Jennifer','','Collins'),
 	 (9292,'Jennifer','','Edwards'),
 	 (9293,'Jennifer','','Foster'),
@@ -10228,7 +10228,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9298,'Jennifer','','Hernandez'),
 	 (9299,'Jennifer','','Hill'),
 	 (9300,'Jennifer','','Howard');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9301,'Jennifer','','Jackson'),
 	 (9302,'Jennifer','','Kelly'),
 	 (9303,'Jennifer','','Lewis'),
@@ -10239,7 +10239,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9308,'Jennifer','','Rogers'),
 	 (9309,'Jennifer','','Ross'),
 	 (9310,'Jennifer','','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9311,'Jennifer','','Taylor'),
 	 (9312,'Jennifer','','Thomas'),
 	 (9313,'Jennifer','','Turner'),
@@ -10250,7 +10250,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9318,'Jennifer','A','Alexander'),
 	 (9319,'Jennifer','A','Barnes'),
 	 (9320,'Jennifer','A','Bell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9321,'Jennifer','A','Brown'),
 	 (9322,'Jennifer','A','Cox'),
 	 (9323,'Jennifer','A','Davis'),
@@ -10261,7 +10261,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9328,'Jennifer','B','Griffin'),
 	 (9329,'Jennifer','B','Jenkins'),
 	 (9330,'Jennifer','B','Mitchell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9331,'Jennifer','B','Reed'),
 	 (9332,'Jennifer','B','Torres'),
 	 (9333,'Jennifer','C','King'),
@@ -10272,7 +10272,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9338,'Jennifer','D','Morris'),
 	 (9339,'Jennifer','D','Parker'),
 	 (9340,'Jennifer','E','Ramirez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9341,'Jennifer','E','Sanders'),
 	 (9342,'Jennifer','E','Williams'),
 	 (9343,'Jennifer','F','Johnson'),
@@ -10283,7 +10283,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9348,'Jennifer','J','Cook'),
 	 (9349,'Jennifer','J','Maxham'),
 	 (9350,'Jennifer','J','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9351,'Jennifer','J','Perry'),
 	 (9352,'Jennifer','J','price'),
 	 (9353,'Jennifer','J','Sanchez'),
@@ -10294,7 +10294,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9358,'Jennifer','L','Jones'),
 	 (9359,'Jennifer','L','Long'),
 	 (9360,'Jennifer','L','Morgan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9361,'Jennifer','L','Robinson'),
 	 (9362,'Jennifer','L','Wood'),
 	 (9363,'Jennifer','M','Anderson'),
@@ -10305,7 +10305,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9368,'Jennifer','M','Scott'),
 	 (9369,'Jennifer','M','Young'),
 	 (9370,'Jennifer','P','Thompson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9371,'Jennifer','R','Harris'),
 	 (9372,'Jennifer','R','Lee'),
 	 (9373,'Jennifer','S','Bailey'),
@@ -10316,7 +10316,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9378,'Jennifer','T','Hall'),
 	 (9379,'Jennifer','T','Rodriguez'),
 	 (9380,'Jennifer','W','Campbell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9381,'Jennifer','W','Carter'),
 	 (9382,'Jennifer','W','Hughes'),
 	 (9383,'Jenny','','Andersen'),
@@ -10327,7 +10327,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9388,'Jenny','','Huang'),
 	 (9389,'Jenny','','Liu'),
 	 (9390,'Jenny','','Lysaker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9391,'Jenny','','McDonald'),
 	 (9392,'Jenny','','Nara'),
 	 (9393,'Jenny','','Nath'),
@@ -10338,7 +10338,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9398,'Jenny','','Ye'),
 	 (9399,'Jenny','','Zimmerman'),
 	 (9400,'Jenny','A','Chander');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9401,'Jenny','A','Hu'),
 	 (9402,'Jenny','A','Lin'),
 	 (9403,'Jenny','B','Chande'),
@@ -10349,7 +10349,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9408,'Jenny','C','Kumar'),
 	 (9409,'Jenny','C','Lal'),
 	 (9410,'Jenny','D','Rai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9411,'Jenny','E','Tang'),
 	 (9412,'Jenny','F','Guo'),
 	 (9413,'Jenny','H','Zhang'),
@@ -10360,7 +10360,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9418,'Jenny','L','Luo'),
 	 (9419,'Jenny','L','Sun'),
 	 (9420,'Jenny','M','Wagner');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9421,'Jenny','R','Yang'),
 	 (9422,'Jenny','R','Zheng'),
 	 (9423,'Jenny','S','Liang'),
@@ -10371,7 +10371,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9428,'Jenny','W','Shan'),
 	 (9429,'Jeremiah','','Edwards'),
 	 (9430,'Jeremiah','','Evans');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9431,'Jeremiah','','Garcia'),
 	 (9432,'Jeremiah','','Gonzalez'),
 	 (9433,'Jeremiah','','Gray'),
@@ -10382,7 +10382,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9438,'Jeremiah','','Lewis'),
 	 (9439,'Jeremiah','','Long'),
 	 (9440,'Jeremiah','','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9441,'Jeremiah','','Miller'),
 	 (9442,'Jeremiah','','Morris'),
 	 (9443,'Jeremiah','','Sanders'),
@@ -10393,7 +10393,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9448,'Jeremiah','A','Jackson'),
 	 (9449,'Jeremiah','A','Johnson'),
 	 (9450,'Jeremiah','A','Walker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9451,'Jeremiah','B','Harris'),
 	 (9452,'Jeremiah','C','Hernandez'),
 	 (9453,'Jeremiah','C','Hill'),
@@ -10404,7 +10404,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9458,'Jeremiah','D','Martinez'),
 	 (9459,'Jeremiah','E','Martin'),
 	 (9460,'Jeremiah','E','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9461,'Jeremiah','F','Turner'),
 	 (9462,'Jeremiah','I','Townsend'),
 	 (9463,'Jeremiah','L','Howard'),
@@ -10415,7 +10415,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9468,'Jeremiah','M','Taylor'),
 	 (9469,'Jeremiah','S','Diaz'),
 	 (9470,'Jeremiah','S','Green');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9471,'Jeremiah','S','James'),
 	 (9472,'Jeremiah','S','Mitchell'),
 	 (9473,'Jeremiah','T','Gonzales'),
@@ -10426,7 +10426,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9478,'Jeremy','','Barnes'),
 	 (9479,'Jeremy','','Brooks'),
 	 (9480,'Jeremy','','Bryant');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9481,'Jeremy','','Butler'),
 	 (9482,'Jeremy','','Campbell'),
 	 (9483,'Jeremy','','Carter'),
@@ -10437,7 +10437,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9488,'Jeremy','','Davis'),
 	 (9489,'Jeremy','','Los'),
 	 (9490,'Jeremy','','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9491,'Jeremy','','Parker'),
 	 (9492,'Jeremy','','Patterson'),
 	 (9493,'Jeremy','','Powell'),
@@ -10448,7 +10448,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9498,'Jeremy','','Washington'),
 	 (9499,'Jeremy','','White'),
 	 (9500,'Jeremy','','Young');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9501,'Jeremy','A','Watson'),
 	 (9502,'Jeremy','C','Perry'),
 	 (9503,'Jeremy','C','Wood'),
@@ -10459,7 +10459,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9508,'Jeremy','F','Bell'),
 	 (9509,'Jeremy','G','Rogers'),
 	 (9510,'Jeremy','J','Allen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9511,'Jeremy','J','Anderson'),
 	 (9512,'Jeremy','J','Clark'),
 	 (9513,'Jeremy','K','Nelson'),
@@ -10470,7 +10470,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9518,'Jeremy','P','Richardson'),
 	 (9519,'Jeremy','S','Robinson'),
 	 (9520,'Jeremy','S','Wright');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9521,'Jeremy','T','Wilson'),
 	 (9522,'Jeremy','Y','Ramirez'),
 	 (9523,'Jermaine','','Fernandez'),
@@ -10481,7 +10481,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9528,'Jermaine','A','Chandra'),
 	 (9529,'Jermaine','A','Gonzalez'),
 	 (9530,'Jermaine','A','Kapoor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9531,'Jermaine','A','Sara'),
 	 (9532,'Jermaine','C','Madan'),
 	 (9533,'Jermaine','C','Weber'),
@@ -10492,7 +10492,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9538,'Jermaine','G','Sai'),
 	 (9539,'Jermaine','H','Arthur'),
 	 (9540,'Jermaine','H','Prasad');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9541,'Jermaine','J','Perez'),
 	 (9542,'Jermaine','L','Martinez'),
 	 (9543,'Jermaine','S','Rana'),
@@ -10503,7 +10503,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9548,'Jerome','','Romero'),
 	 (9549,'Jerome','','Sanz'),
 	 (9550,'Jerome','','Vazquez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9551,'Jerome','A','Gill'),
 	 (9552,'Jerome','A','Serrano'),
 	 (9553,'Jerome','B','Navarro'),
@@ -10514,7 +10514,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9558,'Jerome','J','Carlson'),
 	 (9559,'Jerome','J','Gomez'),
 	 (9560,'Jerome','J','Ruiz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9561,'Jerome','L','Ramos'),
 	 (9562,'Jerome','L','Rubio'),
 	 (9563,'Jerome','L','Suarez'),
@@ -10525,7 +10525,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9568,'Jerry','','Johnsen'),
 	 (9569,'Jerry','','Kumar'),
 	 (9570,'Jerry','','Nara');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9571,'Jerry','','Nath'),
 	 (9572,'Jerry','','Pal'),
 	 (9573,'Jerry','','Shan'),
@@ -10536,7 +10536,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9578,'Jerry','C','She'),
 	 (9579,'Jerry','D','Rai'),
 	 (9580,'Jerry','D','Yuan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9581,'Jerry','E','Raje'),
 	 (9582,'Jerry','L','Becker'),
 	 (9583,'Jerry','L','Lal'),
@@ -10547,7 +10547,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9588,'Jesse','','Allen'),
 	 (9589,'Jesse','','Brooks'),
 	 (9590,'Jesse','','Campbell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9591,'Jesse','','Cook'),
 	 (9592,'Jesse','','Cox'),
 	 (9593,'Jesse','','Edwards'),
@@ -10558,7 +10558,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9598,'Jesse','','Kelly'),
 	 (9599,'Jesse','','Lopez'),
 	 (9600,'Jesse','','Morgan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9601,'Jesse','','Morris'),
 	 (9602,'Jesse','','Murphy'),
 	 (9603,'Jesse','','Parker'),
@@ -10569,7 +10569,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9608,'Jesse','','Roberts'),
 	 (9609,'Jesse','','Rogers'),
 	 (9610,'Jesse','','Sanders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9611,'Jesse','','Scott'),
 	 (9612,'Jesse','','Stewart'),
 	 (9613,'Jesse','','Turner'),
@@ -10580,7 +10580,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9618,'Jesse','C','Mitchell'),
 	 (9619,'Jesse','D','Gonzalez'),
 	 (9620,'Jesse','D','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9621,'Jesse','D','Howard'),
 	 (9622,'Jesse','E','Carter'),
 	 (9623,'Jesse','E','Peterson'),
@@ -10591,7 +10591,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9628,'Jesse','K','Bell'),
 	 (9629,'Jesse','M','Adams'),
 	 (9630,'Jesse','M','Baker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9631,'Jesse','M','Nelson'),
 	 (9632,'Jesse','M','Richardson'),
 	 (9633,'Jesse','M','Sanchez'),
@@ -10602,7 +10602,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9638,'Jessica','','Brooks'),
 	 (9639,'Jessica','','Bryant'),
 	 (9640,'Jessica','','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9641,'Jessica','','Cooper'),
 	 (9642,'Jessica','','Davis'),
 	 (9643,'Jessica','','Diaz'),
@@ -10613,7 +10613,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9648,'Jessica','','Henderson'),
 	 (9649,'Jessica','','Howard'),
 	 (9650,'Jessica','','James');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9651,'Jessica','','Jenkins'),
 	 (9652,'Jessica','','Johnson'),
 	 (9653,'Jessica','','Kelly'),
@@ -10624,7 +10624,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9658,'Jessica','','Morris'),
 	 (9659,'Jessica','','Murphy'),
 	 (9660,'Jessica','','Patterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9661,'Jessica','','Perry'),
 	 (9662,'Jessica','','Powell'),
 	 (9663,'Jessica','','Robinson'),
@@ -10635,7 +10635,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9668,'Jessica','','Stewart'),
 	 (9669,'Jessica','','Taylor'),
 	 (9670,'Jessica','','Thomas');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9671,'Jessica','','Thompson'),
 	 (9672,'Jessica','','Torres'),
 	 (9673,'Jessica','','Ward'),
@@ -10646,7 +10646,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9678,'Jessica','A','Gonzales'),
 	 (9679,'Jessica','A','Griffin'),
 	 (9680,'Jessica','A','Hughes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9681,'Jessica','A','Williams'),
 	 (9682,'Jessica','B','Cox'),
 	 (9683,'Jessica','C','Simmons'),
@@ -10657,7 +10657,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9688,'Jessica','J','Moore'),
 	 (9689,'Jessica','K','Alexander'),
 	 (9690,'Jessica','K','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9691,'Jessica','L','Bailey'),
 	 (9692,'Jessica','L','Brown'),
 	 (9693,'Jessica','L','Clark'),
@@ -10668,7 +10668,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9698,'Jessica','M','Sanchez'),
 	 (9699,'Jessica','N','Walker'),
 	 (9700,'Jessica','P','Harris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9701,'Jessica','R','Flores'),
 	 (9702,'Jessica','R','Long'),
 	 (9703,'Jessica','R','Ramirez'),
@@ -10679,7 +10679,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9708,'Jessie','','Alvarez'),
 	 (9709,'Jessie','','Carlson'),
 	 (9710,'Jessie','','Chen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9711,'Jessie','','Gao'),
 	 (9712,'Jessie','','He'),
 	 (9713,'Jessie','','Huang'),
@@ -10690,7 +10690,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9718,'Jessie','','Munoz'),
 	 (9719,'Jessie','','Navarro'),
 	 (9720,'Jessie','','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9721,'Jessie','','Sanz'),
 	 (9722,'Jessie','','Zeng'),
 	 (9723,'Jessie','','Zhou'),
@@ -10701,7 +10701,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9728,'Jessie','A','She'),
 	 (9729,'Jessie','B','Wang'),
 	 (9730,'Jessie','C','Moreno');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9731,'Jessie','D','Suarez'),
 	 (9732,'Jessie','D','Zhu'),
 	 (9733,'Jessie','E','Gutierrez'),
@@ -10712,7 +10712,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9738,'Jessie','J','Alonso'),
 	 (9739,'Jessie','J','Guo'),
 	 (9740,'Jessie','J','Ortega');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9741,'Jessie','J','Rubio'),
 	 (9742,'Jessie','J','Ye'),
 	 (9743,'Jessie','L','Wu'),
@@ -10723,7 +10723,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9748,'Jessie','R','Zhao'),
 	 (9749,'Jessie','W','Zheng'),
 	 (9750,'Jésus','','Carlson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9751,'Jésus','','Dominguez'),
 	 (9752,'Jésus','','Gomez'),
 	 (9753,'Jésus','','Hernandez'),
@@ -10734,7 +10734,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9758,'Jésus','','Vazquez'),
 	 (9759,'Jésus','B','Serrano'),
 	 (9760,'Jésus','E','Blanco');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9761,'Jésus','E','Gutierrez'),
 	 (9762,'Jésus','E','Ramos'),
 	 (9763,'Jésus','F','Diaz'),
@@ -10745,7 +10745,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9768,'Jésus','M','Gill'),
 	 (9769,'Jésus','M','Hernandez'),
 	 (9770,'Jésus','R','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9771,'Jésus','V','Alonso'),
 	 (9772,'Jian','S','Wang'),
 	 (9773,'Jian Shuo','','Wang'),
@@ -10756,7 +10756,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9778,'Jill','','Jimenez'),
 	 (9779,'Jill','','Martinez'),
 	 (9780,'Jill','','Miller');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9781,'Jill','','Moore'),
 	 (9782,'Jill','','Navarro'),
 	 (9783,'Jill','','Patterson'),
@@ -10767,7 +10767,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9788,'Jill','','Vazquez'),
 	 (9789,'Jill','','Williams'),
 	 (9790,'Jill','A','Ortega');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9791,'Jill','A','Travers'),
 	 (9792,'Jill','A','Williams'),
 	 (9793,'Jill','C','Martin'),
@@ -10778,7 +10778,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9798,'Jill','J','Ashe'),
 	 (9799,'Jill','J','Christie'),
 	 (9800,'Jill','J','Gill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9801,'Jill','J','Murphy'),
 	 (9802,'Jill','J','Suarez'),
 	 (9803,'Jill','K','Markwood'),
@@ -10789,7 +10789,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9808,'Jillian','','Carson'),
 	 (9809,'Jillian','','Garcia'),
 	 (9810,'Jillian','','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9811,'Jillian','','Lopez'),
 	 (9812,'Jillian','','Malhotra'),
 	 (9813,'Jillian','','Martinez'),
@@ -10800,7 +10800,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9818,'Jillian','','Rodriguez'),
 	 (9819,'Jillian','','Sai'),
 	 (9820,'Jillian','','Saunders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9821,'Jillian','A','Madan'),
 	 (9822,'Jillian','D','Vance'),
 	 (9823,'Jillian','E','Perez'),
@@ -10811,7 +10811,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9828,'Jillian','L','Suri'),
 	 (9829,'Jillian','R','Kapoor'),
 	 (9830,'Jim','','Geist');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9831,'Jim','','Hance'),
 	 (9832,'Jim','','Kennedy'),
 	 (9833,'Jim','','Kim'),
@@ -10822,7 +10822,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9838,'Jim','H','Scardelis'),
 	 (9839,'Jimmy','','Bischoff'),
 	 (9840,'Jimmy','','Carlson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9841,'Jimmy','','Dominguez'),
 	 (9842,'Jimmy','','Gill'),
 	 (9843,'Jimmy','','Gomez'),
@@ -10833,7 +10833,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9848,'Jimmy','','Romero'),
 	 (9849,'Jimmy','','Rubio'),
 	 (9850,'Jimmy','','Sanz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9851,'Jimmy','D','Diaz'),
 	 (9852,'Jimmy','D','Vazquez'),
 	 (9853,'Jimmy','E','Munoz'),
@@ -10844,7 +10844,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9858,'Jimmy','L','Serrano'),
 	 (9859,'Jimmy','M','Gutierrez'),
 	 (9860,'Jimmy','M','Ortega');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9861,'Jimmy','S','Ashe'),
 	 (9862,'Jimmy','T','Alonso'),
 	 (9863,'Jimmy','T','Bischoff'),
@@ -10855,7 +10855,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9868,'Jo','','Brown'),
 	 (9869,'Jo','A','Brown'),
 	 (9870,'Jo','J','Zimmerman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9871,'Jo','L','Berry'),
 	 (9872,'Joan','','Collins'),
 	 (9873,'Joan','','Cook'),
@@ -10866,7 +10866,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9878,'Joan','A','Carter'),
 	 (9879,'Joan','A','Ross'),
 	 (9880,'Joan','B','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9881,'Joan','B','Vazquez'),
 	 (9882,'Joan','D','Watson'),
 	 (9883,'Joan','E','King'),
@@ -10877,7 +10877,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9888,'Joan','M','Gao'),
 	 (9889,'Joan','P','Steele'),
 	 (9890,'Joan','R','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9891,'Joan','R','Martin'),
 	 (9892,'Joan','W','Coleman'),
 	 (9893,'Joanna','','Berry'),
@@ -10888,7 +10888,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9898,'Joanna','','Munoz'),
 	 (9899,'Joanna','','Ortega'),
 	 (9900,'Joanna','','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9901,'Joanna','','Suarez'),
 	 (9902,'Joanna','A','Ramos'),
 	 (9903,'Joanna','B','Blanco'),
@@ -10899,7 +10899,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9908,'Joanna','J','Vazquez'),
 	 (9909,'Joanna','L','Johnston'),
 	 (9910,'Joanna','L','Sanz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9911,'Joanna','M','Alonso'),
 	 (9912,'Joanna','M','Dominguez'),
 	 (9913,'Joanna','M','Gutierrez'),
@@ -10910,7 +10910,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9918,'Jocelyn','','Flores'),
 	 (9919,'Jocelyn','','Foster'),
 	 (9920,'Jocelyn','','Gonzales');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9921,'Jocelyn','','Griffin'),
 	 (9922,'Jocelyn','','Henderson'),
 	 (9923,'Jocelyn','','Long'),
@@ -10921,7 +10921,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9928,'Jocelyn','D','Diaz'),
 	 (9929,'Jocelyn','D','Patterson'),
 	 (9930,'Jocelyn','D','price');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9931,'Jocelyn','E','Wood'),
 	 (9932,'Jocelyn','G','Hayes'),
 	 (9933,'Jocelyn','M','Bryant'),
@@ -10932,7 +10932,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9938,'Jodi','','Anand'),
 	 (9939,'Jodi','','Andersen'),
 	 (9940,'Jodi','','Becker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9941,'Jodi','','Deng'),
 	 (9942,'Jodi','','Goel'),
 	 (9943,'Jodi','','Luo'),
@@ -10943,7 +10943,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9948,'Jodi','A','Shan'),
 	 (9949,'Jodi','A','Shen'),
 	 (9950,'Jodi','A','Tang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9951,'Jodi','C','Pal'),
 	 (9952,'Jodi','D','Kumar'),
 	 (9953,'Jodi','E','Raje'),
@@ -10954,7 +10954,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9958,'Jodi','M','Jai'),
 	 (9959,'Jodi','N','Nara'),
 	 (9960,'Jodi','N','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9961,'Joe','','Ashe'),
 	 (9962,'Joe','','Blanco'),
 	 (9963,'Joe','','Gill'),
@@ -10965,7 +10965,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9968,'Joe','','Kim'),
 	 (9969,'Joe','','Madan'),
 	 (9970,'Joe','','Malhotra');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9971,'Joe','','Martin'),
 	 (9972,'Joe','','Martinez'),
 	 (9973,'Joe','','Mehta'),
@@ -10976,7 +10976,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9978,'Joe','','Sanz'),
 	 (9979,'Joe','','Srini'),
 	 (9980,'Joe','','Subram');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9981,'Joe','','Suri'),
 	 (9982,'Joe','','Worden'),
 	 (9983,'Joe','','Yong'),
@@ -10987,7 +10987,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9988,'Joe','A','Torres'),
 	 (9989,'Joe','C','Vazquez'),
 	 (9990,'Joe','D','Rana');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9991,'Joe','E','Alvarez'),
 	 (9992,'Joe','E','Gomez'),
 	 (9993,'Joe','F','Alonso'),
@@ -10998,7 +10998,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (9998,'Joe','L','Diaz'),
 	 (9999,'Joe','L','Jordan'),
 	 (10000,'Joe','L','Lopez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10001,'Joe','L','Vance'),
 	 (10002,'Joe','M','Gonzalez'),
 	 (10003,'Joe','M','Schmidt'),
@@ -11009,7 +11009,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10008,'Joel','','Chapman'),
 	 (10009,'Joel','','Martinez'),
 	 (10010,'Joel','','Mehta');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10011,'Joel','','Patel'),
 	 (10012,'Joel','','Perez'),
 	 (10013,'Joel','','Raman'),
@@ -11020,7 +11020,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10018,'Joel','A','Fernandez'),
 	 (10019,'Joel','A','Garcia'),
 	 (10020,'Joel','A','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10021,'Joel','C','Madan'),
 	 (10022,'Joel','C','Prasad'),
 	 (10023,'Joel','C','Rodriguez'),
@@ -11031,7 +11031,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10028,'John','','Arthur'),
 	 (10029,'John','','Berry'),
 	 (10030,'John','','Brown');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10031,'John','','Campbell'),
 	 (10032,'John','','Chen'),
 	 (10033,'John','','Emory'),
@@ -11042,7 +11042,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10038,'John','','Harris'),
 	 (10039,'John','','Jackson'),
 	 (10040,'John','','Jones');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10041,'John','','Kane'),
 	 (10042,'John','','Kelly'),
 	 (10043,'John','','Lee'),
@@ -11053,7 +11053,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10048,'John','','Taylor'),
 	 (10049,'John','','Tippett'),
 	 (10050,'John','','Wood');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10051,'John','A','Beaver'),
 	 (10052,'John','A','Johnson'),
 	 (10053,'John','A','Martin'),
@@ -11064,7 +11064,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10058,'John','F','Davis'),
 	 (10059,'John','H','Lewis'),
 	 (10060,'John','I','Robinson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10061,'John','I','Thompson'),
 	 (10062,'John','J','Martinez'),
 	 (10063,'John','J','McClane'),
@@ -11075,7 +11075,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10068,'John','M','Bennetts'),
 	 (10069,'John','M','Berger'),
 	 (10070,'John','M','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10071,'John','M','Garcia'),
 	 (10072,'John','M','Rodriguez'),
 	 (10073,'John','M','Walker'),
@@ -11086,7 +11086,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10078,'John','T','Campbell'),
 	 (10079,'John','T','Donovan'),
 	 (10080,'John','T','Kane');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10081,'John','T','Moore'),
 	 (10082,'John','W','Thomas'),
 	 (10083,'John','Y','Chen'),
@@ -11097,7 +11097,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10088,'Johnathan','','McDonald'),
 	 (10089,'Johnathan','','Patel'),
 	 (10090,'Johnathan','','Prasad');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10091,'Johnathan','','Raman'),
 	 (10092,'Johnathan','','Sanchez'),
 	 (10093,'Johnathan','','Schmidt'),
@@ -11108,7 +11108,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10098,'Johnathan','B','Sai'),
 	 (10099,'Johnathan','D','Madan'),
 	 (10100,'Johnathan','D','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10101,'Johnathan','E','Suri'),
 	 (10102,'Johnathan','J','Chapman'),
 	 (10103,'Johnathan','R','Rana'),
@@ -11119,7 +11119,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10108,'Johnny','','Luo'),
 	 (10109,'Johnny','','Moyer'),
 	 (10110,'Johnny','','Pal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10111,'Johnny','','Raje'),
 	 (10112,'Johnny','','Shan'),
 	 (10113,'Johnny','','Sharma'),
@@ -11130,7 +11130,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10118,'Johnny','','Yuan'),
 	 (10119,'Johnny','A','Caprio'),
 	 (10120,'Johnny','A','Chavez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10121,'Johnny','A','Rai'),
 	 (10122,'Johnny','G','Kumar'),
 	 (10123,'Johnny','G','Lal'),
@@ -11141,7 +11141,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10128,'Johnny','S','Raji'),
 	 (10129,'Jolie','','Lenehan'),
 	 (10130,'JoLynn','M','Dobney');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10131,'Jon','','Alonso'),
 	 (10132,'Jon','','Andersen'),
 	 (10133,'Jon','','Cai'),
@@ -11152,7 +11152,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10138,'Jon','','Grande'),
 	 (10139,'Jon','','Guo'),
 	 (10140,'Jon','','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10141,'Jon','','Huang'),
 	 (10142,'Jon','','Jai'),
 	 (10143,'Jon','','Li'),
@@ -11163,7 +11163,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10148,'Jon','','Morris'),
 	 (10149,'Jon','','Nara'),
 	 (10150,'Jon','','Nath');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10151,'Jon','','Rai'),
 	 (10152,'Jon','','Raje'),
 	 (10153,'Jon','','Shan'),
@@ -11174,7 +11174,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10158,'Jon','','Zhao'),
 	 (10159,'Jon','A','Wang'),
 	 (10160,'Jon','C','Gao');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10161,'Jon','D','Xu'),
 	 (10162,'Jon','G','Becker'),
 	 (10163,'Jon','G','Xu'),
@@ -11185,7 +11185,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10168,'Jon','L','He'),
 	 (10169,'Jon','L','Sharma'),
 	 (10170,'Jon','L','Zhou');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10171,'Jon','M','Lal'),
 	 (10172,'Jon','M','Lu'),
 	 (10173,'Jon','O','Zeng'),
@@ -11196,7 +11196,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10178,'Jonathan','','Adams'),
 	 (10179,'Jonathan','','Alexander'),
 	 (10180,'Jonathan','','Allen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10181,'Jonathan','','Brown'),
 	 (10182,'Jonathan','','Butler'),
 	 (10183,'Jonathan','','Carter'),
@@ -11207,7 +11207,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10188,'Jonathan','','Garcia'),
 	 (10189,'Jonathan','','Gonzales'),
 	 (10190,'Jonathan','','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10191,'Jonathan','','Harris'),
 	 (10192,'Jonathan','','Hayes'),
 	 (10193,'Jonathan','','Huff'),
@@ -11218,7 +11218,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10198,'Jonathan','','Lal'),
 	 (10199,'Jonathan','','Lee'),
 	 (10200,'Jonathan','','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10201,'Jonathan','','Martinez'),
 	 (10202,'Jonathan','','Moeller'),
 	 (10203,'Jonathan','','Moore'),
@@ -11229,7 +11229,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10208,'Jonathan','','Roberts'),
 	 (10209,'Jonathan','','Robinson'),
 	 (10210,'Jonathan','','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10211,'Jonathan','','Scott'),
 	 (10212,'Jonathan','','Shan'),
 	 (10213,'Jonathan','','Thompson'),
@@ -11240,7 +11240,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10218,'Jonathan','','Young'),
 	 (10219,'Jonathan','A','Green'),
 	 (10220,'Jonathan','A','Miller');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10221,'Jonathan','A','Washington'),
 	 (10222,'Jonathan','A','White'),
 	 (10223,'Jonathan','A','Wright'),
@@ -11251,7 +11251,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10228,'Jonathan','C','Lewis'),
 	 (10229,'Jonathan','C','Thomas'),
 	 (10230,'Jonathan','D','Campbell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10231,'Jonathan','D','Evans'),
 	 (10232,'Jonathan','D','Lopez'),
 	 (10233,'Jonathan','D','Parker'),
@@ -11262,7 +11262,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10238,'Jonathan','G','Chen'),
 	 (10239,'Jonathan','H','Flores'),
 	 (10240,'Jonathan','J','Bryant');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10241,'Jonathan','J','Hernandez'),
 	 (10242,'Jonathan','J','Rodriguez'),
 	 (10243,'Jonathan','K','Diaz'),
@@ -11273,7 +11273,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10248,'Jonathan','P','Clark'),
 	 (10249,'Jonathan','R','Anderson'),
 	 (10250,'Jonathan','R','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10251,'Jonathan','R','Griffin'),
 	 (10252,'Jonathan','R','Perez'),
 	 (10253,'Jonathan','R','Taylor'),
@@ -11284,7 +11284,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10258,'Jonathon','','Navarro'),
 	 (10259,'Jonathon','','Romero'),
 	 (10260,'Jonathon','','Vazquez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10261,'Jonathon','A','Alonso'),
 	 (10262,'Jonathon','A','Ramos'),
 	 (10263,'Jonathon','B','Gill'),
@@ -11295,7 +11295,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10268,'Jonathon','L','Ortega'),
 	 (10269,'Jonathon','N','Carlson'),
 	 (10270,'Jonathon','O','Munoz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10271,'Jonathon','P','Suarez'),
 	 (10272,'Jonathon','R','Gutierrez'),
 	 (10273,'Jordan','','Alexander'),
@@ -11306,7 +11306,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10278,'Jordan','','Collins'),
 	 (10279,'Jordan','','Evans'),
 	 (10280,'Jordan','','Flores');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10281,'Jordan','','Gonzales'),
 	 (10282,'Jordan','','Gonzalez'),
 	 (10283,'Jordan','','Griffin'),
@@ -11317,7 +11317,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10288,'Jordan','','Jenkins'),
 	 (10289,'Jordan','','Lal'),
 	 (10290,'Jordan','','Li');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10291,'Jordan','','Long'),
 	 (10292,'Jordan','','Lopez'),
 	 (10293,'Jordan','','Parker'),
@@ -11328,7 +11328,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10298,'Jordan','','Ross'),
 	 (10299,'Jordan','','Scott'),
 	 (10300,'Jordan','','Washington');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10301,'Jordan','','Wright'),
 	 (10302,'Jordan','','Young'),
 	 (10303,'Jordan','A','Coleman'),
@@ -11339,7 +11339,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10308,'Jordan','B','Turner'),
 	 (10309,'Jordan','C','Henderson'),
 	 (10310,'Jordan','C','King');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10311,'Jordan','C','Shan'),
 	 (10312,'Jordan','C','Turner'),
 	 (10313,'Jordan','E','Hall'),
@@ -11350,7 +11350,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10318,'Jordan','F','Adams'),
 	 (10319,'Jordan','H','Nelson'),
 	 (10320,'Jordan','J','Hill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10321,'Jordan','J','King'),
 	 (10322,'Jordan','J','Nelson'),
 	 (10323,'Jordan','J','Young'),
@@ -11361,7 +11361,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10328,'Jordan','L','Carter'),
 	 (10329,'Jordan','L','Diaz'),
 	 (10330,'Jordan','L','Edwards');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10331,'Jordan','L','Green'),
 	 (10332,'Jordan','L','Lopez'),
 	 (10333,'Jordan','L','Russell'),
@@ -11372,7 +11372,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10338,'Jordan','M','West'),
 	 (10339,'Jordan','P','Baker'),
 	 (10340,'Jordan','P','Green');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10341,'Jordan','R','Adams'),
 	 (10342,'Jordan','R','Edwards'),
 	 (10343,'Jordan','R','Sharma'),
@@ -11383,7 +11383,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10348,'Jordyn','','Diaz'),
 	 (10349,'Jordyn','','Flores'),
 	 (10350,'Jordyn','','Gonzales');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10351,'Jordyn','','Hughes'),
 	 (10352,'Jordyn','','Long'),
 	 (10353,'Jordyn','','Perry'),
@@ -11394,7 +11394,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10358,'Jordyn','A','Patterson'),
 	 (10359,'Jordyn','J','Jenkins'),
 	 (10360,'Jordyn','J','West');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10361,'Jordyn','K','Henderson'),
 	 (10362,'Jordyn','K','Powell'),
 	 (10363,'Jordyn','L','Barnes'),
@@ -11405,7 +11405,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10368,'Jorge','','Gao'),
 	 (10369,'Jorge','','He'),
 	 (10370,'Jorge','','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10371,'Jorge','','Huang'),
 	 (10372,'Jorge','','Leitão'),
 	 (10373,'Jorge','','Lin'),
@@ -11416,7 +11416,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10378,'Jorge','','Zhao'),
 	 (10379,'Jorge','','Zheng'),
 	 (10380,'Jorge','','Zhu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10381,'Jorge','A','Xu'),
 	 (10382,'Jorge','J','Liu'),
 	 (10383,'Jorge','J','Wu'),
@@ -11427,7 +11427,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10388,'Jorge','O','Ma'),
 	 (10389,'Jorge','R','Ye'),
 	 (10390,'Jorge','T','Chen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10391,'Jorge','V','Li'),
 	 (10392,'Jorge','W','Lu'),
 	 (10393,'Jose','','Anderson'),
@@ -11438,7 +11438,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10398,'Jose','','Collins'),
 	 (10399,'Jose','','Davis'),
 	 (10400,'Jose','','De Oliveira');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10401,'Jose','','Evans'),
 	 (10402,'Jose','','Gonzales'),
 	 (10403,'Jose','','Henderson'),
@@ -11449,7 +11449,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10408,'Jose','','Lal'),
 	 (10409,'Jose','','Lewis'),
 	 (10410,'Jose','','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10411,'Jose','','Lugo'),
 	 (10412,'Jose','','Nelson'),
 	 (10413,'Jose','','Patterson'),
@@ -11460,7 +11460,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10418,'Jose','','Smith'),
 	 (10419,'Jose','','Taylor'),
 	 (10420,'Jose','','Thompson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10421,'Jose','','Turner'),
 	 (10422,'Jose','','Walker'),
 	 (10423,'Jose','','Wang'),
@@ -11471,7 +11471,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10428,'Jose','A','Baker'),
 	 (10429,'Jose','A','Griffin'),
 	 (10430,'Jose','A','Harris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10431,'Jose','A','Thomas'),
 	 (10432,'Jose','A','Washington'),
 	 (10433,'Jose','B','Parker'),
@@ -11482,7 +11482,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10438,'Jose','C','Martin'),
 	 (10439,'Jose','C','Yang'),
 	 (10440,'Jose','D','Bryant');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10441,'Jose','D','Gonzalez'),
 	 (10442,'Jose','E','Lee'),
 	 (10443,'Jose','E','Williams'),
@@ -11493,7 +11493,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10448,'Jose','J','Alexander'),
 	 (10449,'Jose','J','Hall'),
 	 (10450,'Jose','J','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10451,'Jose','J','Wilson'),
 	 (10452,'Jose','K','Li'),
 	 (10453,'Jose','L','Garcia'),
@@ -11504,7 +11504,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10458,'Jose','M','Moore'),
 	 (10459,'Jose','M','Perry'),
 	 (10460,'Jose','M','Scott');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10461,'Jose','P','Kumar'),
 	 (10462,'Jose','R','Diaz'),
 	 (10463,'Jose','R','Lugo'),
@@ -11515,7 +11515,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10468,'José','','Rodriguez'),
 	 (10469,'José','A','Martinez'),
 	 (10470,'José','E','Saraiva');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10471,'José','G','Lopez'),
 	 (10472,'José','J','Jackson'),
 	 (10473,'José','J','Perez'),
@@ -11526,7 +11526,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10478,'Joseph','','Matthews'),
 	 (10479,'Joseph','','Robinson'),
 	 (10480,'Joseph','','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10481,'Joseph','','Thompson'),
 	 (10482,'Joseph','','White'),
 	 (10483,'Joseph','A','Anderson'),
@@ -11537,7 +11537,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10488,'Joseph','E','Martinez'),
 	 (10489,'Joseph','E','Walker'),
 	 (10490,'Joseph','F','Lee');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10491,'Joseph','J','Cantoni'),
 	 (10492,'Joseph','L','Johnson'),
 	 (10493,'Joseph','L','Moore'),
@@ -11548,7 +11548,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10498,'Joseph','M','Lique'),
 	 (10499,'Joseph','N','Castellucio'),
 	 (10500,'Joseph','P','Mitzner');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10501,'Joseph','P','Thomas'),
 	 (10502,'Joseph','R','Jackson'),
 	 (10503,'Joseph','T','Smith'),
@@ -11559,7 +11559,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10508,'Joshua','','Brown'),
 	 (10509,'Joshua','','Jackson'),
 	 (10510,'Joshua','','Johnson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10511,'Joshua','','Jones'),
 	 (10512,'Joshua','','Miller'),
 	 (10513,'Joshua','','Williams'),
@@ -11570,7 +11570,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10518,'Joshua','A','Rodriguez'),
 	 (10519,'Joshua','A','Thomas'),
 	 (10520,'Joshua','A','Wilson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10521,'Joshua','C','Lewis'),
 	 (10522,'Joshua','C','Smith'),
 	 (10523,'Joshua','E','Robinson'),
@@ -11581,7 +11581,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10528,'Joshua','L','Lee'),
 	 (10529,'Joshua','M','Davis'),
 	 (10530,'Joshua','M','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10531,'Joshua','M','Taylor'),
 	 (10532,'Joshua','R','Several'),
 	 (10533,'Joshua','W','Walker'),
@@ -11592,7 +11592,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10538,'Josue','R','Dominguez'),
 	 (10539,'Jovita','A','Carmody'),
 	 (10540,'Joy','','Carlson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10541,'Joy','','Dominguez'),
 	 (10542,'Joy','','Jimenez'),
 	 (10543,'Joy','','Moreno'),
@@ -11603,7 +11603,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10548,'Joy','A','Gutierrez'),
 	 (10549,'Joy','A','Ortega'),
 	 (10550,'Joy','A','Ruiz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10551,'Joy','B','Suarez'),
 	 (10552,'Joy','D','Romero'),
 	 (10553,'Joy','E','Torres'),
@@ -11614,7 +11614,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10558,'Joy','L','Serrano'),
 	 (10559,'Joy','R','Koski'),
 	 (10560,'Joyce','','Jarvis');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10561,'Juan','','Brooks'),
 	 (10562,'Juan','','Cook'),
 	 (10563,'Juan','','Gray'),
@@ -11625,7 +11625,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10568,'Juan','','Ruiz'),
 	 (10569,'Juan','','Serrano'),
 	 (10570,'Juan','','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10571,'Juan','A','Cox'),
 	 (10572,'Juan','A','Romero'),
 	 (10573,'Juan','C','Morgan'),
@@ -11636,7 +11636,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10578,'Juan','J','Sanchez'),
 	 (10579,'Juan','J','Watson'),
 	 (10580,'Juan','K','Howard');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10581,'Juan','L','Bell'),
 	 (10582,'Juan','L','Rivera'),
 	 (10583,'Juan','M','Bailey'),
@@ -11647,7 +11647,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10588,'Juan','R','Rogers'),
 	 (10589,'Juan','R','Sanz'),
 	 (10590,'Juan','R','Suarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10591,'Juan','T','Murphy'),
 	 (10592,'Juan','W','Sanders'),
 	 (10593,'Juanita','J','Holman'),
@@ -11658,7 +11658,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10598,'Judith','D','Reed'),
 	 (10599,'Judith','F','Krane'),
 	 (10600,'Judith','F','Parker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10601,'Judith','R','White'),
 	 (10602,'Judy','','Lew'),
 	 (10603,'Judy','J','Thames'),
@@ -11669,7 +11669,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10608,'Julia','','Anderson'),
 	 (10609,'Julia','','Baker'),
 	 (10610,'Julia','','Bell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10611,'Julia','','Bennett'),
 	 (10612,'Julia','','Brown'),
 	 (10613,'Julia','','Coleman'),
@@ -11680,7 +11680,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10618,'Julia','','James'),
 	 (10619,'Julia','','Johnston'),
 	 (10620,'Julia','','Kelly');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10621,'Julia','','Lee'),
 	 (10622,'Julia','','Lewis'),
 	 (10623,'Julia','','Martin'),
@@ -11691,7 +11691,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10628,'Julia','','Moseley'),
 	 (10629,'Julia','','Perry'),
 	 (10630,'Julia','','Phillips');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10631,'Julia','','Robinson'),
 	 (10632,'Julia','','Simmons'),
 	 (10633,'Julia','','Smith'),
@@ -11702,7 +11702,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10638,'Julia','A','Cox'),
 	 (10639,'Julia','A','Foster'),
 	 (10640,'Julia','A','price');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10641,'Julia','A','Ramirez'),
 	 (10642,'Julia','A','Rodriguez'),
 	 (10643,'Julia','A','Russell'),
@@ -11713,7 +11713,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10648,'Julia','B','Thomas'),
 	 (10649,'Julia','C','Collins'),
 	 (10650,'Julia','C','King');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10651,'Julia','D','Campbell'),
 	 (10652,'Julia','E','Flores'),
 	 (10653,'Julia','E','Jackson'),
@@ -11724,7 +11724,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10658,'Julia','I','Bailey'),
 	 (10659,'Julia','I','Lopez'),
 	 (10660,'Julia','J','Alexander');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10661,'Julia','J','Butler'),
 	 (10662,'Julia','J','Diaz'),
 	 (10663,'Julia','J','Young'),
@@ -11735,7 +11735,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10668,'Julia','L','Nelson'),
 	 (10669,'Julia','L','Stewart'),
 	 (10670,'Julia','L','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10671,'Julia','L','Wood'),
 	 (10672,'Julia','M','Carter'),
 	 (10673,'Julia','M','Edwards'),
@@ -11746,7 +11746,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10678,'Julia','M','West'),
 	 (10679,'Julia','M','Wright'),
 	 (10680,'Julia','N','Adams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10681,'Julia','N','Richardson'),
 	 (10682,'Julia','P','Peterson'),
 	 (10683,'Julia','R','Barnes'),
@@ -11757,7 +11757,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10688,'Julia','R','Miller'),
 	 (10689,'Julia','R','Washington'),
 	 (10690,'Julia','S','Howard');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10691,'Julia','T','Harris'),
 	 (10692,'Julia','V','Cooper'),
 	 (10693,'Julia','V','Patterson'),
@@ -11768,7 +11768,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10698,'Julian','','Flores'),
 	 (10699,'Julian','','Hayes'),
 	 (10700,'Julian','','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10701,'Julian','','Long'),
 	 (10702,'Julian','','Powell'),
 	 (10703,'Julian','','price'),
@@ -11779,7 +11779,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10708,'Julian','A','Wood'),
 	 (10709,'Julian','C','Washington'),
 	 (10710,'Julian','D','Patterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10711,'Julian','D','Perry'),
 	 (10712,'Julian','H','Bennett'),
 	 (10713,'Julian','J','Henderson'),
@@ -11790,7 +11790,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10718,'Julian','S','Hughes'),
 	 (10719,'Julie','','Bankert'),
 	 (10720,'Julie','','Becker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10721,'Julie','','Deng'),
 	 (10722,'Julie','','Goel'),
 	 (10723,'Julie','','Jai'),
@@ -11801,7 +11801,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10728,'Julie','','Tang'),
 	 (10729,'Julie','','Xie'),
 	 (10730,'Julie','','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10731,'Julie','','Yuan'),
 	 (10732,'Julie','A','Lal'),
 	 (10733,'Julie','B','Anand'),
@@ -11812,7 +11812,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10738,'Julie','M','Luo'),
 	 (10739,'Julie','M','Shan'),
 	 (10740,'Julie','P','Estes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10741,'Julie','P','Waggoner'),
 	 (10742,'Julie','R','Sharma'),
 	 (10743,'Julio','','Alvarez'),
@@ -11823,7 +11823,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10748,'Julio','','Romero'),
 	 (10749,'Julio','','Rubio'),
 	 (10750,'Julio','','Ruiz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10751,'Julio','','Serrano'),
 	 (10752,'Julio','','Torres'),
 	 (10753,'Julio','C','Alonso'),
@@ -11834,7 +11834,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10758,'Julio','E','Vazquez'),
 	 (10759,'Julio','H','Sanz'),
 	 (10760,'Julio','J','Blanco');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10761,'Julio','J','Diaz'),
 	 (10762,'Julio','J','Hernandez'),
 	 (10763,'Julio','J','Suarez'),
@@ -11845,7 +11845,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10768,'Jun','T','Cao'),
 	 (10769,'June','B','Brunner'),
 	 (10770,'Justin','','Anderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10771,'Justin','','Bryant'),
 	 (10772,'Justin','','Chen'),
 	 (10773,'Justin','','Davis'),
@@ -11856,7 +11856,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10778,'Justin','','Gonzales'),
 	 (10779,'Justin','','Griffin'),
 	 (10780,'Justin','','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10781,'Justin','','Jones'),
 	 (10782,'Justin','','Kumar'),
 	 (10783,'Justin','','Lal'),
@@ -11867,7 +11867,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10788,'Justin','','Russell'),
 	 (10789,'Justin','','Simmons'),
 	 (10790,'Justin','','Thompson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10791,'Justin','','Washington'),
 	 (10792,'Justin','','Williams'),
 	 (10793,'Justin','','Wilson'),
@@ -11878,7 +11878,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10798,'Justin','C','Miller'),
 	 (10799,'Justin','E','Perry'),
 	 (10800,'Justin','G','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10801,'Justin','G','Taylor'),
 	 (10802,'Justin','I','Butler'),
 	 (10803,'Justin','J','Rodriguez'),
@@ -11889,7 +11889,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10808,'Justin','L','Lewis'),
 	 (10809,'Justin','L','Moore'),
 	 (10810,'Justin','L','Shan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10811,'Justin','M','Alexander'),
 	 (10812,'Justin','M','Hughes'),
 	 (10813,'Justin','M','Lee'),
@@ -11900,7 +11900,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10818,'Justin','T','Jackson'),
 	 (10819,'Justin','V','Hayes'),
 	 (10820,'Justin','W','Brown');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10821,'Justin','W','Jai'),
 	 (10822,'Justine','J','Ryan'),
 	 (10823,'Jyothi','','Pai'),
@@ -11911,7 +11911,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10828,'Kaitlin','','McDonald'),
 	 (10829,'Kaitlin','','Perez'),
 	 (10830,'Kaitlin','','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10831,'Kaitlin','','Sanchez'),
 	 (10832,'Kaitlin','','Schmidt'),
 	 (10833,'Kaitlin','','Sullivan'),
@@ -11922,7 +11922,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10838,'Kaitlin','J','Sai'),
 	 (10839,'Kaitlin','J','Srini'),
 	 (10840,'Kaitlin','L','Patel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10841,'Kaitlin','L','Prasad'),
 	 (10842,'Kaitlin','M','Kapoor'),
 	 (10843,'Kaitlin','R','Chapman'),
@@ -11933,7 +11933,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10848,'Kaitlyn','','Collins'),
 	 (10849,'Kaitlyn','','Cox'),
 	 (10850,'Kaitlyn','','Edwards');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10851,'Kaitlyn','','Evans'),
 	 (10852,'Kaitlyn','','Flores'),
 	 (10853,'Kaitlyn','','Gonzales'),
@@ -11944,7 +11944,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10858,'Kaitlyn','','Jackson'),
 	 (10859,'Kaitlyn','','Jones'),
 	 (10860,'Kaitlyn','','King');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10861,'Kaitlyn','','Lewis'),
 	 (10862,'Kaitlyn','','Long'),
 	 (10863,'Kaitlyn','','Lopez'),
@@ -11955,7 +11955,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10868,'Kaitlyn','','price'),
 	 (10869,'Kaitlyn','','Robinson'),
 	 (10870,'Kaitlyn','','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10871,'Kaitlyn','','Ross'),
 	 (10872,'Kaitlyn','','Simmons'),
 	 (10873,'Kaitlyn','','Thomas'),
@@ -11966,7 +11966,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10878,'Kaitlyn','','Wilson'),
 	 (10879,'Kaitlyn','A','Adams'),
 	 (10880,'Kaitlyn','A','Carter');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10881,'Kaitlyn','A','Gonzalez'),
 	 (10882,'Kaitlyn','A','Perez'),
 	 (10883,'Kaitlyn','A','Scott'),
@@ -11977,7 +11977,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10888,'Kaitlyn','C','Coleman'),
 	 (10889,'Kaitlyn','D','Mitchell'),
 	 (10890,'Kaitlyn','F','Blue');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10891,'Kaitlyn','F','Martin'),
 	 (10892,'Kaitlyn','G','Kelly'),
 	 (10893,'Kaitlyn','G','Wright'),
@@ -11988,7 +11988,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10898,'Kaitlyn','J','Garcia'),
 	 (10899,'Kaitlyn','J','Green'),
 	 (10900,'Kaitlyn','J','Henderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10901,'Kaitlyn','J','Nelson'),
 	 (10902,'Kaitlyn','J','Rogers'),
 	 (10903,'Kaitlyn','J','Young'),
@@ -11999,7 +11999,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10908,'Kaitlyn','L','Johnson'),
 	 (10909,'Kaitlyn','L','Taylor'),
 	 (10910,'Kaitlyn','L','Thompson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10911,'Kaitlyn','L','Washington'),
 	 (10912,'Kaitlyn','M','Bailey'),
 	 (10913,'Kaitlyn','M','Foster'),
@@ -12010,7 +12010,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10918,'Kaitlyn','O','Butler'),
 	 (10919,'Kaitlyn','R','Howard'),
 	 (10920,'Kaitlyn','R','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10921,'Kaitlyn','R','Patterson'),
 	 (10922,'Kaitlyn','R','Rivera'),
 	 (10923,'Kaitlyn','R','Watson'),
@@ -12021,7 +12021,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10928,'Kaitlyn','T','Alexander'),
 	 (10929,'Kaitlyn','T','Hall'),
 	 (10930,'Kaitlyn','T','Sanders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10931,'Kaitlyn','V','Cooper'),
 	 (10932,'Kaitlyn','W','Clark'),
 	 (10933,'Kaitlyn','W','Phillips'),
@@ -12032,7 +12032,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10938,'Kara','','Kumar'),
 	 (10939,'Kara','','Lal'),
 	 (10940,'Kara','','Luo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10941,'Kara','','Pal'),
 	 (10942,'Kara','','Raji'),
 	 (10943,'Kara','','She'),
@@ -12043,7 +12043,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10948,'Kara','D','Rai'),
 	 (10949,'Kara','E','Jai'),
 	 (10950,'Kara','E','Nara');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10951,'Kara','E','Xu'),
 	 (10952,'Kara','L','Deng'),
 	 (10953,'Kara','N','Vanderlinden'),
@@ -12054,7 +12054,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10958,'Karel','E','Bates'),
 	 (10959,'Karen','','Archer'),
 	 (10960,'Karen','','Berge');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10961,'Karen','','Cai'),
 	 (10962,'Karen','','Friske'),
 	 (10963,'Karen','','Guo'),
@@ -12065,7 +12065,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10968,'Karen','','Walker'),
 	 (10969,'Karen','','Wood'),
 	 (10970,'Karen','','Wu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10971,'Karen','','Zhou'),
 	 (10972,'Karen','A','Berg'),
 	 (10973,'Karen','A','Roberts'),
@@ -12076,7 +12076,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10978,'Karen','E','Xu'),
 	 (10979,'Karen','E','Yang'),
 	 (10980,'Karen','F','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10981,'Karen','F','Liu'),
 	 (10982,'Karen','H','She'),
 	 (10983,'Karen','K','Li'),
@@ -12087,7 +12087,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10988,'Karen','L','Zhao'),
 	 (10989,'Karen','M','Liang'),
 	 (10990,'Karen','M','Perry');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10991,'Karen','M','Theisen'),
 	 (10992,'Karen','P','Wang'),
 	 (10993,'Karen','R','Berge'),
@@ -12098,7 +12098,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (10998,'Kari','','Fernandez'),
 	 (10999,'Kari','','Garcia'),
 	 (11000,'Kari','','Gomez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11001,'Kari','','Gutierrez'),
 	 (11002,'Kari','','Hensien'),
 	 (11003,'Kari','','Hernandez'),
@@ -12109,7 +12109,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11008,'Kari','','Raman'),
 	 (11009,'Kari','','Rodriguez'),
 	 (11010,'Kari','','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11011,'Kari','','Serrano'),
 	 (11012,'Kari','','Suarez'),
 	 (11013,'Kari','','Subram'),
@@ -12120,7 +12120,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11018,'Kari','A','Gill'),
 	 (11019,'Kari','A','Smith'),
 	 (11020,'Kari','C','Alvarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11021,'Kari','C','Vance'),
 	 (11022,'Kari','D','Ramos'),
 	 (11023,'Kari','E','Sai'),
@@ -12131,7 +12131,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11028,'Kari','L','Ruiz'),
 	 (11029,'Kari','M','Chapman'),
 	 (11030,'Kari','S','Dominguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11031,'Kari','S','Kim'),
 	 (11032,'Kari','S','Moreno'),
 	 (11033,'Kari','T','Sanchez'),
@@ -12142,7 +12142,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11038,'Karl','','Goel'),
 	 (11039,'Karl','','Nara'),
 	 (11040,'Karl','','Raje');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11041,'Karl','','Raji'),
 	 (11042,'Karl','','Tang'),
 	 (11043,'Karl','','Xu'),
@@ -12153,7 +12153,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11048,'Karl','J','Kumar'),
 	 (11049,'Karl','J','Shan'),
 	 (11050,'Karl','L','Deng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11051,'Karl','L','Luo'),
 	 (11052,'Karl','L','Stone'),
 	 (11053,'Karl','L','Yuan'),
@@ -12164,7 +12164,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11058,'Karl','S','Pal'),
 	 (11059,'Karl','V','Xie'),
 	 (11060,'Karla','','Anand');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11061,'Karla','','Chander'),
 	 (11062,'Karla','','Jai'),
 	 (11063,'Karla','','Lal'),
@@ -12175,7 +12175,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11068,'Karla','A','Pal'),
 	 (11069,'Karla','A','Sharma'),
 	 (11070,'Karla','C','Deng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11071,'Karla','C','Nara'),
 	 (11072,'Karla','E','Shen'),
 	 (11073,'Karla','H','Kumar'),
@@ -12186,7 +12186,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11078,'Karla','M','Xu'),
 	 (11079,'Karla','R','Andersen'),
 	 (11080,'Karla','T','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11081,'Karla','V','Luo'),
 	 (11082,'Karla','V','Raji'),
 	 (11083,'Karla','W','Yuan'),
@@ -12197,7 +12197,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11088,'Kate','','Jai'),
 	 (11089,'Kate','','Kumar'),
 	 (11090,'Kate','','Lal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11091,'Kate','','Rai'),
 	 (11092,'Kate','','Raje'),
 	 (11093,'Kate','','Shan'),
@@ -12208,7 +12208,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11098,'Kate','J','Nath'),
 	 (11099,'Kate','J','Xie'),
 	 (11100,'Kate','K','Anand');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11101,'Kate','L','Deng'),
 	 (11102,'Kate','L','Nara'),
 	 (11103,'Kate','L','Raji'),
@@ -12219,7 +12219,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11108,'Katelyn','','Gonzalez'),
 	 (11109,'Katelyn','','Gray'),
 	 (11110,'Katelyn','','Green');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11111,'Katelyn','','Hill'),
 	 (11112,'Katelyn','','King'),
 	 (11113,'Katelyn','','Lopez'),
@@ -12230,7 +12230,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11118,'Katelyn','','Rivera'),
 	 (11119,'Katelyn','','Roberts'),
 	 (11120,'Katelyn','','Rogers');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11121,'Katelyn','','Sanchez'),
 	 (11122,'Katelyn','','Scott'),
 	 (11123,'Katelyn','','Ward'),
@@ -12241,7 +12241,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11128,'Katelyn','B','Cox'),
 	 (11129,'Katelyn','B','Watson'),
 	 (11130,'Katelyn','C','Bailey');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11131,'Katelyn','C','Cooper'),
 	 (11132,'Katelyn','C','Ramirez'),
 	 (11133,'Katelyn','D','Collins'),
@@ -12252,7 +12252,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11138,'Katelyn','E','Morris'),
 	 (11139,'Katelyn','I','Allen'),
 	 (11140,'Katelyn','K','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11141,'Katelyn','K','Stewart'),
 	 (11142,'Katelyn','L','Edwards'),
 	 (11143,'Katelyn','L','Hernandez'),
@@ -12263,7 +12263,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11148,'Katelyn','O','James'),
 	 (11149,'Katelyn','R','Phillips'),
 	 (11150,'Katelyn','W','Adams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11151,'Katelyn','W','Peterson'),
 	 (11152,'Katelyn','W','Young'),
 	 (11153,'Katherine','','Alexander'),
@@ -12274,7 +12274,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11158,'Katherine','','Bradley'),
 	 (11159,'Katherine','','Brooks'),
 	 (11160,'Katherine','','Brown');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11161,'Katherine','','Carter'),
 	 (11162,'Katherine','','Clark'),
 	 (11163,'Katherine','','Collins'),
@@ -12285,7 +12285,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11168,'Katherine','','Gonzalez'),
 	 (11169,'Katherine','','Gray'),
 	 (11170,'Katherine','','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11171,'Katherine','','Harding'),
 	 (11172,'Katherine','','Hernandez'),
 	 (11173,'Katherine','','Howard'),
@@ -12296,7 +12296,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11178,'Katherine','','Lopez'),
 	 (11179,'Katherine','','Martinez'),
 	 (11180,'Katherine','','Nelson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11181,'Katherine','','Parker'),
 	 (11182,'Katherine','','Ramirez'),
 	 (11183,'Katherine','','Reed'),
@@ -12307,7 +12307,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11188,'Katherine','','Russell'),
 	 (11189,'Katherine','','Sanders'),
 	 (11190,'Katherine','','Scott');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11191,'Katherine','','Thomas'),
 	 (11192,'Katherine','','Turner'),
 	 (11193,'Katherine','','Ward'),
@@ -12318,7 +12318,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11198,'Katherine','A','Bryant'),
 	 (11199,'Katherine','A','Garcia'),
 	 (11200,'Katherine','A','King');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11201,'Katherine','A','Lee'),
 	 (11202,'Katherine','A','Wilson'),
 	 (11203,'Katherine','A','Young'),
@@ -12329,7 +12329,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11208,'Katherine','C','Henderson'),
 	 (11209,'Katherine','C','Johnson'),
 	 (11210,'Katherine','C','Mitchell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11211,'Katherine','C','Powell'),
 	 (11212,'Katherine','E','Evans'),
 	 (11213,'Katherine','E','Hall'),
@@ -12340,7 +12340,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11218,'Katherine','J','Green'),
 	 (11219,'Katherine','J','Martin'),
 	 (11220,'Katherine','J','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11221,'Katherine','J','Rodriguez'),
 	 (11222,'Katherine','J','Smith'),
 	 (11223,'Katherine','J','Torres'),
@@ -12351,7 +12351,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11228,'Katherine','L','Hill'),
 	 (11229,'Katherine','L','Moore'),
 	 (11230,'Katherine','L','Roberts');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11231,'Katherine','L','Walker'),
 	 (11232,'Katherine','L','Watson'),
 	 (11233,'Katherine','M','Adams'),
@@ -12362,7 +12362,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11238,'Katherine','P','Diaz'),
 	 (11239,'Katherine','P','Griffin'),
 	 (11240,'Katherine','R','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11241,'Katherine','R','Cook'),
 	 (11242,'Katherine','R','Cooper'),
 	 (11243,'Katherine','R','Gonzales'),
@@ -12373,7 +12373,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11248,'Katherine','S','Sanchez'),
 	 (11249,'Katherine','T','Morris'),
 	 (11250,'Katherine','V','Morgan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11251,'Katherine','Z','Stewart'),
 	 (11252,'Kathie','','Flood'),
 	 (11253,'Kathie','E','Flood'),
@@ -12384,7 +12384,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11258,'Kathleen','','Hernandez'),
 	 (11259,'Kathleen','','Jimenez'),
 	 (11260,'Kathleen','','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11261,'Kathleen','','Ramos'),
 	 (11262,'Kathleen','','Romero'),
 	 (11263,'Kathleen','','Torres'),
@@ -12395,7 +12395,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11268,'Kathleen','G','Ortega'),
 	 (11269,'Kathleen','J','Gomez'),
 	 (11270,'Kathleen','J','Navarro');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11271,'Kathleen','J','Winter'),
 	 (11272,'Kathleen','M','Garza'),
 	 (11273,'Kathleen','M','Vazquez'),
@@ -12406,7 +12406,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11278,'Kathryn','','Becker'),
 	 (11279,'Kathryn','','Chapman'),
 	 (11280,'Kathryn','','Deng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11281,'Kathryn','','Goel'),
 	 (11282,'Kathryn','','Jai'),
 	 (11283,'Kathryn','','Luo'),
@@ -12417,7 +12417,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11288,'Kathryn','C','Raji'),
 	 (11289,'Kathryn','E','Nara'),
 	 (11290,'Kathryn','H','Lal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11291,'Kathryn','I','She'),
 	 (11292,'Kathryn','K','Shan'),
 	 (11293,'Kathryn','L','Carson'),
@@ -12428,7 +12428,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11298,'Katie','','Chapman'),
 	 (11299,'Katie','','Deng'),
 	 (11300,'Katie','','Holt');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11301,'Katie','','Jordan'),
 	 (11302,'Katie','','McAskill-White'),
 	 (11303,'Katie','','Nara'),
@@ -12439,7 +12439,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11308,'Katie','','Yuan'),
 	 (11309,'Katie','A','Chande'),
 	 (11310,'Katie','A','Nath');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11311,'Katie','A','Rai'),
 	 (11312,'Katie','A','Shen'),
 	 (11313,'Katie','B','She'),
@@ -12450,7 +12450,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11318,'Katie','L','Luo'),
 	 (11319,'Katie','L','McAskill-White'),
 	 (11320,'Katie','P','Kumar');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11321,'Katie','R','Xu'),
 	 (11322,'Katie','Z','Ashe'),
 	 (11323,'Katrina','','Andersen'),
@@ -12461,7 +12461,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11328,'Katrina','','Jai'),
 	 (11329,'Katrina','','Raje'),
 	 (11330,'Katrina','','Shen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11331,'Katrina','B','Xu'),
 	 (11332,'Katrina','C','Shan'),
 	 (11333,'Katrina','D','Yuan'),
@@ -12472,7 +12472,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11338,'Katrina','M','Raji'),
 	 (11339,'Katrina','M','Sharma'),
 	 (11340,'Katrina','M','Xie');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11341,'Katrina','P','Kumar'),
 	 (11342,'Katrina','R','Nath'),
 	 (11343,'Katrina','W','Rai'),
@@ -12483,7 +12483,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11348,'Kayla','','Barnes'),
 	 (11349,'Kayla','','Bennett'),
 	 (11350,'Kayla','','Brown');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11351,'Kayla','','Davis'),
 	 (11352,'Kayla','','Foster'),
 	 (11353,'Kayla','','Gonzales'),
@@ -12494,7 +12494,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11358,'Kayla','','Lewis'),
 	 (11359,'Kayla','','price'),
 	 (11360,'Kayla','','Taylor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11361,'Kayla','','Thomas'),
 	 (11362,'Kayla','','Walker'),
 	 (11363,'Kayla','','White'),
@@ -12505,7 +12505,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11368,'Kayla','A','Moore'),
 	 (11369,'Kayla','A','Powell'),
 	 (11370,'Kayla','B','Patterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11371,'Kayla','B','Russell'),
 	 (11372,'Kayla','C','Bryant'),
 	 (11373,'Kayla','C','Jones'),
@@ -12516,7 +12516,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11378,'Kayla','E','Martin'),
 	 (11379,'Kayla','E','Martinez'),
 	 (11380,'Kayla','E','Washington');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11381,'Kayla','G','Johnson'),
 	 (11382,'Kayla','J','Butler'),
 	 (11383,'Kayla','L','Coleman'),
@@ -12527,7 +12527,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11388,'Kayla','M','Lee'),
 	 (11389,'Kayla','M','Stotler'),
 	 (11390,'Kayla','O','Flores');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11391,'Kayla','R','Jackson'),
 	 (11392,'Kayla','W','Long'),
 	 (11393,'Kayla','W','Rodriguez'),
@@ -12538,7 +12538,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11398,'Kaylee','','Cox'),
 	 (11399,'Kaylee','','Evans'),
 	 (11400,'Kaylee','','Morgan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11401,'Kaylee','','Morris'),
 	 (11402,'Kaylee','','Perez'),
 	 (11403,'Kaylee','','Peterson'),
@@ -12549,7 +12549,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11408,'Kaylee','','Wright'),
 	 (11409,'Kaylee','A','Murphy'),
 	 (11410,'Kaylee','A','Ward');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11411,'Kaylee','C','Green'),
 	 (11412,'Kaylee','C','Sanders'),
 	 (11413,'Kaylee','E','Campbell'),
@@ -12560,7 +12560,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11418,'Kaylee','F','Adams'),
 	 (11419,'Kaylee','G','Roberts'),
 	 (11420,'Kaylee','K','Watson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11421,'Kaylee','L','Gonzalez'),
 	 (11422,'Kaylee','L','Hill'),
 	 (11423,'Kaylee','L','Richardson'),
@@ -12571,7 +12571,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11428,'Kaylee','M','Cooper'),
 	 (11429,'Kaylee','M','Edwards'),
 	 (11430,'Kaylee','M','Parker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11431,'Kaylee','M','Turner'),
 	 (11432,'Kaylee','R','Mitchell'),
 	 (11433,'Kaylee','R','Reed'),
@@ -12582,7 +12582,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11438,'Kaylee','T','King'),
 	 (11439,'Kaylee','W','James'),
 	 (11440,'Kaylee','W','Kelly');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11441,'Keith','','Andersen'),
 	 (11442,'Keith','','Chande'),
 	 (11443,'Keith','','Deng'),
@@ -12593,7 +12593,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11448,'Keith','','Nath'),
 	 (11449,'Keith','','Raji'),
 	 (11450,'Keith','','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11451,'Keith','','Stone'),
 	 (11452,'Keith','','Tang'),
 	 (11453,'Keith','A','Chander'),
@@ -12604,7 +12604,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11458,'Keith','L','She'),
 	 (11459,'Keith','M','Kumar'),
 	 (11460,'Keith','N','Virden');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11461,'Keith','N','Yuan'),
 	 (11462,'Keith','P','Becker'),
 	 (11463,'Keith','R','Luo'),
@@ -12615,7 +12615,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11468,'Kelli','','Andersen'),
 	 (11469,'Kelli','','Chander'),
 	 (11470,'Kelli','','Chen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11471,'Kelli','','Deng'),
 	 (11472,'Kelli','','Gao'),
 	 (11473,'Kelli','','Huang'),
@@ -12626,7 +12626,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11478,'Kelli','','Rai'),
 	 (11479,'Kelli','','Shan'),
 	 (11480,'Kelli','','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11481,'Kelli','','Shen'),
 	 (11482,'Kelli','','Wang'),
 	 (11483,'Kelli','','Ye'),
@@ -12637,7 +12637,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11488,'Kelli','A','Lin'),
 	 (11489,'Kelli','A','Liu'),
 	 (11490,'Kelli','A','Raje');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11491,'Kelli','C','Chande'),
 	 (11492,'Kelli','C','Liang'),
 	 (11493,'Kelli','C','Zhu'),
@@ -12648,7 +12648,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11498,'Kelli','J','Lal'),
 	 (11499,'Kelli','J','She'),
 	 (11500,'Kelli','J','Xie');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11501,'Kelli','L','Lu'),
 	 (11502,'Kelli','L','Xu'),
 	 (11503,'Kelli','M','Hu'),
@@ -12659,7 +12659,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11508,'Kelli','R','Sun'),
 	 (11509,'Kelli','T','Wu'),
 	 (11510,'Kelli','T','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11511,'Kelli','V','Goel'),
 	 (11512,'Kelli','W','Li'),
 	 (11513,'Kelli','W','Zhang'),
@@ -12670,7 +12670,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11518,'Kellie','','Ruiz'),
 	 (11519,'Kellie','','Sanz'),
 	 (11520,'Kellie','','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11521,'Kellie','A','Diaz'),
 	 (11522,'Kellie','A','Hernandez'),
 	 (11523,'Kellie','B','Vazquez'),
@@ -12681,7 +12681,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11528,'Kellie','L','Serrano'),
 	 (11529,'Kellie','M','Blanco'),
 	 (11530,'Kellie','M','Ortega');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11531,'Kellie','M','Ramos'),
 	 (11532,'Kellie','R','Martin'),
 	 (11533,'Kellie','T','Moreno'),
@@ -12692,7 +12692,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11538,'Kelly','','Butler'),
 	 (11539,'Kelly','','Coleman'),
 	 (11540,'Kelly','','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11541,'Kelly','','Focht'),
 	 (11542,'Kelly','','Foster'),
 	 (11543,'Kelly','','Hughes'),
@@ -12703,7 +12703,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11548,'Kelly','E','Russell'),
 	 (11549,'Kelly','F','Griffin'),
 	 (11550,'Kelly','G','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11551,'Kelly','G','Wood'),
 	 (11552,'Kelly','J','Weadock'),
 	 (11553,'Kelly','J','Whitworth'),
@@ -12714,7 +12714,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11558,'Kelly','R','Flores'),
 	 (11559,'Kelly','S','Simmons'),
 	 (11560,'Kelly','W','price');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11561,'Kelsey','','Goel'),
 	 (11562,'Kelsey','','Pal'),
 	 (11563,'Kelsey','','Shan'),
@@ -12725,7 +12725,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11568,'Kelsey','G','Becker'),
 	 (11569,'Kelsey','J','Jai'),
 	 (11570,'Kelsey','J','Luo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11571,'Kelsey','J','She'),
 	 (11572,'Kelsey','K','Chande'),
 	 (11573,'Kelsey','K','Nath'),
@@ -12736,7 +12736,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11578,'Kelsey','T','Lal'),
 	 (11579,'Kelsey','W','Raje'),
 	 (11580,'Kelsey','W','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11581,'Kelvin','','Alan'),
 	 (11582,'Kelvin','','Becker'),
 	 (11583,'Kelvin','','Chen'),
@@ -12747,7 +12747,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11588,'Kelvin','','Lal'),
 	 (11589,'Kelvin','','Luo'),
 	 (11590,'Kelvin','','Shan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11591,'Kelvin','','Shen'),
 	 (11592,'Kelvin','','Tang'),
 	 (11593,'Kelvin','','Wu'),
@@ -12758,7 +12758,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11598,'Kelvin','A','Cai'),
 	 (11599,'Kelvin','A','Carson'),
 	 (11600,'Kelvin','A','He');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11601,'Kelvin','A','Lin'),
 	 (11602,'Kelvin','A','Zeng'),
 	 (11603,'Kelvin','A','Zheng'),
@@ -12769,7 +12769,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11608,'Kelvin','E','Nara'),
 	 (11609,'Kelvin','E','Sun'),
 	 (11610,'Kelvin','H','Guo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11611,'Kelvin','K','Xie'),
 	 (11612,'Kelvin','K','Xu'),
 	 (11613,'Kelvin','L','Liang'),
@@ -12780,7 +12780,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11618,'Kelvin','R','Deng'),
 	 (11619,'Kelvin','R','Zhang'),
 	 (11620,'Kelvin','R','Zhu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11621,'Kelvin','S','Raji'),
 	 (11622,'Kelvin','S','Wang'),
 	 (11623,'Kelvin','T','She'),
@@ -12791,7 +12791,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11628,'Ken','','Myer'),
 	 (11629,'Ken','','Sánchez'),
 	 (11630,'Ken','J','Sánchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11631,'Ken','L','Myer'),
 	 (11632,'Kendall','','Keil'),
 	 (11633,'Kendall','C','Keil'),
@@ -12802,7 +12802,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11638,'Kendra','','Moreno'),
 	 (11639,'Kendra','','Navarro'),
 	 (11640,'Kendra','','Ortega');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11641,'Kendra','','Ramos'),
 	 (11642,'Kendra','','Romero'),
 	 (11643,'Kendra','','Rubio'),
@@ -12813,7 +12813,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11648,'Kendra','C','Alonso'),
 	 (11649,'Kendra','H','Gill'),
 	 (11650,'Kendra','J','Gomez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11651,'Kendra','L','Vazquez'),
 	 (11652,'Kendra','N','Dominguez'),
 	 (11653,'Kendra','N','Thompson'),
@@ -12824,7 +12824,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11658,'Kenneth','','Becker'),
 	 (11659,'Kenneth','','Deng'),
 	 (11660,'Kenneth','','Goel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11661,'Kenneth','','Kumar'),
 	 (11662,'Kenneth','','Raje'),
 	 (11663,'Kenneth','','She'),
@@ -12835,7 +12835,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11668,'Kenneth','G','Pal'),
 	 (11669,'Kenneth','J','Lal'),
 	 (11670,'Kenneth','J','Xie');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11671,'Kenneth','K','Nara'),
 	 (11672,'Kenneth','L','Anand'),
 	 (11673,'Kenneth','S','Luo'),
@@ -12846,7 +12846,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11678,'Kerry','N','Westguard'),
 	 (11679,'Kevin','','Alexander'),
 	 (11680,'Kevin','','Baker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11681,'Kevin','','Bryant'),
 	 (11682,'Kevin','','Chen'),
 	 (11683,'Kevin','','Coleman'),
@@ -12857,7 +12857,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11688,'Kevin','','Griffin'),
 	 (11689,'Kevin','','Hernandez'),
 	 (11690,'Kevin','','Jai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11691,'Kevin','','Kennedy'),
 	 (11692,'Kevin','','Kumar'),
 	 (11693,'Kevin','','Lal'),
@@ -12868,7 +12868,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11698,'Kevin','','Parker'),
 	 (11699,'Kevin','','Patterson'),
 	 (11700,'Kevin','','Perry');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11701,'Kevin','','Powell'),
 	 (11702,'Kevin','','Russell'),
 	 (11703,'Kevin','','Shan'),
@@ -12879,7 +12879,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11708,'Kevin','','Wang'),
 	 (11709,'Kevin','','Wright'),
 	 (11710,'Kevin','','Young');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11711,'Kevin','A','Hughes'),
 	 (11712,'Kevin','A','Roberts'),
 	 (11713,'Kevin','A','Wright'),
@@ -12890,7 +12890,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11718,'Kevin','E','Carter'),
 	 (11719,'Kevin','F','Brown'),
 	 (11720,'Kevin','F','Browne');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11721,'Kevin','F','Yang'),
 	 (11722,'Kevin','H','Liu'),
 	 (11723,'Kevin','J','Gonzales'),
@@ -12901,7 +12901,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11728,'Kevin','L','Phillips'),
 	 (11729,'Kevin','L','Ross'),
 	 (11730,'Kevin','M','Adams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11731,'Kevin','M','Homer'),
 	 (11732,'Kevin','M','Perez'),
 	 (11733,'Kevin','R','Butler'),
@@ -12912,7 +12912,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11738,'Kevin','W','King'),
 	 (11739,'Kim','','Abercrombie'),
 	 (11740,'Kim','','Akers');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11741,'Kim','','Ralls'),
 	 (11742,'Kim','B','Abercrombie'),
 	 (11743,'Kim','T','Ralls'),
@@ -12923,7 +12923,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11748,'Kimberly','','Murphy'),
 	 (11749,'Kimberly','','Richardson'),
 	 (11750,'Kimberly','','Rivera');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11751,'Kimberly','','Rogers'),
 	 (11752,'Kimberly','','Torres'),
 	 (11753,'Kimberly','A','Morgan'),
@@ -12934,7 +12934,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11758,'Kimberly','C','Stewart'),
 	 (11759,'Kimberly','D','Reed'),
 	 (11760,'Kimberly','J','Cooper');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11761,'Kimberly','K','Cox'),
 	 (11762,'Kimberly','L','Brooks'),
 	 (11763,'Kimberly','L','Sanchez'),
@@ -12945,7 +12945,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11768,'Kimberly','R','Blue'),
 	 (11769,'Kimberly','R','Cook'),
 	 (11770,'Kirk','','DeGrasse');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11771,'Kirk','J','Koenigsbauer'),
 	 (11772,'Kirk','J','Nason'),
 	 (11773,'Kirk','T','King'),
@@ -12956,7 +12956,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11778,'Krishna','','Sunkammurali'),
 	 (11779,'Krista','','Alvarez'),
 	 (11780,'Krista','','Carlson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11781,'Krista','','Diaz'),
 	 (11782,'Krista','','Gill'),
 	 (11783,'Krista','','Gomez'),
@@ -12967,7 +12967,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11788,'Krista','','Suarez'),
 	 (11789,'Krista','','Vazquez'),
 	 (11790,'Krista','C','Ruiz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11791,'Krista','E','Martin'),
 	 (11792,'Krista','J','Hernandez'),
 	 (11793,'Krista','J','Moreno'),
@@ -12978,7 +12978,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11798,'Krista','P','Alonso'),
 	 (11799,'Krista','R','Gutierrez'),
 	 (11800,'Kristen','','Cai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11801,'Kristen','','Gao'),
 	 (11802,'Kristen','','Huang'),
 	 (11803,'Kristen','','Liu'),
@@ -12989,7 +12989,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11808,'Kristen','','Zhao'),
 	 (11809,'Kristen','A','Guo'),
 	 (11810,'Kristen','A','Ma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11811,'Kristen','A','Wu'),
 	 (11812,'Kristen','A','Zeng'),
 	 (11813,'Kristen','C','Hu'),
@@ -13000,7 +13000,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11818,'Kristen','R','Li'),
 	 (11819,'Kristen','R','Zhou'),
 	 (11820,'Kristi','','Alvarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11821,'Kristi','','Blanco'),
 	 (11822,'Kristi','','Carlson'),
 	 (11823,'Kristi','','Fernandez'),
@@ -13011,7 +13011,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11828,'Kristi','','Lopez'),
 	 (11829,'Kristi','','Moreno'),
 	 (11830,'Kristi','','Munoz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11831,'Kristi','','Navarro'),
 	 (11832,'Kristi','','Raman'),
 	 (11833,'Kristi','','Ramos'),
@@ -13022,7 +13022,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11838,'Kristi','A','Gill'),
 	 (11839,'Kristi','A','Gonzalez'),
 	 (11840,'Kristi','A','Saunders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11841,'Kristi','C','Martin'),
 	 (11842,'Kristi','C','Patel'),
 	 (11843,'Kristi','D','Mehta'),
@@ -13033,7 +13033,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11848,'Kristi','J','Diaz'),
 	 (11849,'Kristi','J','Prasad'),
 	 (11850,'Kristi','J','Schmidt');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11851,'Kristi','l','Chapman'),
 	 (11852,'Kristi','L','Hernandez'),
 	 (11853,'Kristi','L','Martinez'),
@@ -13044,7 +13044,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11858,'Kristi','N','Subram'),
 	 (11859,'Kristi','P','Sai'),
 	 (11860,'Kristi','R','Rowe');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11861,'Kristi','S','Malhotra'),
 	 (11862,'Kristi','T','Vance'),
 	 (11863,'Kristi','W','Arthur'),
@@ -13055,7 +13055,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11868,'Kristin','C','Carson'),
 	 (11869,'Kristin','C','Rai'),
 	 (11870,'Kristin','C','Yuan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11871,'Kristin','D','Shen'),
 	 (11872,'Kristin','D','Xu'),
 	 (11873,'Kristin','E','Pal'),
@@ -13066,7 +13066,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11878,'Kristin','L','Goel'),
 	 (11879,'Kristin','L','She'),
 	 (11880,'Kristin','M','Watts');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11881,'Kristin','R','Kumar'),
 	 (11882,'Kristin','R','Spanaway'),
 	 (11883,'Kristina','','Chandra'),
@@ -13077,7 +13077,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11888,'Kristina','','Raman'),
 	 (11889,'Kristina','','Rana'),
 	 (11890,'Kristina','','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11891,'Kristina','','Sai'),
 	 (11892,'Kristina','','Schmidt'),
 	 (11893,'Kristina','','Subram'),
@@ -13088,7 +13088,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11898,'Kristina','J','Suri'),
 	 (11899,'Kristina','L','Lopez'),
 	 (11900,'Kristina','R','Kovar');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11901,'Kristina','R','Mehta'),
 	 (11902,'Kristina','S','Martinez'),
 	 (11903,'Kristina','V','Arun'),
@@ -13099,7 +13099,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11908,'Kristine','','Munoz'),
 	 (11909,'Kristine','','Ortega'),
 	 (11910,'Kristine','','Ramos');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11911,'Kristine','','Sandberg'),
 	 (11912,'Kristine','','Serrano'),
 	 (11913,'Kristine','','Suarez'),
@@ -13110,7 +13110,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11918,'Kristine','D','Blanco'),
 	 (11919,'Kristine','E','Gomez'),
 	 (11920,'Kristine','F','Alvarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11921,'Kristine','G','Gutierrez'),
 	 (11922,'Kristine','J','Cleary'),
 	 (11923,'Kristine','J','Ruiz'),
@@ -13121,7 +13121,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11928,'Kristopher','','Martinez'),
 	 (11929,'Kristopher','','Mehta'),
 	 (11930,'Kristopher','','Patel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11931,'Kristopher','','Rodriguez'),
 	 (11932,'Kristopher','','Sai'),
 	 (11933,'Kristopher','','Subram'),
@@ -13132,7 +13132,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11938,'Kristopher','D','Sanchez'),
 	 (11939,'Kristopher','E','Perez'),
 	 (11940,'Kristopher','J','Kapoor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11941,'Kristopher','L','Lopez'),
 	 (11942,'Kristopher','L','Malhotra'),
 	 (11943,'Kristopher','M','Garcia'),
@@ -13143,7 +13143,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11948,'Kristy','','Alvarez'),
 	 (11949,'Kristy','','Carlson'),
 	 (11950,'Kristy','','Gill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11951,'Kristy','','Gutierrez'),
 	 (11952,'Kristy','','Ramos'),
 	 (11953,'Kristy','','Rubio'),
@@ -13154,7 +13154,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11958,'Kristy','A','Diaz'),
 	 (11959,'Kristy','B','Martin'),
 	 (11960,'Kristy','E','Jimenez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11961,'Kristy','E','Munoz'),
 	 (11962,'Kristy','E','Ortega'),
 	 (11963,'Kristy','G','Hernandez'),
@@ -13165,7 +13165,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11968,'Kristy','M','Torres'),
 	 (11969,'Krystal','','Gao'),
 	 (11970,'Krystal','','Holt');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11971,'Krystal','','Lu'),
 	 (11972,'Krystal','','Sun'),
 	 (11973,'Krystal','','Xu'),
@@ -13176,7 +13176,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11978,'Krystal','A','Li'),
 	 (11979,'Krystal','A','She'),
 	 (11980,'Krystal','A','Wu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11981,'Krystal','A','Zeng'),
 	 (11982,'Krystal','A','Zhu'),
 	 (11983,'Krystal','D','Chen'),
@@ -13187,7 +13187,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11988,'Krystal','M','Ye'),
 	 (11989,'Krystal','R','Cai'),
 	 (11990,'Krystal','S','Guo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11991,'Krystal','S','Liang'),
 	 (11992,'Krystal','S','Zhang'),
 	 (11993,'Kurt','','Andersen'),
@@ -13198,7 +13198,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (11998,'Kurt','','Sharma'),
 	 (11999,'Kurt','','She'),
 	 (12000,'Kurt','','Yuan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12001,'Kurt','A','Shan'),
 	 (12002,'Kurt','A','Xie'),
 	 (12003,'Kurt','B','Pal'),
@@ -13209,7 +13209,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12008,'Kurt','G','Tang'),
 	 (12009,'Kurt','L','Anand'),
 	 (12010,'Kurt','L','Jai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12011,'Kurt','L','Kumar'),
 	 (12012,'Kurt','R','Lal'),
 	 (12013,'Kurt','S','Xu'),
@@ -13220,7 +13220,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12018,'Kyle','','Chen'),
 	 (12019,'Kyle','','Diaz'),
 	 (12020,'Kyle','','Evans');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12021,'Kyle','','Flores'),
 	 (12022,'Kyle','','Gonzales'),
 	 (12023,'Kyle','','Green'),
@@ -13231,7 +13231,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12028,'Kyle','','Long'),
 	 (12029,'Kyle','','Lopez'),
 	 (12030,'Kyle','','Mitchell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12031,'Kyle','','Parker'),
 	 (12032,'Kyle','','Patterson'),
 	 (12033,'Kyle','','Phillips'),
@@ -13242,7 +13242,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12038,'Kyle','','Wright'),
 	 (12039,'Kyle','A','Hernandez'),
 	 (12040,'Kyle','B','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12041,'Kyle','C','Henderson'),
 	 (12042,'Kyle','C','Shan'),
 	 (12043,'Kyle','C','Turner'),
@@ -13253,7 +13253,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12048,'Kyle','D','Scott'),
 	 (12049,'Kyle','E','Adams'),
 	 (12050,'Kyle','E','Hayes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12051,'Kyle','J','Gonzalez'),
 	 (12052,'Kyle','J','Hall'),
 	 (12053,'Kyle','J','Holt'),
@@ -13264,7 +13264,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12058,'Kyle','L','Griffin'),
 	 (12059,'Kyle','L','Jenkins'),
 	 (12060,'Kyle','L','Li');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12061,'Kyle','M','Foster'),
 	 (12062,'Kyle','M','Russell'),
 	 (12063,'Kyle','P','Collins'),
@@ -13275,7 +13275,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12068,'Lacey','','Deng'),
 	 (12069,'Lacey','','Guo'),
 	 (12070,'Lacey','','He');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12071,'Lacey','','Hu'),
 	 (12072,'Lacey','','Kumar'),
 	 (12073,'Lacey','','Li'),
@@ -13286,7 +13286,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12078,'Lacey','','Wang'),
 	 (12079,'Lacey','','Yang'),
 	 (12080,'Lacey','','Ye');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12081,'Lacey','','Zeng'),
 	 (12082,'Lacey','','Zhu'),
 	 (12083,'Lacey','A','Chande'),
@@ -13297,7 +13297,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12088,'Lacey','C','Gao'),
 	 (12089,'Lacey','C','Jai'),
 	 (12090,'Lacey','C','Zheng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12091,'Lacey','C','Zhou'),
 	 (12092,'Lacey','E','Chen'),
 	 (12093,'Lacey','E','Raji'),
@@ -13308,7 +13308,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12098,'Lacey','K','Shan'),
 	 (12099,'Lacey','L','Cai'),
 	 (12100,'Lacey','L','Lal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12101,'Lacey','L','Liu'),
 	 (12102,'Lacey','L','Simpson'),
 	 (12103,'Lacey','L','Sun'),
@@ -13319,7 +13319,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12108,'Lacey','S','Xu'),
 	 (12109,'Lacey','T','Raje'),
 	 (12110,'Lacey','T','Wu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12111,'Lacey','W','Yuan'),
 	 (12112,'Lance','','Dominguez'),
 	 (12113,'Lance','','Gill'),
@@ -13330,7 +13330,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12118,'Lance','','Sanz'),
 	 (12119,'Lance','','Serrano'),
 	 (12120,'Lance','','Vazquez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12121,'Lance','A','Diaz'),
 	 (12122,'Lance','A','Moreno'),
 	 (12123,'Lance','C','Navarro'),
@@ -13341,7 +13341,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12128,'Lance','E','Rubio'),
 	 (12129,'Lance','I','Alonso'),
 	 (12130,'Lance','J','Alvarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12131,'Lance','L','Gomez'),
 	 (12132,'Lance','L','Munoz'),
 	 (12133,'Lance','M','Blanco'),
@@ -13352,7 +13352,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12138,'Larry','','Dominguez'),
 	 (12139,'Larry','','Gill'),
 	 (12140,'Larry','','Gutierrez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12141,'Larry','','Hernandez'),
 	 (12142,'Larry','','Martin'),
 	 (12143,'Larry','','Munoz'),
@@ -13363,7 +13363,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12148,'Larry','','Serrano'),
 	 (12149,'Larry','','Zhang'),
 	 (12150,'Larry','B','Alonso');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12151,'Larry','C','Ortega'),
 	 (12152,'Larry','D','Suarez'),
 	 (12153,'Larry','D','Townsend'),
@@ -13374,7 +13374,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12158,'Larry','S','Gomez'),
 	 (12159,'Larry','S','Romero'),
 	 (12160,'Larry','T','Alvarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12161,'Larry','T','Diaz'),
 	 (12162,'Larry','W','Moreno'),
 	 (12163,'Latasha','','Alvarez'),
@@ -13385,7 +13385,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12168,'Latasha','','Romero'),
 	 (12169,'Latasha','','Rubio'),
 	 (12170,'Latasha','','Sanz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12171,'Latasha','','Serrano'),
 	 (12172,'Latasha','','Suarez'),
 	 (12173,'Latasha','','Vazquez'),
@@ -13396,7 +13396,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12178,'Latasha','E','Jimenez'),
 	 (12179,'Latasha','L','Gomez'),
 	 (12180,'Latasha','L','Navarro');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12181,'Latasha','L','Ramos'),
 	 (12182,'Latasha','L','Rowe'),
 	 (12183,'Latasha','M','Dominguez'),
@@ -13407,7 +13407,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12188,'Latoya','','Yuan'),
 	 (12189,'Latoya','A','Nath'),
 	 (12190,'Latoya','A','Rai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12191,'Latoya','A','She'),
 	 (12192,'Latoya','C','Chander'),
 	 (12193,'Latoya','C','Goel'),
@@ -13418,7 +13418,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12198,'Latoya','J','Andersen'),
 	 (12199,'Latoya','J','Nara'),
 	 (12200,'Latoya','L','Raje');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12201,'Latoya','L','Xu'),
 	 (12202,'Latoya','M','Chande'),
 	 (12203,'Latoya','R','Shan'),
@@ -13429,7 +13429,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12208,'Laura','','Gao'),
 	 (12209,'Laura','','Hu'),
 	 (12210,'Laura','','Liang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12211,'Laura','','Liu'),
 	 (12212,'Laura','','Norman'),
 	 (12213,'Laura','','Wu'),
@@ -13440,7 +13440,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12218,'Laura','D','Zhou'),
 	 (12219,'Laura','F','Norman'),
 	 (12220,'Laura','J','Ye');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12221,'Laura','L','Cai'),
 	 (12222,'Laura','L','Lin'),
 	 (12223,'Laura','L','Ma'),
@@ -13451,7 +13451,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12228,'Laura','P','Huang'),
 	 (12229,'Laura','S','Guo'),
 	 (12230,'Laura','T','Zhao');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12231,'Laura','W','He'),
 	 (12232,'Lauren','','Alexander'),
 	 (12233,'Lauren','','Bailey'),
@@ -13462,7 +13462,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12238,'Lauren','','Clark'),
 	 (12239,'Lauren','','Coleman'),
 	 (12240,'Lauren','','Cook');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12241,'Lauren','','Davis'),
 	 (12242,'Lauren','','Gonzales'),
 	 (12243,'Lauren','','Gray'),
@@ -13473,7 +13473,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12248,'Lauren','','Miller'),
 	 (12249,'Lauren','','Morgan'),
 	 (12250,'Lauren','','Perry');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12251,'Lauren','','Peterson'),
 	 (12252,'Lauren','','Robinson'),
 	 (12253,'Lauren','','Rodriguez'),
@@ -13484,7 +13484,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12258,'Lauren','','Ward'),
 	 (12259,'Lauren','','Williams'),
 	 (12260,'Lauren','A','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12261,'Lauren','A','Griffin'),
 	 (12262,'Lauren','A','Hall'),
 	 (12263,'Lauren','A','Kelly'),
@@ -13495,7 +13495,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12268,'Lauren','C','Murphy'),
 	 (12269,'Lauren','C','Richardson'),
 	 (12270,'Lauren','C','Rivera');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12271,'Lauren','D','Cox'),
 	 (12272,'Lauren','D','Garcia'),
 	 (12273,'Lauren','D','Lee'),
@@ -13506,7 +13506,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12278,'Lauren','E','White'),
 	 (12279,'Lauren','G','Rogers'),
 	 (12280,'Lauren','I','Wood');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12281,'Lauren','J','price'),
 	 (12282,'Lauren','J','Reed'),
 	 (12283,'Lauren','K','Watson'),
@@ -13517,7 +13517,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12288,'Lauren','L','Ramirez'),
 	 (12289,'Lauren','M','Barnes'),
 	 (12290,'Lauren','M','Bennett');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12291,'Lauren','M','Foster'),
 	 (12292,'Lauren','M','Walker'),
 	 (12293,'Lauren','R','Brooks'),
@@ -13528,7 +13528,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12298,'Lauren','T','Russell'),
 	 (12299,'Lauren','T','Taylor'),
 	 (12300,'Lauren','W','Cooper');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12301,'Lawrence','','Alvarez'),
 	 (12302,'Lawrence','','Hernandez'),
 	 (12303,'Lawrence','','Moreno'),
@@ -13539,7 +13539,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12308,'Lawrence','','Vazquez'),
 	 (12309,'Lawrence','B','Jimenez'),
 	 (12310,'Lawrence','C','Dominguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12311,'Lawrence','C','Munoz'),
 	 (12312,'Lawrence','C','Romero'),
 	 (12313,'Lawrence','C','Suarez'),
@@ -13550,7 +13550,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12318,'Lawrence','M','Sanz'),
 	 (12319,'Lawrence','P','Ramos'),
 	 (12320,'Lawrence','S','Alonso');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12321,'Lawrence','W','Blanco'),
 	 (12322,'Lawrence','W','Serrano'),
 	 (12323,'Lawrie','','Gaffney'),
@@ -13561,7 +13561,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12328,'Leah','','Liang'),
 	 (12329,'Leah','','Lu'),
 	 (12330,'Leah','','Sun');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12331,'Leah','','Wu'),
 	 (12332,'Leah','','Ye'),
 	 (12333,'Leah','','Zeng'),
@@ -13572,7 +13572,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12338,'Leah','J','Yang'),
 	 (12339,'Leah','L','Zhou'),
 	 (12340,'Leah','M','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12341,'Leah','R','Guo'),
 	 (12342,'Leah','R','She'),
 	 (12343,'Leah','R','Zheng'),
@@ -13583,7 +13583,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12348,'Lee','','Oliver'),
 	 (12349,'Lee','','Ramos'),
 	 (12350,'Lee','','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12351,'Lee','','Rubio'),
 	 (12352,'Lee','','Serrano'),
 	 (12353,'Lee','','Travers'),
@@ -13594,7 +13594,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12358,'Lee','D','Suarez'),
 	 (12359,'Lee','J','Chapla'),
 	 (12360,'Lee','L','Gill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12361,'Lee','M','Blanco'),
 	 (12362,'Lee','M','Olguin'),
 	 (12363,'Lee','R','Dominguez'),
@@ -13605,7 +13605,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12368,'Leonard','','Andersen'),
 	 (12369,'Leonard','','Chander'),
 	 (12370,'Leonard','','Deng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12371,'Leonard','','Kumar'),
 	 (12372,'Leonard','','Lal'),
 	 (12373,'Leonard','A','Luo'),
@@ -13616,7 +13616,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12378,'Leonard','D','Raje'),
 	 (12379,'Leonard','D','Xu'),
 	 (12380,'Leonard','E','Shan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12381,'Leonard','F','Yuan'),
 	 (12382,'Leonard','G','Nara'),
 	 (12383,'Leonard','J','Shen'),
@@ -13627,7 +13627,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12388,'Leonard','L','Tang'),
 	 (12389,'Leonard','M','Xie'),
 	 (12390,'Leonard','R','Jai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12391,'Leonard','S','She'),
 	 (12392,'Leota','J','Roberts'),
 	 (12393,'Leslie','','Alvarez'),
@@ -13638,7 +13638,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12398,'Leslie','','Jimenez'),
 	 (12399,'Leslie','','Martin'),
 	 (12400,'Leslie','','Ortega');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12401,'Leslie','','Ramos'),
 	 (12402,'Leslie','C','Moreno'),
 	 (12403,'Leslie','C','Suarez'),
@@ -13649,7 +13649,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12408,'Leslie','E','Romero'),
 	 (12409,'Leslie','J','Ruiz'),
 	 (12410,'Leslie','L','Blanco');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12411,'Leslie','M','Diaz'),
 	 (12412,'Leslie','M','Ferrier'),
 	 (12413,'Leslie','N','Sanz'),
@@ -13660,7 +13660,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12418,'Levi','','Fernandez'),
 	 (12419,'Levi','','Gonzalez'),
 	 (12420,'Levi','','Madan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12421,'Levi','','Malhotra'),
 	 (12422,'Levi','','Perez'),
 	 (12423,'Levi','','Prasad'),
@@ -13671,7 +13671,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12428,'Levi','A','Sanchez'),
 	 (12429,'Levi','A','Weber'),
 	 (12430,'Levi','G','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12431,'Levi','I','Patel'),
 	 (12432,'Levi','J','Rana'),
 	 (12433,'Levi','J','Suri'),
@@ -13682,7 +13682,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12438,'Lili','J','Alameda'),
 	 (12439,'Linda','','Alvarez'),
 	 (12440,'Linda','','Contreras');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12441,'Linda','','Dominguez'),
 	 (12442,'Linda','','Gill'),
 	 (12443,'Linda','','Hernandez'),
@@ -13693,7 +13693,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12448,'Linda','','Mitchell'),
 	 (12449,'Linda','','Myer'),
 	 (12450,'Linda','','Navarro');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12451,'Linda','','Ramos'),
 	 (12452,'Linda','','Reisner'),
 	 (12453,'Linda','','Serrano'),
@@ -13704,7 +13704,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12458,'Linda','A','Randall'),
 	 (12459,'Linda','C','Mitchell'),
 	 (12460,'Linda','C','Ortega');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12461,'Linda','D','Ferrier'),
 	 (12462,'Linda','D','Gutierrez'),
 	 (12463,'Linda','D','Rubio'),
@@ -13715,7 +13715,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12468,'Linda','K','Romero'),
 	 (12469,'Linda','L','Gonzales'),
 	 (12470,'Linda','P','Meisner');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12471,'Linda','P','Sanz'),
 	 (12472,'Linda','R','Ecoffey'),
 	 (12473,'Linda','R','Rousey'),
@@ -13726,7 +13726,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12478,'Lindsay','','Shan'),
 	 (12479,'Lindsay','','She'),
 	 (12480,'Lindsay','A','Anand');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12481,'Lindsay','A','Goel'),
 	 (12482,'Lindsay','A','Xu'),
 	 (12483,'Lindsay','E','Pal'),
@@ -13737,7 +13737,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12488,'Lindsay','K','Deng'),
 	 (12489,'Lindsay','L','Kumar'),
 	 (12490,'Lindsay','L','Raje');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12491,'Lindsay','M','Nara'),
 	 (12492,'Lindsay','P','Tang'),
 	 (12493,'Lindsay','R','Chander'),
@@ -13748,7 +13748,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12498,'Lindsey','','Chander'),
 	 (12499,'Lindsey','','Deng'),
 	 (12500,'Lindsey','','Goel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12501,'Lindsey','','Kumar'),
 	 (12502,'Lindsey','','Raje'),
 	 (12503,'Lindsey','','Raji'),
@@ -13759,7 +13759,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12508,'Lindsey','A','Pal'),
 	 (12509,'Lindsey','C','Tang'),
 	 (12510,'Lindsey','H','Lal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12511,'Lindsey','J','Becker'),
 	 (12512,'Lindsey','J','Yuan'),
 	 (12513,'Lindsey','K','Anand'),
@@ -13770,7 +13770,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12518,'Lindsey','W','Jai'),
 	 (12519,'Lindsey','W','Nath'),
 	 (12520,'Lionel','','Penuchot');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12521,'Lionel','C','Penuchot'),
 	 (12522,'Lisa','','Cai'),
 	 (12523,'Lisa','','Jacobson'),
@@ -13781,7 +13781,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12528,'Lisa','A','Gao'),
 	 (12529,'Lisa','A','Lin'),
 	 (12530,'Lisa','C','Ma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12531,'Lisa','C','Zhao'),
 	 (12532,'Lisa','J','Li'),
 	 (12533,'Lisa','J','Liu'),
@@ -13792,7 +13792,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12538,'Lisa','L','Ye'),
 	 (12539,'Lisa','L','Zhou'),
 	 (12540,'Lisa','R','Zeng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12541,'Lisa','R','Zheng'),
 	 (12542,'Lisa','R','Zhu'),
 	 (12543,'Lisa','S','Chen'),
@@ -13803,7 +13803,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12548,'Lloyd','M','Saunders'),
 	 (12549,'Logan','','Adams'),
 	 (12550,'Logan','','Allen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12551,'Logan','','Campbell'),
 	 (12552,'Logan','','Clark'),
 	 (12553,'Logan','','Coleman'),
@@ -13814,7 +13814,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12558,'Logan','','Hernandez'),
 	 (12559,'Logan','','Jones'),
 	 (12560,'Logan','','King');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12561,'Logan','','Kumar'),
 	 (12562,'Logan','','Li'),
 	 (12563,'Logan','','Long'),
@@ -13825,7 +13825,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12568,'Logan','','Perry'),
 	 (12569,'Logan','','Robinson'),
 	 (12570,'Logan','','Scott');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12571,'Logan','','Shan'),
 	 (12572,'Logan','','Taylor'),
 	 (12573,'Logan','','Young'),
@@ -13836,7 +13836,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12578,'Logan','A','Martinez'),
 	 (12579,'Logan','A','Parker'),
 	 (12580,'Logan','A','Phillips');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12581,'Logan','A','Thomas'),
 	 (12582,'Logan','A','Washington'),
 	 (12583,'Logan','C','Anderson'),
@@ -13847,7 +13847,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12588,'Logan','D','Jackson'),
 	 (12589,'Logan','E','Alexander'),
 	 (12590,'Logan','F','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12591,'Logan','F','Nelson'),
 	 (12592,'Logan','F','Roberts'),
 	 (12593,'Logan','G','Lee'),
@@ -13858,7 +13858,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12598,'Logan','H','Powell'),
 	 (12599,'Logan','H','Walker'),
 	 (12600,'Logan','H','White');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12601,'Logan','H','Wilson'),
 	 (12602,'Logan','J','Chow'),
 	 (12603,'Logan','J','Gonzalez'),
@@ -13869,7 +13869,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12608,'Logan','K','Turner'),
 	 (12609,'Logan','L','Lal'),
 	 (12610,'Logan','L','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12611,'Logan','L','Ross'),
 	 (12612,'Logan','M','Hughes'),
 	 (12613,'Logan','M','Wang'),
@@ -13880,7 +13880,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12618,'Logan','N','Rodriguez'),
 	 (12619,'Logan','R','Mitchell'),
 	 (12620,'Logan','S','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12621,'Logan','T','Thompson'),
 	 (12622,'Lola','M','McCarthy'),
 	 (12623,'Lolan','','Song'),
@@ -13891,7 +13891,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12628,'Lori','','Kane'),
 	 (12629,'Lori','','Navarro'),
 	 (12630,'Lori','','Ortega');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12631,'Lori','','Oviatt'),
 	 (12632,'Lori','','Rubio'),
 	 (12633,'Lori','','Serrano'),
@@ -13902,7 +13902,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12638,'Lori','A','Kane'),
 	 (12639,'Lori','A','Romero'),
 	 (12640,'Lori','C','Alvarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12641,'Lori','C','Jimenez'),
 	 (12642,'Lori','K','Penor'),
 	 (12643,'Lori','L','Sanz'),
@@ -13913,7 +13913,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12648,'Lorraine','O','Nay'),
 	 (12649,'Lorrin','','Smith-Bates'),
 	 (12650,'Lorrin','G','Smith-Bates');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12651,'Louis','','Andersen'),
 	 (12652,'Louis','','Gao'),
 	 (12653,'Louis','','Goel'),
@@ -13924,7 +13924,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12658,'Louis','','Ma'),
 	 (12659,'Louis','','Rai'),
 	 (12660,'Louis','','Shan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12661,'Louis','','She'),
 	 (12662,'Louis','','Shen'),
 	 (12663,'Louis','','Xu'),
@@ -13935,7 +13935,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12668,'Louis','A','Chande'),
 	 (12669,'Louis','A','Kumar'),
 	 (12670,'Louis','A','Tang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12671,'Louis','B','Stotka'),
 	 (12672,'Louis','B','Xie'),
 	 (12673,'Louis','C','Liu'),
@@ -13946,7 +13946,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12678,'Louis','D','Guo'),
 	 (12679,'Louis','E','He'),
 	 (12680,'Louis','E','Sun');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12681,'Louis','E','Ye'),
 	 (12682,'Louis','J','Becker'),
 	 (12683,'Louis','J','Chen'),
@@ -13957,7 +13957,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12688,'Louis','K','Wu'),
 	 (12689,'Louis','K','Zhang'),
 	 (12690,'Louis','L','Huang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12691,'Louis','M','Lal'),
 	 (12692,'Louis','M','Liang'),
 	 (12693,'Louis','M','Pal'),
@@ -13968,7 +13968,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12698,'Lucas','','Adams'),
 	 (12699,'Lucas','','Allen'),
 	 (12700,'Lucas','','Anderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12701,'Lucas','','Baker'),
 	 (12702,'Lucas','','Barnes'),
 	 (12703,'Lucas','','Brown'),
@@ -13979,7 +13979,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12708,'Lucas','','Diaz'),
 	 (12709,'Lucas','','Flores'),
 	 (12710,'Lucas','','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12711,'Lucas','','Garcia'),
 	 (12712,'Lucas','','Gonzales'),
 	 (12713,'Lucas','','Gonzalez'),
@@ -13990,7 +13990,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12718,'Lucas','','Hill'),
 	 (12719,'Lucas','','Johnson'),
 	 (12720,'Lucas','','Jones');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12721,'Lucas','','Nelson'),
 	 (12722,'Lucas','','Parker'),
 	 (12723,'Lucas','','Peterson'),
@@ -14001,7 +14001,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12728,'Lucas','','Rogers'),
 	 (12729,'Lucas','','Russell'),
 	 (12730,'Lucas','','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12731,'Lucas','','Turner'),
 	 (12732,'Lucas','','Walker'),
 	 (12733,'Lucas','','Watson'),
@@ -14012,7 +14012,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12738,'Lucas','A','Hayes'),
 	 (12739,'Lucas','A','Howard'),
 	 (12740,'Lucas','A','Jackson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12741,'Lucas','A','Kelly'),
 	 (12742,'Lucas','A','Lewis'),
 	 (12743,'Lucas','A','Perry'),
@@ -14023,7 +14023,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12748,'Lucas','B','Wood'),
 	 (12749,'Lucas','C','Cook'),
 	 (12750,'Lucas','C','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12751,'Lucas','C','Mitchell'),
 	 (12752,'Lucas','C','Murphy'),
 	 (12753,'Lucas','C','Perez'),
@@ -14034,7 +14034,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12758,'Lucas','G','Blue'),
 	 (12759,'Lucas','G','Morris'),
 	 (12760,'Lucas','J','Bailey');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12761,'Lucas','J','Cox'),
 	 (12762,'Lucas','J','Evans'),
 	 (12763,'Lucas','J','Lee'),
@@ -14045,7 +14045,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12768,'Lucas','L','Gray'),
 	 (12769,'Lucas','L','King'),
 	 (12770,'Lucas','L','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12771,'Lucas','L','Miller'),
 	 (12772,'Lucas','L','Rivera'),
 	 (12773,'Lucas','L','Sanchez'),
@@ -14056,7 +14056,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12778,'Lucas','P','Bradley'),
 	 (12779,'Lucas','P','Rodriguez'),
 	 (12780,'Lucas','P','Smith');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12781,'Lucas','R','White'),
 	 (12782,'Lucas','S','Brooks'),
 	 (12783,'Lucas','S','Carter'),
@@ -14067,7 +14067,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12788,'Lucas','V','Taylor'),
 	 (12789,'Lucas','W','price'),
 	 (12790,'Lucas','W','Sanders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12791,'Lucio','','Iallo'),
 	 (12792,'Lucy','','Harrington'),
 	 (12793,'Luis','','Baker'),
@@ -14078,7 +14078,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12798,'Luis','','Green'),
 	 (12799,'Luis','','Griffin'),
 	 (12800,'Luis','','Hayes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12801,'Luis','','Henderson'),
 	 (12802,'Luis','','Hill'),
 	 (12803,'Luis','','Hughes'),
@@ -14089,7 +14089,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12808,'Luis','','Roberts'),
 	 (12809,'Luis','','Ross'),
 	 (12810,'Luis','','Shan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12811,'Luis','','Sharma'),
 	 (12812,'Luis','','Wang'),
 	 (12813,'Luis','','Wright'),
@@ -14100,7 +14100,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12818,'Luis','A','Jenkins'),
 	 (12819,'Luis','A','Russell'),
 	 (12820,'Luis','A','Scott');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12821,'Luis','B','Hernandez'),
 	 (12822,'Luis','C','Allen'),
 	 (12823,'Luis','D','Bryant'),
@@ -14111,7 +14111,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12828,'Luis','G','Chen'),
 	 (12829,'Luis','G','Phillips'),
 	 (12830,'Luis','J','Collins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12831,'Luis','J','Patterson'),
 	 (12832,'Luis','J','Powell'),
 	 (12833,'Luis','K','Li'),
@@ -14122,7 +14122,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12838,'Luis','M','Perez'),
 	 (12839,'Luis','P','Lopez'),
 	 (12840,'Luis','P','Mitchell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12841,'Luis','P','Simmons'),
 	 (12842,'Luis','R','Adams'),
 	 (12843,'Luis','R','Foster'),
@@ -14133,7 +14133,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12848,'Luke','','Allen'),
 	 (12849,'Luke','','Bryant'),
 	 (12850,'Luke','','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12851,'Luke','','Campbell'),
 	 (12852,'Luke','','Chen'),
 	 (12853,'Luke','','Diaz'),
@@ -14144,7 +14144,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12858,'Luke','','Hayes'),
 	 (12859,'Luke','','Henderson'),
 	 (12860,'Luke','','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12861,'Luke','','Jenkins'),
 	 (12862,'Luke','','King'),
 	 (12863,'Luke','','Kumar'),
@@ -14155,7 +14155,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12868,'Luke','','Sharma'),
 	 (12869,'Luke','','Turner'),
 	 (12870,'Luke','','Wang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12871,'Luke','','Washington'),
 	 (12872,'Luke','','Yang'),
 	 (12873,'Luke','','Young'),
@@ -14166,7 +14166,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12878,'Luke','A','Powell'),
 	 (12879,'Luke','C','Adams'),
 	 (12880,'Luke','C','Edwards');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12881,'Luke','E','Hall'),
 	 (12882,'Luke','E','Nelson'),
 	 (12883,'Luke','E','Russell'),
@@ -14177,7 +14177,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12888,'Luke','J','Baker'),
 	 (12889,'Luke','J','Roberts'),
 	 (12890,'Luke','J','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12891,'Luke','J','Roy'),
 	 (12892,'Luke','J','Simmons'),
 	 (12893,'Luke','L','Flores'),
@@ -14188,7 +14188,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12898,'Luke','R','Jai'),
 	 (12899,'Luke','S','Long'),
 	 (12900,'Lydia','','Chandra');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12901,'Lydia','','Lopez'),
 	 (12902,'Lydia','','Martinez'),
 	 (12903,'Lydia','','Perez'),
@@ -14199,7 +14199,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12908,'Lydia','','Suri'),
 	 (12909,'Lydia','','Weber'),
 	 (12910,'Lydia','A','Arun');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12911,'Lydia','B','Patel'),
 	 (12912,'Lydia','C','Gonzalez'),
 	 (12913,'Lydia','F','Subram'),
@@ -14210,7 +14210,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12918,'Lydia','P','Garcia'),
 	 (12919,'Lydia','S','Sanchez'),
 	 (12920,'Lynn','','Tsoflias');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12921,'Lynn','A','Gonzales'),
 	 (12922,'Lynn','N','Tsoflias'),
 	 (12923,'Maciej','','Dusza'),
@@ -14221,7 +14221,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12928,'Mackenzie','','Brooks'),
 	 (12929,'Mackenzie','','Evans'),
 	 (12930,'Mackenzie','','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12931,'Mackenzie','','Hill'),
 	 (12932,'Mackenzie','','Lopez'),
 	 (12933,'Mackenzie','','Nelson'),
@@ -14232,7 +14232,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12938,'Mackenzie','','Torres'),
 	 (12939,'Mackenzie','','Watson'),
 	 (12940,'Mackenzie','','Young');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12941,'Mackenzie','A','Adams'),
 	 (12942,'Mackenzie','A','Cox'),
 	 (12943,'Mackenzie','A','Hall'),
@@ -14243,7 +14243,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12948,'Mackenzie','E','Morgan'),
 	 (12949,'Mackenzie','G','Richardson'),
 	 (12950,'Mackenzie','I','Collins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12951,'Mackenzie','J','Bailey'),
 	 (12952,'Mackenzie','J','Hernandez'),
 	 (12953,'Mackenzie','J','Murphy'),
@@ -14254,7 +14254,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12958,'Mackenzie','L','James'),
 	 (12959,'Mackenzie','L','Scott'),
 	 (12960,'Mackenzie','M','Carter');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12961,'Mackenzie','M','Cooper'),
 	 (12962,'Mackenzie','M','King'),
 	 (12963,'Mackenzie','M','Peterson'),
@@ -14265,7 +14265,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12968,'Mackenzie','R','Cook'),
 	 (12969,'Mackenzie','T','Campbell'),
 	 (12970,'Madalena','J','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12971,'Madeline','','Allen'),
 	 (12972,'Madeline','','Baker'),
 	 (12973,'Madeline','','Campbell'),
@@ -14276,7 +14276,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12978,'Madeline','','Hernandez'),
 	 (12979,'Madeline','','Mitchell'),
 	 (12980,'Madeline','','Roberts');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12981,'Madeline','','Scott'),
 	 (12982,'Madeline','','Turner'),
 	 (12983,'Madeline','','Young'),
@@ -14287,7 +14287,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12988,'Madeline','E','Perez'),
 	 (12989,'Madeline','G','Lopez'),
 	 (12990,'Madeline','H','Parker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12991,'Madeline','K','Nelson'),
 	 (12992,'Madeline','M','Collins'),
 	 (12993,'Madeline','R','Phillips'),
@@ -14298,7 +14298,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (12998,'Madison','','Butler'),
 	 (12999,'Madison','','Flores'),
 	 (13000,'Madison','','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13001,'Madison','','Garcia'),
 	 (13002,'Madison','','Hayes'),
 	 (13003,'Madison','','Jones'),
@@ -14309,7 +14309,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13008,'Madison','','Patterson'),
 	 (13009,'Madison','','price'),
 	 (13010,'Madison','','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13011,'Madison','','Walker'),
 	 (13012,'Madison','','Washington'),
 	 (13013,'Madison','A','Clark'),
@@ -14320,7 +14320,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13018,'Madison','C','Davis'),
 	 (13019,'Madison','C','Jackson'),
 	 (13020,'Madison','C','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13021,'Madison','D','Lee'),
 	 (13022,'Madison','F','Coleman'),
 	 (13023,'Madison','G','Anderson'),
@@ -14331,7 +14331,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13028,'Madison','J','Simmons'),
 	 (13029,'Madison','J','Williams'),
 	 (13030,'Madison','K','Harris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13031,'Madison','L','Johnson'),
 	 (13032,'Madison','L','Thompson'),
 	 (13033,'Madison','L','White'),
@@ -14342,7 +14342,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13038,'Madison','M','Wood'),
 	 (13039,'Madison','R','Perry'),
 	 (13040,'Madison','S','Powell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13041,'Madison','T','Gonzales'),
 	 (13042,'Madison','W','Robinson'),
 	 (13043,'Mae','M','Black'),
@@ -14353,7 +14353,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13048,'Makayla','','Bailey'),
 	 (13049,'Makayla','','Blue'),
 	 (13050,'Makayla','','Brooks');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13051,'Makayla','','Cox'),
 	 (13052,'Makayla','','Howard'),
 	 (13053,'Makayla','','Kelly'),
@@ -14364,7 +14364,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13058,'Makayla','','Stewart'),
 	 (13059,'Makayla','A','Gray'),
 	 (13060,'Makayla','A','Rivera');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13061,'Makayla','C','Morgan'),
 	 (13062,'Makayla','D','Watson'),
 	 (13063,'Makayla','E','James'),
@@ -14375,7 +14375,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13068,'Mallory','','Blanco'),
 	 (13069,'Mallory','','Dominguez'),
 	 (13070,'Mallory','','Gutierrez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13071,'Mallory','','Hernandez'),
 	 (13072,'Mallory','','Munoz'),
 	 (13073,'Mallory','','Navarro'),
@@ -14386,7 +14386,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13078,'Mallory','J','Martin'),
 	 (13079,'Mallory','L','Alvarez'),
 	 (13080,'Mallory','M','Ramos');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13081,'Mallory','M','Vazquez'),
 	 (13082,'Mallory','P','Gill'),
 	 (13083,'Mallory','P','Moreno'),
@@ -14397,7 +14397,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13088,'Mandar','','Naik'),
 	 (13089,'Mandar','','Samant'),
 	 (13090,'Mandar','H','Samant');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13091,'Mandy','','Guo'),
 	 (13092,'Mandy','','Huang'),
 	 (13093,'Mandy','','Liang'),
@@ -14408,7 +14408,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13098,'Mandy','','Wu'),
 	 (13099,'Mandy','','Xu'),
 	 (13100,'Mandy','','Yang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13101,'Mandy','','Ye'),
 	 (13102,'Mandy','','Zeng'),
 	 (13103,'Mandy','','Zheng'),
@@ -14419,7 +14419,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13108,'Mandy','C','Lin'),
 	 (13109,'Mandy','F','Zhao'),
 	 (13110,'Mandy','K','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13111,'Mandy','L','Li'),
 	 (13112,'Mandy','L','Sun'),
 	 (13113,'Mandy','M','Gao'),
@@ -14430,7 +14430,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13118,'Manuel','','Madan'),
 	 (13119,'Manuel','','Mehta'),
 	 (13120,'Manuel','','Prasad');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13121,'Manuel','','Rana'),
 	 (13122,'Manuel','','Sanchez'),
 	 (13123,'Manuel','','Sara'),
@@ -14441,7 +14441,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13128,'Manuel','C','Perez'),
 	 (13129,'Manuel','G','Suri'),
 	 (13130,'Manuel','J','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13131,'Manuel','M','Lopez'),
 	 (13132,'Manuel','M','Patel'),
 	 (13133,'Manuel','O','Sai'),
@@ -14452,7 +14452,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13138,'Marc','','Faeber'),
 	 (13139,'Marc','','Ferrier'),
 	 (13140,'Marc','','Gill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13141,'Marc','','Hernandez'),
 	 (13142,'Marc','','Moreno'),
 	 (13143,'Marc','','Navarro'),
@@ -14463,7 +14463,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13148,'Marc','','Suarez'),
 	 (13149,'Marc','','Torres'),
 	 (13150,'Marc','','Zimmerman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13151,'Marc','B','Alvarez'),
 	 (13152,'Marc','C','Ortega'),
 	 (13153,'Marc','D','Ruiz'),
@@ -14474,7 +14474,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13158,'Marc','J','Gomez'),
 	 (13159,'Marc','J','Ingle'),
 	 (13160,'Marc','J','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13161,'Marc','W','Carlson'),
 	 (13162,'Marc','W','Munoz'),
 	 (13163,'Marcel','','Truempy'),
@@ -14485,7 +14485,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13168,'Marco','','Lopez'),
 	 (13169,'Marco','','Madan'),
 	 (13170,'Marco','','Mehta');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13171,'Marco','','Perez'),
 	 (13172,'Marco','','Sai'),
 	 (13173,'Marco','','Suri'),
@@ -14496,7 +14496,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13178,'Marco','C','Prasad'),
 	 (13179,'Marco','C','Subram'),
 	 (13180,'Marco','C','Tanara');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13181,'Marco','J','Garcia'),
 	 (13182,'Marco','K','Rana'),
 	 (13183,'Marco','L','Malhotra'),
@@ -14507,7 +14507,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13188,'Marcus','','Baker'),
 	 (13189,'Marcus','','Barnes'),
 	 (13190,'Marcus','','Bennett');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13191,'Marcus','','Campbell'),
 	 (13192,'Marcus','','Collins'),
 	 (13193,'Marcus','','Cook'),
@@ -14518,7 +14518,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13198,'Marcus','','Garcia'),
 	 (13199,'Marcus','','Griffin'),
 	 (13200,'Marcus','','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13201,'Marcus','','Hernandez'),
 	 (13202,'Marcus','','Jackson'),
 	 (13203,'Marcus','','Johnson'),
@@ -14529,7 +14529,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13208,'Marcus','','Morris'),
 	 (13209,'Marcus','','Murphy'),
 	 (13210,'Marcus','','Parker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13211,'Marcus','','Perez'),
 	 (13212,'Marcus','','Phillips'),
 	 (13213,'Marcus','','Reed'),
@@ -14540,7 +14540,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13218,'Marcus','','Torres'),
 	 (13219,'Marcus','','Walker'),
 	 (13220,'Marcus','','Washington');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13221,'Marcus','','Watson'),
 	 (13222,'Marcus','','White'),
 	 (13223,'Marcus','','Wright'),
@@ -14551,7 +14551,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13228,'Marcus','A','Powell'),
 	 (13229,'Marcus','A','Ramirez'),
 	 (13230,'Marcus','A','Rogers');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13231,'Marcus','A','Taylor'),
 	 (13232,'Marcus','A','Young'),
 	 (13233,'Marcus','B','Williams'),
@@ -14562,7 +14562,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13238,'Marcus','D','Patterson'),
 	 (13239,'Marcus','E','Foster'),
 	 (13240,'Marcus','E','James');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13241,'Marcus','E','Moore'),
 	 (13242,'Marcus','F','Ross'),
 	 (13243,'Marcus','G','Clark'),
@@ -14573,7 +14573,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13248,'Marcus','J','Coleman'),
 	 (13249,'Marcus','J','Jones'),
 	 (13250,'Marcus','J','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13251,'Marcus','J','Robinson'),
 	 (13252,'Marcus','J','Sanders'),
 	 (13253,'Marcus','L','Bailey'),
@@ -14584,7 +14584,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13258,'Marcus','L','Lewis'),
 	 (13259,'Marcus','L','Martinez'),
 	 (13260,'Marcus','L','Perry');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13261,'Marcus','L','Peterson'),
 	 (13262,'Marcus','L','Richardson'),
 	 (13263,'Marcus','L','Ward'),
@@ -14595,7 +14595,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13268,'Marcus','M','Edwards'),
 	 (13269,'Marcus','M','Gonzales'),
 	 (13270,'Marcus','M','Rivera');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13271,'Marcus','N','Nelson'),
 	 (13272,'Marcus','P','Turner'),
 	 (13273,'Marcus','R','Martin'),
@@ -14606,7 +14606,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13278,'Marcus','T','Brooks'),
 	 (13279,'Marcus','T','Davis'),
 	 (13280,'Marcus','T','Gray');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13281,'Marcus','V','Butler'),
 	 (13282,'Marcus','W','Morgan'),
 	 (13283,'Marcus','Z','Thomas'),
@@ -14617,7 +14617,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13288,'Margaret','','Liang'),
 	 (13289,'Margaret','','Russell'),
 	 (13290,'Margaret','','Wu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13291,'Margaret','','Ye'),
 	 (13292,'Margaret','C','Lin'),
 	 (13293,'Margaret','C','Stewart'),
@@ -14628,7 +14628,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13298,'Margaret','G','Zhang'),
 	 (13299,'Margaret','H','Huang'),
 	 (13300,'Margaret','J','Patterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13301,'Margaret','J','Smith'),
 	 (13302,'Margaret','J','Vanderkamp'),
 	 (13303,'Margaret','K','She'),
@@ -14639,7 +14639,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13308,'Margaret','R','Liu'),
 	 (13309,'Margaret','R','Powell'),
 	 (13310,'Margaret','R','Zhou');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13311,'Margaret','T','Krupka'),
 	 (13312,'Margaret','T','Xu'),
 	 (13313,'Margie','','Shoop'),
@@ -14650,7 +14650,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13318,'Maria','','Campbell'),
 	 (13319,'Maria','','Evans'),
 	 (13320,'Maria','','Griffin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13321,'Maria','','Hall'),
 	 (13322,'Maria','','Hammond'),
 	 (13323,'Maria','','Hernandez'),
@@ -14661,7 +14661,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13328,'Maria','','Long'),
 	 (13329,'Maria','','Morgan'),
 	 (13330,'Maria','','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13331,'Maria','','price'),
 	 (13332,'Maria','','Reed'),
 	 (13333,'Maria','','Roberts'),
@@ -14672,7 +14672,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13338,'Maria','','Watson'),
 	 (13339,'Maria','','Wood'),
 	 (13340,'Maria','A','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13341,'Maria','A','Ward'),
 	 (13342,'Maria','B','Simmons'),
 	 (13343,'Maria','C','Bailey'),
@@ -14683,7 +14683,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13348,'Maria','D','Mitchell'),
 	 (13349,'Maria','D','Perez'),
 	 (13350,'Maria','D','Stewart');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13351,'Maria','D','Wright'),
 	 (13352,'Maria','E','Bryant'),
 	 (13353,'Maria','E','Foster'),
@@ -14694,7 +14694,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13358,'Maria','E','Turner'),
 	 (13359,'Maria','F','Alexander'),
 	 (13360,'Maria','G','Bennett');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13361,'Maria','G','Edwards'),
 	 (13362,'Maria','G','Patterson'),
 	 (13363,'Maria','I','Phillips'),
@@ -14705,7 +14705,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13368,'Maria','L','Cox'),
 	 (13369,'Maria','L','Jenkins'),
 	 (13370,'Maria','L','Richardson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13371,'Maria','M','Blue'),
 	 (13372,'Maria','M','Collins'),
 	 (13373,'Maria','M','Cook'),
@@ -14716,7 +14716,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13378,'Maria','S','Carter'),
 	 (13379,'Maria','W','Peterson'),
 	 (13380,'María','','Flores');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13381,'María','R','Rivera'),
 	 (13382,'Mariah','','Brooks'),
 	 (13383,'Mariah','','Cox'),
@@ -14727,7 +14727,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13388,'Mariah','','Howard'),
 	 (13389,'Mariah','','Morgan'),
 	 (13390,'Mariah','','Perry');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13391,'Mariah','','Peterson'),
 	 (13392,'Mariah','','Powell'),
 	 (13393,'Mariah','','Reed'),
@@ -14738,7 +14738,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13398,'Mariah','','Simmons'),
 	 (13399,'Mariah','','Torres'),
 	 (13400,'Mariah','','Washington');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13401,'Mariah','A','Hughes'),
 	 (13402,'Mariah','C','Henderson'),
 	 (13403,'Mariah','C','Long'),
@@ -14749,7 +14749,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13408,'Mariah','J','Cooper'),
 	 (13409,'Mariah','J','Murphy'),
 	 (13410,'Mariah','J','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13411,'Mariah','J','Ward'),
 	 (13412,'Mariah','K','Rogers'),
 	 (13413,'Mariah','L','Bailey'),
@@ -14760,7 +14760,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13418,'Mariah','M','James'),
 	 (13419,'Mariah','M','Jenkins'),
 	 (13420,'Mariah','M','Ramirez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13421,'Mariah','M','Wood'),
 	 (13422,'Mariah','R','Bennett'),
 	 (13423,'Mariah','R','Sanchez'),
@@ -14771,7 +14771,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13428,'Marie','','Alvarez'),
 	 (13429,'Marie','','Browning'),
 	 (13430,'Marie','','Carlson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13431,'Marie','','Diaz'),
 	 (13432,'Marie','','Fernandez'),
 	 (13433,'Marie','','Garcia'),
@@ -14782,7 +14782,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13438,'Marie','','Malhotra'),
 	 (13439,'Marie','','Martinez'),
 	 (13440,'Marie','','Moreno');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13441,'Marie','','Munoz'),
 	 (13442,'Marie','','Patel'),
 	 (13443,'Marie','','Perez'),
@@ -14793,7 +14793,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13448,'Marie','','Suarez'),
 	 (13449,'Marie','','Suri'),
 	 (13450,'Marie','','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13451,'Marie','','Vazquez'),
 	 (13452,'Marie','A','Chandra'),
 	 (13453,'Marie','A','Ramos'),
@@ -14804,7 +14804,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13458,'Marie','E','Arun'),
 	 (13459,'Marie','E','Gonzalez'),
 	 (13460,'Marie','E','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13461,'Marie','E','Moya'),
 	 (13462,'Marie','F','Gutierrez'),
 	 (13463,'Marie','J','Navarro'),
@@ -14815,7 +14815,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13468,'Marie','M','Gomez'),
 	 (13469,'Marie','M','Richmeier'),
 	 (13470,'Marie','R','Dominguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13471,'Marie','V','Rubio'),
 	 (13472,'Marie','W','Vance'),
 	 (13473,'Mario','','Chander'),
@@ -14826,7 +14826,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13478,'Mario','','Xie'),
 	 (13479,'Mario','','Xu'),
 	 (13480,'Mario','A','Nath');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13481,'Mario','C','Pal'),
 	 (13482,'Mario','H','Rai'),
 	 (13483,'Mario','J','Andersen'),
@@ -14837,7 +14837,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13488,'Mario','P','Chande'),
 	 (13489,'Mario','S','Raje'),
 	 (13490,'Mario','T','Ashe');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13491,'Mario','T','Lal'),
 	 (13492,'Mario','T','Shen'),
 	 (13493,'Mario','T','Tang'),
@@ -14848,7 +14848,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13498,'Marissa','','Foster'),
 	 (13499,'Marissa','','Gonzales'),
 	 (13500,'Marissa','','Griffin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13501,'Marissa','','Hayes'),
 	 (13502,'Marissa','','Henderson'),
 	 (13503,'Marissa','','Hughes'),
@@ -14859,7 +14859,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13508,'Marissa','','Ross'),
 	 (13509,'Marissa','','Simmons'),
 	 (13510,'Marissa','','Wood');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13511,'Marissa','A','Bryant'),
 	 (13512,'Marissa','C','Diaz'),
 	 (13513,'Marissa','E','Butler'),
@@ -14870,7 +14870,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13518,'Mark','','Hanson'),
 	 (13519,'Mark','','Hassall'),
 	 (13520,'Mark','','Lee');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13521,'Mark','','Wistrom'),
 	 (13522,'Mark','B','Erickson'),
 	 (13523,'Mark','E','Bebbington'),
@@ -14881,7 +14881,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13528,'Marshall','','Chander'),
 	 (13529,'Marshall','','Gao'),
 	 (13530,'Marshall','','Jai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13531,'Marshall','','Kumar'),
 	 (13532,'Marshall','','Li'),
 	 (13533,'Marshall','','Lin'),
@@ -14892,7 +14892,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13538,'Marshall','','Xu'),
 	 (13539,'Marshall','A','Rai'),
 	 (13540,'Marshall','C','Guo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13541,'Marshall','C','Zhao'),
 	 (13542,'Marshall','D','Black'),
 	 (13543,'Marshall','D','Chavez'),
@@ -14903,7 +14903,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13548,'Marshall','H','Nara'),
 	 (13549,'Marshall','J','Liang'),
 	 (13550,'Marshall','J','Lu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13551,'Marshall','J','Raje'),
 	 (13552,'Marshall','J','Shan'),
 	 (13553,'Marshall','J','Wu'),
@@ -14914,7 +14914,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13558,'Marshall','L','Huang'),
 	 (13559,'Marshall','L','Lal'),
 	 (13560,'Marshall','L','Raji');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13561,'Marshall','L','Wang'),
 	 (13562,'Marshall','M','Goel'),
 	 (13563,'Marshall','M','Shen'),
@@ -14925,7 +14925,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13568,'Marshall','R','Ye'),
 	 (13569,'Marshall','V','Andersen'),
 	 (13570,'Martha','','Chow');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13571,'Martha','','Gao'),
 	 (13572,'Martha','','Liang'),
 	 (13573,'Martha','','Lin'),
@@ -14936,7 +14936,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13578,'Martha','C','Hu'),
 	 (13579,'Martha','C','Xu'),
 	 (13580,'Martha','D','Wang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13581,'Martha','E','Huang'),
 	 (13582,'Martha','E','She'),
 	 (13583,'Martha','G','Yang'),
@@ -14947,7 +14947,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13588,'Martha','M','Li'),
 	 (13589,'Martha','M','Zhou'),
 	 (13590,'Martha','R','Espinoza');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13591,'Martha','R','Lu'),
 	 (13592,'Martha','V','Sun'),
 	 (13593,'Martin','','Chisholm'),
@@ -14958,7 +14958,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13598,'Martin','','Rana'),
 	 (13599,'Martin','','Rienstra'),
 	 (13600,'Martin','','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13601,'Martin','','Sara'),
 	 (13602,'Martin','','Suri'),
 	 (13603,'Martin','A','Vance'),
@@ -14969,7 +14969,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13608,'Martin','E','Sanchez'),
 	 (13609,'Martin','J','Svoboda'),
 	 (13610,'Martin','l','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13611,'Martin','L','Sai'),
 	 (13612,'Martin','L','Srini'),
 	 (13613,'Martin','M','Madan'),
@@ -14980,7 +14980,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13618,'Marvin','','Alvarez'),
 	 (13619,'Marvin','','Browning'),
 	 (13620,'Marvin','','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13621,'Marvin','','Dominguez'),
 	 (13622,'Marvin','','Gutierrez'),
 	 (13623,'Marvin','','Munoz'),
@@ -14991,7 +14991,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13628,'Marvin','E','Serrano'),
 	 (13629,'Marvin','J','Navarro'),
 	 (13630,'Marvin','J','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13631,'Marvin','K','Vazquez'),
 	 (13632,'Marvin','L','Ferrier'),
 	 (13633,'Marvin','L','Ortega'),
@@ -15002,7 +15002,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13638,'Marvin','R','Rubio'),
 	 (13639,'Marvin','R','Ruiz'),
 	 (13640,'Marvin','T','Johnsen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13641,'Mary','','Alexander'),
 	 (13642,'Mary','','Allen'),
 	 (13643,'Mary','','Baker'),
@@ -15013,7 +15013,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13648,'Mary','','Mitchell'),
 	 (13649,'Mary','','Parker'),
 	 (13650,'Mary','','Patterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13651,'Mary','','Perez'),
 	 (13652,'Mary','','Peterson'),
 	 (13653,'Mary','','Phillips'),
@@ -15024,7 +15024,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13658,'Mary','B','Edwards'),
 	 (13659,'Mary','B','Ramos'),
 	 (13660,'Mary','C','Young');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13661,'Mary','D','Adams'),
 	 (13662,'Mary','D','Hernandez'),
 	 (13663,'Mary','E','Collins'),
@@ -15035,7 +15035,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13668,'Mary','J','Vaca'),
 	 (13669,'Mary','K','Browning'),
 	 (13670,'Mary','L','Nelson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13671,'Mary','M','Gimmi'),
 	 (13672,'Mary','M','Hill'),
 	 (13673,'Mary','O','King'),
@@ -15046,7 +15046,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13678,'Mary','R','Lopez'),
 	 (13679,'Mary','R','Sandidge'),
 	 (13680,'Mary','S','Green');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13681,'Mary','S','Roberts'),
 	 (13682,'Mary','W','Howard'),
 	 (13683,'Mary Lou','M','Quintana'),
@@ -15057,7 +15057,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13688,'Mason','','Blue'),
 	 (13689,'Mason','','Brooks'),
 	 (13690,'Mason','','Evans');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13691,'Mason','','Gray'),
 	 (13692,'Mason','','Green'),
 	 (13693,'Mason','','Hall'),
@@ -15068,7 +15068,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13698,'Mason','','Stewart'),
 	 (13699,'Mason','','Ward'),
 	 (13700,'Mason','','Wright');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13701,'Mason','','Young'),
 	 (13702,'Mason','A','Baker'),
 	 (13703,'Mason','A','Carter'),
@@ -15079,7 +15079,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13708,'Mason','B','Collins'),
 	 (13709,'Mason','C','Gonzalez'),
 	 (13710,'Mason','C','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13711,'Mason','C','Watson'),
 	 (13712,'Mason','D','Howard'),
 	 (13713,'Mason','D','King'),
@@ -15090,7 +15090,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13718,'Mason','J','Bendixen'),
 	 (13719,'Mason','J','Morris'),
 	 (13720,'Mason','K','Ramirez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13721,'Mason','L','Mitchell'),
 	 (13722,'Mason','L','Richardson'),
 	 (13723,'Mason','M','Cook'),
@@ -15101,7 +15101,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13728,'Mason','V','Campbell'),
 	 (13729,'Mason','W','Parker'),
 	 (13730,'Mathew','','Ferrier');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13731,'Mathew','','Moreno'),
 	 (13732,'Mathew','','Rubio'),
 	 (13733,'Mathew','','Suarez'),
@@ -15112,7 +15112,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13738,'Mathew','A','Serrano'),
 	 (13739,'Mathew','B','Blanco'),
 	 (13740,'Mathew','D','Ortega');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13741,'Mathew','E','Ramos'),
 	 (13742,'Mathew','G','Dominguez'),
 	 (13743,'Mathew','L','Alvarez'),
@@ -15123,7 +15123,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13748,'Mathew','M','Gill'),
 	 (13749,'Matthew','','Anderson'),
 	 (13750,'Matthew','','Carroll');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13751,'Matthew','','Garcia'),
 	 (13752,'Matthew','','Harris'),
 	 (13753,'Matthew','','Hink'),
@@ -15134,7 +15134,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13758,'Matthew','','Rodriguez'),
 	 (13759,'Matthew','','Walker'),
 	 (13760,'Matthew','','White');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13761,'Matthew','A','Williams'),
 	 (13762,'Matthew','D','Robinson'),
 	 (13763,'Matthew','F','Martin'),
@@ -15145,7 +15145,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13768,'Matthew','K','Thomas'),
 	 (13769,'Matthew','L','Clark'),
 	 (13770,'Matthew','L','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13771,'Matthew','L','Taylor'),
 	 (13772,'Matthew','M','Hagemann'),
 	 (13773,'Matthew','M','Hunter'),
@@ -15156,7 +15156,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13778,'Matthias','T','Berndt'),
 	 (13779,'Maurice','','Andersen'),
 	 (13780,'Maurice','','Ashe');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13781,'Maurice','','Deng'),
 	 (13782,'Maurice','','Goel'),
 	 (13783,'Maurice','','Jai'),
@@ -15167,7 +15167,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13788,'Maurice','','Raje'),
 	 (13789,'Maurice','','She'),
 	 (13790,'Maurice','','Xie');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13791,'Maurice','','Yuan'),
 	 (13792,'Maurice','C','Luo'),
 	 (13793,'Maurice','C','Raji'),
@@ -15178,7 +15178,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13798,'Maurice','L','Sharma'),
 	 (13799,'Maurice','L','Shen'),
 	 (13800,'Maurice','M','Shan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13801,'Maurice','M','Tang'),
 	 (13802,'Maurice','S','Rai'),
 	 (13803,'Maurizio','J','Macagno'),
@@ -15189,7 +15189,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13808,'Max','','Hernandez'),
 	 (13809,'Max','','Ortega'),
 	 (13810,'Max','','Ruiz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13811,'Max','A','Martin'),
 	 (13812,'Max','A','Suarez'),
 	 (13813,'Max','C','Jimenez'),
@@ -15200,7 +15200,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13818,'Max','J','Sanz'),
 	 (13819,'Max','K','Gill'),
 	 (13820,'Max','L','Rubio');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13821,'Max','L','Torres'),
 	 (13822,'Max','M','Alvarez'),
 	 (13823,'Max','S','Gutierrez'),
@@ -15211,7 +15211,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13828,'Mayra','','Mehta'),
 	 (13829,'Mayra','','Perez'),
 	 (13830,'Mayra','','Prasad');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13831,'Mayra','','Randall'),
 	 (13832,'Mayra','','Schmidt'),
 	 (13833,'Mayra','','Srini'),
@@ -15222,7 +15222,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13838,'Mayra','E','Malhotra'),
 	 (13839,'Mayra','E','Sai'),
 	 (13840,'Mayra','J','Kovar');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13841,'Mayra','M','Madan'),
 	 (13842,'Mayra','M','Suri'),
 	 (13843,'Mayra','P','Raman'),
@@ -15233,7 +15233,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13848,'Meagan','','Lopez'),
 	 (13849,'Meagan','','Madan'),
 	 (13850,'Meagan','','Patel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13851,'Meagan','','Prasad'),
 	 (13852,'Meagan','','Sai'),
 	 (13853,'Meagan','','Schmidt'),
@@ -15244,7 +15244,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13858,'Meagan','J','Chandra'),
 	 (13859,'Meagan','J','Martinez'),
 	 (13860,'Meagan','J','Mehta');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13861,'Meagan','J','Raman'),
 	 (13862,'Meagan','L','Malhotra'),
 	 (13863,'Meagan','M','Rana'),
@@ -15255,7 +15255,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13868,'Megan','','Blue'),
 	 (13869,'Megan','','Brooks'),
 	 (13870,'Megan','','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13871,'Megan','','Gonzales'),
 	 (13872,'Megan','','Harris'),
 	 (13873,'Megan','','Henderson'),
@@ -15266,7 +15266,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13878,'Megan','','Martinez'),
 	 (13879,'Megan','','Miller'),
 	 (13880,'Megan','','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13881,'Megan','','Peterson'),
 	 (13882,'Megan','','Powell'),
 	 (13883,'Megan','','price'),
@@ -15277,7 +15277,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13888,'Megan','A','Anderson'),
 	 (13889,'Megan','A','Cox'),
 	 (13890,'Megan','A','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13891,'Megan','A','Griffin'),
 	 (13892,'Megan','A','Martin'),
 	 (13893,'Megan','A','Reed'),
@@ -15288,7 +15288,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13898,'Megan','C','Ramirez'),
 	 (13899,'Megan','C','Rivera'),
 	 (13900,'Megan','C','Wood');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13901,'Megan','D','Butler'),
 	 (13902,'Megan','E','Burke'),
 	 (13903,'Megan','E','Davis'),
@@ -15299,7 +15299,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13908,'Megan','G','Walker'),
 	 (13909,'Megan','I','Moore'),
 	 (13910,'Megan','J','Barnes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13911,'Megan','J','Bennett'),
 	 (13912,'Megan','J','Cook'),
 	 (13913,'Megan','J','Long'),
@@ -15310,7 +15310,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13918,'Megan','L','Lewis'),
 	 (13919,'Megan','L','Murphy'),
 	 (13920,'Megan','L','Stewart');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13921,'Megan','L','Stone'),
 	 (13922,'Megan','M','Richardson'),
 	 (13923,'Megan','M','Rodriguez'),
@@ -15321,7 +15321,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13928,'Megan','R','Ross'),
 	 (13929,'Megan','R','Washington'),
 	 (13930,'Megan','S','Brown');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13931,'Megan','S','James'),
 	 (13932,'Megan','S','Thompson'),
 	 (13933,'Megan','S','Torres'),
@@ -15332,7 +15332,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13938,'Meghan','','Dominguez'),
 	 (13939,'Meghan','','Hernandez'),
 	 (13940,'Meghan','','Moyer');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13941,'Meghan','A','Alonso'),
 	 (13942,'Meghan','A','Jimenez'),
 	 (13943,'Meghan','A','Ruiz'),
@@ -15343,7 +15343,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13948,'Meghan','E','Rowe'),
 	 (13949,'Meghan','I','Alan'),
 	 (13950,'Meghan','I','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13951,'Meghan','J','Diaz'),
 	 (13952,'Meghan','J','Moreno'),
 	 (13953,'Meghan','K','Carlson'),
@@ -15354,7 +15354,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13958,'Meghan','W','Vazquez'),
 	 (13959,'Melanie','','Diaz'),
 	 (13960,'Melanie','','Flores');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13961,'Melanie','','Foster'),
 	 (13962,'Melanie','','Henderson'),
 	 (13963,'Melanie','','Jenkins'),
@@ -15365,7 +15365,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13968,'Melanie','','Perry'),
 	 (13969,'Melanie','','Peterson'),
 	 (13970,'Melanie','','price');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13971,'Melanie','','Rogers'),
 	 (13972,'Melanie','','Sanchez'),
 	 (13973,'Melanie','','Sanders'),
@@ -15376,7 +15376,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13978,'Melanie','A','Hughes'),
 	 (13979,'Melanie','A','Reed'),
 	 (13980,'Melanie','A','Ward');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13981,'Melanie','B','Russell'),
 	 (13982,'Melanie','C','Cox'),
 	 (13983,'Melanie','C','Gonzales'),
@@ -15387,7 +15387,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13988,'Melanie','H','Ross'),
 	 (13989,'Melanie','K','Long'),
 	 (13990,'Melanie','K','Powell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13991,'Melanie','K','Rivera'),
 	 (13992,'Melanie','L','Blue'),
 	 (13993,'Melanie','L','Brooks'),
@@ -15398,7 +15398,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (13998,'Melanie','M','Richardson'),
 	 (13999,'Melanie','M','Stewart'),
 	 (14000,'Melanie','N','Alexander');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14001,'Melanie','P','Butler'),
 	 (14002,'Melanie','R','Wood'),
 	 (14003,'Melanie','S','Gray'),
@@ -15409,7 +15409,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14008,'Melinda','','Carlson'),
 	 (14009,'Melinda','','Dominguez'),
 	 (14010,'Melinda','','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14011,'Melinda','','Moreno'),
 	 (14012,'Melinda','','Navarro'),
 	 (14013,'Melinda','','Ramos'),
@@ -15420,7 +15420,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14018,'Melinda','C','Vazquez'),
 	 (14019,'Melinda','G','Gill'),
 	 (14020,'Melinda','J','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14021,'Melinda','K','Gutierrez'),
 	 (14022,'Melinda','L','Ortega'),
 	 (14023,'Melinda','T','Jimenez'),
@@ -15431,7 +15431,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14028,'Melissa','','Butler'),
 	 (14029,'Melissa','','Coleman'),
 	 (14030,'Melissa','','Cook');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14031,'Melissa','','Cooper'),
 	 (14032,'Melissa','','Diaz'),
 	 (14033,'Melissa','','Flores'),
@@ -15442,7 +15442,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14038,'Melissa','','Long'),
 	 (14039,'Melissa','','Perry'),
 	 (14040,'Melissa','','Powell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14041,'Melissa','','Ramirez'),
 	 (14042,'Melissa','','Sanchez'),
 	 (14043,'Melissa','','Stewart'),
@@ -15453,7 +15453,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14048,'Melissa','A','Ward'),
 	 (14049,'Melissa','C','Bailey'),
 	 (14050,'Melissa','D','Howard');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14051,'Melissa','E','Patterson'),
 	 (14052,'Melissa','E','Richardson'),
 	 (14053,'Melissa','F','Cox'),
@@ -15464,7 +15464,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14058,'Melissa','M','Morgan'),
 	 (14059,'Melissa','N','Murphy'),
 	 (14060,'Melissa','R','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14061,'Melissa','R','Marple'),
 	 (14062,'Melissa','R','price'),
 	 (14063,'Melissa','R','Russell'),
@@ -15475,7 +15475,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14068,'Melissa','W','Gonzales'),
 	 (14069,'Melody','','Alvarez'),
 	 (14070,'Melody','','Browning');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14071,'Melody','','Diaz'),
 	 (14072,'Melody','','Gomez'),
 	 (14073,'Melody','','Harrison'),
@@ -15486,7 +15486,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14078,'Melody','','Torres'),
 	 (14079,'Melody','','Vazquez'),
 	 (14080,'Melody','A','Dominguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14081,'Melody','C','Martin'),
 	 (14082,'Melody','C','Munoz'),
 	 (14083,'Melody','E','Hernandez'),
@@ -15497,7 +15497,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14088,'Melody','S','Jimenez'),
 	 (14089,'Melody','V','Gill'),
 	 (14090,'Melvin','','Ashe');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14091,'Melvin','','Black'),
 	 (14092,'Melvin','','Luo'),
 	 (14093,'Melvin','','Raje'),
@@ -15508,7 +15508,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14098,'Melvin','A','Pal'),
 	 (14099,'Melvin','A','Xu'),
 	 (14100,'Melvin','C','Deng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14101,'Melvin','D','Andersen'),
 	 (14102,'Melvin','D','Nath'),
 	 (14103,'Melvin','D','Raji'),
@@ -15519,7 +15519,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14108,'Melvin','M','Kumar'),
 	 (14109,'Melvin','M','Shen'),
 	 (14110,'Melvin','R','Chande');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14111,'Melvin','R','Tang'),
 	 (14112,'Merav','A','Netz'),
 	 (14113,'Meredith','','Alvarez'),
@@ -15530,7 +15530,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14118,'Meredith','','Gomez'),
 	 (14119,'Meredith','','Gonzalez'),
 	 (14120,'Meredith','','Johnsen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14121,'Meredith','','Malhotra'),
 	 (14122,'Meredith','','Mehta'),
 	 (14123,'Meredith','','Munoz'),
@@ -15541,7 +15541,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14128,'Meredith','','Rodriguez'),
 	 (14129,'Meredith','','Sai'),
 	 (14130,'Meredith','','Schmidt');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14131,'Meredith','','Serrano'),
 	 (14132,'Meredith','','Suarez'),
 	 (14133,'Meredith','','Suri'),
@@ -15552,7 +15552,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14138,'Meredith','B','Ruiz'),
 	 (14139,'Meredith','B','Vance'),
 	 (14140,'Meredith','D','Madan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14141,'Meredith','D','Moreno'),
 	 (14142,'Meredith','E','Gill'),
 	 (14143,'Meredith','G','Carlson'),
@@ -15563,7 +15563,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14148,'Meredith','M','Prasad'),
 	 (14149,'Meredith','M','Vazquez'),
 	 (14150,'Meredith','S','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14151,'Meredith','S','Subram'),
 	 (14152,'Meredith','T','Gutierrez'),
 	 (14153,'Meredith','V','Srini'),
@@ -15574,7 +15574,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14158,'Mete','','Goktepe'),
 	 (14159,'Micah','','Cai'),
 	 (14160,'Micah','','Chen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14161,'Micah','','He'),
 	 (14162,'Micah','','Huang'),
 	 (14163,'Micah','','Li'),
@@ -15585,7 +15585,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14168,'Micah','','Zhao'),
 	 (14169,'Micah','','Zheng'),
 	 (14170,'Micah','A','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14171,'Micah','A','Ma'),
 	 (14172,'Micah','A','Yang'),
 	 (14173,'Micah','A','Ye'),
@@ -15596,7 +15596,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14178,'Micah','M','Guo'),
 	 (14179,'Micah','M','Xu'),
 	 (14180,'Micah','R','Liang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14181,'Micah','V','Zhu'),
 	 (14182,'Micah','W','Gao'),
 	 (14183,'Michael','','Allen'),
@@ -15607,7 +15607,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14188,'Michael','','Harris'),
 	 (14189,'Michael','','Holm'),
 	 (14190,'Michael','','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14191,'Michael','','Moore'),
 	 (14192,'Michael','','Patten'),
 	 (14193,'Michael','','Raheem'),
@@ -15618,7 +15618,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14198,'Michael','','Taylor'),
 	 (14199,'Michael','','Vanderhyde'),
 	 (14200,'Michael','','Zeman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14201,'Michael','A','Brown'),
 	 (14202,'Michael','A','Jones'),
 	 (14203,'Michael','A','White'),
@@ -15629,7 +15629,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14208,'Michael','G','Blythe'),
 	 (14209,'Michael','I','Sullivan'),
 	 (14210,'Michael','J','Hummer');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14211,'Michael','J','Lee'),
 	 (14212,'Michael','J','Miller'),
 	 (14213,'Michael','J','O''Connell'),
@@ -15640,7 +15640,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14218,'Michael','K','Wilson'),
 	 (14219,'Michael','L','Bohling'),
 	 (14220,'Michael','L','Rothkugel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14221,'Michael','M','Clark'),
 	 (14222,'Michael','M','Thompson'),
 	 (14223,'Michael','M','Williams'),
@@ -15651,7 +15651,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14228,'Michael','T','Vanderhyde'),
 	 (14229,'Michael','W','Patten'),
 	 (14230,'Michael John','R','Troyer');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14231,'Michal','','Piaseczny'),
 	 (14232,'Micheal','','Dominguez'),
 	 (14233,'Micheal','','Gill'),
@@ -15662,7 +15662,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14238,'Micheal','','Saunders'),
 	 (14239,'Micheal','','Suarez'),
 	 (14240,'Micheal','','Travers');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14241,'Micheal','','Vazquez'),
 	 (14242,'Micheal','A','Blanco'),
 	 (14243,'Micheal','E','Carlson'),
@@ -15673,7 +15673,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14248,'Micheal','W','Alonso'),
 	 (14249,'Micheal','W','Alvarez'),
 	 (14250,'Michele','','Black');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14251,'Michele','','Carlson'),
 	 (14252,'Michele','','Chander'),
 	 (14253,'Michele','','Deng'),
@@ -15684,7 +15684,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14258,'Michele','','Jimenez'),
 	 (14259,'Michele','','Kumar'),
 	 (14260,'Michele','','Luo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14261,'Michele','','Mehta'),
 	 (14262,'Michele','','Pal'),
 	 (14263,'Michele','','Patel'),
@@ -15695,7 +15695,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14268,'Michele','','Sanchez'),
 	 (14269,'Michele','','Shan'),
 	 (14270,'Michele','','Shen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14271,'Michele','','Suri'),
 	 (14272,'Michele','','Tang'),
 	 (14273,'Michele','','Vazquez'),
@@ -15706,7 +15706,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14278,'Michele','A','Malhotra'),
 	 (14279,'Michele','A','Torres'),
 	 (14280,'Michele','C','Andersen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14281,'Michele','C','Chande'),
 	 (14282,'Michele','C','Lopez'),
 	 (14283,'Michele','C','Prasad'),
@@ -15717,7 +15717,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14288,'Michele','E','Jai'),
 	 (14289,'Michele','E','Raje'),
 	 (14290,'Michele','F','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14291,'Michele','G','Blanco'),
 	 (14292,'Michele','J','Alvarez'),
 	 (14293,'Michele','J','Kapoor'),
@@ -15728,7 +15728,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14298,'Michele','K','Romero'),
 	 (14299,'Michele','K','Xu'),
 	 (14300,'Michele','L','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14301,'Michele','L','Nath'),
 	 (14302,'Michele','L','Rubio'),
 	 (14303,'Michele','L','Yuan'),
@@ -15739,7 +15739,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14308,'Michele','M','Xie'),
 	 (14309,'Michele','P','Moreno'),
 	 (14310,'Michele','P','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14311,'Michele','R','Nara'),
 	 (14312,'Michele','R','Serrano'),
 	 (14313,'Michele','S','Navarro'),
@@ -15750,7 +15750,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14318,'Michelle','','Morris'),
 	 (14319,'Michelle','','Ramirez'),
 	 (14320,'Michelle','','Reed');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14321,'Michelle','','Richardson'),
 	 (14322,'Michelle','','Stone'),
 	 (14323,'Michelle','A','Cook'),
@@ -15761,7 +15761,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14328,'Michelle','E','Cox'),
 	 (14329,'Michelle','H','Watson'),
 	 (14330,'Michelle','J','Blue');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14331,'Michelle','L','Cooper'),
 	 (14332,'Michelle','L','Murphy'),
 	 (14333,'Michelle','M','James'),
@@ -15772,7 +15772,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14338,'Michelle','W','Ward'),
 	 (14339,'Michiel','','Wories'),
 	 (14340,'Michiko','','Osada');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14341,'Michiko','F','Osada'),
 	 (14342,'Miguel','','Adams'),
 	 (14343,'Miguel','','Alexander'),
@@ -15783,7 +15783,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14348,'Miguel','','Collins'),
 	 (14349,'Miguel','','Edwards'),
 	 (14350,'Miguel','','Evans');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14351,'Miguel','','Flores'),
 	 (14352,'Miguel','','Gonzales'),
 	 (14353,'Miguel','','Gonzalez'),
@@ -15794,7 +15794,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14358,'Miguel','','Lewis'),
 	 (14359,'Miguel','','Long'),
 	 (14360,'Miguel','','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14361,'Miguel','','Miller'),
 	 (14362,'Miguel','','Mitchell'),
 	 (14363,'Miguel','','Moore'),
@@ -15805,7 +15805,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14368,'Miguel','','Powell'),
 	 (14369,'Miguel','','price'),
 	 (14370,'Miguel','','Robinson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14371,'Miguel','','Scott'),
 	 (14372,'Miguel','','Severino'),
 	 (14373,'Miguel','','Thomas'),
@@ -15816,7 +15816,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14378,'Miguel','','Wood'),
 	 (14379,'Miguel','','Wright'),
 	 (14380,'Miguel','A','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14381,'Miguel','A','Green'),
 	 (14382,'Miguel','A','Martin'),
 	 (14383,'Miguel','A','Turner'),
@@ -15827,7 +15827,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14388,'Miguel','C','Taylor'),
 	 (14389,'Miguel','C','Washington'),
 	 (14390,'Miguel','D','Barnes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14391,'Miguel','D','Clark'),
 	 (14392,'Miguel','D','Coleman'),
 	 (14393,'Miguel','D','Simmons'),
@@ -15838,7 +15838,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14398,'Miguel','J','Henderson'),
 	 (14399,'Miguel','J','Sanz'),
 	 (14400,'Miguel','K','Hayes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14401,'Miguel','K','Parker'),
 	 (14402,'Miguel','L','Butler'),
 	 (14403,'Miguel','L','Garcia'),
@@ -15849,7 +15849,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14408,'Miguel','R','Jenkins'),
 	 (14409,'Miguel','R','Jones'),
 	 (14410,'Miguel','S','Jackson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14411,'Miguel','S','White'),
 	 (14412,'Miguel','T','Brown'),
 	 (14413,'Miguel','W','Nelson'),
@@ -15860,7 +15860,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14418,'Mikael','Q','Sandberg'),
 	 (14419,'Mike','','Danseglio'),
 	 (14420,'Mike','','Hines');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14421,'Mike','','Nash'),
 	 (14422,'Mike','','Seamans'),
 	 (14423,'Mike','','Tiano'),
@@ -15871,7 +15871,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14428,'Milton','J','Albury'),
 	 (14429,'Milton','M','Pugh'),
 	 (14430,'Min','','Su');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14431,'Min','G','Su'),
 	 (14432,'Mindaugas','J','Krapauskas'),
 	 (14433,'Mindy','','Chander'),
@@ -15882,7 +15882,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14438,'Mindy','','Martin'),
 	 (14439,'Mindy','','Nara'),
 	 (14440,'Mindy','','Pal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14441,'Mindy','','Rai'),
 	 (14442,'Mindy','','Raji'),
 	 (14443,'Mindy','','Sharma'),
@@ -15893,7 +15893,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14448,'Mindy','C','Martin'),
 	 (14449,'Mindy','D','Yuan'),
 	 (14450,'Mindy','F','Nath');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14451,'Mindy','J','Luo'),
 	 (14452,'Mindy','J','She'),
 	 (14453,'Mindy','J','Xie'),
@@ -15904,7 +15904,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14458,'Miranda','','Alexander'),
 	 (14459,'Miranda','','Barnes'),
 	 (14460,'Miranda','','Bennett');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14461,'Miranda','','Coleman'),
 	 (14462,'Miranda','','Flores'),
 	 (14463,'Miranda','','Gonzales'),
@@ -15915,7 +15915,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14468,'Miranda','','price'),
 	 (14469,'Miranda','','Ross'),
 	 (14470,'Miranda','','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14471,'Miranda','','Washington'),
 	 (14472,'Miranda','','Wood'),
 	 (14473,'Miranda','C','Bryant'),
@@ -15926,7 +15926,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14478,'Miranda','J','Powell'),
 	 (14479,'Miranda','L','Jenkins'),
 	 (14480,'Miranda','L','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14481,'Miranda','M','Henderson'),
 	 (14482,'Mircea','R','Singer'),
 	 (14483,'Misty','','Black'),
@@ -15937,7 +15937,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14488,'Misty','','Raji'),
 	 (14489,'Misty','','Shan'),
 	 (14490,'Misty','','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14491,'Misty','','Shock'),
 	 (14492,'Misty','','Xu'),
 	 (14493,'Misty','A','Jai'),
@@ -15948,7 +15948,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14498,'Misty','H','Pal'),
 	 (14499,'Misty','H','Rai'),
 	 (14500,'Misty','J','Yuan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14501,'Misty','L','Lal'),
 	 (14502,'Misty','L','Xie'),
 	 (14503,'Misty','M','Goel'),
@@ -15959,7 +15959,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14508,'Mitch','','Kennedy'),
 	 (14509,'Mitchell','','Carson'),
 	 (14510,'Mitchell','','Deng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14511,'Mitchell','','Nara'),
 	 (14512,'Mitchell','','Rai'),
 	 (14513,'Mitchell','','Shan'),
@@ -15970,7 +15970,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14518,'Mitchell','C','Lal'),
 	 (14519,'Mitchell','D','Jai'),
 	 (14520,'Mitchell','E','Luo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14521,'Mitchell','F','Black'),
 	 (14522,'Mitchell','H','Andersen'),
 	 (14523,'Mitchell','J','Xu'),
@@ -15981,7 +15981,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14528,'Mohamed','','Pal'),
 	 (14529,'Mohamed','C','Pal'),
 	 (14530,'Mohamed','D','Pal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14531,'Molly','','Dempsey'),
 	 (14532,'Molly','','Gonzalez'),
 	 (14533,'Molly','','Malhotra'),
@@ -15992,7 +15992,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14538,'Molly','','Sanchez'),
 	 (14539,'Molly','','Schmidt'),
 	 (14540,'Molly','','Suri');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14541,'Molly','A','Madan'),
 	 (14542,'Molly','C','Lopez'),
 	 (14543,'Molly','C','Mehta'),
@@ -16003,7 +16003,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14548,'Molly','L','Srini'),
 	 (14549,'Molly','N','Kapoor'),
 	 (14550,'Molly','S','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14551,'Molly','W','Chandra'),
 	 (14552,'Monica','','Arun'),
 	 (14553,'Monica','','Gonzalez'),
@@ -16014,7 +16014,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14558,'Monica','','Smith'),
 	 (14559,'Monica','A','Martinez'),
 	 (14560,'Monica','C','Prasad');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14561,'Monica','D','Garcia'),
 	 (14562,'Monica','D','Malhotra'),
 	 (14563,'Monica','G','Madan'),
@@ -16025,7 +16025,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14568,'Monica','J','Rodriguez'),
 	 (14569,'Monica','J','Subram'),
 	 (14570,'Monica','L','Quintana');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14571,'Monica','L','Sai'),
 	 (14572,'Monica','M','Lopez'),
 	 (14573,'Monique','','Alonso'),
@@ -16036,7 +16036,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14578,'Monique','','Suarez'),
 	 (14579,'Monique','','Torres'),
 	 (14580,'Monique','A','Vazquez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14581,'Monique','C','Dominguez'),
 	 (14582,'Monique','C','Jimenez'),
 	 (14583,'Monique','C','Ortega'),
@@ -16047,7 +16047,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14588,'Monique','R','Moreno'),
 	 (14589,'Monique','R','Navarro'),
 	 (14590,'Monique','R','Sanz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14591,'Monique','W','Blanco'),
 	 (14592,'Morgan','','Adams'),
 	 (14593,'Morgan','','Baker'),
@@ -16058,7 +16058,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14598,'Morgan','','Collins'),
 	 (14599,'Morgan','','Evans'),
 	 (14600,'Morgan','','Flores');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14601,'Morgan','','Gonzalez'),
 	 (14602,'Morgan','','Gray'),
 	 (14603,'Morgan','','Hall'),
@@ -16069,7 +16069,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14608,'Morgan','','Lewis'),
 	 (14609,'Morgan','','Martin'),
 	 (14610,'Morgan','','Nelson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14611,'Morgan','','Perez'),
 	 (14612,'Morgan','','Phillips'),
 	 (14613,'Morgan','','price'),
@@ -16080,7 +16080,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14618,'Morgan','','Torres'),
 	 (14619,'Morgan','','Turner'),
 	 (14620,'Morgan','','Ward');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14621,'Morgan','','Washington'),
 	 (14622,'Morgan','','Wright'),
 	 (14623,'Morgan','A','Alexander'),
@@ -16091,7 +16091,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14628,'Morgan','A','Watson'),
 	 (14629,'Morgan','B','Rogers'),
 	 (14630,'Morgan','C','Bryant');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14631,'Morgan','C','Cox'),
 	 (14632,'Morgan','C','Gonzales'),
 	 (14633,'Morgan','C','Jones'),
@@ -16102,7 +16102,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14638,'Morgan','C','Williams'),
 	 (14639,'Morgan','D','Allen'),
 	 (14640,'Morgan','D','Edwards');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14641,'Morgan','D','Scott'),
 	 (14642,'Morgan','D','Stewart'),
 	 (14643,'Morgan','D','Taylor'),
@@ -16113,7 +16113,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14648,'Morgan','E','Reed'),
 	 (14649,'Morgan','F','Lopez'),
 	 (14650,'Morgan','G','Cook');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14651,'Morgan','H','Long'),
 	 (14652,'Morgan','J','Anderson'),
 	 (14653,'Morgan','J','Brooks'),
@@ -16124,7 +16124,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14658,'Morgan','J','Sanchez'),
 	 (14659,'Morgan','L','Diaz'),
 	 (14660,'Morgan','L','Kelly');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14661,'Morgan','L','Young'),
 	 (14662,'Morgan','M','Green'),
 	 (14663,'Morgan','M','Griffin'),
@@ -16135,7 +16135,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14668,'Morgan','P','Morris'),
 	 (14669,'Morgan','P','Ramirez'),
 	 (14670,'Morgan','Q','Thompson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14671,'Morgan','R','Cooper'),
 	 (14672,'Morgan','R','Garcia'),
 	 (14673,'Morgan','S','Parker'),
@@ -16146,7 +16146,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14678,'Morgan','T','Wilson'),
 	 (14679,'Morgan','W','Campbell'),
 	 (14680,'Morgan','W','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14681,'Morgan','W','Henderson'),
 	 (14682,'Morgan','W','Smith'),
 	 (14683,'Mosha','M','Park'),
@@ -16157,7 +16157,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14688,'Mya','','Flores'),
 	 (14689,'Mya','','Gonzales'),
 	 (14690,'Mya','','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14691,'Mya','','Perry'),
 	 (14692,'Mya','A','Patterson'),
 	 (14693,'Mya','C','Simmons'),
@@ -16168,7 +16168,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14698,'Mya','L','Barnes'),
 	 (14699,'Mya','L','Griffin'),
 	 (14700,'Mya','L','price');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14701,'Mya','L','Wood'),
 	 (14702,'Mya','M','Bennett'),
 	 (14703,'Mya','M','Foster'),
@@ -16179,7 +16179,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14708,'Nancy','','Fernandez'),
 	 (14709,'Nancy','','Garcia'),
 	 (14710,'Nancy','','McSharry Jensen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14711,'Nancy','','Mehta'),
 	 (14712,'Nancy','','Prasad'),
 	 (14713,'Nancy','','Schmidt'),
@@ -16190,7 +16190,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14718,'Nancy','C','Arun'),
 	 (14719,'Nancy','C','Subram'),
 	 (14720,'Nancy','E','Chapman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14721,'Nancy','E','Hirota'),
 	 (14722,'Nancy','E','Martinez'),
 	 (14723,'Nancy','F','Kovar'),
@@ -16201,7 +16201,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14728,'Nancy','L','Sanchez'),
 	 (14729,'Nancy','M','Raman'),
 	 (14730,'Nancy','R','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14731,'Nancy','U','Perez'),
 	 (14732,'Naomi','','Alonso'),
 	 (14733,'Naomi','','Alvarez'),
@@ -16212,7 +16212,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14738,'Naomi','','Ruiz'),
 	 (14739,'Naomi','','Sanz'),
 	 (14740,'Naomi','','Serrano');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14741,'Naomi','','Suarez'),
 	 (14742,'Naomi','A','Martin'),
 	 (14743,'Naomi','B','Dominguez'),
@@ -16223,7 +16223,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14748,'Naomi','K','Blanco'),
 	 (14749,'Naomi','L','Munoz'),
 	 (14750,'Naomi','M','Ramos');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14751,'Naomi','S','Gutierrez'),
 	 (14752,'Naomi','S','Navarro'),
 	 (14753,'Naomi','W','Vazquez'),
@@ -16234,7 +16234,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14758,'Natalie','','Carter'),
 	 (14759,'Natalie','','Collins'),
 	 (14760,'Natalie','','Cook');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14761,'Natalie','','Cox'),
 	 (14762,'Natalie','','Edwards'),
 	 (14763,'Natalie','','Flores'),
@@ -16245,7 +16245,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14768,'Natalie','','Griffin'),
 	 (14769,'Natalie','','Harris'),
 	 (14770,'Natalie','','Henderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14771,'Natalie','','Howard'),
 	 (14772,'Natalie','','Johnson'),
 	 (14773,'Natalie','','Kelly'),
@@ -16256,7 +16256,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14778,'Natalie','','Perez'),
 	 (14779,'Natalie','','Perry'),
 	 (14780,'Natalie','','Phillips');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14781,'Natalie','','Ramirez'),
 	 (14782,'Natalie','','Reed'),
 	 (14783,'Natalie','','Roberts'),
@@ -16267,7 +16267,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14788,'Natalie','','Torres'),
 	 (14789,'Natalie','','Turner'),
 	 (14790,'Natalie','','Walker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14791,'Natalie','','Watson'),
 	 (14792,'Natalie','','Weisman'),
 	 (14793,'Natalie','A','Alexander'),
@@ -16278,7 +16278,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14798,'Natalie','A','Parker'),
 	 (14799,'Natalie','A','Rogers'),
 	 (14800,'Natalie','A','Sanders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14801,'Natalie','C','Morris'),
 	 (14802,'Natalie','C','Nelson'),
 	 (14803,'Natalie','C','Wilson'),
@@ -16289,7 +16289,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14808,'Natalie','E','Richardson'),
 	 (14809,'Natalie','E','Williams'),
 	 (14810,'Natalie','F','Anderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14811,'Natalie','F','Stewart'),
 	 (14812,'Natalie','J','Bailey'),
 	 (14813,'Natalie','J','Rivera'),
@@ -16300,7 +16300,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14818,'Natalie','K','Hughes'),
 	 (14819,'Natalie','K','Scott'),
 	 (14820,'Natalie','L','Bryant');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14821,'Natalie','L','Campbell'),
 	 (14822,'Natalie','L','Clark'),
 	 (14823,'Natalie','L','Diaz'),
@@ -16311,7 +16311,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14828,'Natalie','L','Lopez'),
 	 (14829,'Natalie','L','Powell'),
 	 (14830,'Natalie','M','James');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14831,'Natalie','M','Martin'),
 	 (14832,'Natalie','M','Mitchell'),
 	 (14833,'Natalie','M','Peterson'),
@@ -16322,7 +16322,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14838,'Natalie','P','Murphy'),
 	 (14839,'Natalie','R','Miller'),
 	 (14840,'Natalie','T','Blue');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14841,'Natalie','T','Brown'),
 	 (14842,'Natalie','V','Coleman'),
 	 (14843,'Natalie','W','Brooks'),
@@ -16333,7 +16333,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14848,'Natasha','','Gutierrez'),
 	 (14849,'Natasha','','Hernandez'),
 	 (14850,'Natasha','','Navarro');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14851,'Natasha','','Oliver'),
 	 (14852,'Natasha','','Ramos'),
 	 (14853,'Natasha','','Ruiz'),
@@ -16344,7 +16344,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14858,'Natasha','A','Gill'),
 	 (14859,'Natasha','G','Diaz'),
 	 (14860,'Natasha','G','Gomez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14861,'Natasha','J','Vazquez'),
 	 (14862,'Natasha','K','Rubio'),
 	 (14863,'Natasha','L','Alonso'),
@@ -16355,7 +16355,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14868,'Nate','','Sun'),
 	 (14869,'Nathan','','Anderson'),
 	 (14870,'Nathan','','Bryant');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14871,'Nathan','','Carter'),
 	 (14872,'Nathan','','Clark'),
 	 (14873,'Nathan','','Diaz'),
@@ -16366,7 +16366,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14878,'Nathan','','Jones'),
 	 (14879,'Nathan','','King'),
 	 (14880,'Nathan','','Kumar');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14881,'Nathan','','Lee'),
 	 (14882,'Nathan','','Li'),
 	 (14883,'Nathan','','Long'),
@@ -16377,7 +16377,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14888,'Nathan','','Perry'),
 	 (14889,'Nathan','','Phillips'),
 	 (14890,'Nathan','','Powell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14891,'Nathan','','Roberts'),
 	 (14892,'Nathan','','Rodriguez'),
 	 (14893,'Nathan','','Russell'),
@@ -16388,7 +16388,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14898,'Nathan','','Williams'),
 	 (14899,'Nathan','A','Alexander'),
 	 (14900,'Nathan','A','Baker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14901,'Nathan','A','Lewis'),
 	 (14902,'Nathan','A','Sharma'),
 	 (14903,'Nathan','A','Thomas'),
@@ -16399,7 +16399,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14908,'Nathan','C','Green'),
 	 (14909,'Nathan','C','Shan'),
 	 (14910,'Nathan','D','Brown');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14911,'Nathan','D','Chen'),
 	 (14912,'Nathan','D','Davis'),
 	 (14913,'Nathan','D','Wright'),
@@ -16410,7 +16410,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14918,'Nathan','J','Johnson'),
 	 (14919,'Nathan','J','Young'),
 	 (14920,'Nathan','K','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14921,'Nathan','K','Edwards'),
 	 (14922,'Nathan','K','Hayes'),
 	 (14923,'Nathan','K','Scott'),
@@ -16421,7 +16421,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14928,'Nathan','l','Turner'),
 	 (14929,'Nathan','L','Wilson'),
 	 (14930,'Nathan','L','Zhang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14931,'Nathan','M','Gonzales'),
 	 (14932,'Nathan','M','Jai'),
 	 (14933,'Nathan','M','Jenkins'),
@@ -16432,7 +16432,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14938,'Nathan','S','Martin'),
 	 (14939,'Nathan','T','Robinson'),
 	 (14940,'Nathan','T','Thompson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14941,'Nathan','W','Campbell'),
 	 (14942,'Nathan','W','Garcia'),
 	 (14943,'Nathan','W','Patterson'),
@@ -16443,7 +16443,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14948,'Nathaniel','','Ramirez'),
 	 (14949,'Nathaniel','','Richardson'),
 	 (14950,'Nathaniel','','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14951,'Nathaniel','','Torres'),
 	 (14952,'Nathaniel','','Ward'),
 	 (14953,'Nathaniel','A','Cox'),
@@ -16454,7 +16454,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14958,'Nathaniel','H','Watson'),
 	 (14959,'Nathaniel','J','Rogers'),
 	 (14960,'Nathaniel','K','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14961,'Nathaniel','L','Sanders'),
 	 (14962,'Nathaniel','M','Rivera'),
 	 (14963,'Nathaniel','P','Kelly'),
@@ -16465,7 +16465,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14968,'Neil','','Blanco'),
 	 (14969,'Neil','','Charney'),
 	 (14970,'Neil','','Gomez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14971,'Neil','','Jimenez'),
 	 (14972,'Neil','','Martin'),
 	 (14973,'Neil','','Ramos'),
@@ -16476,7 +16476,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14978,'Neil','C','Alvarez'),
 	 (14979,'Neil','C','Diaz'),
 	 (14980,'Neil','K','Dominguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14981,'Neil','K','Vazquez'),
 	 (14982,'Neil','L','Gutierrez'),
 	 (14983,'Neil','L','Navarro'),
@@ -16487,7 +16487,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14988,'Neil','M','Sanz'),
 	 (14989,'Neil','N','Ruiz'),
 	 (14990,'Nellie','T','Medina');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14991,'Nelson','','Alonso'),
 	 (14992,'Nelson','','Blanco'),
 	 (14993,'Nelson','','Hernandez'),
@@ -16498,7 +16498,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (14998,'Nelson','','Rubio'),
 	 (14999,'Nelson','','Ruiz'),
 	 (15000,'Nelson','','Serrano');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15001,'Nelson','','Suarez'),
 	 (15002,'Nelson','C','Diaz'),
 	 (15003,'Nelson','D','Vazquez'),
@@ -16509,7 +16509,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15008,'Nelson','L','Gomez'),
 	 (15009,'Nelson','M','Carlson'),
 	 (15010,'Nelson','M','Sanz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15011,'Nelson','R','Moreno'),
 	 (15012,'Nelson','T','Dominguez'),
 	 (15013,'Neva','M','Mitchell'),
@@ -16520,7 +16520,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15018,'Nicholas','','Moore'),
 	 (15019,'Nicholas','','Robinson'),
 	 (15020,'Nicholas','','Taylor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15021,'Nicholas','A','Williams'),
 	 (15022,'Nicholas','D','Rodriguez'),
 	 (15023,'Nicholas','D','Thompson'),
@@ -16531,7 +16531,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15028,'Nicholas','L','Harris'),
 	 (15029,'Nicholas','L','Jones'),
 	 (15030,'Nicholas','L','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15031,'Nicholas','O','Walker'),
 	 (15032,'Nicholas','S','Brown'),
 	 (15033,'Nicholas','S','Wilson'),
@@ -16542,7 +16542,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15038,'Nichole','','Deng'),
 	 (15039,'Nichole','','Kumar'),
 	 (15040,'Nichole','','Nara');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15041,'Nichole','','Rai'),
 	 (15042,'Nichole','','Shen'),
 	 (15043,'Nichole','','Xie'),
@@ -16553,7 +16553,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15048,'Nichole','C','Tang'),
 	 (15049,'Nichole','H','Chander'),
 	 (15050,'Nichole','J','Pal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15051,'Nichole','K','Nath'),
 	 (15052,'Nichole','K','Shan'),
 	 (15053,'Nichole','M','Sharma'),
@@ -16564,7 +16564,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15058,'Nicolas','','Black'),
 	 (15059,'Nicolas','','Chander'),
 	 (15060,'Nicolas','','Goldberg');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15061,'Nicolas','','Raje'),
 	 (15062,'Nicolas','A','Andersen'),
 	 (15063,'Nicolas','A','Rai'),
@@ -16575,7 +16575,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15068,'Nicolas','J','Chande'),
 	 (15069,'Nicolas','J','Jai'),
 	 (15070,'Nicolas','J','Yuan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15071,'Nicolas','M','Nara'),
 	 (15072,'Nicolas','M','Xu'),
 	 (15073,'Nicolas','N','Raji'),
@@ -16586,7 +16586,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15078,'Nicolas','W','Xie'),
 	 (15079,'Nicole','','Bennett'),
 	 (15080,'Nicole','','Brooks');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15081,'Nicole','','Brown'),
 	 (15082,'Nicole','','Caron'),
 	 (15083,'Nicole','','Cook'),
@@ -16597,7 +16597,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15088,'Nicole','','Griffin'),
 	 (15089,'Nicole','','Hall'),
 	 (15090,'Nicole','','Jones');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15091,'Nicole','','Lee'),
 	 (15092,'Nicole','','Lewis'),
 	 (15093,'Nicole','','Patterson'),
@@ -16608,7 +16608,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15098,'Nicole','','Rivera'),
 	 (15099,'Nicole','','Robinson'),
 	 (15100,'Nicole','','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15101,'Nicole','','Thomas'),
 	 (15102,'Nicole','','Thompson'),
 	 (15103,'Nicole','','Walker'),
@@ -16619,7 +16619,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15108,'Nicole','A','Coleman'),
 	 (15109,'Nicole','A','Foster'),
 	 (15110,'Nicole','A','Henderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15111,'Nicole','A','Hughes'),
 	 (15112,'Nicole','A','Martinez'),
 	 (15113,'Nicole','A','Miller'),
@@ -16630,7 +16630,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15118,'Nicole','C','James'),
 	 (15119,'Nicole','C','Long'),
 	 (15120,'Nicole','D','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15121,'Nicole','E','Flores'),
 	 (15122,'Nicole','E','Rogers'),
 	 (15123,'Nicole','G','Clark'),
@@ -16641,7 +16641,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15128,'Nicole','J','Butler'),
 	 (15129,'Nicole','J','Jackson'),
 	 (15130,'Nicole','J','Williams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15131,'Nicole','K','Anderson'),
 	 (15132,'Nicole','K','Bailey'),
 	 (15133,'Nicole','L','Moore'),
@@ -16652,7 +16652,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15138,'Nicole','M','Harris'),
 	 (15139,'Nicole','M','Howard'),
 	 (15140,'Nicole','M','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15141,'Nicole','M','Sandberg'),
 	 (15142,'Nicole','N','price'),
 	 (15143,'Nicole','R','Morris'),
@@ -16663,7 +16663,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15148,'Nicole','V','Kelly'),
 	 (15149,'Nicole','W','Jenkins'),
 	 (15150,'Nieves','J','Vargas');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15151,'Nigel','','Westbury'),
 	 (15152,'Nikki','','McCormick'),
 	 (15153,'Nina','','Andersen'),
@@ -16674,7 +16674,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15158,'Nina','','Pal'),
 	 (15159,'Nina','','Rai'),
 	 (15160,'Nina','','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15161,'Nina','','She'),
 	 (15162,'Nina','','Tang'),
 	 (15163,'Nina','','Xie'),
@@ -16685,7 +16685,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15168,'Nina','L','Kumar'),
 	 (15169,'Nina','L','Lal'),
 	 (15170,'Nina','O','Deng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15171,'Nina','R','Raje'),
 	 (15172,'Nina','R','Shen'),
 	 (15173,'Nina','R','Yuan'),
@@ -16696,7 +16696,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15178,'Nkenge','','McLin'),
 	 (15179,'Noah','','Alexander'),
 	 (15180,'Noah','','Allen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15181,'Noah','','Baker'),
 	 (15182,'Noah','','Bryant'),
 	 (15183,'Noah','','Clark'),
@@ -16707,7 +16707,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15188,'Noah','','Gonzalez'),
 	 (15189,'Noah','','Green'),
 	 (15190,'Noah','','Harris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15191,'Noah','','Hernandez'),
 	 (15192,'Noah','','Hill'),
 	 (15193,'Noah','','Jackson'),
@@ -16718,7 +16718,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15198,'Noah','','Nelson'),
 	 (15199,'Noah','','Perez'),
 	 (15200,'Noah','','Phillips');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15201,'Noah','','Ross'),
 	 (15202,'Noah','','Scott'),
 	 (15203,'Noah','','Simmons'),
@@ -16729,7 +16729,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15208,'Noah','A','Anderson'),
 	 (15209,'Noah','A','Campbell'),
 	 (15210,'Noah','A','Davis');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15211,'Noah','A','Hall'),
 	 (15212,'Noah','A','Jenkins'),
 	 (15213,'Noah','A','Martin'),
@@ -16740,7 +16740,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15218,'Noah','B','Foster'),
 	 (15219,'Noah','B','Williams'),
 	 (15220,'Noah','C','Lewis');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15221,'Noah','C','Wright'),
 	 (15222,'Noah','D','Brown'),
 	 (15223,'Noah','D','Powell'),
@@ -16751,7 +16751,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15228,'Noah','E','Hayes'),
 	 (15229,'Noah','E','Jai'),
 	 (15230,'Noah','E','Moore');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15231,'Noah','E','Taylor'),
 	 (15232,'Noah','E','Walker'),
 	 (15233,'Noah','H','Robinson'),
@@ -16762,7 +16762,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15238,'Noah','K','Johnson'),
 	 (15239,'Noah','K','Long'),
 	 (15240,'Noah','K','Perry');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15241,'Noah','L','Chen'),
 	 (15242,'Noah','L','Henderson'),
 	 (15243,'Noah','L','Lal'),
@@ -16773,7 +16773,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15248,'Noah','M','White'),
 	 (15249,'Noah','R','Martinez'),
 	 (15250,'Noah','S','Roberts');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15251,'Noah','S','Turner'),
 	 (15252,'Norimichi','','Yonekura'),
 	 (15253,'Norma','N','Barrera'),
@@ -16784,7 +16784,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15258,'Nuan','','Zheng'),
 	 (15259,'Ole','A','Weldon'),
 	 (15260,'Olga','J','Trau');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15261,'Olinda','C','Turner'),
 	 (15262,'Olivia','','Anderson'),
 	 (15263,'Olivia','','Bailey'),
@@ -16795,7 +16795,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15268,'Olivia','','Cooper'),
 	 (15269,'Olivia','','Foster'),
 	 (15270,'Olivia','','Griffin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15271,'Olivia','','Hall'),
 	 (15272,'Olivia','','Henderson'),
 	 (15273,'Olivia','','Jackson'),
@@ -16806,7 +16806,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15278,'Olivia','','Long'),
 	 (15279,'Olivia','','Martinez'),
 	 (15280,'Olivia','','Perry');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15281,'Olivia','','Peterson'),
 	 (15282,'Olivia','','Richardson'),
 	 (15283,'Olivia','','Rogers'),
@@ -16817,7 +16817,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15288,'Olivia','A','Bryant'),
 	 (15289,'Olivia','A','Gonzales'),
 	 (15290,'Olivia','A','Jones');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15291,'Olivia','A','Lee'),
 	 (15292,'Olivia','A','Moore'),
 	 (15293,'Olivia','A','Robinson'),
@@ -16828,7 +16828,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15298,'Olivia','C','Hughes'),
 	 (15299,'Olivia','C','Smith'),
 	 (15300,'Olivia','D','Bennett');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15301,'Olivia','D','Ramirez'),
 	 (15302,'Olivia','E','Howard'),
 	 (15303,'Olivia','E','White'),
@@ -16839,7 +16839,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15308,'Olivia','K','Cox'),
 	 (15309,'Olivia','K','Washington'),
 	 (15310,'Olivia','K','Williams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15311,'Olivia','L','Alexander'),
 	 (15312,'Olivia','L','Gray'),
 	 (15313,'Olivia','L','Kelly'),
@@ -16850,7 +16850,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15318,'Olivia','N','Rivera'),
 	 (15319,'Olivia','R','Blue'),
 	 (15320,'Olivia','R','Cook');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15321,'Olivia','R','Taylor'),
 	 (15322,'Olivia','R','Thomas'),
 	 (15323,'Olivia','S','Garcia'),
@@ -16861,7 +16861,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15328,'Olivia','Z','Simmons'),
 	 (15329,'Omar','','Anand'),
 	 (15330,'Omar','','Black');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15331,'Omar','','Deng'),
 	 (15332,'Omar','','Gao'),
 	 (15333,'Omar','','He'),
@@ -16872,7 +16872,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15338,'Omar','','Raji'),
 	 (15339,'Omar','','Shan'),
 	 (15340,'Omar','','Yang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15341,'Omar','','Ye'),
 	 (15342,'Omar','','Zeng'),
 	 (15343,'Omar','','Zhao'),
@@ -16883,7 +16883,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15348,'Omar','C','Zheng'),
 	 (15349,'Omar','D','Sun'),
 	 (15350,'Omar','D','Wang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15351,'Omar','E','Kumar'),
 	 (15352,'Omar','F','Nath'),
 	 (15353,'Omar','G','Rai'),
@@ -16894,7 +16894,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15358,'Omar','L','Andersen'),
 	 (15359,'Omar','L','Liu'),
 	 (15360,'Omar','L','Tang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15361,'Omar','L','Zhou'),
 	 (15362,'Omar','M','Cai'),
 	 (15363,'Omar','M','Chande'),
@@ -16905,7 +16905,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15368,'Omar','R','Xu'),
 	 (15369,'Omar','S','Hu'),
 	 (15370,'Omar','S','Lal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15371,'Omar','S','Zhang'),
 	 (15372,'Omar','W','Chander'),
 	 (15373,'Onetha','F','Higgs'),
@@ -16916,7 +16916,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15378,'Orlando','','Gutierrez'),
 	 (15379,'Orlando','','Ramos'),
 	 (15380,'Orlando','','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15381,'Orlando','','Rubio'),
 	 (15382,'Orlando','','Sanz'),
 	 (15383,'Orlando','','Serrano'),
@@ -16927,7 +16927,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15388,'Orlando','E','Vazquez'),
 	 (15389,'Orlando','H','Torres'),
 	 (15390,'Orlando','I','Ashe');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15391,'Orlando','J','Carlson'),
 	 (15392,'Orlando','L','Diaz'),
 	 (15393,'Orlando','L','Muñoz'),
@@ -16938,7 +16938,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15398,'Oscar','','Hayes'),
 	 (15399,'Oscar','','Long'),
 	 (15400,'Oscar','','Lu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15401,'Oscar','','Perry'),
 	 (15402,'Oscar','','Washington'),
 	 (15403,'Oscar','A','Jenkins'),
@@ -16949,7 +16949,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15408,'Oscar','F','Griffin'),
 	 (15409,'Oscar','F','Simmons'),
 	 (15410,'Oscar','G','Bennett');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15411,'Oscar','G','price'),
 	 (15412,'Oscar','H','Gonzales'),
 	 (15413,'Oscar','J','Henderson'),
@@ -16960,7 +16960,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15418,'Oscar','M','Alexander'),
 	 (15419,'Oscar','P','Coleman'),
 	 (15420,'Oscar','V','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15421,'Ovidiu','','Burlacu'),
 	 (15422,'Ovidiu','V','Cracium'),
 	 (15423,'Pablo','','Rovira Diez'),
@@ -16971,7 +16971,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15428,'Paige','','Cox'),
 	 (15429,'Paige','','Diaz'),
 	 (15430,'Paige','','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15431,'Paige','','Gonzales'),
 	 (15432,'Paige','','Gray'),
 	 (15433,'Paige','','Griffin'),
@@ -16982,7 +16982,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15438,'Paige','','Peterson'),
 	 (15439,'Paige','','Powell'),
 	 (15440,'Paige','','Ramirez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15441,'Paige','','Reed'),
 	 (15442,'Paige','','Richardson'),
 	 (15443,'Paige','','Rivera'),
@@ -16993,7 +16993,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15448,'Paige','','Watson'),
 	 (15449,'Paige','A','Bailey'),
 	 (15450,'Paige','A','Howard');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15451,'Paige','A','Sanchez'),
 	 (15452,'Paige','C','Butler'),
 	 (15453,'Paige','C','Henderson'),
@@ -17004,7 +17004,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15458,'Paige','J','Ross'),
 	 (15459,'Paige','J','Stewart'),
 	 (15460,'Paige','J','Travers');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15461,'Paige','K','Flores'),
 	 (15462,'Paige','L','Coleman'),
 	 (15463,'Paige','L','Cook'),
@@ -17015,7 +17015,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15468,'Paige','S','James'),
 	 (15469,'Paige','W','Alexander'),
 	 (15470,'Paige','W','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15471,'Pam','L','Herrick'),
 	 (15472,'Pamala','M','Kotc'),
 	 (15473,'Pamela','','Kapoor'),
@@ -17026,7 +17026,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15478,'Pamela','','Sai'),
 	 (15479,'Pamela','','Sanchez'),
 	 (15480,'Pamela','','Srini');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15481,'Pamela','','Suri'),
 	 (15482,'Pamela','','Vance'),
 	 (15483,'Pamela','A','Carlson'),
@@ -17037,7 +17037,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15488,'Pamela','I','Schmidt'),
 	 (15489,'Pamela','J','Prasad'),
 	 (15490,'Pamela','L','Chapman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15491,'Pamela','L','Rana'),
 	 (15492,'Pamela','M','Fernandez'),
 	 (15493,'Pamela','M','Subram'),
@@ -17048,7 +17048,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15498,'Pat','','Coleman'),
 	 (15499,'Pat','A','Chambers'),
 	 (15500,'Pat','H','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15501,'Pat','R','Pinkston'),
 	 (15502,'Patricia','','Chapman'),
 	 (15503,'Patricia','','Doyle'),
@@ -17059,7 +17059,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15508,'Patricia','','Prasad'),
 	 (15509,'Patricia','','Srini'),
 	 (15510,'Patricia','','Subram');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15511,'Patricia','B','Porter'),
 	 (15512,'Patricia','E','Suri'),
 	 (15513,'Patricia','G','Gonzalez'),
@@ -17070,7 +17070,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15518,'Patricia','M','Rodriguez'),
 	 (15519,'Patricia','M','Vasquez'),
 	 (15520,'Patricia','M','Zubaty');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15521,'Patricia','R','Kapoor'),
 	 (15522,'Patricia','S','Malhotra'),
 	 (15523,'Patricia','T','Raman'),
@@ -17081,7 +17081,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15528,'Patrick','','Reed'),
 	 (15529,'Patrick','','Sands'),
 	 (15530,'Patrick','A','Morgan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15531,'Patrick','A','Richardson'),
 	 (15532,'Patrick','B','Blue'),
 	 (15533,'Patrick','C','Wedge'),
@@ -17092,7 +17092,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15538,'Patrick','J','Magenheimer'),
 	 (15539,'Patrick','J','Peterson'),
 	 (15540,'Patrick','J','Ward');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15541,'Patrick','K','Cook'),
 	 (15542,'Patrick','L','Howard'),
 	 (15543,'Patrick','L','Sanders'),
@@ -17103,7 +17103,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15548,'Patrick','S','Cox'),
 	 (15549,'Patrick','W','Sanchez'),
 	 (15550,'Patrick','W','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15551,'Paul','','Singh'),
 	 (15552,'Paul','','West'),
 	 (15553,'Paul','B','Komosinski'),
@@ -17114,7 +17114,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15558,'Paul','R','Singh'),
 	 (15559,'Paula','','Blanco'),
 	 (15560,'Paula','','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15561,'Paula','','Navarro'),
 	 (15562,'Paula','','Ortega'),
 	 (15563,'Paula','','Sanz'),
@@ -17125,7 +17125,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15568,'Paula','B','Moberly'),
 	 (15569,'Paula','B','Romero'),
 	 (15570,'Paula','C','Ashe');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15571,'Paula','D','Ruiz'),
 	 (15572,'Paula','L','Alonso'),
 	 (15573,'Paula','L','Dominguez'),
@@ -17136,7 +17136,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15578,'Paula','R','Nartker'),
 	 (15579,'Paula','W','Diaz'),
 	 (15580,'Paula','W','Gill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15581,'Paula','W','Moreno'),
 	 (15582,'Paula','W','Ramos'),
 	 (15583,'Paulo','H','Lisboa'),
@@ -17147,7 +17147,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15588,'Pedro','','Chapman'),
 	 (15589,'Pedro','','Dominguez'),
 	 (15590,'Pedro','','Gomez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15591,'Pedro','','Gonzalez'),
 	 (15592,'Pedro','','Hernandez'),
 	 (15593,'Pedro','','Lopez'),
@@ -17158,7 +17158,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15598,'Pedro','','Navarro'),
 	 (15599,'Pedro','','Patel'),
 	 (15600,'Pedro','','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15601,'Pedro','','Ruiz'),
 	 (15602,'Pedro','','Sai'),
 	 (15603,'Pedro','','Sanz'),
@@ -17169,7 +17169,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15608,'Pedro','A','Muñoz'),
 	 (15609,'Pedro','A','Suarez'),
 	 (15610,'Pedro','A','Vance');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15611,'Pedro','A','Vazquez'),
 	 (15612,'Pedro','B','Martin'),
 	 (15613,'Pedro','C','Blanco'),
@@ -17180,7 +17180,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15618,'Pedro','E','Torres'),
 	 (15619,'Pedro','F','Rana'),
 	 (15620,'Pedro','F','Sara');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15621,'Pedro','H','Kapoor'),
 	 (15622,'Pedro','J','Diaz'),
 	 (15623,'Pedro','L','Rodriguez'),
@@ -17191,7 +17191,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15628,'Pedro','Y','Fernandez'),
 	 (15629,'Peggy','J','Justice'),
 	 (15630,'Peggy','R','Smith');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15631,'Pei','','Chow'),
 	 (15632,'Peng','','Wu'),
 	 (15633,'Peng','J','Wu'),
@@ -17202,7 +17202,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15638,'Peter','','Jai'),
 	 (15639,'Peter','','Kumar'),
 	 (15640,'Peter','','Kurniawan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15641,'Peter','','Rai'),
 	 (15642,'Peter','','Saddow'),
 	 (15643,'Peter','','Shan'),
@@ -17213,7 +17213,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15648,'Peter','A','Deng'),
 	 (15649,'Peter','D','Raje'),
 	 (15650,'Peter','D','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15651,'Peter','E','Black'),
 	 (15652,'Peter','E','Luo'),
 	 (15653,'Peter','I','Connelly'),
@@ -17224,7 +17224,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15658,'Peter','L','Chander'),
 	 (15659,'Peter','L','Goel'),
 	 (15660,'Peter','L','Raji');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15661,'Peter','T','Nara'),
 	 (15662,'Petr','','Lazecky'),
 	 (15663,'Phil','','Spencer'),
@@ -17235,7 +17235,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15668,'Philip','','Navarro'),
 	 (15669,'Philip','','Ortega'),
 	 (15670,'Philip','','Ramos');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15671,'Philip','','Ruiz'),
 	 (15672,'Philip','A','Alvarez'),
 	 (15673,'Philip','B','Jimenez'),
@@ -17246,7 +17246,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15678,'Philip','L','Alonso'),
 	 (15679,'Philip','M','Blanco'),
 	 (15680,'Philip','M','Gutierrez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15681,'Philip','M','Moyer'),
 	 (15682,'Philip','M','Suarez'),
 	 (15683,'Philip','P','Carlson'),
@@ -17257,7 +17257,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15688,'Phillip','','Madan'),
 	 (15689,'Phillip','','Raman'),
 	 (15690,'Phillip','','Rana');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15691,'Phillip','','Suri'),
 	 (15692,'Phillip','','Vance'),
 	 (15693,'Phillip','A','Arun'),
@@ -17268,7 +17268,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15698,'Phillip','J','Malhotra'),
 	 (15699,'Phillip','J','Sullivan'),
 	 (15700,'Phillip','L','Fernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15701,'Phillip','M','Bacalzo'),
 	 (15702,'Phillip','M','Sai'),
 	 (15703,'Phillip','N','Gonzalez'),
@@ -17279,7 +17279,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15708,'Phillip','S','Smith'),
 	 (15709,'Phyllis','A','Allen'),
 	 (15710,'Phyllis','A','Thomas');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15711,'Phyllis','B','Tuffield'),
 	 (15712,'Phyllis','R','Huntsman'),
 	 (15713,'Pieter','','Wycoff'),
@@ -17290,7 +17290,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15718,'Prashanth','','Desai'),
 	 (15719,'Preston','','Arun'),
 	 (15720,'Preston','','Kapoor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15721,'Preston','','Lopez'),
 	 (15722,'Preston','','Madan'),
 	 (15723,'Preston','','Perez'),
@@ -17301,7 +17301,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15728,'Preston','C','Patel'),
 	 (15729,'Preston','C','Prasad'),
 	 (15730,'Preston','D','Sai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15731,'Preston','G','Mehta'),
 	 (15732,'Preston','J','Sanchez'),
 	 (15733,'Preston','J','Smith'),
@@ -17312,7 +17312,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15738,'Preston','O','Chapman'),
 	 (15739,'Priscilla','','Andersen'),
 	 (15740,'Priscilla','','Black');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15741,'Priscilla','','Chande'),
 	 (15742,'Priscilla','','Chander'),
 	 (15743,'Priscilla','','Goel'),
@@ -17323,7 +17323,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15748,'Priscilla','C','Kumar'),
 	 (15749,'Priscilla','C','Rai'),
 	 (15750,'Priscilla','E','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15751,'Priscilla','E','Xu'),
 	 (15752,'Priscilla','H','Nath'),
 	 (15753,'Priscilla','J','Pal'),
@@ -17334,7 +17334,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15758,'Priscilla','R','Anand'),
 	 (15759,'Priscilla','R','Luo'),
 	 (15760,'Priscilla','R','Raji');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15761,'Punya','','Palit'),
 	 (15762,'Qiang','','Wang'),
 	 (15763,'Rachael','','Lopez'),
@@ -17345,7 +17345,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15768,'Rachael','','Vance'),
 	 (15769,'Rachael','A','Rana'),
 	 (15770,'Rachael','D','Kapoor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15771,'Rachael','D','Mehta'),
 	 (15772,'Rachael','D','Perez'),
 	 (15773,'Rachael','G','Patel'),
@@ -17356,7 +17356,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15778,'Rachael','M','Gonzalez'),
 	 (15779,'Rachael','M','Martinez'),
 	 (15780,'Rachael','M','Prasad');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15781,'Rachael','M','Rodriguez'),
 	 (15782,'Rachael','R','Madan'),
 	 (15783,'Rachael','V','Chandra'),
@@ -17367,7 +17367,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15788,'Rachel','','Brown'),
 	 (15789,'Rachel','','Bryant'),
 	 (15790,'Rachel','','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15791,'Rachel','','Coleman'),
 	 (15792,'Rachel','','Foster'),
 	 (15793,'Rachel','','Gray'),
@@ -17378,7 +17378,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15798,'Rachel','','James'),
 	 (15799,'Rachel','','Johnson'),
 	 (15800,'Rachel','','Kelly');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15801,'Rachel','','Long'),
 	 (15802,'Rachel','','Martinez'),
 	 (15803,'Rachel','','Morgan'),
@@ -17389,7 +17389,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15808,'Rachel','','Walker'),
 	 (15809,'Rachel','','Washington'),
 	 (15810,'Rachel','','Wilson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15811,'Rachel','','Wood'),
 	 (15812,'Rachel','A','Gonzales'),
 	 (15813,'Rachel','A','Jackson'),
@@ -17400,7 +17400,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15818,'Rachel','C','Morris'),
 	 (15819,'Rachel','C','Ross'),
 	 (15820,'Rachel','C','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15821,'Rachel','C','Sanchez'),
 	 (15822,'Rachel','C','Ward'),
 	 (15823,'Rachel','C','Williams'),
@@ -17411,7 +17411,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15828,'Rachel','F','Miller'),
 	 (15829,'Rachel','J','Cox'),
 	 (15830,'Rachel','J','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15831,'Rachel','J','Lewis'),
 	 (15832,'Rachel','J','Robinson'),
 	 (15833,'Rachel','K','Clark'),
@@ -17422,7 +17422,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15838,'Rachel','L','Howard'),
 	 (15839,'Rachel','L','Perry'),
 	 (15840,'Rachel','L','Ramirez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15841,'Rachel','M','Richardson'),
 	 (15842,'Rachel','M','Rodriguez'),
 	 (15843,'Rachel','M','Taylor'),
@@ -17433,7 +17433,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15848,'Rachel','S','Martin'),
 	 (15849,'Rachel','S','Rivera'),
 	 (15850,'Rachel','S','White');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15851,'Rachel','T','Cook'),
 	 (15852,'Rachel','T','Davis'),
 	 (15853,'Rafael','','Anand'),
@@ -17444,7 +17444,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15858,'Rafael','','Nath'),
 	 (15859,'Rafael','','Sun'),
 	 (15860,'Rafael','','Wu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15861,'Rafael','','Zeng'),
 	 (15862,'Rafael','','Zhao'),
 	 (15863,'Rafael','','Zhu'),
@@ -17455,7 +17455,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15868,'Rafael','A','Xu'),
 	 (15869,'Rafael','A','Yang'),
 	 (15870,'Rafael','A','Zhou');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15871,'Rafael','B','Sharma'),
 	 (15872,'Rafael','C','Raji'),
 	 (15873,'Rafael','D','Huang'),
@@ -17466,7 +17466,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15878,'Rafael','J','Goel'),
 	 (15879,'Rafael','J','Hu'),
 	 (15880,'Rafael','J','Lu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15881,'Rafael','J','Nara'),
 	 (15882,'Rafael','J','Pal'),
 	 (15883,'Rafael','J','Shen'),
@@ -17477,7 +17477,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15888,'Rafael','M','Deng'),
 	 (15889,'Rafael','M','Li'),
 	 (15890,'Rafael','M','Liu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15891,'Rafael','M','Raje'),
 	 (15892,'Rafael','M','Xie'),
 	 (15893,'Rafael','N','Xu'),
@@ -17488,7 +17488,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15898,'Rafael','V','Ye'),
 	 (15899,'Rafael','W','Lal'),
 	 (15900,'Raja','D','Venugopal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15901,'Rajesh','M','Patel'),
 	 (15902,'Rakesh','J','Tangirala'),
 	 (15903,'Ralph','','Beck'),
@@ -17499,7 +17499,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15908,'Ramon','','Gao'),
 	 (15909,'Ramon','','Guo'),
 	 (15910,'Ramon','','He');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15911,'Ramon','','Hu'),
 	 (15912,'Ramon','','Huang'),
 	 (15913,'Ramon','','Li'),
@@ -17510,7 +17510,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15918,'Ramon','B','Lu'),
 	 (15919,'Ramon','D','Ma'),
 	 (15920,'Ramon','D','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15921,'Ramon','D','Zhang'),
 	 (15922,'Ramon','D','Zhou'),
 	 (15923,'Ramon','K','Yang'),
@@ -17521,7 +17521,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15928,'Ramon','T','Chen'),
 	 (15929,'Ramón','S','Cai'),
 	 (15930,'Ramona','J','Antrim');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15931,'Randall','','Alonso'),
 	 (15932,'Randall','','Alvarez'),
 	 (15933,'Randall','','Blanco'),
@@ -17532,7 +17532,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15938,'Randall','','Torres'),
 	 (15939,'Randall','A','Gill'),
 	 (15940,'Randall','A','Navarro');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15941,'Randall','A','Ruiz'),
 	 (15942,'Randall','B','Martin'),
 	 (15943,'Randall','C','Ortega'),
@@ -17543,7 +17543,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15948,'Randall','J','Munoz'),
 	 (15949,'Randall','M','Dominguez'),
 	 (15950,'Randall','M','Rubio');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15951,'Randall','M','Suarez'),
 	 (15952,'Randall','R','Gomez'),
 	 (15953,'Randall','T','Carlson'),
@@ -17554,7 +17554,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15958,'Randy','','Hu'),
 	 (15959,'Randy','','Huang'),
 	 (15960,'Randy','','Lin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15961,'Randy','','Liu'),
 	 (15962,'Randy','','Lu'),
 	 (15963,'Randy','','Reeves'),
@@ -17565,7 +17565,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15968,'Randy','E','Liang'),
 	 (15969,'Randy','E','Yang'),
 	 (15970,'Randy','G','Wang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15971,'Randy','G','Ye'),
 	 (15972,'Randy','H','She'),
 	 (15973,'Randy','J','Wu'),
@@ -17576,7 +17576,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15978,'Randy','R','Ma'),
 	 (15979,'Randy','S','Xu'),
 	 (15980,'Randy','T','Reeves');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15981,'Randy','W','Sun'),
 	 (15982,'Ranjit','R','Varkey Chudukatil'),
 	 (15983,'Raquel','','Alonso'),
@@ -17587,7 +17587,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15988,'Raquel','G','Alvarez'),
 	 (15989,'Raquel','H','Gutierrez'),
 	 (15990,'Raquel','T','Gill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15991,'Raquel','W','Hernandez'),
 	 (15992,'Raquel','Z','Romero'),
 	 (15993,'Raul','','Black'),
@@ -17598,7 +17598,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (15998,'Raul','','Shen'),
 	 (15999,'Raul','','Tang'),
 	 (16000,'Raul','','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16001,'Raul','B','Kumar'),
 	 (16002,'Raul','D','Chander'),
 	 (16003,'Raul','D','Deng'),
@@ -17609,7 +17609,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16008,'Raul','L','Shan'),
 	 (16009,'Raul','P','Raji'),
 	 (16010,'Raul','Q','Luo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16011,'Raul','R','Rai'),
 	 (16012,'Raul','T','Nara'),
 	 (16013,'Raymond','','Fernandez'),
@@ -17620,7 +17620,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16018,'Raymond','','Sanchez'),
 	 (16019,'Raymond','','Subram'),
 	 (16020,'Raymond','A','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16021,'Raymond','A','Sai'),
 	 (16022,'Raymond','C','Srini'),
 	 (16023,'Raymond','E','Kovar'),
@@ -17631,7 +17631,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16028,'Raymond','K','Sam'),
 	 (16029,'Raymond','L','Kapoor'),
 	 (16030,'Raymond','P','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16031,'Raymond','R','Raman'),
 	 (16032,'Raymond','S','Arthur'),
 	 (16033,'Raymond','T','Malhotra'),
@@ -17642,7 +17642,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16038,'Rebecca','','Gonzalez'),
 	 (16039,'Rebecca','','Green'),
 	 (16040,'Rebecca','','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16041,'Rebecca','','King'),
 	 (16042,'Rebecca','','Laszlo'),
 	 (16043,'Rebecca','','Nicholls'),
@@ -17653,7 +17653,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16048,'Rebecca','C','Hill'),
 	 (16049,'Rebecca','E','Allen'),
 	 (16050,'Rebecca','E','Scott');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16051,'Rebecca','F','Adams'),
 	 (16052,'Rebecca','F','Lopez'),
 	 (16053,'Rebecca','H','Perez'),
@@ -17664,7 +17664,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16058,'Rebecca','R','Barley'),
 	 (16059,'Rebecca','W','Turner'),
 	 (16060,'Rebecca','W','Young');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16061,'Rebekah','','Arthur'),
 	 (16062,'Rebekah','','Blanco'),
 	 (16063,'Rebekah','','Carlson'),
@@ -17675,7 +17675,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16068,'Rebekah','','Lopez'),
 	 (16069,'Rebekah','','Munoz'),
 	 (16070,'Rebekah','','Rubio');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16071,'Rebekah','','Sandberg'),
 	 (16072,'Rebekah','','Serrano'),
 	 (16073,'Rebekah','','Srini'),
@@ -17686,7 +17686,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16078,'Rebekah','A','Martinez'),
 	 (16079,'Rebekah','A','Prasad'),
 	 (16080,'Rebekah','A','Suri');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16081,'Rebekah','A','Vazquez'),
 	 (16082,'Rebekah','B','Kapoor'),
 	 (16083,'Rebekah','B','Mehta'),
@@ -17697,7 +17697,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16088,'Rebekah','E','Ruiz'),
 	 (16089,'Rebekah','G','Malhotra'),
 	 (16090,'Rebekah','H','Alonso');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16091,'Rebekah','J','Diaz'),
 	 (16092,'Rebekah','J','Johnsen'),
 	 (16093,'Rebekah','J','Moreno'),
@@ -17708,7 +17708,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16098,'Rebekah','L','Sara'),
 	 (16099,'Rebekah','M','Garcia'),
 	 (16100,'Rebekah','M','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16101,'Rebekah','P','Gutierrez'),
 	 (16102,'Rebekah','R','Patel'),
 	 (16103,'Reed','','Koch'),
@@ -17719,7 +17719,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16108,'Regina','','Mehta'),
 	 (16109,'Regina','','Raman'),
 	 (16110,'Regina','','Sai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16111,'Regina','','Sanchez'),
 	 (16112,'Regina','','Sara'),
 	 (16113,'Regina','','Suri'),
@@ -17730,7 +17730,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16118,'Regina','J','Garcia'),
 	 (16119,'Regina','L','Gonzalez'),
 	 (16120,'Regina','M','Chandra');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16121,'Regina','M','Vance'),
 	 (16122,'Regina','R','Fernandez'),
 	 (16123,'Regina','R','Subram'),
@@ -17741,7 +17741,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16128,'Reginald','','Dominguez'),
 	 (16129,'Reginald','','Gill'),
 	 (16130,'Reginald','','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16131,'Reginald','','Navarro'),
 	 (16132,'Reginald','','Ramos'),
 	 (16133,'Reginald','','Suarez'),
@@ -17752,7 +17752,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16138,'Reginald','C','Munoz'),
 	 (16139,'Reginald','D','Blanco'),
 	 (16140,'Reginald','F','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16141,'Reginald','H','Moreno'),
 	 (16142,'Reginald','J','Serrano'),
 	 (16143,'Reginald','K','Ortega'),
@@ -17763,7 +17763,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16148,'Reinout','','Hillmann'),
 	 (16149,'Reinout','N','Hillmann'),
 	 (16150,'Renee','','Alonso');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16151,'Renee','','Carlson'),
 	 (16152,'Renee','','Dominguez'),
 	 (16153,'Renee','','Gutierrez'),
@@ -17774,7 +17774,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16158,'Renee','C','Hernandez'),
 	 (16159,'Renee','C','Moreno'),
 	 (16160,'Renee','E','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16161,'Renee','K','Ramos'),
 	 (16162,'Renee','L','Gill'),
 	 (16163,'Renee','L','Gomez'),
@@ -17785,7 +17785,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16168,'Renee','L','Suarez'),
 	 (16169,'Renee','L','Torres'),
 	 (16170,'Renée','R','Alvarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16171,'Reuben','','D''sa'),
 	 (16172,'Reuben','H','D''sa'),
 	 (16173,'Rhoda','J','Finley'),
@@ -17796,7 +17796,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16178,'Ricardo','','Luo'),
 	 (16179,'Ricardo','','Nara'),
 	 (16180,'Ricardo','','Raje');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16181,'Ricardo','','Raji'),
 	 (16182,'Ricardo','','Shan'),
 	 (16183,'Ricardo','','Sharma'),
@@ -17807,7 +17807,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16188,'Ricardo','C','Lal'),
 	 (16189,'Ricardo','C','Nath'),
 	 (16190,'Ricardo','J','Pal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16191,'Ricardo','K','Kumar'),
 	 (16192,'Ricardo','L','Chande'),
 	 (16193,'Ricardo','L','Tang'),
@@ -17818,7 +17818,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16198,'Richard','','Blue'),
 	 (16199,'Richard','','Bradley'),
 	 (16200,'Richard','','Bready');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16201,'Richard','','Brooks'),
 	 (16202,'Richard','','Carey'),
 	 (16203,'Richard','','Coleman'),
@@ -17829,7 +17829,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16208,'Richard','','Garcia'),
 	 (16209,'Richard','','Griffin'),
 	 (16210,'Richard','','Harris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16211,'Richard','','Hayes'),
 	 (16212,'Richard','','Hill'),
 	 (16213,'Richard','','Jackson'),
@@ -17840,7 +17840,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16218,'Richard','','Lum'),
 	 (16219,'Richard','','Martin'),
 	 (16220,'Richard','','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16221,'Richard','','Nelson'),
 	 (16222,'Richard','','Parker'),
 	 (16223,'Richard','','Peterson'),
@@ -17851,7 +17851,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16228,'Richard','','Rodriguez'),
 	 (16229,'Richard','','Rosemont'),
 	 (16230,'Richard','','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16231,'Richard','','Simmons'),
 	 (16232,'Richard','','Smith'),
 	 (16233,'Richard','','Taylor'),
@@ -17862,7 +17862,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16238,'Richard','','Washington'),
 	 (16239,'Richard','','Watson'),
 	 (16240,'Richard','','White');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16241,'Richard','','Wilson'),
 	 (16242,'Richard','','Wright'),
 	 (16243,'Richard','A','Bryant'),
@@ -17873,7 +17873,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16248,'Richard','A','Long'),
 	 (16249,'Richard','A','Turner'),
 	 (16250,'Richard','C','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16251,'Richard','C','Foster'),
 	 (16252,'Richard','C','Ramirez'),
 	 (16253,'Richard','C','Young'),
@@ -17884,7 +17884,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16258,'Richard','D','Sanders'),
 	 (16259,'Richard','D','Stone'),
 	 (16260,'Richard','E','Blue');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16261,'Richard','G','Anderson'),
 	 (16262,'Richard','I','Lee'),
 	 (16263,'Richard','I','Lewis'),
@@ -17895,7 +17895,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16268,'Richard','J','Ross'),
 	 (16269,'Richard','L','Cooper'),
 	 (16270,'Richard','L','Hughes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16271,'Richard','L','Irwin'),
 	 (16272,'Richard','L','Lopez'),
 	 (16273,'Richard','L','Moore'),
@@ -17906,7 +17906,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16278,'Richard','L','Sanchez'),
 	 (16279,'Richard','M','Alexander'),
 	 (16280,'Richard','M','Bentley');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16281,'Richard','M','Brown'),
 	 (16282,'Richard','M','Green'),
 	 (16283,'Richard','M','Hernandez'),
@@ -17917,7 +17917,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16288,'Richard','R','Davis'),
 	 (16289,'Richard','S','Collins'),
 	 (16290,'Richard','S','Robinson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16291,'Richard','T','Mitchell'),
 	 (16292,'Richard','T','Walker'),
 	 (16293,'Richard','T','Young'),
@@ -17928,7 +17928,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16298,'Ricky','','Alvarez'),
 	 (16299,'Ricky','','Gomez'),
 	 (16300,'Ricky','','Gutierrez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16301,'Ricky','','Munoz'),
 	 (16302,'Ricky','','Romero'),
 	 (16303,'Ricky','','Rubio'),
@@ -17939,7 +17939,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16308,'Ricky','A','Gill'),
 	 (16309,'Ricky','B','Dominguez'),
 	 (16310,'Ricky','C','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16311,'Ricky','D','Vazquez'),
 	 (16312,'Ricky','E','Diaz'),
 	 (16313,'Ricky','E','Ramos'),
@@ -17950,7 +17950,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16318,'Ricky','R','Moreno'),
 	 (16319,'Ricky','S','Alonso'),
 	 (16320,'Ricky','S','Carlson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16321,'Riley','','Alexander'),
 	 (16322,'Riley','','Bailey'),
 	 (16323,'Riley','','Bradley'),
@@ -17961,7 +17961,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16328,'Riley','','Hayes'),
 	 (16329,'Riley','','Hughes'),
 	 (16330,'Riley','','Kelly');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16331,'Riley','','Perry'),
 	 (16332,'Riley','','Rogers'),
 	 (16333,'Riley','','Ward'),
@@ -17972,7 +17972,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16338,'Riley','B','Gonzales'),
 	 (16339,'Riley','C','James'),
 	 (16340,'Riley','E','Ramirez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16341,'Riley','J','Cooper'),
 	 (16342,'Riley','J','Murphy'),
 	 (16343,'Riley','J','Sanchez'),
@@ -17983,7 +17983,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16348,'Riley','M','Butler'),
 	 (16349,'Riley','M','Long'),
 	 (16350,'Riley','M','Powell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16351,'Riley','M','Russell'),
 	 (16352,'Riley','P','Diaz'),
 	 (16353,'Riley','R','Morgan'),
@@ -17994,7 +17994,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16358,'Riley','S','Patterson'),
 	 (16359,'Riley','S','Peterson'),
 	 (16360,'Riley','T','Rivera');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16361,'Riley','T','Torres'),
 	 (16362,'Rob','','Caron'),
 	 (16363,'Rob','','Verhoff'),
@@ -18005,7 +18005,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16368,'Robert','','Anderson'),
 	 (16369,'Robert','','Brown'),
 	 (16370,'Robert','','Bryant');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16371,'Robert','','Campbell'),
 	 (16372,'Robert','','Carter'),
 	 (16373,'Robert','','Collins'),
@@ -18016,7 +18016,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16378,'Robert','','Jackson'),
 	 (16379,'Robert','','Jai'),
 	 (16380,'Robert','','Jones');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16381,'Robert','','Kelly'),
 	 (16382,'Robert','','Kumar'),
 	 (16383,'Robert','','Lyon'),
@@ -18027,7 +18027,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16388,'Robert','','Phillips'),
 	 (16389,'Robert','','Robinson'),
 	 (16390,'Robert','','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16391,'Robert','','Ross'),
 	 (16392,'Robert','','Shan'),
 	 (16393,'Robert','','Smith'),
@@ -18038,7 +18038,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16398,'Robert','A','Avalos'),
 	 (16399,'Robert','A','Baker'),
 	 (16400,'Robert','A','Chen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16401,'Robert','A','Harris'),
 	 (16402,'Robert','B','Clark'),
 	 (16403,'Robert','B','Stotka'),
@@ -18049,7 +18049,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16408,'Robert','C','Parker'),
 	 (16409,'Robert','C','Powell'),
 	 (16410,'Robert','C','Scott');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16411,'Robert','C','White'),
 	 (16412,'Robert','C','Williams'),
 	 (16413,'Robert','C','Wright'),
@@ -18060,7 +18060,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16418,'Robert','E','Allen'),
 	 (16419,'Robert','E','Jones'),
 	 (16420,'Robert','G','Young');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16421,'Robert','J','Diaz'),
 	 (16422,'Robert','J','Garcia'),
 	 (16423,'Robert','J','Perry'),
@@ -18071,7 +18071,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16428,'Robert','L','Barker'),
 	 (16429,'Robert','L','Coleman'),
 	 (16430,'Robert','L','Green');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16431,'Robert','L','Hill'),
 	 (16432,'Robert','L','Lal'),
 	 (16433,'Robert','L','Lee'),
@@ -18082,7 +18082,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16438,'Robert','L','Taylor'),
 	 (16439,'Robert','M','Bernacchi'),
 	 (16440,'Robert','M','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16441,'Robert','M','Hayes'),
 	 (16442,'Robert','M','Miller'),
 	 (16443,'Robert','M','Turner'),
@@ -18093,7 +18093,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16448,'Robert','R','Roberts'),
 	 (16449,'Robert','R','Thompson'),
 	 (16450,'Robert','R','Vessa');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16451,'Robert','S','Foster'),
 	 (16452,'Robert','S','Griffin'),
 	 (16453,'Robert','T','Walker'),
@@ -18104,7 +18104,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16458,'Roberto','','Munoz'),
 	 (16459,'Roberto','','Navarro'),
 	 (16460,'Roberto','','Ruiz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16461,'Roberto','','Sanz'),
 	 (16462,'Roberto','','Tamburello'),
 	 (16463,'Roberto','','Townsend'),
@@ -18115,7 +18115,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16468,'Roberto','D','Jiménez'),
 	 (16469,'Roberto','D','Suarez'),
 	 (16470,'Roberto','L','Rubio');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16471,'Roberto','M','Alonso'),
 	 (16472,'Roberto','M','Ramos'),
 	 (16473,'Roberto','R','Moreno'),
@@ -18126,7 +18126,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16478,'Robin','','Dominguez'),
 	 (16479,'Robin','','Gutierrez'),
 	 (16480,'Robin','','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16481,'Robin','','Moreno'),
 	 (16482,'Robin','','Ortega'),
 	 (16483,'Robin','','Ramos'),
@@ -18137,7 +18137,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16488,'Robin','H','Browning'),
 	 (16489,'Robin','H','Torres'),
 	 (16490,'Robin','J','Gill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16491,'Robin','J','Navarro'),
 	 (16492,'Robin','L','Sanz'),
 	 (16493,'Robin','M','McGuigan'),
@@ -18148,7 +18148,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16498,'Robyn','','Sanz'),
 	 (16499,'Robyn','','Suarez'),
 	 (16500,'Robyn','','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16501,'Robyn','A','Rubio'),
 	 (16502,'Robyn','C','Alonso'),
 	 (16503,'Robyn','C','Romero'),
@@ -18159,7 +18159,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16508,'Robyn','M','Carlson'),
 	 (16509,'Robyn','M','Jimenez'),
 	 (16510,'Robyn','O','Ramos');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16511,'Robyn','P','Dominguez'),
 	 (16512,'Robyn','R','Blanco'),
 	 (16513,'Robyn','Z','Diaz'),
@@ -18170,7 +18170,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16518,'Rodney','A','Ortega'),
 	 (16519,'Rodney','C','Ramos'),
 	 (16520,'Rodney','D','Alvarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16521,'Rodney','I','Moreno'),
 	 (16522,'Rodney','J','Gutierrez'),
 	 (16523,'Rodney','L','Navarro'),
@@ -18181,7 +18181,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16528,'Rodney','R','Alonso'),
 	 (16529,'Rodney','R','Jimenez'),
 	 (16530,'Rodney','S','Dominguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16531,'Rodrigo','D','Ready'),
 	 (16532,'Roger','','Andersen'),
 	 (16533,'Roger','','Chande'),
@@ -18192,7 +18192,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16538,'Roger','','Jai'),
 	 (16539,'Roger','','Lal'),
 	 (16540,'Roger','','Lengel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16541,'Roger','','Nara'),
 	 (16542,'Roger','','Nath'),
 	 (16543,'Roger','','Van Houten'),
@@ -18203,7 +18203,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16548,'Roger','','Zhang'),
 	 (16549,'Roger','','Zhao'),
 	 (16550,'Roger','','Zheng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16551,'Roger','A','Cai'),
 	 (16552,'Roger','A','Goel'),
 	 (16553,'Roger','A','Xu'),
@@ -18214,7 +18214,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16558,'Roger','D','Pal'),
 	 (16559,'Roger','E','Liu'),
 	 (16560,'Roger','E','Raje');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16561,'Roger','F','Lu'),
 	 (16562,'Roger','G','Shen'),
 	 (16563,'Roger','J','Black'),
@@ -18225,7 +18225,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16568,'Roger','L','Sharma'),
 	 (16569,'Roger','L','She'),
 	 (16570,'Roger','L','Zhou');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16571,'Roger','M','Raji'),
 	 (16572,'Roger','M','Tang'),
 	 (16573,'Roger','P','Chen'),
@@ -18236,7 +18236,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16578,'Roger','V','Ma'),
 	 (16579,'Roger','V','Xie'),
 	 (16580,'Roger','W','Lin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16581,'Rohinton','','Wadia'),
 	 (16582,'Rohinton','H','Wadia'),
 	 (16583,'Rolando','T','Smith'),
@@ -18247,7 +18247,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16588,'Ronald','','Madan'),
 	 (16589,'Ronald','','Patel'),
 	 (16590,'Ronald','','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16591,'Ronald','','Prasad'),
 	 (16592,'Ronald','','Rana'),
 	 (16593,'Ronald','','Sanchez'),
@@ -18258,7 +18258,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16598,'Ronald','D','Arthur'),
 	 (16599,'Ronald','D','Garcia'),
 	 (16600,'Ronald','E','Srini');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16601,'Ronald','F','Mehta'),
 	 (16602,'Ronald','H','Chandra'),
 	 (16603,'Ronald','J','Martinez'),
@@ -18269,7 +18269,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16608,'Ronald','P','Subram'),
 	 (16609,'Ronnie','','He'),
 	 (16610,'Ronnie','','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16611,'Ronnie','','Huang'),
 	 (16612,'Ronnie','','Li'),
 	 (16613,'Ronnie','','Liang'),
@@ -18280,7 +18280,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16618,'Ronnie','','Xu'),
 	 (16619,'Ronnie','','Yang'),
 	 (16620,'Ronnie','','Zhang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16621,'Ronnie','','Zhao'),
 	 (16622,'Ronnie','C','Ma'),
 	 (16623,'Ronnie','D','Lin'),
@@ -18291,7 +18291,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16628,'Ronnie','W','Cai'),
 	 (16629,'Rosa','','Cai'),
 	 (16630,'Rosa','','Chen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16631,'Rosa','','Gao'),
 	 (16632,'Rosa','','Li'),
 	 (16633,'Rosa','','Lin'),
@@ -18302,7 +18302,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16638,'Rosa','','Yang'),
 	 (16639,'Rosa','','Zeng'),
 	 (16640,'Rosa','A','Lu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16641,'Rosa','A','Zhao'),
 	 (16642,'Rosa','C','Ye'),
 	 (16643,'Rosa','D','Zhou'),
@@ -18313,7 +18313,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16648,'Rosa','K','Zhang'),
 	 (16649,'Rosa','L','Liang'),
 	 (16650,'Rosa','M','Guo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16651,'Rosa','M','Ma'),
 	 (16652,'Rosa','P','Huang'),
 	 (16653,'Rose','','Hirsch'),
@@ -18324,7 +18324,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16658,'Ross','','Gutierrez'),
 	 (16659,'Ross','','Hernandez'),
 	 (16660,'Ross','','Johnsen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16661,'Ross','','Lopez'),
 	 (16662,'Ross','','Martin'),
 	 (16663,'Ross','','Mehta'),
@@ -18335,7 +18335,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16668,'Ross','','Ramos'),
 	 (16669,'Ross','','Rana'),
 	 (16670,'Ross','','Rubio');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16671,'Ross','','Sanchez'),
 	 (16672,'Ross','','Sanz'),
 	 (16673,'Ross','','Sara'),
@@ -18346,7 +18346,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16678,'Ross','B','Munoz'),
 	 (16679,'Ross','C','Arun'),
 	 (16680,'Ross','C','Madan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16681,'Ross','C','Suarez'),
 	 (16682,'Ross','D','Rodriguez'),
 	 (16683,'Ross','E','Diaz'),
@@ -18357,7 +18357,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16688,'Ross','J','Vance'),
 	 (16689,'Ross','K','Ruiz'),
 	 (16690,'Ross','L','Subram');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16691,'Ross','L','Torres'),
 	 (16692,'Ross','M','Carlson'),
 	 (16693,'Ross','R','Fernandez'),
@@ -18368,7 +18368,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16698,'Roy','','Alonso'),
 	 (16699,'Roy','','Gill'),
 	 (16700,'Roy','','Jimenez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16701,'Roy','','Kapoor'),
 	 (16702,'Roy','','Madan'),
 	 (16703,'Roy','','Martin'),
@@ -18379,7 +18379,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16708,'Roy','','Saunders'),
 	 (16709,'Roy','','Srini'),
 	 (16710,'Roy','','Subram');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16711,'Roy','','Sullivan'),
 	 (16712,'Roy','','Torres'),
 	 (16713,'Roy','','Vance'),
@@ -18390,7 +18390,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16718,'Roy','C','Carlson'),
 	 (16719,'Roy','C','Dominguez'),
 	 (16720,'Roy','C','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16721,'Roy','C','Rubio'),
 	 (16722,'Roy','D','Blanco'),
 	 (16723,'Roy','H','Garcia'),
@@ -18401,7 +18401,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16728,'Roy','L','Ruiz'),
 	 (16729,'Roy','M','Gonzalez'),
 	 (16730,'Roy','M','Rana');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16731,'Roy','M','Serrano'),
 	 (16732,'Roy','M','Suri'),
 	 (16733,'Roy','P','Malhotra'),
@@ -18412,7 +18412,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16738,'Roy','T','Navarro'),
 	 (16739,'Roy','W','Arun'),
 	 (16740,'Ruben','','Alvarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16741,'Ruben','','Arun'),
 	 (16742,'Ruben','','Chandra'),
 	 (16743,'Ruben','','Dominguez'),
@@ -18423,7 +18423,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16748,'Ruben','','Mehta'),
 	 (16749,'Ruben','','Navarro'),
 	 (16750,'Ruben','','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16751,'Ruben','','Prasad'),
 	 (16752,'Ruben','','Raman'),
 	 (16753,'Ruben','','Rana'),
@@ -18434,7 +18434,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16758,'Ruben','','Subram'),
 	 (16759,'Ruben','','Torres'),
 	 (16760,'Ruben','','Vance');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16761,'Ruben','A','Alonso'),
 	 (16762,'Ruben','A','Diaz'),
 	 (16763,'Ruben','A','Gonzalez'),
@@ -18445,7 +18445,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16768,'Ruben','A','Sara'),
 	 (16769,'Ruben','B','Vazquez'),
 	 (16770,'Ruben','C','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16771,'Ruben','D','Gill'),
 	 (16772,'Ruben','D','Kapoor'),
 	 (16773,'Ruben','D','Rubio'),
@@ -18456,7 +18456,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16778,'Ruben','L','Muñoz'),
 	 (16779,'Ruben','L','Ramos'),
 	 (16780,'Ruben','L','Serrano');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16781,'Ruben','M','Madan'),
 	 (16782,'Ruben','M','Malhotra'),
 	 (16783,'Ruben','S','Sanchez'),
@@ -18467,7 +18467,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16788,'Russell','','Black'),
 	 (16789,'Russell','','Goel'),
 	 (16790,'Russell','','Hunter');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16791,'Russell','','King'),
 	 (16792,'Russell','','Nara'),
 	 (16793,'Russell','','Nath'),
@@ -18478,7 +18478,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16798,'Russell','','Tang'),
 	 (16799,'Russell','','Xie'),
 	 (16800,'Russell','','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16801,'Russell','A','Rai'),
 	 (16802,'Russell','A','Reed'),
 	 (16803,'Russell','A','Sharma'),
@@ -18489,7 +18489,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16808,'Russell','J','Deng'),
 	 (16809,'Russell','L','Jai'),
 	 (16810,'Russell','M','King');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16811,'Russell','M','Shen'),
 	 (16812,'Russell','S','Luo'),
 	 (16813,'Ruth','','Chandra'),
@@ -18500,7 +18500,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16818,'Ruth','','Madan'),
 	 (16819,'Ruth','','Mehta'),
 	 (16820,'Ruth','','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16821,'Ruth','','Rana'),
 	 (16822,'Ruth','','Sullivan'),
 	 (16823,'Ruth','A','Choin'),
@@ -18511,7 +18511,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16828,'Ruth','D','Lopez'),
 	 (16829,'Ruth','D','Malhotra'),
 	 (16830,'Ruth','D','Sai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16831,'Ruth','D','Vance'),
 	 (16832,'Ruth','E','Sanchez'),
 	 (16833,'Ruth','J','Suffin'),
@@ -18522,7 +18522,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16838,'Ryan','','Brown'),
 	 (16839,'Ryan','','Calafato'),
 	 (16840,'Ryan','','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16841,'Ryan','','Cornelsen'),
 	 (16842,'Ryan','','Danner'),
 	 (16843,'Ryan','','Harris'),
@@ -18533,7 +18533,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16848,'Ryan','','Jones'),
 	 (16849,'Ryan','','Kumar'),
 	 (16850,'Ryan','','Lal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16851,'Ryan','','Lee'),
 	 (16852,'Ryan','','Li'),
 	 (16853,'Ryan','','Martin'),
@@ -18544,7 +18544,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16858,'Ryan','','Simmons'),
 	 (16859,'Ryan','','Taylor'),
 	 (16860,'Ryan','','Thomas');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16861,'Ryan','','Washington'),
 	 (16862,'Ryan','','Yang'),
 	 (16863,'Ryan','','Zhang'),
@@ -18555,7 +18555,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16868,'Ryan','A','Walker'),
 	 (16869,'Ryan','B','Patterson'),
 	 (16870,'Ryan','C','Davis');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16871,'Ryan','C','Hughes'),
 	 (16872,'Ryan','C','Jenkins'),
 	 (16873,'Ryan','C','Smith'),
@@ -18566,7 +18566,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16878,'Ryan','G','Jackson'),
 	 (16879,'Ryan','G','Russell'),
 	 (16880,'Ryan','H','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16881,'Ryan','J','Alexander'),
 	 (16882,'Ryan','J','Diaz'),
 	 (16883,'Ryan','J','Garcia'),
@@ -18577,7 +18577,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16888,'Ryan','M','Henderson'),
 	 (16889,'Ryan','M','Rodriguez'),
 	 (16890,'Ryan','M','Thompson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16891,'Ryan','R','Shan'),
 	 (16892,'Ryan','R','Williams'),
 	 (16893,'Ryan','S','Clark'),
@@ -18588,7 +18588,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16898,'Sabrina','','Alvarez'),
 	 (16899,'Sabrina','','Blanco'),
 	 (16900,'Sabrina','','Jimenez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16901,'Sabrina','','Serrano'),
 	 (16902,'Sabrina','A','Carlson'),
 	 (16903,'Sabrina','A','Rubio'),
@@ -18599,7 +18599,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16908,'Sabrina','L','Moreno'),
 	 (16909,'Sabrina','L','Ramos'),
 	 (16910,'Sabrina','L','Romero');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16911,'Sabrina','M','Dominguez'),
 	 (16912,'Sabrina','P','Hernandez'),
 	 (16913,'Sabrina','R','Alonso'),
@@ -18610,7 +18610,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16918,'Salman','','Mohamed'),
 	 (16919,'Salman','','Mughal'),
 	 (16920,'Sam','','Abolrous');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16921,'Sam','','Wilson'),
 	 (16922,'Sam','J','Foster'),
 	 (16923,'Sam','L','Wheeler'),
@@ -18621,7 +18621,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16928,'Samantha','','Gonzales'),
 	 (16929,'Samantha','','Griffin'),
 	 (16930,'Samantha','','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16931,'Samantha','','Hayes'),
 	 (16932,'Samantha','','Hughes'),
 	 (16933,'Samantha','','Jackson'),
@@ -18632,7 +18632,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16938,'Samantha','','Patterson'),
 	 (16939,'Samantha','','Powell'),
 	 (16940,'Samantha','','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16941,'Samantha','','Smith'),
 	 (16942,'Samantha','','Thomas'),
 	 (16943,'Samantha','','Walker'),
@@ -18643,7 +18643,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16948,'Samantha','A','Mohamed'),
 	 (16949,'Samantha','A','Thompson'),
 	 (16950,'Samantha','B','Lee');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16951,'Samantha','C','Coleman'),
 	 (16952,'Samantha','C','Martinez'),
 	 (16953,'Samantha','C','Williams'),
@@ -18654,7 +18654,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16958,'Samantha','J','Barnes'),
 	 (16959,'Samantha','J','Smith'),
 	 (16960,'Samantha','K','Taylor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16961,'Samantha','L','Wood'),
 	 (16962,'Samantha','M','Henderson'),
 	 (16963,'Samantha','N','Alexander'),
@@ -18665,7 +18665,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16968,'Samantha','S','Bennett'),
 	 (16969,'Samantha','V','Simmons'),
 	 (16970,'Sameer','A','Tejani');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16971,'Samuel','','Adams'),
 	 (16972,'Samuel','','Alexander'),
 	 (16973,'Samuel','','Campbell'),
@@ -18676,7 +18676,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16978,'Samuel','','Garcia'),
 	 (16979,'Samuel','','Gonzales'),
 	 (16980,'Samuel','','Hayes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16981,'Samuel','','Jenkins'),
 	 (16982,'Samuel','','King'),
 	 (16983,'Samuel','','Martin'),
@@ -18687,7 +18687,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16988,'Samuel','','Powell'),
 	 (16989,'Samuel','','Sharma'),
 	 (16990,'Samuel','','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16991,'Samuel','','Thomas'),
 	 (16992,'Samuel','','Turner'),
 	 (16993,'Samuel','','Williams'),
@@ -18698,7 +18698,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (16998,'Samuel','A','Taylor'),
 	 (16999,'Samuel','A','Washington'),
 	 (17000,'Samuel','B','Johnston');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17001,'Samuel','C','Mitchell'),
 	 (17002,'Samuel','C','Scott'),
 	 (17003,'Samuel','D','Anderson'),
@@ -18709,7 +18709,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17008,'Samuel','E','Shan'),
 	 (17009,'Samuel','F','Jackson'),
 	 (17010,'Samuel','G','Flores');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17011,'Samuel','H','Lewis'),
 	 (17012,'Samuel','J','Hill'),
 	 (17013,'Samuel','J','Martinez'),
@@ -18720,7 +18720,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17018,'Samuel','K','Griffin'),
 	 (17019,'Samuel','L','Gonzalez'),
 	 (17020,'Samuel','L','Henderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17021,'Samuel','L','Jai'),
 	 (17022,'Samuel','L','Lopez'),
 	 (17023,'Samuel','L','Robinson'),
@@ -18731,7 +18731,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17028,'Samuel','M','Harris'),
 	 (17029,'Samuel','N','Agcaoili'),
 	 (17030,'Samuel','N','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17031,'Samuel','P','Jones'),
 	 (17032,'Samuel','P','Rodriguez'),
 	 (17033,'Samuel','R','Hernandez'),
@@ -18742,7 +18742,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17038,'Samuel','T','Butler'),
 	 (17039,'Samuel','T','Ross'),
 	 (17040,'Samuel','V','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17041,'Samuel','W','Allen'),
 	 (17042,'Samuel','W','Hughes'),
 	 (17043,'Samuel','W','Roberts'),
@@ -18753,7 +18753,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17048,'Sandra','','Gao'),
 	 (17049,'Sandra','','Guo'),
 	 (17050,'Sandra','','He');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17051,'Sandra','','Li'),
 	 (17052,'Sandra','','Martinez'),
 	 (17053,'Sandra','','Reátegui Alayo'),
@@ -18764,7 +18764,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17058,'Sandra','','Zeng'),
 	 (17059,'Sandra','A','Lin'),
 	 (17060,'Sandra','A','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17061,'Sandra','B','Maynard'),
 	 (17062,'Sandra','B','Zhou'),
 	 (17063,'Sandra','C','Huang'),
@@ -18775,7 +18775,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17068,'Sandra','J','Liang'),
 	 (17069,'Sandra','L','Sun'),
 	 (17070,'Sandra','N','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17071,'Sandra','N','Lu'),
 	 (17072,'Sandra','N','Ma'),
 	 (17073,'Sandra','P','Zheng'),
@@ -18786,7 +18786,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17078,'Sara','','Campbell'),
 	 (17079,'Sara','','Carter'),
 	 (17080,'Sara','','Cooper');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17081,'Sara','','Gonzalez'),
 	 (17082,'Sara','','Gray'),
 	 (17083,'Sara','','Hernandez'),
@@ -18797,7 +18797,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17088,'Sara','','Morris'),
 	 (17089,'Sara','','Parker'),
 	 (17090,'Sara','','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17091,'Sara','','Peterson'),
 	 (17092,'Sara','','Richardson'),
 	 (17093,'Sara','','Rivera'),
@@ -18808,7 +18808,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17098,'Sara','','Wright'),
 	 (17099,'Sara','','Young'),
 	 (17100,'Sara','A','Adams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17101,'Sara','A','Brooks'),
 	 (17102,'Sara','A','Evans'),
 	 (17103,'Sara','A','Lopez'),
@@ -18819,7 +18819,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17108,'Sara','C','Watson'),
 	 (17109,'Sara','D','Roberts'),
 	 (17110,'Sara','D','Sanders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17111,'Sara','D','Torres'),
 	 (17112,'Sara','E','Cook'),
 	 (17113,'Sara','E','Pettengill'),
@@ -18830,7 +18830,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17118,'Sara','K','Hill'),
 	 (17119,'Sara','M','Baker'),
 	 (17120,'Sara','M','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17121,'Sara','N','Breer'),
 	 (17122,'Sara','P','Collins'),
 	 (17123,'Sara','P','Cox'),
@@ -18841,7 +18841,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17128,'Sarah','','Bennett'),
 	 (17129,'Sarah','','Bryant'),
 	 (17130,'Sarah','','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17131,'Sarah','','Clark'),
 	 (17132,'Sarah','','Diaz'),
 	 (17133,'Sarah','','Flores'),
@@ -18852,7 +18852,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17138,'Sarah','','Long'),
 	 (17139,'Sarah','','Miller'),
 	 (17140,'Sarah','','Moore');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17141,'Sarah','','Taylor'),
 	 (17142,'Sarah','','Thompson'),
 	 (17143,'Sarah','','White'),
@@ -18863,7 +18863,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17148,'Sarah','D','Smith'),
 	 (17149,'Sarah','E','Johnson'),
 	 (17150,'Sarah','E','Lewis');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17151,'Sarah','F','Thomas'),
 	 (17152,'Sarah','G','Patterson'),
 	 (17153,'Sarah','H','Powell'),
@@ -18874,7 +18874,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17158,'Sarah','L','Ross'),
 	 (17159,'Sarah','L','Russell'),
 	 (17160,'Sarah','L','Wood');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17161,'Sarah','M','Brown'),
 	 (17162,'Sarah','M','Henderson'),
 	 (17163,'Sarah','M','Lee'),
@@ -18885,7 +18885,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17168,'Sarah','S','Coleman'),
 	 (17169,'Sarah','S','Martinez'),
 	 (17170,'Sarah','T','Anderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17171,'Sarah','T','Jones'),
 	 (17172,'Sarah','V','Davis'),
 	 (17173,'Sarah','V','Simmons'),
@@ -18896,7 +18896,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17178,'Savannah','','Campbell'),
 	 (17179,'Savannah','','Collins'),
 	 (17180,'Savannah','','Edwards');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17181,'Savannah','','James'),
 	 (17182,'Savannah','','Lopez'),
 	 (17183,'Savannah','','Mitchell'),
@@ -18907,7 +18907,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17188,'Savannah','','Rivera'),
 	 (17189,'Savannah','','Sanchez'),
 	 (17190,'Savannah','','Travers');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17191,'Savannah','','Young'),
 	 (17192,'Savannah','A','Cox'),
 	 (17193,'Savannah','A','Reed'),
@@ -18918,7 +18918,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17198,'Savannah','E','Hill'),
 	 (17199,'Savannah','E','Scott'),
 	 (17200,'Savannah','E','Turner');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17201,'Savannah','F','Gonzalez'),
 	 (17202,'Savannah','F','Hernandez'),
 	 (17203,'Savannah','H','King'),
@@ -18929,7 +18929,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17208,'Savannah','J','Sanders'),
 	 (17209,'Savannah','K','Evans'),
 	 (17210,'Savannah','K','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17211,'Savannah','K','Roberts'),
 	 (17212,'Savannah','K','Stewart'),
 	 (17213,'Savannah','L','Howard'),
@@ -18940,7 +18940,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17218,'Savannah','P','Kelly'),
 	 (17219,'Savannah','P','Morgan'),
 	 (17220,'Savannah','R','Brooks');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17221,'Savannah','S','Watson'),
 	 (17222,'Scot','','Schulte'),
 	 (17223,'Scot','A','Bent'),
@@ -18951,7 +18951,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17228,'Scott','','Konersmann'),
 	 (17229,'Scott','','MacDonald'),
 	 (17230,'Scott','','Mitchell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17231,'Scott','','Oveson'),
 	 (17232,'Scott','','Seely'),
 	 (17233,'Scott','A','Colvin'),
@@ -18962,7 +18962,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17238,'Sean','','Brooks'),
 	 (17239,'Sean','','Chai'),
 	 (17240,'Sean','','Cook');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17241,'Sean','','Gonzalez'),
 	 (17242,'Sean','','Green'),
 	 (17243,'Sean','','Hill'),
@@ -18973,7 +18973,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17248,'Sean','','Murphy'),
 	 (17249,'Sean','','Nelson'),
 	 (17250,'Sean','','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17251,'Sean','','Purcell'),
 	 (17252,'Sean','','Sanchez'),
 	 (17253,'Sean','','Sanders'),
@@ -18984,7 +18984,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17258,'Sean','','Watson'),
 	 (17259,'Sean','A','Collins'),
 	 (17260,'Sean','A','Evans');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17261,'Sean','A','Howard'),
 	 (17262,'Sean','A','Wright'),
 	 (17263,'Sean','B','King'),
@@ -18995,7 +18995,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17268,'Sean','G','Rogers'),
 	 (17269,'Sean','J','Adams'),
 	 (17270,'Sean','J','Cox');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17271,'Sean','J','Lunt'),
 	 (17272,'Sean','K','Morris'),
 	 (17273,'Sean','K','Roberts'),
@@ -19006,7 +19006,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17278,'Sean','L','Gray'),
 	 (17279,'Sean','L','Mitchell'),
 	 (17280,'Sean','L','Reed');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17281,'Sean','M','Carter'),
 	 (17282,'Sean','N','Chai'),
 	 (17283,'Sean','P','Alexander'),
@@ -19017,7 +19017,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17288,'Sean','T','Baker'),
 	 (17289,'Sean','T','Richardson'),
 	 (17290,'Sebastian','','Brooks');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17291,'Sebastian','','Howard'),
 	 (17292,'Sebastian','','Morris'),
 	 (17293,'Sebastian','','Sanchez'),
@@ -19028,7 +19028,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17298,'Sebastian','C','James'),
 	 (17299,'Sebastian','C','Morgan'),
 	 (17300,'Sebastian','C','Ramirez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17301,'Sebastian','C','Richardson'),
 	 (17302,'Sebastian','D','Bell'),
 	 (17303,'Sebastian','E','Reed'),
@@ -19039,7 +19039,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17308,'Sebastian','M','Cook'),
 	 (17309,'Sebastian','P','Rogers'),
 	 (17310,'Sebastian','R','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17311,'Sebastian','V','Torres'),
 	 (17312,'Selena','R','Alvarado'),
 	 (17313,'Sergio','','Arun'),
@@ -19050,7 +19050,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17318,'Sergio','','Sai'),
 	 (17319,'Sergio','','Srini'),
 	 (17320,'Sergio','','Subram');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17321,'Sergio','A','Chandra'),
 	 (17322,'Sergio','A','Malhotra'),
 	 (17323,'Sergio','A','Rana'),
@@ -19061,7 +19061,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17328,'Sergio','D','Rodriguez'),
 	 (17329,'Sergio','E','Kapoor'),
 	 (17330,'Sergio','J','Prasad');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17331,'Sergio','K','Fernandez'),
 	 (17332,'Sergio','L','Lopez'),
 	 (17333,'Sergio','S','Gonzalez'),
@@ -19072,7 +19072,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17338,'Seth','','Bennett'),
 	 (17339,'Seth','','Brooks'),
 	 (17340,'Seth','','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17341,'Seth','','Campbell'),
 	 (17342,'Seth','','Collins'),
 	 (17343,'Seth','','Cook'),
@@ -19083,7 +19083,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17348,'Seth','','Howard'),
 	 (17349,'Seth','','Hughes'),
 	 (17350,'Seth','','Johnson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17351,'Seth','','Jones'),
 	 (17352,'Seth','','Lewis'),
 	 (17353,'Seth','','Martin'),
@@ -19094,7 +19094,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17358,'Seth','','Nelson'),
 	 (17359,'Seth','','Perez'),
 	 (17360,'Seth','','Perry');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17361,'Seth','','Phillips'),
 	 (17362,'Seth','','Powell'),
 	 (17363,'Seth','','Rivera'),
@@ -19105,7 +19105,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17368,'Seth','','Scott'),
 	 (17369,'Seth','','Thomas'),
 	 (17370,'Seth','','Turner');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17371,'Seth','A','Brown'),
 	 (17372,'Seth','A','Carter'),
 	 (17373,'Seth','A','Davis'),
@@ -19116,7 +19116,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17378,'Seth','A','Stewart'),
 	 (17379,'Seth','A','Torres'),
 	 (17380,'Seth','A','Williams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17381,'Seth','C','Hayes'),
 	 (17382,'Seth','C','Lee'),
 	 (17383,'Seth','C','Robinson'),
@@ -19127,7 +19127,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17388,'Seth','E','Evans'),
 	 (17389,'Seth','E','Simmons'),
 	 (17390,'Seth','E','Walker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17391,'Seth','E','Ward'),
 	 (17392,'Seth','E','Wilson'),
 	 (17393,'Seth','H','Clark'),
@@ -19138,7 +19138,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17398,'Seth','J','Washington'),
 	 (17399,'Seth','L','Adams'),
 	 (17400,'Seth','L','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17401,'Seth','L','Garcia'),
 	 (17402,'Seth','L','Gonzalez'),
 	 (17403,'Seth','L','King'),
@@ -19149,7 +19149,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17408,'Seth','M','Edwards'),
 	 (17409,'Seth','M','Gray'),
 	 (17410,'Seth','M','Harris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17411,'Seth','M','Hernandez'),
 	 (17412,'Seth','M','Hill'),
 	 (17413,'Seth','M','price'),
@@ -19160,7 +19160,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17418,'Seth','R','Jackson'),
 	 (17419,'Seth','R','Parker'),
 	 (17420,'Seth','R','Ramirez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17421,'Seth','R','Rogers'),
 	 (17422,'Seth','R','Smith'),
 	 (17423,'Seth','R','Taylor'),
@@ -19171,7 +19171,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17428,'Shammi','G','Mohamed'),
 	 (17429,'Shanay','B','Steelman'),
 	 (17430,'Shane','','Arun');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17431,'Shane','','Lopez'),
 	 (17432,'Shane','','Madan'),
 	 (17433,'Shane','','Raman'),
@@ -19182,7 +19182,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17438,'Shane','D','Kapoor'),
 	 (17439,'Shane','D','Srini'),
 	 (17440,'Shane','E','Malhotra');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17441,'Shane','J','Belli'),
 	 (17442,'Shane','J','Martinez'),
 	 (17443,'Shane','L','Kovar'),
@@ -19193,7 +19193,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17448,'Shane','R','Rodriguez'),
 	 (17449,'Shane','R','Sai'),
 	 (17450,'Shane','S','Kim');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17451,'Shane','S','Mehta'),
 	 (17452,'Shane','Y','Gonzalez'),
 	 (17453,'Shannon','','Alonso'),
@@ -19204,7 +19204,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17458,'Shannon','','Gill'),
 	 (17459,'Shannon','','Gomez'),
 	 (17460,'Shannon','','He');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17461,'Shannon','','Hu'),
 	 (17462,'Shannon','','Liang'),
 	 (17463,'Shannon','','Ortega'),
@@ -19215,7 +19215,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17468,'Shannon','','Vazquez'),
 	 (17469,'Shannon','','Wang'),
 	 (17470,'Shannon','','Yang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17471,'Shannon','','Zhao'),
 	 (17472,'Shannon','A','Li'),
 	 (17473,'Shannon','C','Carlson'),
@@ -19226,7 +19226,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17478,'Shannon','D','Zeng'),
 	 (17479,'Shannon','F','Hernandez'),
 	 (17480,'Shannon','F','Wu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17481,'Shannon','H','Huang'),
 	 (17482,'Shannon','J','Romero'),
 	 (17483,'Shannon','L','Dominguez'),
@@ -19237,7 +19237,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17488,'Shannon','P','Elliott'),
 	 (17489,'Shannon','R','Navarro'),
 	 (17490,'Shannon','R','Serrano');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17491,'Shannon','R','Suarez'),
 	 (17492,'Shannon','S','Munoz'),
 	 (17493,'Shannon','W','Martin'),
@@ -19248,7 +19248,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17498,'Sharon','','Hoepf'),
 	 (17499,'Sharon','','Nara'),
 	 (17500,'Sharon','','Rai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17501,'Sharon','','Raji'),
 	 (17502,'Sharon','','Salavaria'),
 	 (17503,'Sharon','','Xie'),
@@ -19259,7 +19259,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17508,'Sharon','A','Xu'),
 	 (17509,'Sharon','B','Salavaria'),
 	 (17510,'Sharon','C','Kumar');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17511,'Sharon','D','Luo'),
 	 (17512,'Sharon','E','Nath'),
 	 (17513,'Sharon','F','Lynn'),
@@ -19270,7 +19270,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17518,'Sharon','L','Simpson'),
 	 (17519,'Sharon','M','Goel'),
 	 (17520,'Sharon','M','Raje');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17521,'Sharon','M','Tang'),
 	 (17522,'Sharon','T','Sharma'),
 	 (17523,'Shaun','','Anand'),
@@ -19281,7 +19281,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17528,'Shaun','','Luo'),
 	 (17529,'Shaun','','Pal'),
 	 (17530,'Shaun','','Rai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17531,'Shaun','','Raji'),
 	 (17532,'Shaun','','Shan'),
 	 (17533,'Shaun','','She'),
@@ -19292,7 +19292,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17538,'Shaun','L','Goel'),
 	 (17539,'Shaun','L','Sharma'),
 	 (17540,'Shaun','M','Black');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17541,'Shaun','N','Andersen'),
 	 (17542,'Shaun','N','Xu'),
 	 (17543,'Shaun','S','Tang'),
@@ -19303,7 +19303,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17548,'Shawn','','Raje'),
 	 (17549,'Shawn','','Raji'),
 	 (17550,'Shawn','','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17551,'Shawn','','Shen'),
 	 (17552,'Shawn','','Tang'),
 	 (17553,'Shawn','','Xu'),
@@ -19314,7 +19314,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17558,'Shawn','E','Jai'),
 	 (17559,'Shawn','E','Shan'),
 	 (17560,'Shawn','J','Anand');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17561,'Shawn','J','She'),
 	 (17562,'Shawn','J','Xie'),
 	 (17563,'Shawn','L','Goel'),
@@ -19325,7 +19325,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17568,'Shawn','R','Demicell'),
 	 (17569,'Shawn','S','Chander'),
 	 (17570,'Shawna','','Lal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17571,'Shawna','','Luo'),
 	 (17572,'Shawna','','Simpson'),
 	 (17573,'Shawna','','Xu'),
@@ -19336,7 +19336,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17578,'Shawna','D','Yuan'),
 	 (17579,'Shawna','E','Rai'),
 	 (17580,'Shawna','F','Raje');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17581,'Shawna','H','Chander'),
 	 (17582,'Shawna','J','Xie'),
 	 (17583,'Shawna','K','Shan'),
@@ -19347,7 +19347,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17588,'Shawna','P','Raji'),
 	 (17589,'Shawna','R','She'),
 	 (17590,'Shawna','W','Jai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17591,'Shawna','W','Pal'),
 	 (17592,'Shay','','Bashary'),
 	 (17593,'Sheela','','Word'),
@@ -19358,7 +19358,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17598,'Sheena','','Goel'),
 	 (17599,'Sheena','','Kennedy'),
 	 (17600,'Sheena','','Lal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17601,'Sheena','','Nara'),
 	 (17602,'Sheena','','Nath'),
 	 (17603,'Sheena','','Rai'),
@@ -19369,7 +19369,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17608,'Sheena','A','Luo'),
 	 (17609,'Sheena','C','Black'),
 	 (17610,'Sheena','D','Pal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17611,'Sheena','J','Jai'),
 	 (17612,'Sheena','J','Raji'),
 	 (17613,'Sheena','J','Shan'),
@@ -19380,7 +19380,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17618,'Sheila','','Alvarez'),
 	 (17619,'Sheila','','Gutierrez'),
 	 (17620,'Sheila','','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17621,'Sheila','','Munoz'),
 	 (17622,'Sheila','','Ramos'),
 	 (17623,'Sheila','','Romero'),
@@ -19391,7 +19391,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17628,'Sheila','C','Moreno'),
 	 (17629,'Sheila','C','Serrano'),
 	 (17630,'Sheila','C','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17631,'Sheila','I','Blanco'),
 	 (17632,'Sheila','J','Gomez'),
 	 (17633,'Sheila','J','Sanz'),
@@ -19402,7 +19402,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17638,'Shelby','','Bailey'),
 	 (17639,'Shelby','','Bradley'),
 	 (17640,'Shelby','','Brooks');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17641,'Shelby','','Cooper'),
 	 (17642,'Shelby','','Morgan'),
 	 (17643,'Shelby','','Morris'),
@@ -19413,7 +19413,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17648,'Shelby','','Rogers'),
 	 (17649,'Shelby','','Sanchez'),
 	 (17650,'Shelby','','Stewart');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17651,'Shelby','','Ward'),
 	 (17652,'Shelby','A','James'),
 	 (17653,'Shelby','B','Howard'),
@@ -19424,7 +19424,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17658,'Shelby','M','Cook'),
 	 (17659,'Shelby','M','Reed'),
 	 (17660,'Shelby','N','Kelly');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17661,'Shelby','S','Sanders'),
 	 (17662,'Shelby','V','Cox'),
 	 (17663,'Shelley','','Dyck'),
@@ -19435,7 +19435,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17668,'Shirley','R','Bruner'),
 	 (17669,'Shish','','Shridhar'),
 	 (17670,'Shu','K','Ito');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17671,'Shyamalan','','Pather'),
 	 (17672,'Sidney','','Higa'),
 	 (17673,'Sidney','M','Higa'),
@@ -19446,7 +19446,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17678,'Sierra','','Evans'),
 	 (17679,'Sierra','','Gonzalez'),
 	 (17680,'Sierra','','Hernandez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17681,'Sierra','','Nelson'),
 	 (17682,'Sierra','','Roberts'),
 	 (17683,'Sierra','','Wright'),
@@ -19457,7 +19457,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17688,'Sierra','K','Hill'),
 	 (17689,'Sierra','L','Green'),
 	 (17690,'Sierra','L','Turner');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17691,'Sierra','M','Campbell'),
 	 (17692,'Sierra','S','Allen'),
 	 (17693,'Silvia','M','Walker'),
@@ -19468,7 +19468,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17698,'Sophia','','Allen'),
 	 (17699,'Sophia','','Campbell'),
 	 (17700,'Sophia','','Evans');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17701,'Sophia','','Hall'),
 	 (17702,'Sophia','','Hernandez'),
 	 (17703,'Sophia','','King'),
@@ -19479,7 +19479,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17708,'Sophia','','Wright'),
 	 (17709,'Sophia','','Young'),
 	 (17710,'Sophia','C','Hill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17711,'Sophia','C','Lopez'),
 	 (17712,'Sophia','D','Carter'),
 	 (17713,'Sophia','D','Gonzalez'),
@@ -19490,7 +19490,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17718,'Sophia','M','Roberts'),
 	 (17719,'Sophia','M','Scott'),
 	 (17720,'Sophia','R','Edwards');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17721,'Spencer','','Alexander'),
 	 (17722,'Spencer','','Barnes'),
 	 (17723,'Spencer','','Bennett'),
@@ -19501,7 +19501,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17728,'Spencer','','Henderson'),
 	 (17729,'Spencer','','Hughes'),
 	 (17730,'Spencer','','Low');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17731,'Spencer','','Perry'),
 	 (17732,'Spencer','','Powell'),
 	 (17733,'Spencer','','price'),
@@ -19512,7 +19512,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17738,'Spencer','J','Diaz'),
 	 (17739,'Spencer','J','Foster'),
 	 (17740,'Spencer','P','Washington');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17741,'Spencer','R','Ross'),
 	 (17742,'Spencer','R','Wood'),
 	 (17743,'Spencer','S','Jenkins'),
@@ -19523,7 +19523,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17748,'Stacey','','Cai'),
 	 (17749,'Stacey','','Gao'),
 	 (17750,'Stacey','','Guo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17751,'Stacey','','Hu'),
 	 (17752,'Stacey','','Huang'),
 	 (17753,'Stacey','','Li'),
@@ -19534,7 +19534,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17758,'Stacey','','Xu'),
 	 (17759,'Stacey','','Yang'),
 	 (17760,'Stacey','','Ye');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17761,'Stacey','A','Liu'),
 	 (17762,'Stacey','B','Lin'),
 	 (17763,'Stacey','E','Zhu'),
@@ -19545,7 +19545,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17768,'Stacey','M','Cereghino'),
 	 (17769,'Stacey','M','Hee'),
 	 (17770,'Stacey','S','Sun');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17771,'Stacey','W','Lu'),
 	 (17772,'Stacey','W','Wu'),
 	 (17773,'Stacie','K','Mcanich'),
@@ -19556,7 +19556,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17778,'Stacy','','Hernandez'),
 	 (17779,'Stacy','','Moreno'),
 	 (17780,'Stacy','','Munoz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17781,'Stacy','','Ruiz'),
 	 (17782,'Stacy','','Serrano'),
 	 (17783,'Stacy','','Vazquez'),
@@ -19567,7 +19567,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17788,'Stacy','D','Ramos'),
 	 (17789,'Stacy','K','Rizzi'),
 	 (17790,'Stacy','K','Suarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17791,'Stacy','L','Diaz'),
 	 (17792,'Stacy','L','Gutierrez'),
 	 (17793,'Stacy','M','Gomez'),
@@ -19578,7 +19578,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17798,'Stanley','','Madan'),
 	 (17799,'Stanley','','Perez'),
 	 (17800,'Stanley','','Prasad');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17801,'Stanley','','Rodriguez'),
 	 (17802,'Stanley','','Sai'),
 	 (17803,'Stanley','','Sanchez'),
@@ -19589,7 +19589,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17808,'Stanley','C','Schmidt'),
 	 (17809,'Stanley','E','Weber'),
 	 (17810,'Stanley','H','Malhotra');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17811,'Stanley','J','Rana'),
 	 (17812,'Stanley','J','Suri'),
 	 (17813,'Stanley','L','Patel'),
@@ -19600,7 +19600,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17818,'Stanley','R','Garcia'),
 	 (17819,'Stanley','W','Subram'),
 	 (17820,'Stanley','Z','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17821,'Stefan','','Delmarco'),
 	 (17822,'Stefanie','','Fernandez'),
 	 (17823,'Stefanie','','Jordan'),
@@ -19611,7 +19611,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17828,'Stefanie','','Raman'),
 	 (17829,'Stefanie','','Smith'),
 	 (17830,'Stefanie','','Subram');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17831,'Stefanie','','Weber'),
 	 (17832,'Stefanie','E','Garcia'),
 	 (17833,'Stefanie','J','Gonzalez'),
@@ -19622,7 +19622,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17838,'Stefanie','R','Schmidt'),
 	 (17839,'Stefanie','R','Suri'),
 	 (17840,'Stefanie','T','Mehta');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17841,'Stefano','','Stefani'),
 	 (17842,'Stefen','A','Hesse'),
 	 (17843,'Stephanie','','Alexander'),
@@ -19633,7 +19633,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17848,'Stephanie','','Conroy'),
 	 (17849,'Stephanie','','Cook'),
 	 (17850,'Stephanie','','Cooper');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17851,'Stephanie','','Diaz'),
 	 (17852,'Stephanie','','Flores'),
 	 (17853,'Stephanie','','Gonzales'),
@@ -19644,7 +19644,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17858,'Stephanie','','Jenkins'),
 	 (17859,'Stephanie','','Nicholls'),
 	 (17860,'Stephanie','','Perez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17861,'Stephanie','','Perry'),
 	 (17862,'Stephanie','','price'),
 	 (17863,'Stephanie','','Reed'),
@@ -19655,7 +19655,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17868,'Stephanie','','Scott'),
 	 (17869,'Stephanie','','Torres'),
 	 (17870,'Stephanie','','Washington');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17871,'Stephanie','A','Bell'),
 	 (17872,'Stephanie','A','Conroy'),
 	 (17873,'Stephanie','A','Howard'),
@@ -19666,7 +19666,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17878,'Stephanie','A','Wood'),
 	 (17879,'Stephanie','B','Murphy'),
 	 (17880,'Stephanie','C','Evans');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17881,'Stephanie','C','Long'),
 	 (17882,'Stephanie','D','Campbell'),
 	 (17883,'Stephanie','D','Foster'),
@@ -19677,7 +19677,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17888,'Stephanie','J','Barnes'),
 	 (17889,'Stephanie','J','Butler'),
 	 (17890,'Stephanie','J','Parker');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17891,'Stephanie','J','Peterson'),
 	 (17892,'Stephanie','L','Gonzalez'),
 	 (17893,'Stephanie','L','Griffin'),
@@ -19688,7 +19688,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17898,'Stephanie','N','Young'),
 	 (17899,'Stephanie','O','Morgan'),
 	 (17900,'Stephanie','P','Powell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17901,'Stephanie','R','Adams'),
 	 (17902,'Stephanie','R','Cox'),
 	 (17903,'Stephanie','R','Edwards'),
@@ -19699,7 +19699,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17908,'Stephanie','V','Bryant'),
 	 (17909,'Stephanie','V','Hernandez'),
 	 (17910,'Stephanie','V','Wright');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17911,'Stephanie','W','King'),
 	 (17912,'Stephanie','W','Rogers'),
 	 (17913,'Stephen','A','Mew'),
@@ -19710,7 +19710,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17918,'Steve','','Liang'),
 	 (17919,'Steve','','Lu'),
 	 (17920,'Steve','','Ma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17921,'Steve','','Masters'),
 	 (17922,'Steve','','Schmidt'),
 	 (17923,'Steve','','Wu'),
@@ -19721,7 +19721,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17928,'Steve','C','Wagner'),
 	 (17929,'Steve','C','Zhou'),
 	 (17930,'Steve','D','Zheng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17931,'Steve','F','Masters'),
 	 (17932,'Steve','I','Sun'),
 	 (17933,'Steve','J','Carnes'),
@@ -19732,7 +19732,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17938,'Steve','M','Cai'),
 	 (17939,'Steve','R','Chen'),
 	 (17940,'Steve','T','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17941,'Steve','V','Liu'),
 	 (17942,'Steven','','Bailey'),
 	 (17943,'Steven','','Bell'),
@@ -19743,7 +19743,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17948,'Steven','','Morris'),
 	 (17949,'Steven','','Reed'),
 	 (17950,'Steven','','Richardson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17951,'Steven','','Rogers'),
 	 (17952,'Steven','','Selikoff'),
 	 (17953,'Steven','','Watson'),
@@ -19754,7 +19754,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17958,'Steven','E','Cox'),
 	 (17959,'Steven','E','Sanchez'),
 	 (17960,'Steven','G','Thorpe');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17961,'Steven','H','Howard'),
 	 (17962,'Steven','H','Kastner'),
 	 (17963,'Steven','H','Sanders'),
@@ -19765,7 +19765,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17968,'Steven','L','Peterson'),
 	 (17969,'Steven','L','Stewart'),
 	 (17970,'Steven','M','Kelly');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17971,'Steven','M','Wright'),
 	 (17972,'Steven','T','Rivera'),
 	 (17973,'Steven','T','Selikoff'),
@@ -19776,7 +19776,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17978,'Stuart','V','Munson'),
 	 (17979,'Stuart','W','Railson'),
 	 (17980,'Suchitra','','Mohan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17981,'Suchitra','O','Mohan'),
 	 (17982,'Sue','','Brown'),
 	 (17983,'Summer','','Kapoor'),
@@ -19787,7 +19787,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17988,'Summer','C','Raman'),
 	 (17989,'Summer','D','Chandra'),
 	 (17990,'Summer','D','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17991,'Summer','D','Madan'),
 	 (17992,'Summer','E','Mehta'),
 	 (17993,'Summer','E','Sullivan'),
@@ -19798,7 +19798,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (17998,'Summer','L','Sanchez'),
 	 (17999,'Summer','M','Prasad'),
 	 (18000,'Summer','M','Rana');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18001,'Summer','S','Rodriguez'),
 	 (18002,'Summer','S','Sai'),
 	 (18003,'Sunil','','Koduri'),
@@ -19809,7 +19809,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18008,'Susan','','Canuto'),
 	 (18009,'Susan','','Eaton'),
 	 (18010,'Susan','','Gao');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18011,'Susan','','Hu'),
 	 (18012,'Susan','','Li'),
 	 (18013,'Susan','','Liang'),
@@ -19820,7 +19820,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18018,'Susan','','Xu'),
 	 (18019,'Susan','','Zeng'),
 	 (18020,'Susan','','Zhou');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18021,'Susan','A','Guo'),
 	 (18022,'Susan','A','He'),
 	 (18023,'Susan','A','Ma'),
@@ -19831,7 +19831,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18028,'Susan','D','Wang'),
 	 (18029,'Susan','E','French'),
 	 (18030,'Susan','E','Yang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18031,'Susan','J','Ramos'),
 	 (18032,'Susan','K','Zheng'),
 	 (18033,'Susan','L','Huang'),
@@ -19842,7 +19842,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18038,'Susan','S','Zhang'),
 	 (18039,'Susan','W','Eaton'),
 	 (18040,'Suzana De Abreu','A','Canuto');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18041,'Suzann','K','Reams'),
 	 (18042,'Suzanne','','Cai'),
 	 (18043,'Suzanne','','Gao'),
@@ -19853,7 +19853,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18048,'Suzanne','','Lin'),
 	 (18049,'Suzanne','','Liu'),
 	 (18050,'Suzanne','','Nelson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18051,'Suzanne','','She'),
 	 (18052,'Suzanne','','Wu'),
 	 (18053,'Suzanne','','Yang'),
@@ -19864,7 +19864,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18058,'Suzanne','A','Ma'),
 	 (18059,'Suzanne','E','Xu'),
 	 (18060,'Suzanne','E','Zhu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18061,'Suzanne','K','Lu'),
 	 (18062,'Suzanne','M','Liang'),
 	 (18063,'Suzanne','P','Sun'),
@@ -19875,7 +19875,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18068,'Sydney','','Alexander'),
 	 (18069,'Sydney','','Anderson'),
 	 (18070,'Sydney','','Bailey');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18071,'Sydney','','Barnes'),
 	 (18072,'Sydney','','Bell'),
 	 (18073,'Sydney','','Bennett'),
@@ -19886,7 +19886,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18078,'Sydney','','Davis'),
 	 (18079,'Sydney','','Diaz'),
 	 (18080,'Sydney','','Edwards');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18081,'Sydney','','Evans'),
 	 (18082,'Sydney','','Garcia'),
 	 (18083,'Sydney','','Gonzalez'),
@@ -19897,7 +19897,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18088,'Sydney','','Hill'),
 	 (18089,'Sydney','','Howard'),
 	 (18090,'Sydney','','Johnson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18091,'Sydney','','Jones'),
 	 (18092,'Sydney','','Kelly'),
 	 (18093,'Sydney','','Lee'),
@@ -19908,7 +19908,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18098,'Sydney','','Parker'),
 	 (18099,'Sydney','','Peterson'),
 	 (18100,'Sydney','','Phillips');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18101,'Sydney','','Ramirez'),
 	 (18102,'Sydney','','Reed'),
 	 (18103,'Sydney','','Roberts'),
@@ -19919,7 +19919,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18108,'Sydney','','Stewart'),
 	 (18109,'Sydney','','Thomas'),
 	 (18110,'Sydney','','Travers');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18111,'Sydney','','Ward'),
 	 (18112,'Sydney','','Washington'),
 	 (18113,'Sydney','','Watson'),
@@ -19930,7 +19930,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18118,'Sydney','A','Walker'),
 	 (18119,'Sydney','B','Gonzales'),
 	 (18120,'Sydney','C','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18121,'Sydney','C','Perez'),
 	 (18122,'Sydney','C','Perry'),
 	 (18123,'Sydney','C','Rodriguez'),
@@ -19941,7 +19941,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18128,'Sydney','J','Williams'),
 	 (18129,'Sydney','K','Allen'),
 	 (18130,'Sydney','K','Gray');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18131,'Sydney','K','Morgan'),
 	 (18132,'Sydney','K','Young'),
 	 (18133,'Sydney','L','Butler'),
@@ -19952,7 +19952,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18138,'Sydney','L','Robinson'),
 	 (18139,'Sydney','L','Scott'),
 	 (18140,'Sydney','L','Wilson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18141,'Sydney','M','Brooks'),
 	 (18142,'Sydney','M','Coleman'),
 	 (18143,'Sydney','M','James'),
@@ -19963,7 +19963,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18148,'Sydney','M','White'),
 	 (18149,'Sydney','P','Cooper'),
 	 (18150,'Sydney','R','Thompson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18151,'Sydney','S','Bryant'),
 	 (18152,'Sydney','S','Wright'),
 	 (18153,'Sydney','T','Hall'),
@@ -19974,7 +19974,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18158,'Sylvester','','Hance'),
 	 (18159,'Sylvester','A','Valdez'),
 	 (18160,'Sylvia','A','Caldwell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18161,'Sylvia','N','Spencer'),
 	 (18162,'Tabitha','','Alonso'),
 	 (18163,'Tabitha','','Alvarez'),
@@ -19985,7 +19985,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18168,'Tabitha','','Kovar'),
 	 (18169,'Tabitha','','Martin'),
 	 (18170,'Tabitha','','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18171,'Tabitha','','Moreno'),
 	 (18172,'Tabitha','','Navarro'),
 	 (18173,'Tabitha','','Ramos'),
@@ -19996,7 +19996,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18178,'Tabitha','','Suarez'),
 	 (18179,'Tabitha','','Suri'),
 	 (18180,'Tabitha','','Torres');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18181,'Tabitha','A','Fernandez'),
 	 (18182,'Tabitha','A','Gonzalez'),
 	 (18183,'Tabitha','A','Gutierrez'),
@@ -20007,7 +20007,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18188,'Tabitha','E','Arthur'),
 	 (18189,'Tabitha','E','Sanchez'),
 	 (18190,'Tabitha','E','Vazquez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18191,'Tabitha','I','Mehta'),
 	 (18192,'Tabitha','J','Diaz'),
 	 (18193,'Tabitha','L','Gill'),
@@ -20018,7 +20018,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18198,'Tabitha','M','Romero'),
 	 (18199,'Tabitha','M','Ruiz'),
 	 (18200,'Tabitha','R','Patel');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18201,'Tabitha','T','Dominguez'),
 	 (18202,'Tabitha','W','Sara'),
 	 (18203,'Tabitha','Y','Rana'),
@@ -20029,7 +20029,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18208,'Tamara','','Cai'),
 	 (18209,'Tamara','','Chen'),
 	 (18210,'Tamara','','Gao');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18211,'Tamara','','Goldberg'),
 	 (18212,'Tamara','','Guo'),
 	 (18213,'Tamara','','He'),
@@ -20040,7 +20040,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18218,'Tamara','','Ma'),
 	 (18219,'Tamara','','Nath'),
 	 (18220,'Tamara','','Pal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18221,'Tamara','','Sharma'),
 	 (18222,'Tamara','','Tang'),
 	 (18223,'Tamara','','Wu'),
@@ -20051,7 +20051,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18228,'Tamara','A','Ye'),
 	 (18229,'Tamara','A','Zeng'),
 	 (18230,'Tamara','B','Andersen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18231,'Tamara','D','Xu'),
 	 (18232,'Tamara','E','Huang'),
 	 (18233,'Tamara','E','Lu'),
@@ -20062,7 +20062,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18238,'Tamara','L','Black'),
 	 (18239,'Tamara','L','Chande'),
 	 (18240,'Tamara','L','Chander');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18241,'Tamara','L','Liang'),
 	 (18242,'Tamara','L','Sun'),
 	 (18243,'Tamara','L','Wang'),
@@ -20073,7 +20073,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18248,'Tamer','A','Salah'),
 	 (18249,'Tammy','','Chandra'),
 	 (18250,'Tammy','','Mehta');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18251,'Tammy','','Prasad'),
 	 (18252,'Tammy','','Raman'),
 	 (18253,'Tammy','','Rodriguez'),
@@ -20084,7 +20084,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18258,'Tammy','A','Weber'),
 	 (18259,'Tammy','B','Sanchez'),
 	 (18260,'Tammy','B','Sara');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18261,'Tammy','C','Malhotra'),
 	 (18262,'Tammy','C','Randall'),
 	 (18263,'Tammy','J','Gonzalez'),
@@ -20095,7 +20095,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18268,'Tammy','L','Patel'),
 	 (18269,'Tammy','L','Smith'),
 	 (18270,'Tammy','R','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18271,'Tammy','V','Lopez'),
 	 (18272,'Tanya','','Alvarez'),
 	 (18273,'Tanya','','Carlson'),
@@ -20106,7 +20106,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18278,'Tanya','','Vazquez'),
 	 (18279,'Tanya','A','Romero'),
 	 (18280,'Tanya','B','Suarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18281,'Tanya','C','Navarro'),
 	 (18282,'Tanya','D','Jimenez'),
 	 (18283,'Tanya','H','Gill'),
@@ -20117,7 +20117,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18288,'Tanya','N','Dominguez'),
 	 (18289,'Tanya','R','Ramos'),
 	 (18290,'Tanya','W','Blanco');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18291,'Tara','','Black'),
 	 (18292,'Tara','','Deng'),
 	 (18293,'Tara','','Nara'),
@@ -20128,7 +20128,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18298,'Tara','','Sharma'),
 	 (18299,'Tara','','She'),
 	 (18300,'Tara','','Xie');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18301,'Tara','','Xu'),
 	 (18302,'Tara','A','Sutton'),
 	 (18303,'Tara','C','Chander'),
@@ -20139,7 +20139,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18308,'Tara','I','Goel'),
 	 (18309,'Tara','J','Ashe'),
 	 (18310,'Tara','K','Simpson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18311,'Tara','L','Andersen'),
 	 (18312,'Tara','L','Chande'),
 	 (18313,'Tara','S','Lal'),
@@ -20150,7 +20150,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18318,'Tasha','','Nara'),
 	 (18319,'Tasha','','Pal'),
 	 (18320,'Tasha','','Shan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18321,'Tasha','','She'),
 	 (18322,'Tasha','','Yuan'),
 	 (18323,'Tasha','A','Chande'),
@@ -20161,7 +20161,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18328,'Tasha','E','Shen'),
 	 (18329,'Tasha','E','Xu'),
 	 (18330,'Tasha','J','Nath');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18331,'Tasha','L','Rai'),
 	 (18332,'Tasha','M','Kumar'),
 	 (18333,'Tasha','M','Sharma'),
@@ -20172,7 +20172,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18338,'Tawana','G','Nusbaum'),
 	 (18339,'Taylor','','Alexander'),
 	 (18340,'Taylor','','Barnes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18341,'Taylor','','Butler'),
 	 (18342,'Taylor','','Coleman'),
 	 (18343,'Taylor','','Cook'),
@@ -20183,7 +20183,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18348,'Taylor','','Jenkins'),
 	 (18349,'Taylor','','Lee'),
 	 (18350,'Taylor','','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18351,'Taylor','','Patterson'),
 	 (18352,'Taylor','','price'),
 	 (18353,'Taylor','','Reed'),
@@ -20194,7 +20194,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18358,'Taylor','','Smith'),
 	 (18359,'Taylor','','Stewart'),
 	 (18360,'Taylor','','Taylor');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18361,'Taylor','','Thomas'),
 	 (18362,'Taylor','','Torres'),
 	 (18363,'Taylor','','Walker'),
@@ -20205,7 +20205,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18368,'Taylor','','Wilson'),
 	 (18369,'Taylor','','Wood'),
 	 (18370,'Taylor','A','Anderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18371,'Taylor','A','Bailey'),
 	 (18372,'Taylor','A','Jones'),
 	 (18373,'Taylor','A','Moore'),
@@ -20216,7 +20216,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18378,'Taylor','D','Ramirez'),
 	 (18379,'Taylor','D','White'),
 	 (18380,'Taylor','E','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18381,'Taylor','E','Griffin'),
 	 (18382,'Taylor','E','Jackson'),
 	 (18383,'Taylor','E','Martin'),
@@ -20227,7 +20227,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18388,'Taylor','H','Johnson'),
 	 (18389,'Taylor','H','Robinson'),
 	 (18390,'Taylor','J','Hall');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18391,'Taylor','J','Hughes'),
 	 (18392,'Taylor','J','Perry'),
 	 (18393,'Taylor','L','Bennett'),
@@ -20238,7 +20238,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18398,'Taylor','M','Gray'),
 	 (18399,'Taylor','M','Harris'),
 	 (18400,'Taylor','M','Henderson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18401,'Taylor','M','Miller'),
 	 (18402,'Taylor','M','Morgan'),
 	 (18403,'Taylor','N','Garcia'),
@@ -20249,7 +20249,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18408,'Taylor','V','Morris'),
 	 (18409,'Taylor','W','Flores'),
 	 (18410,'Teanna','M','Cobb');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18411,'Ted','','Bremer'),
 	 (18412,'Tengiz','N','Kharatishvili'),
 	 (18413,'Teresa','','Alonso'),
@@ -20260,7 +20260,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18418,'Teresa','','Ramos'),
 	 (18419,'Teresa','','Ruiz'),
 	 (18420,'Teresa','','Serrano');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18421,'Teresa','','Vazquez'),
 	 (18422,'Teresa','A','Gutierrez'),
 	 (18423,'Teresa','A','Romero'),
@@ -20271,7 +20271,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18428,'Teresa','F','Ortega'),
 	 (18429,'Teresa','L','Carlson'),
 	 (18430,'Teresa','L','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18431,'Teresa','L','Jimenez'),
 	 (18432,'Teresa','M','Torres'),
 	 (18433,'Teresa','R','Munoz'),
@@ -20282,7 +20282,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18438,'Terrance','','Perez'),
 	 (18439,'Terrance','','Sai'),
 	 (18440,'Terrance','','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18441,'Terrance','','Sara'),
 	 (18442,'Terrance','B','Gonzalez'),
 	 (18443,'Terrance','B','Jordan'),
@@ -20293,7 +20293,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18448,'Terrance','G','Fernandez'),
 	 (18449,'Terrance','I','Smith'),
 	 (18450,'Terrance','L','Garcia');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18451,'Terrance','M','Rana'),
 	 (18452,'Terrance','M','Subram'),
 	 (18453,'Terrance','T','Lopez'),
@@ -20304,7 +20304,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18458,'Terrence','','Lal'),
 	 (18459,'Terrence','','Luo'),
 	 (18460,'Terrence','','Nath');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18461,'Terrence','','Raje'),
 	 (18462,'Terrence','','Shan'),
 	 (18463,'Terrence','','Xie'),
@@ -20315,7 +20315,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18468,'Terrence','M','Goel'),
 	 (18469,'Terrence','M','Pal'),
 	 (18470,'Terrence','N','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18471,'Terrence','P','Deng'),
 	 (18472,'Terrence','R','Nara'),
 	 (18473,'Terrence','R','Rai'),
@@ -20326,7 +20326,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18478,'Terrence','W','Raji'),
 	 (18479,'Terri','','Duffy'),
 	 (18480,'Terri','L','Duffy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18481,'Terry','','Deng'),
 	 (18482,'Terry','','Eminhizer'),
 	 (18483,'Terry','','Hoganson'),
@@ -20337,7 +20337,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18488,'Terry','','Xie'),
 	 (18489,'Terry','','Xu'),
 	 (18490,'Terry','A','Champion');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18491,'Terry','A','Rai'),
 	 (18492,'Terry','A','Raje'),
 	 (18493,'Terry','D','Black'),
@@ -20348,7 +20348,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18498,'Terry','H','Luo'),
 	 (18499,'Terry','H','Pal'),
 	 (18500,'Terry','H','Tang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18501,'Terry','J','Eminhizer'),
 	 (18502,'Terry','P','Jai'),
 	 (18503,'Terry','R','She'),
@@ -20359,7 +20359,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18508,'Theodore','','Carlson'),
 	 (18509,'Theodore','','Gill'),
 	 (18510,'Theodore','','Gomez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18511,'Theodore','','Romero'),
 	 (18512,'Theodore','','Rowe'),
 	 (18513,'Theodore','','Ruiz'),
@@ -20370,7 +20370,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18518,'Theodore','D','Diaz'),
 	 (18519,'Theodore','D','Gutierrez'),
 	 (18520,'Theodore','F','Dominguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18521,'Theodore','I','Ramos'),
 	 (18522,'Theodore','J','Navarro'),
 	 (18523,'Theodore','L','Browning'),
@@ -20381,7 +20381,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18528,'Theodore','T','Vazquez'),
 	 (18529,'Theodore','W','Martin'),
 	 (18530,'Theresa','','Alonso');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18531,'Theresa','','Blanco'),
 	 (18532,'Theresa','','Hernandez'),
 	 (18533,'Theresa','','Navarro'),
@@ -20392,7 +20392,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18538,'Theresa','','Torres'),
 	 (18539,'Theresa','A','Moreno'),
 	 (18540,'Theresa','E','Suarez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18541,'Theresa','F','Vazquez'),
 	 (18542,'Theresa','G','Ramos'),
 	 (18543,'Theresa','H','Alvarez'),
@@ -20403,7 +20403,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18548,'Thierry','','D''Hers'),
 	 (18549,'Thierry','B','D''Hers'),
 	 (18550,'Thomas','','Adams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18551,'Thomas','','Alexander'),
 	 (18552,'Thomas','','Anderson'),
 	 (18553,'Thomas','','Baker'),
@@ -20414,7 +20414,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18558,'Thomas','','Evans'),
 	 (18559,'Thomas','','Foster'),
 	 (18560,'Thomas','','Gonzales');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18561,'Thomas','','Green'),
 	 (18562,'Thomas','','Hall'),
 	 (18563,'Thomas','','Harris'),
@@ -20425,7 +20425,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18568,'Thomas','','Li'),
 	 (18569,'Thomas','','Martinez'),
 	 (18570,'Thomas','','Moore');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18571,'Thomas','','Parker'),
 	 (18572,'Thomas','','Patterson'),
 	 (18573,'Thomas','','Perez'),
@@ -20436,7 +20436,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18578,'Thomas','','Thomas'),
 	 (18579,'Thomas','','Walker'),
 	 (18580,'Thomas','','Wang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18581,'Thomas','','Williams'),
 	 (18582,'Thomas','A','Lee'),
 	 (18583,'Thomas','A','Lewis'),
@@ -20447,7 +20447,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18588,'Thomas','B','Armstrong'),
 	 (18589,'Thomas','B','Ross'),
 	 (18590,'Thomas','C','Butler');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18591,'Thomas','C','Collins'),
 	 (18592,'Thomas','C','Edwards'),
 	 (18593,'Thomas','C','Johnson'),
@@ -20458,7 +20458,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18598,'Thomas','E','Garcia'),
 	 (18599,'Thomas','E','Lal'),
 	 (18600,'Thomas','E','Long');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18601,'Thomas','E','Wilson'),
 	 (18602,'Thomas','G','Rodriguez'),
 	 (18603,'Thomas','H','Zhang'),
@@ -20469,7 +20469,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18608,'Thomas','J','Miller'),
 	 (18609,'Thomas','J','Mitchell'),
 	 (18610,'Thomas','J','Roberts');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18611,'Thomas','K','Jones'),
 	 (18612,'Thomas','L','Flores'),
 	 (18613,'Thomas','M','Campbell'),
@@ -20480,7 +20480,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18618,'Thomas','M','King'),
 	 (18619,'Thomas','M','Kumar'),
 	 (18620,'Thomas','M','Richards');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18621,'Thomas','M','Turner'),
 	 (18622,'Thomas','M','Wright'),
 	 (18623,'Thomas','M','Young'),
@@ -20491,7 +20491,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18628,'Thomas','R','Michaels'),
 	 (18629,'Thomas','R','Perry'),
 	 (18630,'Thomas','R','Powell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18631,'Thomas','S','White'),
 	 (18632,'Thomas','T','Sanchez'),
 	 (18633,'Thomas','W','Carter'),
@@ -20502,7 +20502,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18638,'Tiffany','','Lu'),
 	 (18639,'Tiffany','','Ma'),
 	 (18640,'Tiffany','','Xu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18641,'Tiffany','','Zhu'),
 	 (18642,'Tiffany','A','Chen'),
 	 (18643,'Tiffany','A','Hu'),
@@ -20513,7 +20513,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18648,'Tiffany','E','Zimmerman'),
 	 (18649,'Tiffany','J','Li'),
 	 (18650,'Tiffany','J','Liu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18651,'Tiffany','K','Yang'),
 	 (18652,'Tiffany','K','Ye'),
 	 (18653,'Tiffany','K','Zhao'),
@@ -20524,7 +20524,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18658,'Tim','','Kim'),
 	 (18659,'Tim','','O''Brien'),
 	 (18660,'Tim','','Sneath');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18661,'Timothy','','Baker'),
 	 (18662,'Timothy','','Brooks'),
 	 (18663,'Timothy','','Campbell'),
@@ -20535,7 +20535,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18668,'Timothy','','Howard'),
 	 (18669,'Timothy','','James'),
 	 (18670,'Timothy','','Kelly');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18671,'Timothy','','Morgan'),
 	 (18672,'Timothy','','Murphy'),
 	 (18673,'Timothy','','Reed'),
@@ -20546,7 +20546,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18678,'Timothy','','Young'),
 	 (18679,'Timothy','A','King'),
 	 (18680,'Timothy','A','Nelson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18681,'Timothy','A','Rivera'),
 	 (18682,'Timothy','B','Burnett'),
 	 (18683,'Timothy','C','Gonzalez'),
@@ -20557,7 +20557,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18688,'Timothy','E','Peterson'),
 	 (18689,'Timothy','E','Ward'),
 	 (18690,'Timothy','E','Wright');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18691,'Timothy','F','Stewart'),
 	 (18692,'Timothy','H','Cook'),
 	 (18693,'Timothy','J','Bell'),
@@ -20568,7 +20568,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18698,'Timothy','L','Green'),
 	 (18699,'Timothy','L','Perez'),
 	 (18700,'Timothy','L','Sanders');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18701,'Timothy','M','Hall'),
 	 (18702,'Timothy','M','Morris'),
 	 (18703,'Timothy','O','Lopez'),
@@ -20579,7 +20579,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18708,'Tina','','Fernandez'),
 	 (18709,'Tina','','Garcia'),
 	 (18710,'Tina','','Gonzalez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18711,'Tina','','Kapoor'),
 	 (18712,'Tina','','Rodriguez'),
 	 (18713,'Tina','','Sanchez'),
@@ -20590,7 +20590,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18718,'Tina','A','Prasad'),
 	 (18719,'Tina','B','Suri'),
 	 (18720,'Tina','C','Malhotra');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18721,'Tina','C','Mehta'),
 	 (18722,'Tina','F','Rana'),
 	 (18723,'Tina','J','Lopez'),
@@ -20601,7 +20601,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18728,'Tina','L','Sai'),
 	 (18729,'Tina','M','Madan'),
 	 (18730,'Tina','S','Chandra');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18731,'Tina','S','O''Dell'),
 	 (18732,'Tish','R','Duff'),
 	 (18733,'Toby','','Nixon'),
@@ -20612,7 +20612,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18738,'Todd','','Rowe'),
 	 (18739,'Todd','','She'),
 	 (18740,'Todd','','Sun');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18741,'Todd','','Wang'),
 	 (18742,'Todd','','Xu'),
 	 (18743,'Todd','','Zhang'),
@@ -20623,7 +20623,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18748,'Todd','G','Zhu'),
 	 (18749,'Todd','J','Yang'),
 	 (18750,'Todd','J','Zheng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18751,'Todd','K','Guo'),
 	 (18752,'Todd','K','Whitney'),
 	 (18753,'Todd','L','Liang'),
@@ -20634,7 +20634,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18758,'Tom','','Youtsey'),
 	 (18759,'Tom','H','Johnston'),
 	 (18760,'Tom','M','Vande Velde');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18761,'Tomas','M','Manzanares'),
 	 (18762,'Tommy','','Anand'),
 	 (18763,'Tommy','','Black'),
@@ -20645,7 +20645,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18768,'Tommy','','Nara'),
 	 (18769,'Tommy','','Pal'),
 	 (18770,'Tommy','','Raji');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18771,'Tommy','','Sharma'),
 	 (18772,'Tommy','A','Raheem'),
 	 (18773,'Tommy','B','Nath'),
@@ -20656,7 +20656,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18778,'Tommy','J','Champion'),
 	 (18779,'Tommy','J','Xie'),
 	 (18780,'Tommy','L','Tang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18781,'Tommy','L','Yuan'),
 	 (18782,'Toni','','Arun'),
 	 (18783,'Toni','','Garcia'),
@@ -20667,7 +20667,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18788,'Toni','','Perez'),
 	 (18789,'Toni','','Prasad'),
 	 (18790,'Toni','','Raman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18791,'Toni','','Randall'),
 	 (18792,'Toni','','Sai'),
 	 (18793,'Toni','','Srini'),
@@ -20678,7 +20678,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18798,'Toni','E','Sara'),
 	 (18799,'Toni','H','Sanchez'),
 	 (18800,'Toni','J','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18801,'Toni','K','Kapoor'),
 	 (18802,'Toni','K','Lopez'),
 	 (18803,'Toni','L','Vance'),
@@ -20689,7 +20689,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18808,'Tony','','Natsuhara'),
 	 (18809,'Tony','','Raje'),
 	 (18810,'Tony','','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18811,'Tony','','Shen'),
 	 (18812,'Tony','','Ting'),
 	 (18813,'Tony','','Wang'),
@@ -20700,7 +20700,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18818,'Tony','K','Raji'),
 	 (18819,'Tony','L','Anand'),
 	 (18820,'Tony','L','Nara');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18821,'Tony','L','Xu'),
 	 (18822,'Tony','M','Shan'),
 	 (18823,'Tony','M','She'),
@@ -20711,7 +20711,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18828,'Tony','W','Luo'),
 	 (18829,'Tonya','','Chande'),
 	 (18830,'Tonya','','Chander');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18831,'Tonya','','Goel'),
 	 (18832,'Tonya','','Nath'),
 	 (18833,'Tonya','','Rai'),
@@ -20722,7 +20722,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18838,'Tonya','','Xu'),
 	 (18839,'Tonya','A','Anand'),
 	 (18840,'Tonya','A','Kumar');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18841,'Tonya','A','Luo'),
 	 (18842,'Tonya','B','Lal'),
 	 (18843,'Tonya','C','Nara'),
@@ -20733,7 +20733,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18848,'Tonya','N','Andersen'),
 	 (18849,'Tonya','O','Deng'),
 	 (18850,'Tonya','P','Pal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18851,'Tonya','S','Xie'),
 	 (18852,'Tosh','','Meston'),
 	 (18853,'Tracy','','Andersen'),
@@ -20744,7 +20744,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18858,'Tracy','','She'),
 	 (18859,'Tracy','','Simpson'),
 	 (18860,'Tracy','','Tallman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18861,'Tracy','A','Pal'),
 	 (18862,'Tracy','B','Black'),
 	 (18863,'Tracy','B','Nath'),
@@ -20755,7 +20755,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18868,'Tracy','K','Rai'),
 	 (18869,'Tracy','L','Xu'),
 	 (18870,'Tracy','L','Yuan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18871,'Tracy','R','Jai'),
 	 (18872,'Tracy','W','Lal'),
 	 (18873,'Trevor','','Bryant'),
@@ -20766,7 +20766,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18878,'Trevor','','Russell'),
 	 (18879,'Trevor','','Simmons'),
 	 (18880,'Trevor','','Washington');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18881,'Trevor','','Wood'),
 	 (18882,'Trevor','A','Harrison'),
 	 (18883,'Trevor','A','Henderson'),
@@ -20777,7 +20777,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18888,'Trevor','G','Alexander'),
 	 (18889,'Trevor','J','Barnes'),
 	 (18890,'Trevor','J','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18891,'Trevor','J','Patterson'),
 	 (18892,'Trevor','K','Gonzales'),
 	 (18893,'Trevor','L','Hughes'),
@@ -20788,7 +20788,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18898,'Trinity','','Cook'),
 	 (18899,'Trinity','','Cooper'),
 	 (18900,'Trinity','','Cox');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18901,'Trinity','','Kelly'),
 	 (18902,'Trinity','','Morgan'),
 	 (18903,'Trinity','','Ramirez'),
@@ -20799,7 +20799,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18908,'Trinity','A','James'),
 	 (18909,'Trinity','B','Sanders'),
 	 (18910,'Trinity','H','Watson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18911,'Trinity','J','Sanchez'),
 	 (18912,'Trinity','L','Townsend'),
 	 (18913,'Trinity','M','Brooks'),
@@ -20810,7 +20810,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18918,'Trisha','','Cai'),
 	 (18919,'Trisha','','Guo'),
 	 (18920,'Trisha','','Huang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18921,'Trisha','','Lin'),
 	 (18922,'Trisha','','Lu'),
 	 (18923,'Trisha','','Sun'),
@@ -20821,7 +20821,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18928,'Trisha','A','Gao'),
 	 (18929,'Trisha','A','Li'),
 	 (18930,'Trisha','A','She');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18931,'Trisha','A','Zhao'),
 	 (18932,'Trisha','B','Zhou'),
 	 (18933,'Trisha','C','He'),
@@ -20832,7 +20832,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18938,'Trisha','V','Liu'),
 	 (18939,'Trisha','V','Wang'),
 	 (18940,'Trisha','W','Chen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18941,'Tristan','','Butler'),
 	 (18942,'Tristan','','Coleman'),
 	 (18943,'Tristan','','Diaz'),
@@ -20843,7 +20843,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18948,'Tristan','','Patterson'),
 	 (18949,'Tristan','','Ross'),
 	 (18950,'Tristan','','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18951,'Tristan','A','Washington'),
 	 (18952,'Tristan','E','Hayes'),
 	 (18953,'Tristan','G','Perry'),
@@ -20854,7 +20854,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18958,'Tristan','L','Flores'),
 	 (18959,'Tristan','L','price'),
 	 (18960,'Tristan','M','Wood');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18961,'Tristan','P','Alexander'),
 	 (18962,'Tristan','R','Jenkins'),
 	 (18963,'Tristan','T','Barnes'),
@@ -20865,7 +20865,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18968,'Troy','','Patel'),
 	 (18969,'Troy','','Raman'),
 	 (18970,'Troy','','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18971,'Troy','','Sai'),
 	 (18972,'Troy','','Srini'),
 	 (18973,'Troy','A','Gonzalez'),
@@ -20876,7 +20876,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18978,'Troy','H','Sanchez'),
 	 (18979,'Troy','J','Kovar'),
 	 (18980,'Troy','L','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18981,'Troy','L','Rana'),
 	 (18982,'Troy','M','Garcia'),
 	 (18983,'Troy','M','Lopez'),
@@ -20887,7 +20887,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18988,'Tsvi','M','Reiter'),
 	 (18989,'Twanna','R','Evans'),
 	 (18990,'Ty Loren','','Carlson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18991,'Tyler','','Brown'),
 	 (18992,'Tyler','','Garcia'),
 	 (18993,'Tyler','','Johnson'),
@@ -20898,7 +20898,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (18998,'Tyler','','White'),
 	 (18999,'Tyler','','Williams'),
 	 (19000,'Tyler','A','Clark');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19001,'Tyler','A','Davis'),
 	 (19002,'Tyler','A','Lee'),
 	 (19003,'Tyler','A','Robinson'),
@@ -20909,7 +20909,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19008,'Tyler','J','Smith'),
 	 (19009,'Tyler','J','Walker'),
 	 (19010,'Tyler','L','Harris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19011,'Tyler','L','Jackson'),
 	 (19012,'Tyler','L','Martin'),
 	 (19013,'Tyler','L','Wilson'),
@@ -20920,7 +20920,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19018,'Tyrone','','Gutierrez'),
 	 (19019,'Tyrone','','Jimenez'),
 	 (19020,'Tyrone','','Ramos');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19021,'Tyrone','','Rubio'),
 	 (19022,'Tyrone','','Sanz'),
 	 (19023,'Tyrone','','Serrano'),
@@ -20931,7 +20931,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19028,'Tyrone','F','Blanco'),
 	 (19029,'Tyrone','G','Munoz'),
 	 (19030,'Tyrone','G','Vazquez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19031,'Tyrone','H','Ortega'),
 	 (19032,'Tyrone','K','Alvarez'),
 	 (19033,'Tyrone','K','Navarro'),
@@ -20942,7 +20942,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19038,'Valerie','','Chen'),
 	 (19039,'Valerie','','Liang'),
 	 (19040,'Valerie','','Lin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19041,'Valerie','','Lu'),
 	 (19042,'Valerie','','Wang'),
 	 (19043,'Valerie','','Wu'),
@@ -20953,7 +20953,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19048,'Valerie','C','Gao'),
 	 (19049,'Valerie','C','She'),
 	 (19050,'Valerie','C','Ye');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19051,'Valerie','H','Harrison'),
 	 (19052,'Valerie','J','Cai'),
 	 (19053,'Valerie','J','Huang'),
@@ -20964,7 +20964,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19058,'Valerie','M','Zhu'),
 	 (19059,'Valerie','R','Li'),
 	 (19060,'Valerie','R','Liu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19061,'Valerie','R','Sun'),
 	 (19062,'Valerie','R','Zhao'),
 	 (19063,'Valerie','R','Zheng'),
@@ -20975,7 +20975,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19068,'Vanessa','','Bryant'),
 	 (19069,'Vanessa','','Butler'),
 	 (19070,'Vanessa','','Coleman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19071,'Vanessa','','Flores'),
 	 (19072,'Vanessa','','Foster'),
 	 (19073,'Vanessa','','Gonzales'),
@@ -20986,7 +20986,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19078,'Vanessa','','Perry'),
 	 (19079,'Vanessa','','Powell'),
 	 (19080,'Vanessa','','Ross');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19081,'Vanessa','','Washington'),
 	 (19082,'Vanessa','A','price'),
 	 (19083,'Vanessa','B','Patterson'),
@@ -20997,7 +20997,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19088,'Vanessa','R','Long'),
 	 (19089,'Vanessa','S','Hughes'),
 	 (19090,'Vanessa','V','Wood');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19091,'Vassar','J','Stern'),
 	 (19092,'Veronica','','Chandra'),
 	 (19093,'Veronica','','Fernandez'),
@@ -21008,7 +21008,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19098,'Veronica','','Sai'),
 	 (19099,'Veronica','','Sara'),
 	 (19100,'Veronica','','Srini');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19101,'Veronica','A','Lopez'),
 	 (19102,'Veronica','A','Sanchez'),
 	 (19103,'Veronica','C','Gonzalez'),
@@ -21019,7 +21019,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19108,'Veronica','J','Arun'),
 	 (19109,'Veronica','J','Malhotra'),
 	 (19110,'Veronica','J','Prasad');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19111,'Veronica','J','Subram'),
 	 (19112,'Veronica','R','Garcia'),
 	 (19113,'Veronica','R','Raman'),
@@ -21030,7 +21030,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19118,'Victor','','Carlson'),
 	 (19119,'Victor','','Gill'),
 	 (19120,'Victor','','Jimenez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19121,'Victor','','Ruiz'),
 	 (19122,'Victor','','Sanz'),
 	 (19123,'Victor','','Torres'),
@@ -21041,7 +21041,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19128,'Victor','J','Gutierrez'),
 	 (19129,'Victor','K','Dominguez'),
 	 (19130,'Victor','L','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19131,'Victor','L','Martin'),
 	 (19132,'Victor','L','Moreno'),
 	 (19133,'Victor','L','Ortega'),
@@ -21052,7 +21052,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19138,'Victor','T','Hernandez'),
 	 (19139,'Victoria','','Anderson'),
 	 (19140,'Victoria','','Barnes');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19141,'Victoria','','Bradley'),
 	 (19142,'Victoria','','Bryant'),
 	 (19143,'Victoria','','Butler'),
@@ -21063,7 +21063,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19148,'Victoria','','Jackson'),
 	 (19149,'Victoria','','James'),
 	 (19150,'Victoria','','Jenkins');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19151,'Victoria','','Lee'),
 	 (19152,'Victoria','','Lewis'),
 	 (19153,'Victoria','','Long'),
@@ -21074,7 +21074,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19158,'Victoria','','Powell'),
 	 (19159,'Victoria','','Ramirez'),
 	 (19160,'Victoria','','Rogers');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19161,'Victoria','','Sanchez'),
 	 (19162,'Victoria','','Sanders'),
 	 (19163,'Victoria','','Simmons'),
@@ -21085,7 +21085,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19168,'Victoria','','Washington'),
 	 (19169,'Victoria','','Watson'),
 	 (19170,'Victoria','','Williams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19171,'Victoria','A','Griffin'),
 	 (19172,'Victoria','A','Morris'),
 	 (19173,'Victoria','A','price'),
@@ -21096,7 +21096,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19178,'Victoria','C','Bailey'),
 	 (19179,'Victoria','C','Cox'),
 	 (19180,'Victoria','C','Diaz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19181,'Victoria','C','Morgan'),
 	 (19182,'Victoria','C','Richardson'),
 	 (19183,'Victoria','C','Rivera'),
@@ -21107,7 +21107,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19188,'Victoria','E','Walker'),
 	 (19189,'Victoria','H','Brooks'),
 	 (19190,'Victoria','J','Cook');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19191,'Victoria','J','Davis'),
 	 (19192,'Victoria','J','Murphy'),
 	 (19193,'Victoria','J','Reed'),
@@ -21118,7 +21118,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19198,'Victoria','M','Henderson'),
 	 (19199,'Victoria','M','Perry'),
 	 (19200,'Victoria','M','Rodriguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19201,'Victoria','N','Hall'),
 	 (19202,'Victoria','O','Coleman'),
 	 (19203,'Victoria','R','Wilson'),
@@ -21129,7 +21129,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19208,'Vidur','','Luthra'),
 	 (19209,'Vidur','X','Luthra'),
 	 (19210,'Vincent','','Liang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19211,'Vincent','','Liu'),
 	 (19212,'Vincent','','Lu'),
 	 (19213,'Vincent','','Ye'),
@@ -21140,7 +21140,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19218,'Vincent','A','Zhou'),
 	 (19219,'Vincent','D','Li'),
 	 (19220,'Vincent','E','Zhu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19221,'Vincent','F','Guo'),
 	 (19222,'Vincent','F','Hu'),
 	 (19223,'Vincent','F','Sun'),
@@ -21151,7 +21151,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19228,'Vincent','M','Zhao'),
 	 (19229,'Vincent','R','Yang'),
 	 (19230,'Vincent','T','White');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19231,'Vincent','W','Ma'),
 	 (19232,'Virginia','','Arun'),
 	 (19233,'Virginia','','Fernandez'),
@@ -21162,7 +21162,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19238,'Virginia','','Mehta'),
 	 (19239,'Virginia','','Prasad'),
 	 (19240,'Virginia','','Raman');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19241,'Virginia','','Rodriguez'),
 	 (19242,'Virginia','','Sai'),
 	 (19243,'Virginia','','Srini'),
@@ -21173,7 +21173,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19248,'Virginia','E','Vance'),
 	 (19249,'Virginia','J','Lopez'),
 	 (19250,'Virginia','J','Rana');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19251,'Virginia','J','Suri'),
 	 (19252,'Virginia','L','Miller'),
 	 (19253,'Virginia','M','Chandra'),
@@ -21184,7 +21184,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19258,'Walter','','Carlson'),
 	 (19259,'Walter','','Cavestany'),
 	 (19260,'Walter','','Dominguez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19261,'Walter','','Gill'),
 	 (19262,'Walter','','Gutierrez'),
 	 (19263,'Walter','','Hernandez'),
@@ -21195,7 +21195,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19268,'Walter','A','Romero'),
 	 (19269,'Walter','C','Alonso'),
 	 (19270,'Walter','D','Vazquez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19271,'Walter','E','Ramos'),
 	 (19272,'Walter','E','Suarez'),
 	 (19273,'Walter','G','Serrano'),
@@ -21206,7 +21206,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19278,'Walter','N','Alvarez'),
 	 (19279,'Walter','R','Rubio'),
 	 (19280,'Walter','S','Navarro');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19281,'Wanda','F','Vernon'),
 	 (19282,'Wanida','M','Benshoof'),
 	 (19283,'Warren','','Andersen'),
@@ -21217,7 +21217,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19288,'Warren','','Liu'),
 	 (19289,'Warren','','Luo'),
 	 (19290,'Warren','','Nath');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19291,'Warren','','Shan'),
 	 (19292,'Warren','','She'),
 	 (19293,'Warren','','Xu'),
@@ -21228,7 +21228,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19298,'Warren','A','Gao'),
 	 (19299,'Warren','A','Goel'),
 	 (19300,'Warren','A','Kumar');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19301,'Warren','A','Ma'),
 	 (19302,'Warren','A','Tang'),
 	 (19303,'Warren','A','Wang'),
@@ -21239,7 +21239,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19308,'Warren','F','Rai'),
 	 (19309,'Warren','F','Yang'),
 	 (19310,'Warren','F','Zheng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19311,'Warren','H','Lu'),
 	 (19312,'Warren','J','Raji'),
 	 (19313,'Warren','L','Chow'),
@@ -21250,7 +21250,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19318,'Warren','M','Wu'),
 	 (19319,'Warren','N','Raje'),
 	 (19320,'Warren','N','Sharma');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19321,'Warren','P','Yuan'),
 	 (19322,'Warren','R','Li'),
 	 (19323,'Warren','R','Zeng'),
@@ -21261,7 +21261,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19328,'Wayne','','Kumar'),
 	 (19329,'Wayne','','Nath'),
 	 (19330,'Wayne','','Pal');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19331,'Wayne','','Shan'),
 	 (19332,'Wayne','','She'),
 	 (19333,'Wayne','A','Raje'),
@@ -21272,7 +21272,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19338,'Wayne','E','Sharma'),
 	 (19339,'Wayne','G','Chande'),
 	 (19340,'Wayne','H','Anand');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19341,'Wayne','L','Jai'),
 	 (19342,'Wayne','L','Luo'),
 	 (19343,'Wayne','M','Xu'),
@@ -21283,7 +21283,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19348,'Wayne','S','Xie'),
 	 (19349,'Wayne','T','Rai'),
 	 (19350,'Wayne','V','Yuan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19351,'Wayne','W','Andersen'),
 	 (19352,'Wei','','Yu'),
 	 (19353,'Wendy','','Carlson'),
@@ -21294,7 +21294,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19358,'Wendy','','Moreno'),
 	 (19359,'Wendy','','Ramos'),
 	 (19360,'Wendy','','Sanz');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19361,'Wendy','','Suarez'),
 	 (19362,'Wendy','','Wheeler'),
 	 (19363,'Wendy','A','Hernandez'),
@@ -21305,7 +21305,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19368,'Wendy','D','Serrano'),
 	 (19369,'Wendy','H','Romero'),
 	 (19370,'Wendy','J','Blanco');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19371,'Wendy','R','Munoz'),
 	 (19372,'Wendy','V','Alvarez'),
 	 (19373,'Wesley','','Gao'),
@@ -21316,7 +21316,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19378,'Wesley','','Liu'),
 	 (19379,'Wesley','','Sun'),
 	 (19380,'Wesley','','Zeng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19381,'Wesley','','Zheng'),
 	 (19382,'Wesley','','Zhou'),
 	 (19383,'Wesley','A','Liang'),
@@ -21327,7 +21327,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19388,'Wesley','K','Xu'),
 	 (19389,'Wesley','K','Yang'),
 	 (19390,'Wesley','L','Hu');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19391,'Wesley','L','Zhu'),
 	 (19392,'Wesley','M','Zhao'),
 	 (19393,'Wesley','P','Lu'),
@@ -21338,7 +21338,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19398,'Whitney','','Kovár'),
 	 (19399,'Whitney','','Lopez'),
 	 (19400,'Whitney','','Madan');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19401,'Whitney','','Perez'),
 	 (19402,'Whitney','','Raman'),
 	 (19403,'Whitney','','Sara'),
@@ -21349,7 +21349,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19408,'Whitney','C','Prasad'),
 	 (19409,'Whitney','C','Rodriguez'),
 	 (19410,'Whitney','C','Sanchez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19411,'Whitney','D','Malhotra'),
 	 (19412,'Whitney','F','Patel'),
 	 (19413,'Whitney','H','Garcia'),
@@ -21360,7 +21360,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19418,'William','','Harris'),
 	 (19419,'William','','Jones'),
 	 (19420,'William','','Lee');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19421,'William','','Miller'),
 	 (19422,'William','','Moore'),
 	 (19423,'William','','Ngoh'),
@@ -21371,7 +21371,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19428,'William','','White'),
 	 (19429,'William','','Williams'),
 	 (19430,'William','A','Martinez');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19431,'William','A','Smith'),
 	 (19432,'William','A','Taylor'),
 	 (19433,'William','A','Thomas'),
@@ -21382,7 +21382,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19438,'William','J','Monroe'),
 	 (19439,'William','J','Richter'),
 	 (19440,'William','K','Sotelo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19441,'William','L','Anderson'),
 	 (19442,'William','M','Brown'),
 	 (19443,'William','N','Lewis'),
@@ -21393,7 +21393,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19448,'Willie','','Black'),
 	 (19449,'Willie','','Guo'),
 	 (19450,'Willie','','Johnsen');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19451,'Willie','','Kumar'),
 	 (19452,'Willie','','Liu'),
 	 (19453,'Willie','','Lu'),
@@ -21404,7 +21404,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19458,'Willie','','She'),
 	 (19459,'Willie','','Sun'),
 	 (19460,'Willie','','Wang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19461,'Willie','','Ye'),
 	 (19462,'Willie','','Yuan'),
 	 (19463,'Willie','','Zhao'),
@@ -21415,7 +21415,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19468,'Willie','B','Lin'),
 	 (19469,'Willie','C','Chen'),
 	 (19470,'Willie','C','Huang');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19471,'Willie','C','Luo'),
 	 (19472,'Willie','C','Raje'),
 	 (19473,'Willie','C','Xu'),
@@ -21426,7 +21426,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19478,'Willie','M','Andersen'),
 	 (19479,'Willie','M','Liang'),
 	 (19480,'Willie','M','Zheng');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19481,'Willie','P','Brooks'),
 	 (19482,'Willie','R','Gao'),
 	 (19483,'Willie','S','Cai'),
@@ -21437,7 +21437,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19488,'Willie','W','Sharma'),
 	 (19489,'Willis','','Johnson'),
 	 (19490,'Willis','T','Johnson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19491,'Wilson','C','Pais'),
 	 (19492,'Wyatt','','Adams'),
 	 (19493,'Wyatt','','Brown'),
@@ -21448,7 +21448,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19498,'Wyatt','','Edwards'),
 	 (19499,'Wyatt','','Flores'),
 	 (19500,'Wyatt','','Goldstein');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19501,'Wyatt','','Hall'),
 	 (19502,'Wyatt','','Harris'),
 	 (19503,'Wyatt','','Henderson'),
@@ -21459,7 +21459,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19508,'Wyatt','','Lewis'),
 	 (19509,'Wyatt','','Lopez'),
 	 (19510,'Wyatt','','Martin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19511,'Wyatt','','Parker'),
 	 (19512,'Wyatt','','Perez'),
 	 (19513,'Wyatt','','Perry'),
@@ -21470,7 +21470,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19518,'Wyatt','','Scott'),
 	 (19519,'Wyatt','','Taylor'),
 	 (19520,'Wyatt','','Thompson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19521,'Wyatt','','Turner'),
 	 (19522,'Wyatt','','Washington'),
 	 (19523,'Wyatt','','White'),
@@ -21481,7 +21481,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19528,'Wyatt','A','Russell'),
 	 (19529,'Wyatt','C','Allen'),
 	 (19530,'Wyatt','C','Campbell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19531,'Wyatt','C','Foster'),
 	 (19532,'Wyatt','C','Griffin'),
 	 (19533,'Wyatt','D','Rodriguez'),
@@ -21492,7 +21492,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19538,'Wyatt','J','Collins'),
 	 (19539,'Wyatt','J','Green'),
 	 (19540,'Wyatt','J','Nelson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19541,'Wyatt','L','Davis'),
 	 (19542,'Wyatt','L','Hill'),
 	 (19543,'Wyatt','L','Powell'),
@@ -21503,7 +21503,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19548,'Wyatt','M','Evans'),
 	 (19549,'Wyatt','M','Hayes'),
 	 (19550,'Wyatt','M','Jones');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19551,'Wyatt','M','Lee'),
 	 (19552,'Wyatt','M','Miller'),
 	 (19553,'Wyatt','P','Smith'),
@@ -21514,7 +21514,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19558,'Wyatt','S','Hernandez'),
 	 (19559,'Wyatt','T','Garcia'),
 	 (19560,'Wyatt','V','Simmons');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19561,'Wyatt','V','Walker'),
 	 (19562,'Xavier','','Alan'),
 	 (19563,'Xavier','','Anderson'),
@@ -21525,7 +21525,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19568,'Xavier','','Cooper'),
 	 (19569,'Xavier','','Davis'),
 	 (19570,'Xavier','','Edwards');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19571,'Xavier','','Evans'),
 	 (19572,'Xavier','','Flores'),
 	 (19573,'Xavier','','Gonzales'),
@@ -21536,7 +21536,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19578,'Xavier','','Hayes'),
 	 (19579,'Xavier','','Hernandez'),
 	 (19580,'Xavier','','Hill');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19581,'Xavier','','Jones'),
 	 (19582,'Xavier','','Long'),
 	 (19583,'Xavier','','Martin'),
@@ -21547,7 +21547,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19588,'Xavier','','Powell'),
 	 (19589,'Xavier','','Richardson'),
 	 (19590,'Xavier','','Robinson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19591,'Xavier','','Rodriguez'),
 	 (19592,'Xavier','','Russell'),
 	 (19593,'Xavier','','Sanders'),
@@ -21558,7 +21558,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19598,'Xavier','','Turner'),
 	 (19599,'Xavier','','Walker'),
 	 (19600,'Xavier','','White');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19601,'Xavier','','Wood'),
 	 (19602,'Xavier','A','Alexander'),
 	 (19603,'Xavier','A','Coleman'),
@@ -21569,7 +21569,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19608,'Xavier','C','Butler'),
 	 (19609,'Xavier','C','Collins'),
 	 (19610,'Xavier','C','James');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19611,'Xavier','C','Roberts'),
 	 (19612,'Xavier','D','Howard'),
 	 (19613,'Xavier','D','Mohamed'),
@@ -21580,7 +21580,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19618,'Xavier','F','Campbell'),
 	 (19619,'Xavier','F','Young'),
 	 (19620,'Xavier','G','Foster');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19621,'Xavier','G','Ramirez'),
 	 (19622,'Xavier','G','Rogers'),
 	 (19623,'Xavier','H','Brooks'),
@@ -21591,7 +21591,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19628,'Xavier','L','Clark'),
 	 (19629,'Xavier','L','Gonzalez'),
 	 (19630,'Xavier','L','Harris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19631,'Xavier','L','Jenkins'),
 	 (19632,'Xavier','L','Mitchell'),
 	 (19633,'Xavier','L','Moore'),
@@ -21602,7 +21602,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19638,'Xavier','M','Kelly'),
 	 (19639,'Xavier','M','Parker'),
 	 (19640,'Xavier','M','Smith');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19641,'Xavier','R','Bell'),
 	 (19642,'Xavier','R','Bryant'),
 	 (19643,'Xavier','R','Cox'),
@@ -21613,7 +21613,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19648,'Xavier','T','Washington'),
 	 (19649,'Xavier','W','Bennett'),
 	 (19650,'Yale','','Li');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19651,'Yan','','Li'),
 	 (19652,'Yao-Qiang','','Cheng'),
 	 (19653,'Yiroyuki','','Sato'),
@@ -21624,7 +21624,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19658,'Yolanda','','Chander'),
 	 (19659,'Yolanda','','Deng'),
 	 (19660,'Yolanda','','Luo');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19661,'Yolanda','','Nara'),
 	 (19662,'Yolanda','','Pal'),
 	 (19663,'Yolanda','','Rai'),
@@ -21635,7 +21635,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19668,'Yolanda','A','Nath'),
 	 (19669,'Yolanda','C','Yuan'),
 	 (19670,'Yolanda','E','Jai');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19671,'Yolanda','E','Xu'),
 	 (19672,'Yolanda','J','Kumar'),
 	 (19673,'Yolanda','K','Sharma'),
@@ -21646,7 +21646,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19678,'Yuhong','L','Li'),
 	 (19679,'Yuping','','Tian'),
 	 (19680,'Yvonne','','McKay');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19681,'Yvonne','','Schleger'),
 	 (19682,'Yvonne','S','McKay'),
 	 (19683,'Zachary','','Anderson'),
@@ -21657,7 +21657,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19688,'Zachary','','Diaz'),
 	 (19689,'Zachary','','Foster'),
 	 (19690,'Zachary','','Griffin');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19691,'Zachary','','Hayes'),
 	 (19692,'Zachary','','Henderson'),
 	 (19693,'Zachary','','Hughes'),
@@ -21668,7 +21668,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19698,'Zachary','','Powell'),
 	 (19699,'Zachary','','Ross'),
 	 (19700,'Zachary','','Russell');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19701,'Zachary','','Shan'),
 	 (19702,'Zachary','','Wang'),
 	 (19703,'Zachary','','Washington'),
@@ -21679,7 +21679,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19708,'Zachary','A','Long'),
 	 (19709,'Zachary','A','Walker'),
 	 (19710,'Zachary','B','Williams');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19711,'Zachary','C','Lee'),
 	 (19712,'Zachary','C','Sharma'),
 	 (19713,'Zachary','D','Thomas'),
@@ -21690,7 +21690,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19718,'Zachary','H','Flores'),
 	 (19719,'Zachary','J','Clark'),
 	 (19720,'Zachary','J','Jones');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19721,'Zachary','K','Garcia'),
 	 (19722,'Zachary','L','Davis'),
 	 (19723,'Zachary','L','Lewis'),
@@ -21701,7 +21701,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19728,'Zachary','M','Miller'),
 	 (19729,'Zachary','M','Taylor'),
 	 (19730,'Zachary','R','Patterson');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19731,'Zachary','R','Thompson'),
 	 (19732,'Zachary','S','Moore'),
 	 (19733,'Zachary','W','Smith'),
@@ -21712,7 +21712,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19738,'Zoe','','Howard'),
 	 (19739,'Zoe','','Kelly'),
 	 (19740,'Zoe','','Murphy');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19741,'Zoe','','Peterson'),
 	 (19742,'Zoe','','Reed'),
 	 (19743,'Zoe','','Richardson'),
@@ -21723,7 +21723,7 @@ INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19748,'Zoe','E','Torres'),
 	 (19749,'Zoe','F','Gray'),
 	 (19750,'Zoe','J','Morris');
-INSERT INTO Customers (customer_id,first_name,middle_initial,last_name) VALUES
+INSERT INTO customers (customer_id,first_name,middle_initial,last_name) VALUES
 	 (19751,'Zoe','L','Bailey'),
 	 (19752,'Zoe','L','Bell'),
 	 (19753,'Zoe','L','Brooks'),
