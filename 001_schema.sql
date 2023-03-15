@@ -28,5 +28,5 @@ CREATE TABLE sales (
 	customer_id BIGINT REFERENCES customers(customer_id) NOT NULL,
 	product_id BIGINT REFERENCES products(product_id) NOT NULL,
 	quantity int NOT NULL,
-	sale_date DATE,
+	sale_date DATE
 );
