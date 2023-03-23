@@ -3,7 +3,8 @@ CREATE TABLE customers (
 	customer_id BIGINT PRIMARY KEY,
 	first_name VARCHAR NOT NULL,
 	middle_initial VARCHAR,
-	last_name VARCHAR NOT NULL
+	last_name VARCHAR NOT NULL,
+	age INT NOT NULL
 );
 
 DROP TABLE IF EXISTS employees;
