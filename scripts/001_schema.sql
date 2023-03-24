@@ -1,3 +1,6 @@
+CREATE ROLE student WITH LOGIN PASSWORD 'student'
+NOSUPERUSER INHERIT NOCREATEDB NOCREATEROLE NOREPLICATION VALID UNTIL 'infinity';
+
 DROP TABLE IF EXISTS customers;
 CREATE TABLE customers (
 	customer_id BIGINT PRIMARY KEY,
@@ -31,3 +34,9 @@ CREATE TABLE sales (
 	quantity int NOT NULL,
 	sale_date DATE
 );
+
+-- GRANT SELECT ON ALL TABLES IN SCHEMA public TO student;
+GRANT SELECT ON TABLE public.customers TO student;
+GRANT SELECT ON TABLE public.employees TO student;
+GRANT SELECT ON TABLE public.products TO student;
+GRANT SELECT ON TABLE public.sales TO student;

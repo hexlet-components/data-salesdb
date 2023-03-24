@@ -1,4 +1,5 @@
 start:
+	make stop rm
 	docker run -it \
 		-p 5432:5432 \
 		-v $(CURDIR)/scripts:/docker-entrypoint-initdb.d \
@@ -11,3 +12,6 @@ test-build:
 
 stop:
 	docker stop data-salesdb
+
+rm:
+	docker rm data-salesdb
