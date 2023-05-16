@@ -6,7 +6,7 @@ start:
 		--name data-salesdb \
 		data-salesdb
 
-test-build:
+build:
 	docker build . -t data-salesdb
 
 stop:

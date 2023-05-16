@@ -2,6 +2,10 @@ FROM postgres:12-alpine
 
 WORKDIR /scripts
 
+COPY scripts/setup_user.sql /scripts
+
+RUN ls /scripts
+
 COPY scripts/salesdb /scripts/salesdb
 RUN cat /scripts/salesdb/*.sql > /tmp/sales.sql
 
