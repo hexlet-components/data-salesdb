@@ -14,3 +14,6 @@ stop:
 
 rm:
 	docker rm data-salesdb
+
+bash:
+	docker run --rm -it data-salesdb bash
