@@ -1,8 +1,6 @@
 CREATE DATABASE salesdb;
 \c salesdb
 
-ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT SELECT ON TABLES TO student;
-
 DROP TABLE IF EXISTS customers;
 CREATE TABLE customers (
 	customer_id BIGINT PRIMARY KEY,
