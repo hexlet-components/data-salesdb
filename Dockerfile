@@ -15,3 +15,9 @@ ADD scripts/flightsdb/flightsdb.tar.xz /tmp/
 RUN echo "createdb flightsdb" >> /docker-entrypoint-initdb.d/salesdb.sh
 RUN echo "psql -d flightsdb -U postgres -f /tmp/flightsdb.sql" >> /docker-entrypoint-initdb.d/salesdb.sh
 RUN echo "psql -d flightsdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/salesdb.sh
+
+ADD scripts/webinars /tmp/
+
+RUN echo "createdb webinarsdb" >> /docker-entrypoint-initdb.d/salesdb.sh
+RUN echo "psql -d webinarsdb -U postgres -f /tmp/webinarsdb.sql" >> /docker-entrypoint-initdb.d/salesdb.sh
+RUN echo "psql -d webinarsdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/salesdb.sh
