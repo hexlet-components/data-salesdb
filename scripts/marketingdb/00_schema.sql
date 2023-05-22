@@ -39,15 +39,14 @@ CREATE TABLE marketing_qualified_leads (
 
 DROP TABLE order_items;
 CREATE TABLE order_items (
-	id int8 NOT NULL GENERATED ALWAYS AS IDENTITY,
+	id int8 NOT NULL PRIMARY KEY,
 	order_item_id int4 NOT NULL,
 	order_id varchar(32) NOT NULL,
 	product_id varchar(32) NOT NULL,
 	seller_id varchar(32) NOT NULL,
 	shipping_limit_date timestamp NOT NULL,
 	price numeric(6, 2) NOT NULL,
-	freight_value numeric(5, 2) NOT NULL,
-	CONSTRAINT order_items_pkey PRIMARY KEY (id)
+	freight_value numeric(5, 2) NOT NULL
 );
 
 DROP TABLE orders;
