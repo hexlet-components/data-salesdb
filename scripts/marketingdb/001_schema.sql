@@ -23,12 +23,12 @@ CREATE TABLE sessions(
 
 DROP TABLE IF EXISTS vk_ads;
 CREATE TABLE vk_ads(
-   id            VARCHAR(255)
+   ad_id         VARCHAR(255)
   ,ad_name       VARCHAR(255)
   ,campaign_id   VARCHAR(255)
   ,campaign_name VARCHAR(255)
   ,date          TIMESTAMP
-  ,spent         INTEGER
+  ,daily_spent   INTEGER
   ,utm_source    VARCHAR(255)
   ,utm_medium    VARCHAR(255)
   ,utm_campaign  VARCHAR(255)
@@ -38,7 +38,7 @@ CREATE TABLE vk_ads(
 
 DROP TABLE IF EXISTS ya_ads;
 CREATE TABLE ya_ads(
-   id            VARCHAR(255)
+   ad_id         VARCHAR(255)
   ,campaign_id   VARCHAR(255)
   ,campaign_name VARCHAR(255)
   ,utm_source    VARCHAR(255)
@@ -46,5 +46,5 @@ CREATE TABLE ya_ads(
   ,utm_campaign  VARCHAR(255)
   ,utm_content   VARCHAR(255)
   ,date          TIMESTAMP
-  ,cost          INTEGER
+  ,daily_spent   INTEGER
 );

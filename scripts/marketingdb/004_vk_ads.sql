@@ -1,4 +1,4 @@
-INSERT INTO vk_ads(id,ad_name,campaign_id,campaign_name,date,spent,utm_source,utm_medium,utm_campaign,utm_content) VALUES
+INSERT INTO vk_ads(ad_id,ad_name,campaign_id,campaign_name,date,daily_spent,utm_source,utm_medium,utm_campaign,utm_content) VALUES
  ('40066cae1fb77ea907928f938dc6a85a232bd305','segm-2.5 | cpc auto | img1 universal+snip1','c51b2d5038aa064bd4f43813d1a46d82b857da19','Freemium_Python','2023-06-26',449,'vk','cpc','freemium-python','traffic_ru.segment_segment-25')
 ,('40066cae1fb77ea907928f938dc6a85a232bd305','segm-2.5 | cpc auto | img1 universal+snip1','c51b2d5038aa064bd4f43813d1a46d82b857da19','Freemium_Python','2023-06-19',579,'vk','cpc','freemium-python','traffic_ru.segment_segment-25')
 ,('40066cae1fb77ea907928f938dc6a85a232bd305','segm-2.5 | cpc auto | img1 universal+snip1','c51b2d5038aa064bd4f43813d1a46d82b857da19','Freemium_Python','2023-06-03',596,'vk','cpc','freemium-python','traffic_ru.segment_segment-25')

@@ -1,4 +1,4 @@
-INSERT INTO ya_ads(id,campaign_id,campaign_name,utm_source,utm_medium,utm_campaign,utm_content,date,cost) VALUES
+INSERT INTO ya_ads(ad_id,campaign_id,campaign_name,utm_source,utm_medium,utm_campaign,utm_content,date,daily_spent) VALUES
  ('8155246d768e0f6592d3f03b69f277c69be54842','b47a3f1436ece217553332a7ca2aeb8c23a2ff16','Professions / Retarget (smartbanner)','yandex','cpc','prof-professions-retarget','rsy_ru.segment_smartbanner','2023-06-20',4373)
 ,('8155246d768e0f6592d3f03b69f277c69be54842','b47a3f1436ece217553332a7ca2aeb8c23a2ff16','Professions / Retarget (smartbanner)','yandex','cpc','prof-professions-retarget','rsy_ru.segment_smartbanner','2023-06-29',6222)
 ,('8155246d768e0f6592d3f03b69f277c69be54842','b47a3f1436ece217553332a7ca2aeb8c23a2ff16','Professions / Retarget (smartbanner)','yandex','cpc','prof-professions-retarget','rsy_ru.segment_smartbanner','2023-06-19',8516)
