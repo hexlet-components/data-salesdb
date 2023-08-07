@@ -1,5 +1,6 @@
 import argparse
 import csv
+from random import randint
 from urllib.parse import urlparse, urlunparse
 
 from pathlib import Path
@@ -96,7 +97,7 @@ def obfuscate_url(url):
 
 
 def randomize(value):
-    return int(float(value) * 2.54)
+    return int(randint(100, 1000))
 
 
 def main():
