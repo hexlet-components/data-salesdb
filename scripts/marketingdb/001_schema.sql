@@ -21,6 +21,18 @@ CREATE TABLE sessions(
 );
 
 
+DROP TABLE IF EXISTS new_sessions;
+CREATE TABLE new_sessions(
+   visitor_id   VARCHAR(255)
+  ,datetime     TIMESTAMP
+  ,landing_page VARCHAR(255)
+  ,source       VARCHAR(255)
+  ,medium       VARCHAR(255)
+  ,campaign     VARCHAR(255)
+  ,content      VARCHAR(255)
+);
+
+
 DROP TABLE IF EXISTS vk_ads;
 CREATE TABLE vk_ads(
    ad_id         VARCHAR(255)
