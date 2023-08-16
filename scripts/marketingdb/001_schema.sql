@@ -9,22 +9,10 @@ CREATE TABLE leads(
 );
 
 
-DROP TABLE IF EXISTS sessions;
+DROP TABLE IF EXISTS new_sessions;
 CREATE TABLE sessions(
    visitor_id   VARCHAR(255)
-  ,datetime     TIMESTAMP
-  ,landing_page VARCHAR(255)
-  ,source       VARCHAR(255)
-  ,medium       VARCHAR(255)
-  ,campaign     VARCHAR(255)
-  ,content      VARCHAR(255)
-);
-
-
-DROP TABLE IF EXISTS new_sessions;
-CREATE TABLE new_sessions(
-   visitor_id   VARCHAR(255)
-  ,datetime     TIMESTAMP
+  ,visit_date   TIMESTAMP
   ,landing_page VARCHAR(255)
   ,source       VARCHAR(255)
   ,medium       VARCHAR(255)
@@ -39,7 +27,7 @@ CREATE TABLE vk_ads(
   ,ad_name       VARCHAR(255)
   ,campaign_id   VARCHAR(255)
   ,campaign_name VARCHAR(255)
-  ,date          TIMESTAMP
+  ,campaign_date TIMESTAMP
   ,daily_spent   INTEGER
   ,utm_source    VARCHAR(255)
   ,utm_medium    VARCHAR(255)
@@ -57,6 +45,6 @@ CREATE TABLE ya_ads(
   ,utm_medium    VARCHAR(255)
   ,utm_campaign  VARCHAR(255)
   ,utm_content   VARCHAR(255)
-  ,date          TIMESTAMP
+  ,campaign_date TIMESTAMP
   ,daily_spent   INTEGER
 );
