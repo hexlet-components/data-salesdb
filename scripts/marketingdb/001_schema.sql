@@ -1,6 +1,7 @@
 DROP TABLE IF EXISTS leads;
 CREATE TABLE leads(
    visitor_id      VARCHAR(255)
+  ,lead_id         VARCHAR(255)
   ,amount          INTEGER
   ,created_at      TIMESTAMP
   ,closing_reason  VARCHAR(255)
