@@ -28,3 +28,10 @@ ADD scripts/flightsdb/flightsdb.tar.xz /tmp/
 RUN echo "createdb flightsdb" >> /docker-entrypoint-initdb.d/run.sh
 RUN echo "psql -d flightsdb -U postgres -f /tmp/flightsdb.sql" >> /docker-entrypoint-initdb.d/run.sh
 RUN echo "psql -d flightsdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+
+COPY scripts/setoperationsdb /scripts/setoperationsdb
+RUN cat /scripts/setoperationsdb/*.sql > /tmp/setoperationsdb.sql
+
+RUN echo "createdb setoperationsdb" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -d setoperationsdb -U postgres -f /tmp/setoperationsdb.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -d setoperationsdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
