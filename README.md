@@ -1,2 +1,8 @@
-# data-salesdb
-salesDB for Data Analytics project
+# DBs for Data Analytics course
+
+credentials:
+
+```text
+user: student
+password: student
+```
