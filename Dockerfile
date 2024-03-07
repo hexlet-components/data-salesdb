@@ -42,3 +42,13 @@ ADD scripts/flightsdb/flightsdb.tar.xz /tmp/
 RUN echo "createdb flightsdb" >> /docker-entrypoint-initdb.d/run.sh
 RUN echo "psql -d flightsdb -U postgres -f /tmp/flightsdb.sql" >> /docker-entrypoint-initdb.d/run.sh
 RUN echo "psql -d flightsdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+
+COPY scripts/coursesdb /scripts/coursesdb
+RUN echo "createdb coursesdb" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/schema.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/users.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/topics.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/courses.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/course_members.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/course_reviews.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -d coursesdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh

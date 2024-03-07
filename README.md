@@ -1,4 +1,4 @@
-# DBs for Data Analytics course
+# DBs for SQL courses from Hexlet
 
 credentials:
 
