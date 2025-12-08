@@ -2,6 +2,7 @@ services:
   postgres:
     build:
       context: .
+    image: ghcr.io/hexlet-components/data-salesdb:latest
     environment:
       POSTGRES_PASSWORD: secret
     ports:
