@@ -1,6 +1,12 @@
-FROM postgres:12-alpine
+FROM postgres:17-alpine
 
 WORKDIR /scripts
+
+COPY config/ /etc/postgresql/
+COPY scripts/configure_postgres.sh /docker-entrypoint-initdb.d/00_configure_postgres.sh
+RUN chown postgres:postgres /etc/postgresql/*.conf \
+    && chmod 600 /etc/postgresql/*.conf \
+    && chmod +x /docker-entrypoint-initdb.d/00_configure_postgres.sh
 
 COPY scripts/setup_user.sql /scripts
 
