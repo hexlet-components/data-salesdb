@@ -20,3 +20,7 @@ CREATE TABLE IF NOT EXISTS ads(
         utm_medium VARCHAR(255),
         cost NUMERIC
 );
+
+CREATE INDEX IF NOT EXISTS visits_datetime_idx ON visits (datetime);
+CREATE INDEX IF NOT EXISTS registrations_datetime_idx ON registrations (datetime);
+CREATE INDEX IF NOT EXISTS ads_datetime_idx ON ads (datetime);
