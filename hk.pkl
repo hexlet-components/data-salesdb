@@ -16,6 +16,7 @@ local fast = new Mapping<String, Step> {
   }
   ["sqruff"] {
     glob = List("**/*.sql")
+    exclude = List("scripts/**")
     check = "sqruff lint {{files}}"
     fix = "sqruff fix {{files}}"
   }
