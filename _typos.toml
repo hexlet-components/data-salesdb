@@ -1,0 +1,3 @@
+[files]
+# Сидовые данные курсов (lorem ipsum) и дампы.
+extend-exclude = ["scripts/**"]
