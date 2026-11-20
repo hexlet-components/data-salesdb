@@ -44,6 +44,12 @@ RUN echo "createdb -T marketingdb marketingdb_v2" >> /docker-entrypoint-initdb.d
 RUN echo "psql -d marketingdb_v2 -U postgres --single-transaction -f /scripts/marketingdb_v2/001_slugs.sql" >> /docker-entrypoint-initdb.d/run.sh
 RUN echo "psql -d marketingdb_v2 -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
 
+# База испаноязычной версии проекта: marketingdb_v2 без российского контекста, суммы в долларах.
+COPY scripts/marketingdb_codicala /scripts/marketingdb_codicala
+RUN echo "createdb -T marketingdb_v2 marketingdb_codicala" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -d marketingdb_codicala -U postgres --single-transaction -f /scripts/marketingdb_codicala/001_localize.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -d marketingdb_codicala -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+
 COPY scripts/setoperationsdb /scripts/setoperationsdb
 RUN cat /scripts/setoperationsdb/*.sql > /tmp/setoperationsdb.sql
 
