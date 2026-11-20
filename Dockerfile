@@ -5,6 +5,7 @@ WORKDIR /scripts
 COPY config/ /etc/postgresql/
 COPY scripts/configure_postgres.sh /docker-entrypoint-initdb.d/00_configure_postgres.sh
 COPY scripts/reset_entrypoint.sh /usr/local/bin/reset-entrypoint.sh
+COPY scripts/student_tmp.sql /docker-entrypoint-initdb.d/01_student_tmp.sql
 RUN chown postgres:postgres /etc/postgresql/*.conf \
     && chmod 600 /etc/postgresql/*.conf \
     && chmod +x /docker-entrypoint-initdb.d/00_configure_postgres.sh
