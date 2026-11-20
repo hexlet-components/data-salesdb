@@ -37,6 +37,13 @@ RUN echo "createdb marketingdb" >> /docker-entrypoint-initdb.d/run.sh
 RUN echo "psql -d marketingdb -U postgres -f /tmp/marketingdb.sql" >> /docker-entrypoint-initdb.d/run.sh
 RUN echo "psql -d marketingdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
 
+# Копия marketingdb без русских значений: слаги вместо подписей, см. scripts/marketingdb_v2.
+# Патч идёт одной транзакцией: при ошибке база остаётся копией, остальные базы поднимаются.
+COPY scripts/marketingdb_v2 /scripts/marketingdb_v2
+RUN echo "createdb -T marketingdb marketingdb_v2" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -d marketingdb_v2 -U postgres --single-transaction -f /scripts/marketingdb_v2/001_slugs.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -d marketingdb_v2 -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+
 COPY scripts/setoperationsdb /scripts/setoperationsdb
 RUN cat /scripts/setoperationsdb/*.sql > /tmp/setoperationsdb.sql
 
