@@ -4,6 +4,7 @@ WORKDIR /scripts
 
 COPY config/ /etc/postgresql/
 COPY scripts/configure_postgres.sh /docker-entrypoint-initdb.d/00_configure_postgres.sh
+COPY scripts/reset_entrypoint.sh /usr/local/bin/reset-entrypoint.sh
 RUN chown postgres:postgres /etc/postgresql/*.conf \
     && chmod 600 /etc/postgresql/*.conf \
     && chmod +x /docker-entrypoint-initdb.d/00_configure_postgres.sh
@@ -71,3 +72,8 @@ RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/courses.sql" >> /d
 RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/course_members.sql" >> /docker-entrypoint-initdb.d/run.sh
 RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/course_reviews.sql" >> /docker-entrypoint-initdb.d/run.sh
 RUN echo "psql -d coursesdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+
+# Wipe PGDATA on every start, see scripts/reset_entrypoint.sh.
+# Setting ENTRYPOINT drops the CMD of the base image, so it is repeated here.
+ENTRYPOINT ["reset-entrypoint.sh"]
+CMD ["postgres"]
