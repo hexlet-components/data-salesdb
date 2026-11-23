@@ -26,7 +26,7 @@
 | `marketingdb` | проект аналитики данных уровня 2 |
 | `marketingdb_v2` | копия `marketingdb` со слагами вместо русских значений |
 | `marketingdb_codicala` | копия `marketingdb_v2` для испаноязычной версии проекта, суммы в долларах |
-| `setoperationsdb` | в материалах Хекслета не найдена, таблицы `course_members_2022` и `course_members_2023` |
+| `setoperationsdb` | пример базы к курсу по операциям над множествами в SQL |
 | `flightsdb` | курс по Superset |
 | `coursesdb` | урок про psql курса основ SQL |
 
