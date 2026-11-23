@@ -36,7 +36,20 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build and push
+      # The image is tested before the push: production pulls :latest on the
+      # next deploy, so a broken init must not reach the registry.
+      - name: Build
+        uses: docker/build-push-action@c3c9e263c25d99ce0380d002d59b67737d91b0dc # v7.4.0
+        with:
+          context: .
+          load: true
+          cache-from: ghcr.io/${{ github.repository }}:latest
+          tags: data-salesdb:test
+
+      - name: Smoke test
+        run: test/smoke.sh data-salesdb:test
+
+      - name: Push
         uses: docker/build-push-action@c3c9e263c25d99ce0380d002d59b67737d91b0dc # v7.4.0
         with:
           context: .
