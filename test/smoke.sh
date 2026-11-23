@@ -9,10 +9,11 @@ set -eu
 image=${1:?usage: test/smoke.sh IMAGE}
 expected="$(dirname "$0")/expected_counts.tsv"
 name="data-salesdb-smoke-$$"
-timeout=${SMOKE_TIMEOUT:-600}
+init_timeout=${SMOKE_TIMEOUT:-600}
 tab=$(printf '\t')
 
 trap 'docker rm -f "$name" > /dev/null 2>&1 || true' EXIT
+trap 'exit 130' INT TERM
 
 # The tmpfs and shm match production, see ansible/release.yml in own-heroku.
 docker run -d --name "$name" \
@@ -21,13 +22,14 @@ docker run -d --name "$name" \
     --tmpfs /var/lib/postgresql/tmp:size=512m \
     "$image" > /dev/null
 
+# -X skips psqlrc, -A -t -q print bare values for comparison.
 student_psql() {
     docker exec -e PGPASSWORD=student "$name" \
         psql -h 127.0.0.1 -U student -XAtq "$@"
 }
 
 # During init the server listens on the socket only, TCP answers after it.
-deadline=$(($(date +%s) + timeout))
+deadline=$(($(date +%s) + init_timeout))
 until student_psql -d salesdb -c 'select 1' > /dev/null 2>&1; do
     if [ "$(docker inspect -f '{{.State.Running}}' "$name")" != true ]; then
         docker logs "$name" 2>&1 | tail -n 40
@@ -35,7 +37,7 @@ until student_psql -d salesdb -c 'select 1' > /dev/null 2>&1; do
         exit 1
     fi
     if [ "$(date +%s)" -ge "$deadline" ]; then
-        echo "FAIL: init did not finish in ${timeout}s" >&2
+        echo "FAIL: init did not finish in ${init_timeout}s" >&2
         exit 1
     fi
     sleep 2
