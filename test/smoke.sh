@@ -15,9 +15,12 @@ tab=$(printf '\t')
 trap 'docker rm -f "$name" > /dev/null 2>&1 || true' EXIT
 trap 'exit 130' INT TERM
 
-# The tmpfs and shm match production, see ansible/release.yml in own-heroku.
+# Memory, tmpfs and shm match production, see ansible/release.yml in
+# own-heroku. Init that outgrows the limit gets OOM-killed and fails the test.
 docker run -d --name "$name" \
     -e POSTGRES_PASSWORD=smoke \
+    --memory 1536m \
+    --memory-swap 1536m \
     --shm-size 256m \
     --tmpfs /var/lib/postgresql/tmp:size=512m \
     "$image" > /dev/null

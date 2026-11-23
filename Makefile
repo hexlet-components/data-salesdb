@@ -7,6 +7,8 @@ start:
 	docker run -it \
 		-p 5432:5432 \
 		-e POSTGRES_PASSWORD=password \
+		--memory 1536m --memory-swap 1536m --shm-size 256m \
+		--tmpfs /var/lib/postgresql/tmp:size=512m \
 		--name data-salesdb \
 		data-salesdb
 
