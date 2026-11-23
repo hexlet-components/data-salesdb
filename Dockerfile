@@ -1,4 +1,4 @@
-FROM postgres:17-alpine
+FROM postgres:18-alpine
 
 WORKDIR /scripts
 
@@ -12,67 +12,70 @@ RUN chown postgres:postgres /etc/postgresql/*.conf \
 
 COPY scripts/setup_user.sql /scripts
 
+# The stock entrypoint sources run.sh under set -e. ON_ERROR_STOP makes psql
+# exit non-zero on the first failed statement, so a broken script stops the
+# container instead of serving half-loaded databases.
+
 COPY scripts/salesdb /scripts/salesdb
 RUN cat /scripts/salesdb/*.sql > /tmp/sales.sql
 
-RUN echo "psql -U postgres -f /tmp/sales.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d salesdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -U postgres -f /tmp/sales.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d salesdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
 
 COPY scripts/chartsdb /scripts/chartsdb
 COPY scripts/chartsdb/data /scripts/chartsdb/data
 RUN cat /scripts/chartsdb/*.sql > /tmp/chartsdb.sql
 
 RUN echo "createdb chartsdb" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d chartsdb -U postgres -f /tmp/chartsdb.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d chartsdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d chartsdb -U postgres -f /tmp/chartsdb.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d chartsdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
 
 COPY scripts/webinars /tmp/
 
 RUN echo "createdb webinarsdb" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d webinarsdb -U postgres -f /tmp/webinarsdb.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d webinarsdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d webinarsdb -U postgres -f /tmp/webinarsdb.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d webinarsdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
 
 COPY scripts/marketingdb /scripts/marketingdb
 RUN cat /scripts/marketingdb/*.sql > /tmp/marketingdb.sql
 
 RUN echo "createdb marketingdb" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d marketingdb -U postgres -f /tmp/marketingdb.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d marketingdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d marketingdb -U postgres -f /tmp/marketingdb.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d marketingdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
 
 # Копия marketingdb без русских значений: слаги вместо подписей, см. scripts/marketingdb_v2.
-# Патч идёт одной транзакцией: при ошибке база остаётся копией, остальные базы поднимаются.
 COPY scripts/marketingdb_v2 /scripts/marketingdb_v2
 RUN echo "createdb -T marketingdb marketingdb_v2" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d marketingdb_v2 -U postgres --single-transaction -f /scripts/marketingdb_v2/001_slugs.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d marketingdb_v2 -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d marketingdb_v2 -U postgres --single-transaction -f /scripts/marketingdb_v2/001_slugs.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d marketingdb_v2 -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
 
 # База испаноязычной версии проекта: marketingdb_v2 без российского контекста, суммы в долларах.
 COPY scripts/marketingdb_codicala /scripts/marketingdb_codicala
 RUN echo "createdb -T marketingdb_v2 marketingdb_codicala" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d marketingdb_codicala -U postgres --single-transaction -f /scripts/marketingdb_codicala/001_localize.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d marketingdb_codicala -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d marketingdb_codicala -U postgres --single-transaction -f /scripts/marketingdb_codicala/001_localize.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d marketingdb_codicala -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
 
 COPY scripts/setoperationsdb /scripts/setoperationsdb
 RUN cat /scripts/setoperationsdb/*.sql > /tmp/setoperationsdb.sql
 
 RUN echo "createdb setoperationsdb" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d setoperationsdb -U postgres -f /tmp/setoperationsdb.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d setoperationsdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d setoperationsdb -U postgres -f /tmp/setoperationsdb.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d setoperationsdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
 
 ADD scripts/flightsdb/flightsdb.tar.xz /tmp/
 RUN echo "createdb flightsdb" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d flightsdb -U postgres -f /tmp/flightsdb.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d flightsdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d flightsdb -U postgres -f /tmp/flightsdb.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d flightsdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
 
 COPY scripts/coursesdb /scripts/coursesdb
 RUN echo "createdb coursesdb" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/schema.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/users.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/topics.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/courses.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/course_members.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d coursesdb -U postgres -f /scripts/coursesdb/course_reviews.sql" >> /docker-entrypoint-initdb.d/run.sh
-RUN echo "psql -d coursesdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d coursesdb -U postgres -f /scripts/coursesdb/schema.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d coursesdb -U postgres -f /scripts/coursesdb/users.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d coursesdb -U postgres -f /scripts/coursesdb/topics.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d coursesdb -U postgres -f /scripts/coursesdb/courses.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d coursesdb -U postgres -f /scripts/coursesdb/course_members.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d coursesdb -U postgres -f /scripts/coursesdb/course_reviews.sql" >> /docker-entrypoint-initdb.d/run.sh
+RUN echo "psql -v ON_ERROR_STOP=1 -d coursesdb -U postgres -f /scripts/setup_user.sql" >> /docker-entrypoint-initdb.d/run.sh
 
 # Wipe PGDATA on every start, see scripts/reset_entrypoint.sh.
 # Setting ENTRYPOINT drops the CMD of the base image, so it is repeated here.
