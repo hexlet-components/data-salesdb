@@ -9,7 +9,11 @@ services:
       - "5432:5432"
     volumes:
       - pgdata:/var/lib/postgresql
-    # Same limit as in production: temporary tables of students live here.
+    # Same limits as in production: temporary tables of students live in the
+    # tmpfs, and the memory limit covers it together with /dev/shm.
+    mem_limit: 1536m
+    memswap_limit: 1536m
+    shm_size: 256m
     tmpfs:
       - /var/lib/postgresql/tmp:size=512m
     healthcheck:
